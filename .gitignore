@@ -15,4 +15,9 @@ venv/
 # IDE
 .vscode/
 .idea/
-*.swp
+*.swp# cache / data blobs
+static/f1_cache/
+*.sqlite
+*.pkl
+*.ff1pkl
+__pycache__/
