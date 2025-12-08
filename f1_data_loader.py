@@ -159,8 +159,6 @@ def load_2025_dropdown():
     drivers = set()
 
     for race in all_races:
-        if race == 'Qatar Grand Prix':
-            break
         df = load_race_data(year, race)
         if df is None:
             print(f"Skipping race (failed): {race}")
