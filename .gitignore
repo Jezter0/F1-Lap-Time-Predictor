@@ -1,8 +1,10 @@
-# Cache files
+# Cache / data blobs
 static/f1_cache/
+static/model/
 *.sqlite
 *.pkl
 *.ff1pkl
+*.ff1pkl  # keep specific extension pattern
 
 # Python
 __pycache__/
@@ -12,12 +14,17 @@ venv/
 *.egg-info/
 .env
 
-# IDE
+# Build / artifacts
+dist/
+build/
+.eggs/
+
+# IDE / editor
 .vscode/
 .idea/
-*.swp# cache / data blobs
-static/f1_cache/
-*.sqlite
-*.pkl
-*.ff1pkl
-__pycache__/
+*.swp
+*~      # editor backup files
+
+# OS
+.DS_Store
+Thumbs.db
