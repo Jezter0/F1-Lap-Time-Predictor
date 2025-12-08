@@ -1,0 +1,18 @@
+# Cache files
+static/f1_cache/
+*.sqlite
+*.pkl
+*.ff1pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
