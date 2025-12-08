@@ -1,0 +1,996 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Australian Grand Prix,VER,Red Bull Racing,1.0,87.458,33.477999999999994,18.462,35.518,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,1.0,88.375,34.269,18.533,35.573,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,1.0,89.784,35.253000000000014,18.49,36.041,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,1.0,90.52,35.73199999999999,18.405,36.383,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,1.0,91.036,36.04,18.346,36.65,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,1.0,91.91,36.62899999999999,18.46,36.821,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,1.0,92.428,36.905,18.273,37.25,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,1.0,92.835,37.166999999999994,18.589,37.079,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,1.0,93.305,37.666,18.561,37.078,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,1.0,93.688,38.03100000000001,18.674,36.983,SOFT,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,1.0,94.503,38.516999999999996,18.774,37.212,HARD,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,1.0,94.763,38.24000000000001,18.782,37.741,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,1.0,95.467,38.928,18.72,37.819,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,1.0,95.752,38.75399999999999,18.858,38.14,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,1.0,96.283,39.254999999999995,18.861,38.167,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,1.0,96.92,39.688,18.759,38.473,HARD,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,1.0,97.304,39.886,18.854,38.564,MEDIUM,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,1.0,97.645,40.198,18.66,38.787,SOFT,1.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,1.0,98.691,43.362,18.721,36.608,SOFT,1.0,1.0,1,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,2.0,82.6,29.006,18.026,35.568,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,VER,Red Bull Racing,2.0,84.099,29.623,18.375,36.101,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,2.0,83.183,28.814,18.319,36.05,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,2.0,83.014,28.731,17.982,36.301,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,2.0,83.232,29.201,18.266,35.765,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,2.0,83.347,29.07,18.099,36.178,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,2.0,83.381,29.37,17.903,36.108,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,2.0,83.551,29.507,18.117,35.927,MEDIUM,3.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,2.0,83.807,29.709,18.016,36.082,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,2.0,84.055,29.971,18.028,36.056,SOFT,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,2.0,84.284,29.59,18.419,36.275,HARD,3.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,2.0,84.344,29.948,18.32,36.076,MEDIUM,3.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,2.0,84.248,29.856,18.052,36.34,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,2.0,84.536,30.021,18.135,36.38,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,2.0,84.68,30.049,18.139,36.492,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,2.0,84.707,29.987,17.967,36.753,HARD,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,2.0,84.649,29.905,18.241,36.503,MEDIUM,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,2.0,84.826,29.987,18.107,36.732,SOFT,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,2.0,84.379,29.555,18.148,36.676,SOFT,2.0,1.0,0,20.5,39.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,3.0,83.006,29.002,18.548000000000002,35.456,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,VER,Red Bull Racing,3.0,83.115,28.793,18.573,35.749,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,3.0,82.656,28.75,18.204,35.702,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,3.0,82.776,28.753,17.912,36.111,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,3.0,82.669,28.862,18.065,35.742,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,3.0,83.037,28.745,18.137,36.155,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,3.0,83.165,29.005,17.939,36.221,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,3.0,83.196,29.015,18.169,36.012,MEDIUM,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,TSU,RB,3.0,83.203,29.009,18.089,36.105,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,3.0,83.07,29.083,18.05,35.937,SOFT,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,3.0,82.978,28.865,18.223,35.89,HARD,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,3.0,83.272,29.099,18.153,36.02,MEDIUM,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,3.0,83.565,29.255,18.095,36.215,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,3.0,83.606,29.307,18.047,36.252,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,3.0,83.577,29.145,18.189,36.243,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,3.0,83.576,29.211,17.961,36.404,HARD,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,3.0,83.851,29.379,18.148,36.324,MEDIUM,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,RIC,RB,3.0,83.84,29.486,18.113,36.241,SOFT,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,3.0,83.912,29.466,18.314,36.132,SOFT,3.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,4.0,82.433,28.643,18.497,35.293,MEDIUM,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,4.0,82.609,28.749,18.059,35.801,MEDIUM,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,4.0,82.519,28.753,18.015,35.751,MEDIUM,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,4.0,82.581,28.914,18.092,35.575,MEDIUM,4.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,4.0,83.571,28.894,18.318,36.359,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,4.0,83.398,28.848,18.02,36.53,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,4.0,83.454,28.949,18.13,36.375,MEDIUM,5.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,4.0,83.434,29.05,18.104,36.28,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,4.0,83.436,29.088,18.015,36.333,SOFT,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,4.0,83.742,29.019,18.082,36.641,HARD,5.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,4.0,83.705,29.226,18.314,36.165,MEDIUM,5.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,4.0,83.529,29.068,18.018,36.443,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,4.0,83.438,29.061,18.076,36.301,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,4.0,83.574,29.067,18.211,36.296,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,4.0,83.731,29.279,17.896,36.556,HARD,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,4.0,83.7,29.05,18.116,36.534,MEDIUM,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,4.0,84.095,29.291,18.222,36.582,SOFT,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,4.0,83.948,29.158,18.187,36.603,SOFT,4.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,5.0,82.629,28.705,18.504,35.42,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,5.0,82.685,28.74,18.302,35.643,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,5.0,82.632,28.895,17.93,35.807,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,5.0,82.594,28.691,17.918,35.985,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,5.0,83.172,28.763,18.297,36.112,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,5.0,83.364,28.964,17.747,36.653,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,5.0,83.337,28.941,18.062,36.334,MEDIUM,6.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,5.0,83.31,29.072,18.048,36.19,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,5.0,83.556,28.93,18.561,36.065,SOFT,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,5.0,83.294,28.967,18.355,35.972,HARD,6.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,5.0,83.56,29.365,18.397,35.798,MEDIUM,6.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,5.0,83.961,29.446,18.061,36.454,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,5.0,83.916,29.328,18.079,36.509,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,5.0,83.784,29.26,18.166,36.358,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,5.0,84.465,29.917,18.222,36.326,HARD,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,5.0,84.526,29.693,17.983,36.85,MEDIUM,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,5.0,84.161,29.236,18.04,36.885,SOFT,5.0,1.0,0,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,5.0,98.806,29.233,18.254,51.319,SOFT,5.0,1.0,1,20.6,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,6.0,82.572,28.648,18.453,35.471,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,6.0,82.632,28.717,18.248,35.667,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,6.0,82.673,28.817,17.824,36.032,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,6.0,82.582,28.86,17.959,35.763,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,6.0,83.119,28.725,18.354,36.04,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,6.0,83.024,28.808,17.868,36.348,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,6.0,83.027,28.902,18.106,36.019,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,TSU,RB,6.0,83.445,29.026,18.115,36.304,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,6.0,83.165,29.165,18.154,35.846,SOFT,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,6.0,83.196,29.13,18.13,35.936,HARD,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,6.0,83.122,29.091,18.07,35.961,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,6.0,83.954,29.211,18.296,36.447,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,6.0,83.841,29.312,18.144,36.385,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,6.0,83.747,29.454,18.156,36.137,HARD,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,6.0,83.912,29.368,18.107,36.437,MEDIUM,6.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,6.0,97.861,29.299,18.127,50.435,MEDIUM,6.0,1.0,1,20.5,39.3,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,6.0,98.941,29.282,18.206,51.453,SOFT,6.0,1.0,1,20.5,39.3,False,0,0,0,0
+Australian Grand Prix,RIC,RB,6.0,90.576,35.583,18.737,36.256,HARD,1.0,2.0,1,20.5,39.3,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,7.0,82.434,28.67,18.462,35.302,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,7.0,82.744,28.881,18.232,35.631,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,7.0,82.684,28.963,17.949,35.772,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,7.0,82.877,28.93,17.931,36.016,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,7.0,82.764,28.797,18.279,35.688,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,7.0,82.804,28.962,17.896,35.946,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,7.0,83.019,28.945,18.021,36.053,MEDIUM,8.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,TSU,RB,7.0,82.864,28.848,17.947,36.069,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,7.0,82.795,28.901,18.077,35.817,HARD,8.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,7.0,83.738,29.154,18.416,36.168,MEDIUM,8.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,7.0,83.198,29.006,18.045,36.147,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,7.0,83.868,29.24,18.255,36.373,HARD,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,7.0,83.445,29.068,18.122,36.255,MEDIUM,7.0,1.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,7.0,96.858,28.973,17.875,50.01,SOFT,7.0,1.0,1,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,7.0,97.945,29.198,18.137,50.61,MEDIUM,7.0,1.0,1,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,7.0,88.447,34.494,18.518,35.435,HARD,1.0,2.0,1,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,RIC,RB,7.0,84.04,29.836,18.238,35.966,HARD,2.0,2.0,0,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,7.0,91.168,35.188,18.742,37.238,HARD,2.0,2.0,1,20.6,39.3,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,8.0,82.303,28.562,18.397,35.344,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,8.0,82.63,28.705,18.245,35.68,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,8.0,82.983,28.769,17.823,36.391,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,8.0,83.052,28.843,18.018,36.191,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,8.0,83.048,28.744,17.746,36.558,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,8.0,83.381,28.869,18.224,36.288,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,8.0,82.769,28.605,18.317,35.847,HARD,9.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,8.0,82.98,28.72,18.308,35.952,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,8.0,83.838,29.28,18.187,36.371,HARD,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,8.0,83.879,29.38,18.109,36.39,MEDIUM,8.0,1.0,0,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,8.0,96.92,28.679,18.251,49.99,MEDIUM,8.0,1.0,1,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,8.0,97.362,28.791,18.042,50.529,MEDIUM,9.0,1.0,1,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,8.0,88.164,34.166,18.449,35.549,HARD,1.0,2.0,1,20.5,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,8.0,83.72,29.377,18.444,35.899,HARD,2.0,2.0,0,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,8.0,89.979,35.149,18.717,36.113,HARD,1.0,2.0,1,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,8.0,83.608,29.153,18.481,35.974,HARD,3.0,2.0,0,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,8.0,84.402,29.497,18.682,36.223,HARD,3.0,2.0,0,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,8.0,126.645,28.925,18.345,79.375,MEDIUM,9.0,1.0,1,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,9.0,82.025,28.594,18.29,35.141,MEDIUM,9.0,1.0,0,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,9.0,82.727,28.832,18.238,35.657,MEDIUM,9.0,1.0,0,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,9.0,82.97,28.758,18.147,36.065,MEDIUM,9.0,1.0,0,20.5,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,9.0,83.345,29.058,18.168,36.119,HARD,10.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,9.0,96.036,28.769,17.994,49.273,MEDIUM,9.0,1.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,9.0,96.501,28.804,17.895,49.802,MEDIUM,9.0,1.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,9.0,83.856,29.292,18.189,36.375,HARD,9.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,9.0,83.829,29.349,18.235,36.245,MEDIUM,9.0,1.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,9.0,98.21,29.13,18.328,50.752,MEDIUM,9.0,1.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,9.0,88.331,34.115,18.468,35.748,HARD,1.0,2.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,9.0,87.945,34.017,18.371,35.557,HARD,2.0,2.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,9.0,82.555,28.842,17.977,35.736,HARD,2.0,2.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,9.0,97.948,29.049,18.286,50.613,MEDIUM,9.0,1.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,9.0,83.645,29.274,18.408,35.963,HARD,3.0,2.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,9.0,83.662,29.317,18.413,35.932,HARD,2.0,2.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,9.0,83.491,29.023,18.506,35.962,HARD,4.0,2.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,9.0,83.624,29.129,18.477,36.018,HARD,4.0,2.0,0,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,9.0,89.919,35.107,18.847,35.965,HARD,2.0,2.0,1,20.7,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,10.0,81.715,28.426,18.281,35.008,MEDIUM,10.0,1.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,10.0,82.695,28.756,18.235,35.704,MEDIUM,10.0,1.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,10.0,82.68,28.928,18.188,35.564,MEDIUM,10.0,1.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,10.0,82.608,28.563,18.363,35.682,HARD,11.0,1.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,10.0,83.777,29.195,18.304,36.278,HARD,10.0,1.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,10.0,83.856,29.318,18.15,36.388,MEDIUM,10.0,1.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,10.0,87.861,33.912,18.358,35.591,HARD,1.0,2.0,1,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,10.0,87.799,34.02,18.199,35.58,HARD,2.0,2.0,1,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,10.0,82.737,28.814,18.308,35.615,HARD,2.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,10.0,82.883,28.763,18.299,35.821,HARD,3.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,10.0,84.295,30.157,18.345,35.793,HARD,3.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,10.0,89.892,35.218,18.534,36.14,HARD,1.0,2.0,1,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,10.0,83.852,29.78,18.253,35.819,HARD,4.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,10.0,89.439,35.229,18.185,36.025,HARD,1.0,2.0,1,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,10.0,83.671,29.145,17.985,36.541,HARD,3.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,10.0,83.245,29.012,18.394,35.839,HARD,5.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,10.0,83.66,29.197,18.524,35.939,HARD,5.0,2.0,0,20.8,39.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,10.0,83.161,28.85,18.575,35.736,HARD,3.0,2.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,11.0,81.938,28.46,18.272,35.206,MEDIUM,11.0,1.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,11.0,82.936,28.88,18.277,35.779,MEDIUM,11.0,1.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,11.0,82.921,29.025,18.117,35.779,MEDIUM,11.0,1.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,11.0,82.939,28.895,18.338,35.706,HARD,12.0,1.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,11.0,82.647,28.9,18.018,35.729,HARD,2.0,2.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,11.0,85.07,29.3,18.421,37.349,HARD,11.0,1.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,11.0,82.728,28.662,17.907,36.159,HARD,3.0,2.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,11.0,85.397,29.402,18.252,37.743,MEDIUM,11.0,1.0,0,20.7,38.8,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,11.0,82.716,28.731,18.303,35.682,HARD,3.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,11.0,82.718,28.755,18.212,35.751,HARD,4.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,11.0,82.444,28.718,18.168,35.558,HARD,4.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,11.0,82.898,28.912,18.29,35.696,HARD,2.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,11.0,83.254,29.091,18.333,35.83,HARD,5.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,11.0,83.339,29.052,18.138,36.149,HARD,2.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,11.0,83.322,29.073,18.025,36.224,HARD,4.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,11.0,83.083,28.925,18.291,35.867,HARD,6.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,11.0,83.447,29.027,18.488,35.932,HARD,6.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,11.0,83.44,28.853,18.677,35.91,HARD,4.0,2.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,12.0,82.175,28.592,18.284,35.299,MEDIUM,12.0,1.0,0,20.8,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,12.0,82.814,28.783,18.242,35.789,MEDIUM,12.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,12.0,83.704,29.511,18.198,35.995,MEDIUM,12.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,12.0,82.904,28.712,18.34,35.852,HARD,13.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,12.0,81.841,28.454,18.244,35.143,HARD,3.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,12.0,82.948,29.063,18.222,35.663,HARD,4.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,12.0,84.824,30.309,18.181,36.334,HARD,12.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,12.0,84.625,29.816,18.154,36.655,MEDIUM,12.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,12.0,83.022,28.851,18.243,35.928,HARD,4.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,12.0,83.063,28.858,18.308,35.897,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,12.0,83.041,29.006,18.193,35.842,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,12.0,82.799,28.776,18.268,35.755,HARD,3.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,12.0,82.767,29.045,18.159,35.563,HARD,6.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,12.0,82.882,29.059,18.017,35.806,HARD,3.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,12.0,83.11,29.117,17.971,36.022,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,12.0,83.058,28.94,18.339,35.779,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,12.0,83.177,28.869,18.421,35.887,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,12.0,82.976,28.889,18.482,35.605,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,13.0,82.205,28.595,18.317,35.293,MEDIUM,13.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,13.0,83.153,29.105,18.251,35.797,MEDIUM,13.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,13.0,83.664,29.259,18.263,36.142,MEDIUM,13.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,13.0,83.187,28.986,18.324,35.877,HARD,14.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,13.0,82.222,28.716,18.198,35.308,HARD,4.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,13.0,82.426,28.766,18.093,35.567,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,13.0,83.953,29.327,18.202,36.424,HARD,13.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,13.0,84.049,29.379,18.093,36.577,MEDIUM,13.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,13.0,83.438,28.946,18.222,36.27,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,13.0,83.322,28.92,18.278,36.124,HARD,6.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,13.0,83.246,28.911,18.146,36.189,HARD,6.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,13.0,83.032,28.72,18.212,36.1,HARD,4.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,13.0,83.183,28.991,18.198,35.994,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,13.0,82.956,29.0,17.95,36.006,HARD,4.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,13.0,83.063,28.848,18.03,36.185,HARD,6.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,13.0,82.904,28.856,18.242,35.806,HARD,8.0,2.0,0,20.8,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,13.0,83.471,29.107,18.41,35.954,HARD,8.0,2.0,0,20.8,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,13.0,83.159,28.879,18.418,35.862,HARD,6.0,2.0,0,20.8,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,14.0,82.487,28.815,18.261,35.411,MEDIUM,14.0,1.0,0,20.8,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,14.0,83.455,29.2,18.278,35.977,HARD,15.0,1.0,0,20.8,39.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,14.0,98.099,29.257,18.343,50.499,MEDIUM,14.0,1.0,1,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,14.0,81.952,28.647,18.127,35.178,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,14.0,81.968,28.644,18.063,35.261,HARD,6.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,14.0,98.693,29.415,18.259,51.019,MEDIUM,14.0,1.0,1,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,14.0,83.965,29.364,18.238,36.363,HARD,14.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,14.0,84.104,29.43,18.09,36.584,MEDIUM,14.0,1.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,14.0,83.39,29.168,17.923000000000002,36.299,HARD,6.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,14.0,83.106,28.867,18.238,36.001,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,14.0,82.712,28.876,18.088,35.748,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,14.0,82.823,28.795,18.235,35.793,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,14.0,82.978,29.004,18.19,35.784,HARD,8.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,14.0,83.119,29.032,17.992,36.095,HARD,5.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,14.0,82.905,28.975,17.955,35.975,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,14.0,82.877,28.865,18.292,35.72,HARD,9.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,14.0,83.302,29.086,18.441,35.775,HARD,9.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,14.0,83.395,29.007,18.558,35.83,HARD,7.0,2.0,0,20.9,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,15.0,82.62,28.688,18.274,35.658,MEDIUM,15.0,1.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,15.0,83.138,28.907,18.401,35.83,HARD,16.0,1.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,15.0,81.735,28.447,18.202,35.086,HARD,6.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,15.0,81.961,28.588,18.04,35.333,HARD,7.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,15.0,88.205,34.29,18.252,35.663,HARD,2.0,2.0,1,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,15.0,84.281,29.486,18.313,36.482,HARD,15.0,1.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,15.0,84.1,29.378,18.207,36.515,MEDIUM,15.0,1.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,15.0,84.086,29.392,18.14,36.554,HARD,7.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,15.0,83.45,29.221,18.357,35.872,HARD,8.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,15.0,87.909,34.38,18.04,35.489,HARD,1.0,2.0,1,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,HAM,Mercedes,15.0,84.141,29.861,17.993,36.287,HARD,8.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,TSU,RB,15.0,83.336,29.078,18.251,36.007,HARD,6.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,15.0,83.027,28.888,18.215,35.924,HARD,9.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,15.0,83.091,28.883,18.132,36.076,HARD,6.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,15.0,83.668,29.093,18.303,36.272,HARD,8.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,RIC,RB,15.0,82.83,28.787,18.216,35.827,HARD,10.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,15.0,83.329,29.07,18.426,35.833,HARD,10.0,2.0,0,20.8,39.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,15.0,83.329,28.83,18.473,36.026,HARD,8.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,16.0,96.31,28.715,18.274,49.321,MEDIUM,16.0,1.0,1,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,ALO,Aston Martin,16.0,83.239,29.002,18.45,35.787,HARD,17.0,1.0,0,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,LEC,Ferrari,16.0,82.247,28.598,18.349,35.3,HARD,7.0,2.0,0,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,PIA,McLaren,16.0,82.015,28.64,18.102,35.273,HARD,8.0,2.0,0,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,NOR,McLaren,16.0,81.936,28.534,18.177,35.225,HARD,3.0,2.0,0,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,16.0,84.025,29.386,18.222,36.417,HARD,16.0,1.0,0,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,RUS,Mercedes,16.0,83.366,28.959,17.999,36.408,HARD,8.0,2.0,0,21.0,39.1,False,1,0,0,0
+Australian Grand Prix,GAS,Alpine,16.0,85.367,29.942,18.256,37.169,MEDIUM,16.0,1.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,STR,Aston Martin,16.0,84.65,29.194,17.98,37.476,HARD,9.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,16.0,84.122,28.669,17.803,37.65,HARD,2.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,TSU,RB,16.0,83.252,28.921,18.224,36.107,HARD,7.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,ALB,Williams,16.0,82.963,28.847,18.121,35.995,HARD,10.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,16.0,83.561,29.073,18.228,36.26,HARD,9.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,RIC,RB,16.0,83.143,28.844,18.294,36.005,HARD,11.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,16.0,83.339,28.996,18.305,36.038,HARD,11.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,OCO,Alpine,16.0,110.665,28.989,18.004,63.672,HARD,7.0,2.0,1,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,16.0,84.119,28.705,18.421,36.993,HARD,9.0,2.0,0,21.0,38.9,False,1,0,0,0
+Australian Grand Prix,SAI,Ferrari,17.0,103.765,34.907,18.38,50.478,HARD,1.0,2.0,1,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,17.0,97.435,28.508,18.084,50.843,HARD,8.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,17.0,96.822,28.639,19.337,48.846,HARD,9.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,17.0,98.388,28.613,21.284,48.491,HARD,4.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,17.0,108.609,30.028,18.457,60.124,HARD,18.0,1.0,1,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,17.0,101.485,28.891,25.542,47.052,HARD,9.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,17.0,103.269,29.212,25.841,48.216,HARD,10.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,17.0,103.836,29.895,28.248,45.693,HARD,3.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,TSU,RB,17.0,103.577,29.124,29.75,44.703,HARD,8.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,17.0,104.306,30.905,26.541,46.86,HARD,11.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,17.0,114.498,29.922,25.453,59.123,HARD,17.0,1.0,1,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,17.0,104.876,33.983,24.021,46.872,HARD,10.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,RIC,RB,17.0,104.906,33.812,26.46,44.634,HARD,12.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,17.0,117.788,30.269,25.888,61.631,MEDIUM,17.0,1.0,1,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,17.0,104.914,34.287,25.469,45.158,HARD,12.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,17.0,105.281,42.408,25.035,37.838,HARD,10.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,17.0,107.066,43.064,25.261,38.741,HARD,1.0,3.0,1,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,18.0,89.93,36.108,18.529,35.293,HARD,2.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,18.0,88.896,35.361,18.174,35.361,HARD,9.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,18.0,88.994,35.702,18.113,35.179,HARD,10.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,18.0,87.418,34.235,18.091,35.092,HARD,5.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,18.0,90.723,36.412,18.223,36.088,MEDIUM,2.0,2.0,1,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,18.0,87.166,33.098,18.27,35.798,HARD,10.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,18.0,84.269,31.212,17.742,35.315,HARD,4.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,18.0,86.001,31.146,18.269,36.586,HARD,11.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,TSU,RB,18.0,84.892,30.803,18.123,35.966,HARD,9.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,18.0,84.344,30.085,18.383,35.876,HARD,12.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,18.0,83.125,29.28,18.21,35.635,HARD,11.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,18.0,87.954,34.027,18.275,35.652,MEDIUM,1.0,2.0,1,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,RIC,RB,18.0,85.117,31.019,18.099,35.999,HARD,13.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,18.0,84.958,30.106,18.67,36.182,HARD,13.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,18.0,89.888,35.202,18.398,36.288,HARD,1.0,2.0,1,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,18.0,82.609,28.692,18.311,35.606,HARD,11.0,2.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,18.0,82.587,28.802,18.118,35.667,HARD,2.0,3.0,0,20.9,38.6,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,19.0,81.811,28.284,18.342,35.185,HARD,3.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,19.0,81.881,28.197,18.205,35.479,HARD,10.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,19.0,81.871,28.272,18.086,35.513,HARD,11.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,19.0,82.356,29.03,18.133,35.193,HARD,6.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,19.0,82.928,28.883,18.355,35.69,MEDIUM,3.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,19.0,82.4,28.473,18.213,35.714,HARD,11.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,19.0,81.84,28.441,17.929,35.47,HARD,5.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,19.0,83.105,28.71,18.244,36.151,HARD,12.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,19.0,82.994,28.9,18.234,35.86,HARD,10.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,19.0,83.022,28.826,18.266,35.93,HARD,13.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,19.0,82.848,28.691,18.204,35.953,HARD,12.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,19.0,82.247,28.72,18.125,35.402,MEDIUM,2.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,19.0,83.024,28.66,18.17,36.194,HARD,14.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,19.0,83.537,29.184,18.441,35.912,HARD,14.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,19.0,83.922,29.141,18.401,36.38,HARD,2.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,19.0,82.597,28.561,18.349,35.687,HARD,12.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,19.0,82.88,28.874,17.974,36.032,HARD,3.0,3.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,20.0,81.602,28.321,18.274,35.007,HARD,4.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,20.0,81.885,28.409,18.11,35.366,HARD,11.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,20.0,82.085,28.58,18.02,35.485,HARD,12.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,20.0,81.642,28.355,18.023,35.264,HARD,7.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,20.0,82.831,28.729,18.285,35.817,MEDIUM,4.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,20.0,82.434,28.564,18.253,35.617,HARD,12.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,20.0,81.711,28.353,17.751,35.607,HARD,6.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,20.0,82.922,28.668,18.233,36.021,HARD,13.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,20.0,83.048,28.775,18.134,36.139,HARD,11.0,2.0,0,21.0,39.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,20.0,82.607,28.717,18.161,35.729,HARD,14.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,20.0,82.809,28.859,18.147,35.803,HARD,13.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,20.0,82.406,28.781,18.139,35.486,MEDIUM,3.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,20.0,83.127,28.883,18.286,35.958,HARD,15.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,20.0,83.069,28.95,18.377,35.742,HARD,15.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,20.0,83.662,29.06,18.369,36.233,HARD,3.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,20.0,82.694,28.723,18.441,35.53,HARD,13.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,20.0,82.814,28.867,18.0,35.947,HARD,4.0,3.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,21.0,81.931,28.376,18.292,35.263,HARD,5.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,21.0,82.058,28.477,18.114,35.467,HARD,12.0,2.0,0,21.0,39.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,21.0,81.923,28.477,17.99,35.456,HARD,13.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,21.0,81.907,28.385,18.033,35.489,HARD,8.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,21.0,82.704,28.737,18.277,35.69,MEDIUM,5.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,21.0,82.051,28.506,17.651,35.894,HARD,7.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,21.0,83.429,28.421,18.16,36.848,HARD,13.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,21.0,82.628,28.674,18.202,35.752,HARD,14.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,TSU,RB,21.0,82.968,28.808,18.25,35.91,HARD,12.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,21.0,83.066,28.956,18.216,35.894,HARD,15.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,21.0,82.86,28.817,18.149,35.894,HARD,14.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,21.0,82.479,28.71,18.167,35.602,MEDIUM,4.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,RIC,RB,21.0,83.187,28.875,18.32,35.992,HARD,16.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,21.0,83.473,29.095,18.409,35.969,HARD,16.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,21.0,83.241,28.904,18.274,36.063,HARD,4.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,21.0,82.439,28.649,18.32,35.47,HARD,14.0,2.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,21.0,82.663,28.765,18.216,35.682,HARD,5.0,3.0,0,21.0,38.7,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,22.0,81.471,28.277,18.216,34.978,HARD,6.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,22.0,81.722,28.368,18.072,35.282,HARD,13.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,22.0,82.013,28.607,18.037,35.369,HARD,14.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,22.0,81.749,28.441,18.106,35.202,HARD,9.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,22.0,82.478,28.735,18.288,35.455,MEDIUM,6.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,22.0,81.869,28.59,17.918,35.361,HARD,8.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,22.0,82.838,28.819,18.206,35.813,HARD,14.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,22.0,82.905,28.641,18.185,36.079,HARD,15.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,TSU,RB,22.0,82.673,28.789,18.167,35.717,HARD,13.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,22.0,83.301,28.925,18.219,36.157,HARD,16.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,22.0,83.315,28.881,18.063,36.371,HARD,15.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,22.0,82.439,28.793,18.007,35.639,MEDIUM,5.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,RIC,RB,22.0,83.105,28.81,18.282,36.013,HARD,17.0,2.0,0,21.0,38.6,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,22.0,83.431,29.084,18.404,35.943,HARD,17.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,22.0,83.045,28.793,18.236,36.016,HARD,5.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,22.0,82.722,28.696,18.373,35.653,HARD,15.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,22.0,82.803,28.775,18.267,35.761,HARD,6.0,3.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,23.0,81.531,28.345,18.162,35.024,HARD,7.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,23.0,81.932,28.419,18.062,35.451,HARD,14.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,23.0,81.817,28.496,18.003,35.318,HARD,15.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,23.0,81.745,28.381,17.98,35.384,HARD,10.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,23.0,82.441,28.625,18.197,35.619,MEDIUM,7.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,23.0,81.849,28.617,18.014,35.218,HARD,9.0,2.0,0,21.1,38.7,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,23.0,83.012,28.852,18.2,35.96,HARD,15.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,23.0,82.861,28.795,18.236,35.83,HARD,16.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,TSU,RB,23.0,82.953,28.884,18.167,35.902,HARD,14.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,23.0,83.198,28.917,18.205,36.076,HARD,17.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,23.0,82.152,28.841,17.743,35.568,MEDIUM,6.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,23.0,84.285,29.063,18.199,37.023,HARD,16.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,RIC,RB,23.0,83.012,28.748,18.232,36.032,HARD,18.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,23.0,83.264,28.997,18.387,35.88,HARD,18.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,23.0,82.929,28.898,18.198,35.833,HARD,6.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,23.0,82.34,28.619,18.29,35.431,HARD,16.0,2.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,23.0,82.713,28.865,18.181,35.667,HARD,7.0,3.0,0,21.0,38.8,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,24.0,81.458,28.329,18.173,34.956,HARD,8.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,24.0,81.852,28.455,18.042,35.355,HARD,15.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,24.0,81.83,28.553,17.964,35.313,HARD,16.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,24.0,81.562,28.376,17.989,35.197,HARD,11.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,24.0,82.287,28.695,18.171,35.421,MEDIUM,8.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,24.0,81.527,28.583,17.881,35.063,HARD,10.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,24.0,82.942,28.776,18.226,35.94,HARD,16.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,24.0,82.852,28.715,18.159,35.978,HARD,17.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,24.0,83.026,28.864,18.186,35.976,HARD,15.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,24.0,83.513,28.97,18.28,36.263,HARD,18.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,24.0,82.528,28.812,18.025,35.691,MEDIUM,7.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,24.0,83.33,28.96,18.161,36.209,HARD,17.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,24.0,83.292,28.906,18.214,36.172,HARD,19.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,24.0,83.196,28.947,18.39,35.859,HARD,19.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,24.0,83.001,28.729,18.222,36.05,HARD,7.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,24.0,82.91,28.931,18.349,35.63,HARD,17.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,24.0,82.759,28.786,18.173,35.8,HARD,8.0,3.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,25.0,81.243,28.229,18.081,34.933,HARD,9.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,25.0,81.951,28.587,18.078,35.286,HARD,16.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,25.0,81.597,28.38,17.95,35.267,HARD,17.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,25.0,81.713,28.517,17.95,35.246,HARD,12.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,25.0,82.708,28.728,18.219,35.761,MEDIUM,9.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,25.0,81.495,28.513,17.809,35.173,HARD,11.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,25.0,82.703,28.6,18.194,35.909,HARD,17.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,25.0,82.941,28.821,18.203,35.917,HARD,18.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,25.0,83.001,28.961,18.23,35.81,HARD,16.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,25.0,83.671,29.201,18.328,36.142,HARD,19.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,25.0,82.974,29.021,17.804,36.149,MEDIUM,8.0,2.0,0,21.1,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,25.0,83.502,29.113,18.175,36.214,HARD,18.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,25.0,83.547,28.966,18.389,36.192,HARD,20.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,25.0,83.031,29.065,18.3,35.666,HARD,20.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,25.0,82.933,28.803,18.241,35.889,HARD,8.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,25.0,82.551,28.758,18.28,35.513,HARD,18.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,25.0,82.797,28.949,18.161,35.687,HARD,9.0,3.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,26.0,81.078,28.144,18.086,34.848,HARD,10.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,26.0,82.042,28.596,18.091,35.355,HARD,17.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,26.0,82.243,28.631,18.061,35.551,HARD,18.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,26.0,81.611,28.398,17.959,35.254,HARD,13.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,26.0,82.988,28.899,18.353,35.736,MEDIUM,10.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,26.0,82.246,28.587,17.932,35.727,HARD,12.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,26.0,82.885,28.744,18.305,35.836,HARD,18.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,26.0,83.294,28.858,18.27,36.166,HARD,19.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,26.0,83.302,28.853,18.222,36.227,HARD,17.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,26.0,83.525,29.159,18.247,36.119,HARD,20.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,26.0,83.693,29.534,17.873,36.286,MEDIUM,9.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,26.0,83.485,29.057,18.279,36.149,HARD,19.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,26.0,83.357,28.941,18.374,36.042,HARD,21.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,26.0,83.062,28.892,18.441,35.729,HARD,21.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,26.0,83.015,28.851,18.346,35.818,HARD,9.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,26.0,83.067,28.904,18.384,35.779,HARD,19.0,2.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,26.0,82.892,28.887,18.25,35.755,HARD,10.0,3.0,0,21.4,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,27.0,81.457,28.388,18.153,34.916,HARD,11.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,27.0,81.822,28.59,18.059,35.173,HARD,18.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,27.0,82.287,28.693,18.076,35.518,HARD,19.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,27.0,81.976,28.523,18.045,35.408,HARD,14.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,27.0,81.557,28.521,17.6,35.436,HARD,13.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,27.0,83.257,28.79,18.31,36.157,MEDIUM,11.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,27.0,83.138,28.879,18.293,35.966,HARD,19.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,27.0,83.192,28.78,18.21,36.202,HARD,20.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,27.0,83.248,29.0,18.22,36.028,HARD,18.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,27.0,83.385,29.38,17.87,36.135,MEDIUM,10.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,27.0,83.525,29.057,18.167,36.301,HARD,20.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,27.0,83.885,29.084,18.357,36.444,HARD,22.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,27.0,83.097,28.839,18.349,35.909,HARD,22.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,27.0,82.904,28.749,18.186,35.969,HARD,10.0,2.0,0,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,27.0,97.44,29.197,18.247,49.996,HARD,21.0,2.0,1,21.5,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,27.0,82.934,28.816,18.434,35.684,HARD,20.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,27.0,82.901,28.822,18.263,35.816,HARD,11.0,3.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,28.0,81.44,28.279,18.153,35.008,HARD,12.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,28.0,81.969,28.496,18.164,35.309,HARD,19.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,28.0,82.204,28.654,18.065,35.485,HARD,20.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,28.0,81.837,28.562,18.04,35.235,HARD,15.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,28.0,82.152,28.742,18.141,35.269,HARD,14.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,28.0,82.259,28.746,17.966,35.547,MEDIUM,12.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,28.0,83.096,28.885,18.342,35.869,HARD,20.0,2.0,0,21.4,39.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,28.0,83.059,28.871,18.249,35.939,HARD,21.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,28.0,83.075,28.872,18.218,35.985,HARD,19.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,28.0,83.338,29.038,18.292,36.008,MEDIUM,11.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,28.0,83.467,28.881,18.441,36.145,HARD,21.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,28.0,83.863,29.169,18.421,36.273,HARD,23.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,28.0,83.023,28.924,18.332,35.767,HARD,23.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,28.0,82.674,28.974,17.953,35.747,HARD,11.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,28.0,89.209,34.96,18.403,35.846,HARD,1.0,3.0,1,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,28.0,82.948,28.842,18.393,35.713,HARD,21.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,28.0,83.108,29.033,18.242,35.833,HARD,12.0,3.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,29.0,81.489,28.336,18.131,35.022,HARD,13.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,29.0,82.433,28.845,18.259,35.329,HARD,20.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,29.0,81.864,28.483,18.029,35.352,HARD,16.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,29.0,83.479,29.906,17.833,35.74,HARD,21.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,29.0,82.126,28.645,18.042,35.439,HARD,15.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,29.0,81.98,28.578,18.02,35.382,MEDIUM,13.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,29.0,82.663,28.822,18.238,35.603,HARD,21.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,29.0,83.135,28.955,18.347,35.833,HARD,22.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,29.0,83.498,29.078,18.314,36.106,HARD,20.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,29.0,83.167,29.023,18.157,35.987,MEDIUM,12.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,29.0,83.456,28.996,18.266,36.194,HARD,22.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,29.0,82.602,28.809,18.249,35.544,HARD,24.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,29.0,82.708,28.988,17.968,35.752,HARD,12.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,29.0,82.792,28.879,18.372,35.541,HARD,2.0,3.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,29.0,97.341,29.021,18.369,49.951,HARD,24.0,2.0,1,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,29.0,82.835,28.797,18.325,35.713,HARD,22.0,2.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,29.0,83.117,29.026,18.2,35.891,HARD,13.0,3.0,0,21.3,38.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,30.0,81.623,28.468,18.196,34.959,HARD,14.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,30.0,82.284,28.708,18.276,35.3,HARD,21.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,30.0,81.982,28.568,18.058,35.356,HARD,17.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,30.0,82.52,28.701999999999998,18.059,35.759,HARD,22.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,30.0,82.18,28.599,17.955,35.626,HARD,16.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,30.0,82.175,28.685,17.887,35.603,MEDIUM,14.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,30.0,82.663,28.614,18.224,35.825,HARD,22.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,30.0,83.124,28.875,18.298,35.951,HARD,23.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,TSU,RB,30.0,83.382,28.979,18.32,36.083,HARD,21.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,30.0,83.299,29.128,18.18,35.991,MEDIUM,13.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,30.0,83.407,29.082,18.187,36.138,HARD,23.0,2.0,0,21.2,38.8,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,30.0,82.989,28.908,18.308,35.773,HARD,25.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,30.0,82.99,28.857,17.993,36.14,HARD,13.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,30.0,82.898,28.864,18.254,35.78,HARD,3.0,3.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,30.0,82.998,28.746,18.429,35.823,HARD,23.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,30.0,83.04,28.846,18.294,35.9,HARD,14.0,3.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,RIC,RB,30.0,90.602,35.785,18.637,36.18,HARD,1.0,3.0,1,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,31.0,81.282,28.215,18.059,35.008,HARD,15.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,31.0,81.996,28.587,18.184,35.225,HARD,22.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,31.0,81.848,28.565,17.981,35.302,HARD,18.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,31.0,82.133,28.797,17.98,35.356,HARD,23.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,31.0,82.359,28.718,18.013,35.628,HARD,17.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,31.0,82.355,28.794,17.957,35.604,MEDIUM,15.0,2.0,0,21.2,38.4,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,31.0,82.515,28.718,18.249,35.548,HARD,23.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,31.0,83.521,29.11,18.331,36.08,HARD,24.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,TSU,RB,31.0,83.367,29.068,18.3,35.999,HARD,22.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,31.0,83.139,29.15,18.189,35.8,MEDIUM,14.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,31.0,83.216,29.001,18.254,35.961,HARD,24.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,31.0,82.826,28.813,18.357,35.656,HARD,26.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,31.0,82.727,28.855,17.99,35.882,HARD,14.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,31.0,82.949,28.883,18.264,35.802,HARD,4.0,3.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,31.0,83.01,28.842,18.5,35.668,HARD,24.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,31.0,82.921,28.916,18.218,35.787,HARD,15.0,3.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,RIC,RB,31.0,82.938,28.84,18.35,35.748,HARD,2.0,3.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,32.0,81.205,28.209,18.107,34.889,HARD,16.0,2.0,0,21.1,38.4,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,32.0,81.841,28.706,18.13,35.005,HARD,23.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,32.0,81.574,28.394,18.012,35.168,HARD,19.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,32.0,81.989,28.664,17.973,35.352,HARD,24.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,32.0,82.441,28.807,18.016,35.618,HARD,18.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,32.0,82.491,28.885,17.888,35.718,MEDIUM,16.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,32.0,82.71,28.773,18.307,35.63,HARD,24.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,32.0,83.157,28.921,18.262,35.974,HARD,25.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,TSU,RB,32.0,83.39,29.119,18.318,35.953,HARD,23.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,32.0,82.892,29.055,18.114,35.723,MEDIUM,15.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,32.0,83.396,29.113,18.248,36.035,HARD,25.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,32.0,83.17,28.988,18.274,35.908,HARD,27.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,32.0,83.245,28.996,18.019,36.23,HARD,15.0,2.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,32.0,82.901,28.71,18.292,35.899,HARD,5.0,3.0,0,21.2,38.7,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,32.0,82.897,28.941,18.313,35.643,HARD,25.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,32.0,82.909,28.954,18.2,35.755,HARD,16.0,3.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,RIC,RB,32.0,82.738,28.592,18.387,35.759,HARD,3.0,3.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,33.0,81.495,28.398,18.086,35.011,HARD,17.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,33.0,82.022,28.743,18.172,35.107,HARD,24.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,33.0,81.692,28.57,18.002,35.12,HARD,20.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,33.0,82.1,28.724,17.962,35.414,HARD,25.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,33.0,82.566,28.869,18.127,35.57,HARD,19.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,33.0,82.649,28.882,18.031,35.736,MEDIUM,17.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,33.0,82.461,28.591,18.249,35.621,HARD,25.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,33.0,83.266,29.001,18.354,35.911,HARD,26.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,TSU,RB,33.0,83.226,29.053,18.274,35.899,HARD,24.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,33.0,82.91,29.039,18.152,35.719,MEDIUM,16.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,33.0,83.246,28.848,18.365,36.033,HARD,28.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,33.0,83.215,28.788,17.98,36.447,HARD,16.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,33.0,97.802,29.137,18.406,50.259,HARD,26.0,2.0,1,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,33.0,83.188,28.963,18.242,35.983,HARD,6.0,3.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,33.0,82.851,28.88,18.328,35.643,HARD,26.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,33.0,82.996,28.88,18.21,35.906,HARD,17.0,3.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,RIC,RB,33.0,82.443,28.549,18.246,35.648,HARD,4.0,3.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,34.0,81.717,28.512,18.103,35.102,HARD,18.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,34.0,81.769,28.421,18.062,35.286,HARD,21.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,34.0,82.238,28.728,18.06,35.45,HARD,26.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,34.0,95.962,28.835,18.205,48.922,HARD,25.0,2.0,1,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,34.0,82.962,28.911,18.114,35.937,HARD,20.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,34.0,82.918,28.788,18.042,36.088,MEDIUM,18.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,34.0,82.353,28.601,18.21,35.542,HARD,26.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,34.0,83.114,28.986,18.288,35.84,HARD,27.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,TSU,RB,34.0,83.323,29.019,18.339,35.965,HARD,25.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,34.0,83.143,29.043,18.128,35.972,MEDIUM,17.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,34.0,83.068,28.927,18.358,35.783,HARD,29.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,34.0,83.036,28.986,18.083,35.967,HARD,17.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,34.0,83.061,28.857,18.208,35.996,HARD,7.0,3.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,34.0,88.539,34.484,18.512,35.543,HARD,1.0,3.0,1,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,34.0,86.453,31.308,18.233,36.912,HARD,27.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,34.0,85.483,29.603,18.022,37.858,HARD,18.0,3.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,RIC,RB,34.0,82.709,28.674,18.203,35.832,HARD,5.0,3.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,35.0,81.721,28.432,18.105,35.184,HARD,19.0,2.0,0,21.2,38.6,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,35.0,81.51,28.479,18.089,34.942,HARD,22.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,35.0,82.059,28.716,18.075,35.268,HARD,27.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,35.0,87.951,34.283,18.437,35.231,HARD,1.0,3.0,1,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,35.0,85.73,31.068,18.302,36.36,MEDIUM,19.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,35.0,82.591,28.764,18.197,35.63,HARD,27.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,35.0,99.44,31.486,18.229,49.725,HARD,21.0,2.0,1,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,35.0,83.398,29.054,18.316,36.028,HARD,28.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,TSU,RB,35.0,83.289,29.056,18.349,35.884,HARD,26.0,2.0,0,21.2,38.5,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,35.0,83.225,28.898,17.957,36.37,HARD,18.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,35.0,97.314,29.129,18.17,50.015,MEDIUM,18.0,2.0,1,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,35.0,83.135,28.982,18.222,35.931,HARD,8.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,35.0,82.34,28.467,18.179,35.694,HARD,2.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,35.0,83.446,29.157,18.464,35.825,HARD,28.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,35.0,83.239,29.09,17.942,36.207,HARD,19.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,RIC,RB,35.0,83.49,29.175,17.917,36.398,HARD,6.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,36.0,82.018,28.557,18.086,35.375,HARD,20.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,36.0,81.446,28.511,17.999,34.936,HARD,23.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,36.0,82.047,28.779,18.041,35.227,HARD,28.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,35.0,116.595,28.943,18.355,69.297,HARD,30.0,2.0,1,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,36.0,81.942,28.493,18.231,35.218,HARD,2.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,36.0,82.714,28.579,18.254,35.881,MEDIUM,20.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,36.0,82.537,28.607,18.165,35.765,HARD,28.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,36.0,83.207,29.035,18.282,35.89,HARD,29.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,36.0,87.672,34.252,18.108,35.312,HARD,1.0,3.0,1,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,TSU,RB,36.0,97.156,29.164,18.289,49.703,HARD,27.0,2.0,1,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,36.0,82.84,28.631,18.346,35.863,HARD,19.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,36.0,87.3,33.67,18.256,35.374,HARD,1.0,3.0,1,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,36.0,84.486,29.749,18.001,36.736,HARD,9.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,36.0,82.109,28.474,18.015,35.62,HARD,3.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,37.0,81.971,28.542,18.047,35.382,HARD,21.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,36.0,84.94,29.138,17.984,37.818,HARD,20.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,RIC,RB,36.0,85.131,30.883,18.289,35.959,HARD,7.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,37.0,81.662,28.425,17.983,35.254,HARD,24.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,36.0,98.523,29.081,18.305,51.137,HARD,29.0,2.0,1,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,37.0,81.89,28.614,17.986,35.29,HARD,29.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,36.0,88.57,34.544,18.48,35.546,HARD,1.0,3.0,1,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,37.0,80.688,28.238,18.085,34.365,HARD,3.0,3.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,37.0,82.862,28.779,18.217,35.866,MEDIUM,21.0,2.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,37.0,82.408,28.51,18.147,35.751,HARD,29.0,2.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,37.0,81.218,28.323,17.862,35.033,HARD,2.0,3.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,37.0,97.526,28.958,18.264,50.304,HARD,30.0,2.0,1,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,37.0,83.326,28.965,18.388,35.973,HARD,20.0,2.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,TSU,RB,37.0,89.144,35.017,18.451,35.676,HARD,1.0,3.0,1,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,37.0,81.63,28.386,18.027,35.217,HARD,2.0,3.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,37.0,82.918,29.079,18.177,35.662,HARD,10.0,3.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,37.0,82.261,28.64,18.008,35.613,HARD,4.0,3.0,0,21.5,38.4,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,38.0,81.412,28.38,18.048,34.984,HARD,22.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,37.0,82.834,28.899,18.227,35.708,HARD,21.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,RIC,RB,37.0,82.438,28.605,17.895,35.938,HARD,8.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,38.0,81.518,28.457,17.95,35.111,HARD,25.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,38.0,85.203,28.686,18.0,38.517,HARD,30.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,37.0,88.154,34.499,18.486,35.169,HARD,1.0,3.0,1,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,37.0,82.598,28.596,18.262,35.74,HARD,2.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,38.0,80.949,28.1,17.966,34.883,HARD,4.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,38.0,82.566,28.719,18.232,35.615,MEDIUM,22.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,38.0,82.175,28.493,18.082,35.6,HARD,30.0,2.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,38.0,81.245,28.319,18.045,34.881,HARD,3.0,3.0,0,21.4,38.2,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,38.0,87.847,34.155,18.064,35.628,HARD,2.0,3.0,1,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,38.0,85.109,30.199,18.344,36.566,HARD,21.0,2.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,38.0,81.924,28.555,18.135,35.234,HARD,2.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,38.0,82.025,28.496,18.043,35.486,HARD,3.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,38.0,82.154,28.612,18.068,35.474,HARD,11.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,38.0,82.085,28.649,17.979,35.457,HARD,5.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,39.0,81.554,28.367,18.153,35.034,HARD,23.0,2.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,38.0,82.38,28.792,17.749,35.839,HARD,9.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,38.0,83.627,28.734,18.147,36.746,HARD,22.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,39.0,81.901,28.746,17.982,35.173,HARD,26.0,2.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,38.0,81.755,28.421,18.251,35.083,HARD,2.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,38.0,82.43,28.906,18.19,35.334,HARD,3.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,39.0,80.909,28.184,17.887,34.838,HARD,5.0,3.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,39.0,96.781,28.951999999999998,18.083,49.746,HARD,31.0,2.0,1,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,39.0,82.772,28.724,18.187,35.861,MEDIUM,23.0,2.0,0,21.3,38.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,39.0,82.167,28.472,18.104,35.591,HARD,31.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,39.0,81.448,28.423,17.834,35.191,HARD,4.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,39.0,82.042,28.498,18.275,35.269,HARD,3.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,39.0,83.016,28.723,18.282,36.011,HARD,22.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,TSU,RB,39.0,82.247,28.595,18.154,35.498,HARD,3.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,39.0,81.896,28.419,17.929,35.548,HARD,4.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,39.0,82.011,28.529,18.079,35.403,HARD,12.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,39.0,81.845,28.582,17.962,35.301,HARD,6.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,40.0,81.443,28.4,18.024,35.019,HARD,24.0,2.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,RIC,RB,39.0,82.172,28.698,18.094,35.38,HARD,10.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,39.0,82.706,28.807,17.857,36.042,HARD,23.0,3.0,0,21.3,38.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,39.0,81.646,28.382,18.3,34.964,HARD,3.0,3.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,39.0,82.008,28.476,18.181,35.351,HARD,4.0,3.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,40.0,96.023,28.505,17.974,49.544,HARD,27.0,2.0,1,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,40.0,80.953,28.187,17.895,34.871,HARD,6.0,3.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,40.0,82.714,28.768,18.18,35.766,MEDIUM,24.0,2.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,40.0,86.93,33.685,18.052,35.193,HARD,2.0,3.0,1,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,40.0,82.473,28.756,18.009,35.708,HARD,32.0,2.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,40.0,81.045,28.4,17.836,34.809,HARD,5.0,3.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,40.0,82.1,28.665,18.23,35.205,HARD,4.0,3.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,TSU,RB,40.0,83.218,28.834,17.732,36.652,HARD,4.0,3.0,0,21.4,38.5,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,40.0,85.02,28.917,18.214,37.889,HARD,23.0,2.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,40.0,82.823,28.402,17.87,36.551,HARD,5.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,40.0,81.74,28.341,17.928,35.471,HARD,13.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,40.0,81.771,28.346,18.034,35.391,HARD,7.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,RIC,RB,40.0,81.387,28.28,17.98,35.127,HARD,11.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,40.0,82.989,28.867,18.166,35.956,HARD,24.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,41.0,95.51,28.241,18.016,49.253,HARD,25.0,2.0,1,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,40.0,81.533,28.298,18.215,35.02,HARD,4.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,40.0,81.908,28.391,18.108,35.409,HARD,5.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,41.0,80.675,28.107,17.871,34.697,HARD,7.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,41.0,86.576,33.55,18.013,35.013,HARD,2.0,3.0,1,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,41.0,81.424,28.125,17.593,35.706,HARD,3.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,41.0,82.319,28.561,17.981,35.777,HARD,33.0,2.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,41.0,80.998,28.268,17.817,34.913,HARD,6.0,3.0,0,21.5,38.5,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,41.0,98.988,28.767,18.183,52.038,MEDIUM,25.0,2.0,1,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,41.0,82.244,28.417,18.198,35.629,HARD,5.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,41.0,81.764,28.515,18.091,35.158,HARD,5.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,41.0,82.016,28.708,17.905,35.403,HARD,6.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,41.0,83.574,29.684,18.583,35.307,HARD,14.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,41.0,83.189,29.007,18.687,35.495,HARD,8.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,41.0,81.608,28.388,18.093,35.127,HARD,12.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,41.0,83.162,28.965,18.145,36.052,HARD,25.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,41.0,104.594,31.987,20.379,52.228,HARD,24.0,2.0,1,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,42.0,87.215,33.986,18.315,34.914,HARD,1.0,3.0,1,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,41.0,82.008,28.575,18.187,35.246,HARD,5.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,42.0,80.849,28.366,17.866,34.617,HARD,8.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,41.0,83.999,28.641,18.957,36.401,HARD,6.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,42.0,81.025,28.317,17.944,34.764,HARD,3.0,3.0,0,21.6,38.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,42.0,81.08,28.312,17.964,34.804,HARD,4.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,42.0,82.257,28.651,18.023,35.583,HARD,34.0,2.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,42.0,81.35,28.442,17.795,35.113,HARD,7.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,42.0,87.347,33.772,18.354,35.221,HARD,2.0,3.0,1,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,42.0,81.829,28.383,18.2,35.246,HARD,6.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,42.0,81.784,28.437,18.099,35.248,HARD,6.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,42.0,82.173,28.542,17.916,35.715,HARD,7.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,42.0,81.73,28.438,17.99,35.302,HARD,15.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,42.0,81.914,28.45,17.579,35.885,HARD,9.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,42.0,81.888,28.421,18.093,35.374,HARD,13.0,3.0,0,21.7,38.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,43.0,80.73,27.993,18.04,34.697,HARD,2.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,42.0,88.171,34.671,18.274,35.226,HARD,1.0,3.0,1,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,43.0,80.853,28.089,17.823,34.941,HARD,9.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,42.0,85.18,30.103,18.136,36.941,HARD,6.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,42.0,98.198,28.991,18.252,50.955,HARD,26.0,3.0,1,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,42.0,82.195,28.581,18.041,35.573,HARD,7.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,43.0,80.652,28.003,17.82,34.829,HARD,4.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,43.0,80.485,28.09,17.951999999999998,34.443,HARD,5.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,43.0,82.111,28.479,18.027,35.605,HARD,35.0,2.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,43.0,80.798,28.267,17.739,34.792,HARD,8.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,43.0,81.724,28.361,18.176,35.187,HARD,3.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,43.0,81.722,28.38,18.055,35.287,HARD,7.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,43.0,81.928,28.484,18.093,35.351,HARD,7.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,43.0,81.909,28.49,17.946,35.473,HARD,8.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,43.0,82.292,28.355,17.984,35.953,HARD,16.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,43.0,82.053,28.314,17.657,36.082,HARD,10.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,43.0,81.648,28.395,18.129,35.124,HARD,14.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,44.0,80.767,28.014,18.073,34.68,HARD,3.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,44.0,80.56,28.069,17.861,34.63,HARD,10.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,43.0,84.419,28.467,19.217,36.735,HARD,2.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,43.0,82.889,28.615,18.51,35.764,HARD,7.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,44.0,80.613,28.003,17.82,34.79,HARD,5.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,43.0,83.827,30.079,18.142,35.606,HARD,8.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,43.0,88.206,34.613,18.343,35.25,HARD,8.0,4.0,1,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,44.0,80.395,27.914,17.885,34.596,HARD,6.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,44.0,82.097,28.459,18.06,35.578,HARD,36.0,2.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,44.0,80.706,28.222,17.701999999999998,34.782,HARD,9.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,44.0,81.394,28.28,18.16,34.954,HARD,4.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,44.0,81.992,28.476,18.074,35.442,HARD,8.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,44.0,81.824,28.49,18.101,35.233,HARD,8.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,44.0,81.73,28.459,17.92,35.351,HARD,9.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,44.0,81.082,28.418,17.488,35.176,HARD,11.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,44.0,82.499,28.359,17.953,36.187,HARD,17.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,44.0,81.313,28.202,18.024,35.087,HARD,15.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,45.0,80.223,27.853,17.961,34.409,HARD,4.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,45.0,80.408,28.11,17.8,34.498,HARD,11.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,44.0,81.447,28.348,18.045,35.054,HARD,3.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,45.0,80.62,28.171,17.82,34.629,HARD,6.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,44.0,83.241,29.234,18.562,35.445,HARD,8.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,44.0,82.147,28.709,18.003,35.435,HARD,9.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,44.0,81.597,28.464,18.066,35.067,HARD,9.0,4.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,45.0,80.223,27.948,17.772,34.503,HARD,7.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,45.0,80.769,28.262,17.736,34.771,HARD,10.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,45.0,96.343,28.436,18.042,49.865,HARD,37.0,2.0,1,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,45.0,81.454,28.352,18.08,35.022,HARD,5.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,45.0,81.603,28.27,18.094,35.239,HARD,9.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,45.0,81.696,28.467,18.092,35.137,HARD,9.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,45.0,81.532,28.385,17.924,35.223,HARD,10.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,45.0,81.637,28.428,18.032,35.177,HARD,12.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,45.0,81.907,28.459,17.961,35.487,HARD,18.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,45.0,81.33,28.362,18.034,34.934,HARD,16.0,3.0,0,21.7,38.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,46.0,80.374,27.945,17.998,34.431,HARD,5.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,46.0,80.76,28.049,18.096,34.615,HARD,12.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,46.0,79.971,27.633,17.752,34.586,HARD,7.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,45.0,82.079,29.395,17.816,34.868,HARD,4.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,45.0,81.711,28.591,18.183,34.937,HARD,9.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,45.0,81.609,28.403,18.006,35.2,HARD,10.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,45.0,81.354,28.306,18.045,35.003,HARD,10.0,4.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,46.0,80.615,27.981,17.817,34.817,HARD,8.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,46.0,80.428,28.204,17.718,34.506,HARD,11.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,46.0,81.344,28.221,18.17,34.953,HARD,6.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,46.0,86.434,33.556,17.996,34.882,HARD,1.0,3.0,1,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,46.0,81.431,28.26,18.093,35.078,HARD,10.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,TSU,RB,46.0,81.134,28.246,18.038,34.85,HARD,10.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,46.0,81.145,28.292,17.801,35.052,HARD,11.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,46.0,81.463,28.385,17.994,35.084,HARD,13.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,46.0,81.618,28.449,17.918,35.251,HARD,19.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,RIC,RB,46.0,81.239,28.318,18.046,34.875,HARD,17.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,47.0,80.203,27.87,17.958,34.375,HARD,6.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,47.0,79.999,27.807,17.791,34.401,HARD,13.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,47.0,80.188,27.953,17.79,34.445,HARD,8.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,46.0,81.22,28.209,18.001,35.01,HARD,5.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,46.0,81.554,28.351,18.097,35.106,HARD,10.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,46.0,81.663,28.342,17.961,35.36,HARD,11.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,47.0,80.682,28.141,17.683,34.858,HARD,9.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,46.0,83.041,28.332,18.035,36.674,HARD,11.0,4.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,47.0,80.388,28.091,17.734,34.563,HARD,12.0,3.0,0,21.6,38.2,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,47.0,81.183,28.291,18.101,34.791,HARD,7.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,47.0,80.326,27.721,17.919,34.686,HARD,2.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,47.0,81.014,28.162,18.105,34.747,HARD,11.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,TSU,RB,47.0,81.254,28.261,18.02,34.973,HARD,11.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,47.0,81.629,28.572,17.864,35.193,HARD,12.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,47.0,81.538,28.307,17.951999999999998,35.279,HARD,14.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,47.0,81.845,28.443,17.962,35.44,HARD,20.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,RIC,RB,47.0,81.3,28.35,18.044,34.906,HARD,18.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,48.0,80.031,27.935,17.884,34.212,HARD,7.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,48.0,80.349,28.125,17.844,34.38,HARD,14.0,3.0,0,21.6,37.6,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,48.0,80.26,27.979,17.763,34.518,HARD,9.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,47.0,81.275,28.128,17.982,35.165,HARD,6.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,47.0,81.583,28.425,18.156,35.002,HARD,11.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,47.0,81.776,28.474,18.026,35.276,HARD,12.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,48.0,80.588,28.039,17.853,34.696,HARD,10.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,47.0,81.464,28.349,17.961,35.154,HARD,12.0,4.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,48.0,80.836,28.191,17.724,34.921,HARD,13.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,48.0,81.347,28.288,18.181,34.878,HARD,8.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,48.0,80.739,27.983,17.916,34.84,HARD,3.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,48.0,81.109,28.185,18.076,34.848,HARD,12.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,48.0,81.174,28.276,18.014,34.884,HARD,12.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,48.0,81.602,28.463,17.811,35.328,HARD,13.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,48.0,81.67,28.41,17.98,35.28,HARD,15.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,48.0,81.927,28.571,17.994,35.362,HARD,21.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,48.0,81.492,28.441,18.008,35.043,HARD,19.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,49.0,80.281,28.046,17.897,34.338,HARD,8.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,49.0,80.144,27.919,17.844,34.381,HARD,15.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,49.0,79.915,27.883,17.762,34.27,HARD,10.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,48.0,81.211,28.32,17.977,34.914,HARD,7.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,48.0,81.422,28.327,18.104,34.991,HARD,12.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,49.0,80.352,28.241,17.61,34.501,HARD,11.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,48.0,83.135,28.701,18.848,35.586,HARD,13.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,48.0,81.549,28.342,17.956,35.251,HARD,13.0,4.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,49.0,80.76,28.14,17.803,34.817,HARD,14.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,49.0,81.122,28.266,18.051,34.805,HARD,9.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,49.0,80.808,27.856,17.993,34.959,HARD,4.0,3.0,0,21.6,37.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,49.0,80.93,28.058,18.072,34.8,HARD,13.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,49.0,81.303,28.282,18.017,35.004,HARD,13.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,49.0,81.728,28.583,17.833,35.312,HARD,14.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,49.0,81.386,28.312,17.874,35.2,HARD,16.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,49.0,81.918,28.461,17.94,35.517,HARD,22.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,49.0,81.606,28.441,18.039,35.126,HARD,20.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,50.0,80.45,28.157,17.919,34.374,HARD,9.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,50.0,79.925,27.895,17.77,34.26,HARD,16.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,50.0,80.151,27.914,17.768,34.469,HARD,11.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,49.0,81.34,28.468,17.975,34.897,HARD,8.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,49.0,81.457,28.314,18.137,35.006,HARD,13.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,50.0,80.496,28.056,17.746,34.694,HARD,12.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,49.0,81.327,28.288,17.953,35.086,HARD,14.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,49.0,81.678,28.478,18.074,35.126,HARD,14.0,4.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,50.0,80.871,28.244,17.792,34.835,HARD,15.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,50.0,80.736,28.053,18.004,34.679,HARD,10.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,50.0,80.982,28.097,17.951,34.934,HARD,5.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,50.0,80.991,28.152,18.077,34.762,HARD,14.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,50.0,81.285,28.3,18.041,34.944,HARD,14.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,50.0,82.102,28.709,17.968,35.425,HARD,15.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,50.0,81.666,28.432,18.004,35.23,HARD,17.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,50.0,82.219,28.659,18.048,35.512,HARD,23.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,50.0,81.782,28.525,18.038,35.219,HARD,21.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,51.0,80.083,27.905,17.821,34.357,HARD,10.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,51.0,80.215,27.948,17.857,34.41,HARD,17.0,3.0,0,21.7,37.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,51.0,80.261,27.985,17.769,34.507,HARD,12.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,50.0,81.222,28.249,18.088,34.885,HARD,9.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,51.0,80.718,28.193,18.067,34.458,HARD,13.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,50.0,83.898,29.635,18.731,35.532,HARD,14.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,50.0,81.831,28.509,18.043,35.279,HARD,15.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,50.0,81.633,28.521,17.917,35.195,HARD,15.0,4.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,51.0,81.038,28.284,17.866,34.888,HARD,16.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,51.0,80.938,28.169,18.104,34.665,HARD,11.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,51.0,80.695,27.913,17.919,34.863,HARD,6.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,51.0,81.121,28.174,18.099,34.848,HARD,15.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,51.0,81.568,28.22,18.095,35.253,HARD,15.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,51.0,81.73,28.585,17.865,35.28,HARD,16.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,51.0,81.42,28.391,17.891,35.138,HARD,18.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,51.0,82.319,28.736,18.093,35.49,HARD,24.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,RIC,RB,51.0,81.769,28.534,18.066,35.169,HARD,22.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,52.0,80.209,27.963,17.912,34.334,HARD,11.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,52.0,80.331,27.976,17.865,34.49,HARD,18.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,52.0,79.959,27.971,17.717,34.271,HARD,13.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,51.0,81.09,28.224,18.052,34.814,HARD,10.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,52.0,80.295,27.98,17.85,34.465,HARD,14.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,51.0,81.649,28.418,18.133,35.098,HARD,15.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,51.0,81.83,28.516,18.063,35.251,HARD,16.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,51.0,81.951,28.499,18.024,35.428,HARD,16.0,4.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,52.0,81.15,28.38,17.743,35.027,HARD,17.0,3.0,0,21.8,37.9,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,52.0,80.493,27.981,18.004,34.508,HARD,12.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,52.0,80.529,27.848,17.927,34.754,HARD,7.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,52.0,81.213,28.234,18.166,34.813,HARD,16.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,TSU,RB,52.0,81.647,28.445,18.095,35.107,HARD,16.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,52.0,81.781,28.555,17.936,35.29,HARD,17.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,52.0,81.631,28.441,18.011,35.179,HARD,19.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,52.0,82.184,28.514,18.049,35.621,HARD,25.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,RIC,RB,52.0,81.884,28.406,18.086,35.392,HARD,23.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,53.0,80.615,27.962,17.926,34.727,HARD,12.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,53.0,80.463,28.073,17.852,34.538,HARD,19.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,53.0,80.267,27.968,17.81,34.489,HARD,14.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,52.0,81.161,28.228,18.036,34.897,HARD,11.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,53.0,80.308,27.99,17.841,34.477,HARD,15.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,52.0,82.056,28.552,18.262,35.242,HARD,16.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,52.0,82.06,28.554,18.137,35.369,HARD,17.0,3.0,0,21.9,38.1,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,52.0,82.155,28.631,18.008,35.516,HARD,17.0,4.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,53.0,81.544,28.466,17.814,35.264,HARD,18.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,53.0,80.867,28.122,18.029,34.716,HARD,13.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,53.0,80.284,27.824,17.716,34.744,HARD,8.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,53.0,81.063,28.121,18.093,34.849,HARD,17.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,TSU,RB,53.0,81.553,28.27,18.125,35.158,HARD,17.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,53.0,81.758,28.571,17.893,35.294,HARD,18.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,53.0,81.663,28.371,17.973,35.319,HARD,20.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,53.0,82.399,28.743,18.071,35.585,HARD,26.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,54.0,80.582,28.193,17.922,34.467,HARD,13.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,RIC,RB,53.0,84.232,28.574,18.108,37.55,HARD,24.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,54.0,80.32,28.019,17.81,34.491,HARD,20.0,3.0,0,21.8,38.0,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,54.0,80.107,27.907,17.75,34.45,HARD,15.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,53.0,81.324,28.293,18.046,34.985,HARD,12.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,54.0,80.199,27.903,17.756,34.54,HARD,16.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,53.0,81.82,28.427,18.228,35.165,HARD,17.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,53.0,82.184,28.537,18.159,35.488,HARD,18.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,53.0,82.207,28.556,18.036,35.615,HARD,18.0,4.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,54.0,81.63,28.537,17.969,35.124,HARD,19.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,54.0,81.035,28.123,18.064,34.848,HARD,14.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,54.0,81.194,28.025,17.764,35.405,HARD,9.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,54.0,81.13,28.029,18.135,34.966,HARD,18.0,3.0,0,21.9,37.7,False,0,0,0,0
+Australian Grand Prix,TSU,RB,54.0,81.716,28.338,18.148,35.23,HARD,18.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,54.0,82.021,28.618,17.922,35.481,HARD,19.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,54.0,85.255,28.606,18.056,38.593,HARD,21.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,55.0,80.753,28.132,17.897,34.724,HARD,14.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,54.0,84.131,28.682,18.173,37.276,HARD,27.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,RIC,RB,54.0,82.568,28.907,18.176,35.485,HARD,25.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,55.0,80.962,28.437,17.832,34.693,HARD,21.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,55.0,80.294,28.045,17.782,34.467,HARD,16.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,55.0,80.754,28.154,17.949,34.651,HARD,17.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,54.0,83.034,29.613,18.361,35.06,HARD,13.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,54.0,82.029,28.513,18.274,35.242,HARD,18.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,54.0,82.067,28.629,18.202,35.236,HARD,19.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,54.0,82.229,28.646,18.1,35.483,HARD,19.0,4.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,55.0,81.616,28.522,17.986,35.108,HARD,20.0,3.0,0,22.0,37.5,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,55.0,80.952,28.152,18.067,34.733,HARD,15.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,RUS,Mercedes,55.0,80.791,28.079,17.783,34.929,HARD,10.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,55.0,81.272,28.135,18.219,34.918,HARD,19.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,TSU,RB,55.0,81.677,28.368,18.132,35.177,HARD,19.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,55.0,82.697,28.788,17.981,35.928,HARD,20.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,56.0,81.098,28.091,18.0,35.007,HARD,15.0,3.0,0,21.9,37.2,False,1,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,55.0,84.951,29.244,18.362,37.345,HARD,22.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,55.0,82.312,28.597,18.128,35.587,HARD,28.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,56.0,79.813,28.044,17.572,34.197,HARD,22.0,3.0,0,21.9,37.2,False,1,0,0,0
+Australian Grand Prix,RIC,RB,55.0,83.611,28.647,18.849,36.115,HARD,26.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,56.0,80.481,28.074,17.779,34.628,HARD,17.0,3.0,0,21.9,37.2,False,1,0,0,0
+Australian Grand Prix,PIA,McLaren,56.0,80.357,27.947,17.927,34.483,HARD,18.0,3.0,0,21.9,37.2,False,1,0,0,0
+Australian Grand Prix,GAS,Alpine,55.0,81.427,28.115,18.119,35.193,HARD,14.0,3.0,0,21.9,37.2,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,55.0,82.01,28.396,18.405,35.209,HARD,19.0,3.0,0,21.8,37.2,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,55.0,81.798,28.526,18.117,35.155,HARD,20.0,3.0,0,21.8,37.2,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,55.0,82.304,28.627,18.124,35.553,HARD,20.0,4.0,0,21.8,37.2,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,56.0,81.849,28.564,17.943,35.342,HARD,21.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,ALO,Aston Martin,56.0,80.752,27.909,17.991,34.852,HARD,16.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,RUS,Mercedes,56.0,80.655,27.884,17.61,35.161,HARD,11.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,STR,Aston Martin,56.0,81.233,28.132,18.185,34.916,HARD,20.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,TSU,RB,56.0,81.812,28.53,18.148,35.134,HARD,20.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,56.0,82.274,28.734,18.107,35.433,HARD,21.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,SAI,Ferrari,57.0,80.882,28.011,18.062,34.809,HARD,16.0,3.0,0,21.8,37.2,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,56.0,83.198,28.619,18.156,36.423,HARD,23.0,3.0,0,21.8,37.2,False,1,0,0,0
+Australian Grand Prix,LEC,Ferrari,57.0,80.871,28.062,17.781,35.028,HARD,23.0,3.0,0,21.8,37.2,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,56.0,84.19,30.327,18.173,35.69,HARD,29.0,3.0,0,21.6,37.4,False,1,0,0,0
+Australian Grand Prix,NOR,McLaren,57.0,80.571,28.153,17.81,34.608,HARD,18.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,RIC,RB,56.0,83.839,30.316,18.061,35.462,HARD,27.0,3.0,0,21.6,37.4,False,1,0,0,0
+Australian Grand Prix,PIA,McLaren,57.0,85.255,28.222,18.192,38.841,HARD,19.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,56.0,86.911,28.394,18.123,40.394,HARD,15.0,3.0,0,21.6,37.4,False,1,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,56.0,88.05,28.487,18.199,41.364,HARD,20.0,3.0,0,21.6,37.4,False,1,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,56.0,88.058,28.458,18.136,41.464,HARD,21.0,3.0,0,21.6,37.4,False,1,0,0,0
+Australian Grand Prix,OCO,Alpine,56.0,89.807,28.631,18.095,43.081,HARD,21.0,4.0,0,21.6,37.4,False,1,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,57.0,90.3,28.769,17.883,43.648,HARD,22.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,57.0,95.183,27.994,18.82,48.369,HARD,17.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,57.0,103.017,28.051,28.096,46.87,HARD,21.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,TSU,RB,57.0,104.371,29.129,34.19,41.052,HARD,21.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,57.0,112.103,35.036,38.655,38.412,HARD,22.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,SAI,Ferrari,58.0,111.363,35.021,33.818,42.524,HARD,17.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,LEC,Ferrari,58.0,109.995,36.732,29.762,43.501,HARD,24.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,MAG,Haas F1 Team,57.0,111.944,38.574,29.849,43.521,HARD,24.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,ALB,Williams,57.0,110.408,38.388,29.361,42.659,HARD,30.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,NOR,McLaren,58.0,110.655,38.871,29.801,41.983,HARD,19.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,RIC,RB,57.0,113.984,40.013,31.824,42.147,HARD,28.0,3.0,0,21.6,37.4,False,0,0,0,0
+Australian Grand Prix,PIA,McLaren,58.0,124.363,51.872,33.063,39.428,HARD,20.0,3.0,0,21.5,37.6,False,0,0,0,0
+Australian Grand Prix,GAS,Alpine,57.0,120.819,48.81,34.206,37.803,HARD,16.0,3.0,0,21.5,37.6,False,0,0,0,0
+Australian Grand Prix,BOT,Kick Sauber,57.0,118.772,42.735,38.412,37.625,HARD,21.0,3.0,0,21.5,37.6,False,0,0,0,0
+Australian Grand Prix,ZHO,Kick Sauber,57.0,118.614,42.168,38.981,37.465,HARD,22.0,3.0,0,21.5,37.6,False,0,0,0,0
+Australian Grand Prix,OCO,Alpine,57.0,124.147,43.734,42.932,37.481,HARD,22.0,4.0,0,21.5,37.6,False,0,0,0,0
+Australian Grand Prix,PER,Red Bull Racing,58.0,121.742,42.725,40.289,38.728,HARD,23.0,3.0,0,21.5,37.6,False,0,0,0,0
+Australian Grand Prix,ALO,Aston Martin,58.0,128.461,40.972,38.589,48.9,HARD,18.0,3.0,0,21.5,36.9,False,0,0,0,0
+Australian Grand Prix,STR,Aston Martin,58.0,119.767,42.296,31.967,45.504,HARD,22.0,3.0,0,21.5,36.9,False,0,0,0,0
+Australian Grand Prix,TSU,RB,58.0,114.042,40.168,30.479,43.395,HARD,22.0,3.0,0,21.5,36.9,False,0,0,0,0
+Australian Grand Prix,HUL,Haas F1 Team,58.0,109.232,35.619,33.231,40.382,HARD,23.0,3.0,0,21.5,36.9,False,0,0,0,0

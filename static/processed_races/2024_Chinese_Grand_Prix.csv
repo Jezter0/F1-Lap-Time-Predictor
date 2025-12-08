@@ -1,0 +1,1008 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Chinese Grand Prix,VER,Red Bull Racing,1.0,101.528,28.583000000000013,29.65,43.295,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,1.0,103.173,28.976,30.575,43.622,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,1.0,103.97,29.163999999999994,31.037,43.769,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,1.0,104.524,29.432000000000002,31.161,43.931,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,1.0,105.121,29.96199999999999,31.108,44.051,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,1.0,105.746,30.317999999999998,31.11,44.318,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,1.0,106.488,30.411,31.934,44.143,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,1.0,107.041,30.866,31.163,45.012,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,1.0,107.147,30.84700000000001,31.937,44.363,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,1.0,107.73,31.259000000000007,31.755,44.716,SOFT,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,1.0,108.149,31.06199999999999,32.27,44.817,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,1.0,108.897,31.61800000000001,32.258,45.021,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,1.0,109.364,31.710000000000008,32.431,45.223,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,1.0,109.907,32.185,32.305,45.417,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,1.0,110.255,32.18,32.624,45.451,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,1.0,110.625,32.81099999999999,32.609,45.205,SOFT,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,1.0,110.671,32.45000000000002,32.9,45.321,MEDIUM,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,1.0,111.086,32.503,32.774,45.809,HARD,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,1.0,111.502,32.806000000000004,32.87,45.826,SOFT,1.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,1.0,112.13,35.456999999999994,31.411,45.262,SOFT,1.0,1.0,1,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,2.0,100.103,26.651,30.091,43.361,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,2.0,101.128,26.834,30.45,43.844,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,2.0,100.881,26.856,30.498,43.527,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,2.0,101.267,26.911,30.583,43.773,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,2.0,101.607,27.303,30.583,43.721,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,2.0,101.696,26.985,30.791,43.92,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,2.0,101.812,27.305,30.812,43.695,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,2.0,102.115,27.246,31.059,43.81,MEDIUM,2.0,1.0,0,18.8,31.1,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,2.0,102.326,27.41,30.922,43.994,SOFT,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,2.0,103.687,27.83,31.712,44.145,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,2.0,103.041,27.648,31.229,44.164,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,2.0,103.022,27.727,30.951999999999998,44.343,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,2.0,103.157,27.453,31.498,44.206,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,2.0,103.179,27.391,31.424,44.364,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,2.0,103.47,27.587,31.455,44.428,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,2.0,103.674,27.489,31.573,44.612,SOFT,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,2.0,103.907,27.241,31.669,44.997,HARD,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,2.0,104.398,28.069,31.714,44.615,MEDIUM,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,2.0,104.135,27.777,31.721,44.637,SOFT,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,2.0,104.088,27.8,31.52,44.768,SOFT,2.0,1.0,0,18.7,31.0,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,3.0,100.494,27.011,30.19,43.293,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,3.0,100.988,26.859,30.616,43.513,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,3.0,100.973,27.004,30.644,43.325,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,3.0,101.282,26.859,30.837,43.586,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,3.0,101.754,27.073,31.057,43.624,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,3.0,101.771,26.895,30.93,43.946,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,3.0,102.09,27.068,31.135,43.887,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,3.0,101.979,27.267,30.965,43.747,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,3.0,102.305,27.167,31.063,44.075,SOFT,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,3.0,102.347,26.95,31.368,44.029,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,3.0,102.548,27.242,31.336,43.97,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,3.0,102.807,27.25,31.315,44.242,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,3.0,103.014,27.257,31.399,44.358,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,3.0,103.012,27.238,31.321,44.453,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,3.0,103.073,27.047,31.569,44.457,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,3.0,103.136,27.279,31.38,44.477,SOFT,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,3.0,103.179,27.319,31.608,44.252,HARD,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,3.0,102.906,27.516,31.429,43.961,SOFT,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,3.0,103.991,27.896,31.875,44.22,MEDIUM,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,3.0,103.644,27.39,31.729,44.525,SOFT,3.0,1.0,0,18.8,30.4,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,4.0,100.573,26.923000000000002,30.187,43.463,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,4.0,101.579,27.063,30.734,43.782,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,4.0,101.604,27.0,30.985,43.619,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,4.0,101.929,27.067,30.814,44.048,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,4.0,102.247,27.517,30.817,43.913,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,4.0,102.413,27.441,30.963,44.009,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,4.0,102.22,27.289,30.941,43.99,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,4.0,102.145,27.4,31.006,43.739,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,4.0,102.556,27.311,30.88,44.365,SOFT,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,4.0,102.824,27.144,31.419,44.261,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,4.0,103.032,27.247,31.432,44.353,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,4.0,103.002,27.228,31.186,44.588,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,4.0,102.975,27.274,31.24,44.461,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,4.0,102.847,27.15,31.25,44.447,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,4.0,102.976,27.253,31.383,44.34,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,4.0,103.095,27.329,31.304,44.462,SOFT,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,4.0,103.013,27.29,31.303,44.42,SOFT,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,4.0,104.116,27.237,31.903,44.976,HARD,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,4.0,103.484,27.403,31.383,44.698,MEDIUM,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,4.0,104.226,27.493,31.44,45.293,SOFT,4.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,5.0,100.919,27.106,30.299,43.514,MEDIUM,5.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,5.0,101.625,26.937,30.787,43.901,MEDIUM,5.0,1.0,0,18.9,30.6,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,5.0,103.06,27.323,31.673000000000002,44.064,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,5.0,101.94,27.17,30.901,43.869,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,5.0,102.227,27.488,30.877,43.862,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,5.0,102.185,27.178,31.051,43.956,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,5.0,102.095,27.308,30.886,43.901,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,5.0,102.21,27.279,31.121,43.81,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,5.0,102.984,27.387,31.215,44.382,SOFT,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,5.0,103.331,27.245,31.627,44.459,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,5.0,103.192,27.299,31.575,44.318,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,5.0,103.105,27.27,31.336,44.499,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,5.0,103.392,27.334,31.42,44.638,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,5.0,103.552,27.593,31.399,44.56,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,5.0,103.449,27.483,31.532,44.434,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,5.0,103.657,27.539,31.589,44.529,SOFT,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,5.0,103.499,27.586,31.314,44.599,SOFT,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,5.0,103.797,27.387,31.712,44.698,HARD,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,5.0,104.018,27.7,31.619,44.699,MEDIUM,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,5.0,103.516,27.567,31.36,44.589,SOFT,5.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,6.0,101.147,27.114,30.431,43.602,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,6.0,101.656,27.19,30.742,43.724,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,6.0,102.363,27.069,31.125,44.169,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,6.0,102.009,27.086,31.028,43.895,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,6.0,102.608,27.42,31.171,44.017,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,6.0,102.597,27.312,31.169,44.116,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,6.0,102.322,27.267,31.156,43.899,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,6.0,102.409,27.317,31.132,43.96,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,6.0,103.277,27.427,31.431,44.419,SOFT,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,6.0,103.384,27.468,31.525,44.391,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,6.0,103.151,27.357,31.453,44.341,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,6.0,103.212,27.33,31.387,44.495,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,6.0,103.353,27.518,31.276,44.559,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,6.0,103.494,27.579,31.338,44.577,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,6.0,103.613,27.519,31.527,44.567,MEDIUM,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,6.0,103.669,27.431,31.581,44.657,SOFT,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,6.0,103.467,27.51,31.423,44.534,SOFT,6.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,6.0,103.899,27.51,31.597,44.792,HARD,6.0,1.0,0,19.0,31.0,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,6.0,104.212,27.719,31.729,44.764,MEDIUM,6.0,1.0,0,19.0,31.0,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,6.0,103.726,27.432,31.588,44.706,SOFT,6.0,1.0,0,19.0,31.0,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,7.0,101.118,27.164,30.362,43.592,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,7.0,101.583,27.096,30.603,43.884,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,7.0,102.403,27.022,31.432,43.949,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,7.0,103.817,27.371,31.2,45.246,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,7.0,102.376,27.431,30.809,44.136,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,7.0,102.589,27.34,31.018,44.231,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,7.0,102.417,27.201,31.213,44.003,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,7.0,102.783,27.351,31.085,44.347,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,7.0,103.261,27.39,31.28,44.591,SOFT,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,7.0,102.959,27.557,31.51,43.892,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,7.0,104.061,27.553,31.328,45.18,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,7.0,103.549,27.503,31.45,44.596,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,7.0,103.361,27.681,31.189,44.491,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,7.0,103.352,27.528,31.299,44.525,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,7.0,103.798,27.67,31.366,44.762,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,7.0,103.951,27.667,31.349,44.935,SOFT,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,7.0,104.056,27.593,31.549,44.914,SOFT,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,7.0,103.93,27.684,31.345,44.901,HARD,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,7.0,104.073,27.488,31.649,44.936,MEDIUM,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,7.0,104.084,27.722,31.576,44.786,SOFT,7.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,8.0,101.11,27.129,30.395,43.586,MEDIUM,8.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,8.0,101.713,27.121,30.761,43.831,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,8.0,101.756,27.141,30.805,43.81,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,8.0,103.132,27.391,31.299,44.442,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,8.0,102.627,27.427,30.943,44.257,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,8.0,103.114,27.416,31.223,44.475,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,8.0,102.969,27.283,31.48,44.206,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,8.0,102.951,27.48,31.199,44.272,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,8.0,103.068,27.53,31.045,44.493,SOFT,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,8.0,103.45,27.595,31.172,44.683,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,8.0,104.045,27.521,31.763,44.761,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,8.0,103.991,27.722,31.602,44.667,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,8.0,103.871,27.673000000000002,31.519,44.679,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,8.0,103.843,27.696,31.337,44.81,MEDIUM,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,8.0,109.064,27.74,31.788,49.536,MEDIUM,8.0,1.0,1,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,8.0,103.769,27.507,31.695,44.567,SOFT,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,8.0,104.239,27.632,31.516,45.091,HARD,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,8.0,104.213,27.352,32.263,44.598,SOFT,8.0,1.0,0,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,8.0,108.43,27.732,31.342,49.356,SOFT,8.0,1.0,1,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,8.0,109.478,27.849,31.586,50.043,MEDIUM,8.0,1.0,1,19.0,30.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,9.0,101.155,27.111,30.392,43.652,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,9.0,101.768,27.242,30.619,43.907,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,9.0,101.688,27.142,30.741,43.805,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,9.0,102.946,27.552,31.167,44.227,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,9.0,102.976,27.543,31.13,44.303,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,9.0,102.189,27.245,30.805,44.139,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,9.0,103.985,27.976,31.329,44.68,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,9.0,102.8,27.441,31.194,44.165,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,9.0,107.714,27.394,31.116,49.204,SOFT,9.0,1.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,9.0,103.691,27.522,31.562,44.607,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,9.0,107.977,27.48,31.189,49.308,MEDIUM,9.0,1.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,9.0,103.605,27.551,31.371,44.683,MEDIUM,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,9.0,108.29,27.15,31.15,49.99,MEDIUM,9.0,1.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,9.0,108.371,27.426,31.509,49.436,MEDIUM,9.0,1.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,9.0,103.461,27.564,31.255,44.642,HARD,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,9.0,103.236,27.431,31.304,44.501,SOFT,9.0,1.0,0,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,9.0,107.942,27.422,31.115,49.405,SOFT,9.0,1.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,9.0,119.939,45.82,30.578,43.541,HARD,1.0,2.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,9.0,119.845,46.224,30.167,43.454,MEDIUM,1.0,2.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,9.0,121.214,46.945,30.538,43.731,HARD,1.0,2.0,1,19.0,30.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,10.0,101.424,27.172,30.519,43.733,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,10.0,101.84,27.198,30.848,43.794,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,10.0,101.695,27.12,30.861,43.714,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,10.0,103.083,27.571,31.284,44.228,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,10.0,102.658,27.411,31.102,44.145,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,10.0,102.324,27.238,31.145,43.941,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,10.0,103.227,27.548000000000002,31.38,44.299,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,10.0,103.238,27.371,31.806,44.061,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,10.0,103.435,27.311,31.437,44.687,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,10.0,103.309,27.532,31.168,44.609,MEDIUM,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,10.0,103.28,27.469,31.262,44.549,HARD,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,10.0,103.684,27.691,31.54,44.453,SOFT,10.0,1.0,0,19.0,30.6,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,10.0,119.726,46.238,29.942,43.546,MEDIUM,1.0,2.0,1,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,10.0,101.429,26.855,30.843,43.731,HARD,2.0,2.0,0,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,10.0,121.016,46.422,30.772,43.822,HARD,1.0,2.0,1,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,10.0,120.652,46.251,30.427,43.974,HARD,1.0,2.0,1,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,10.0,102.171,27.086,30.779,44.306,MEDIUM,2.0,2.0,0,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,10.0,121.494,46.35,31.237,43.907,MEDIUM,1.0,2.0,1,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,10.0,118.909,45.205,30.064,43.64,MEDIUM,1.0,2.0,1,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,10.0,101.765,27.052,30.542,44.171,HARD,2.0,2.0,0,19.0,30.3,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,11.0,101.401,27.17,30.646,43.585,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,11.0,101.767,27.22,30.826,43.721,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,11.0,101.828,27.163,30.866,43.799,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,11.0,102.128,27.066,31.372,43.69,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,11.0,103.456,27.32,31.332,44.804,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,11.0,103.299,27.38,31.597,44.322,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,11.0,108.048,27.51,31.228,49.31,MEDIUM,11.0,1.0,1,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,11.0,108.016,27.595,31.267,49.154,MEDIUM,11.0,1.0,1,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,11.0,103.487,27.366,31.505,44.616,MEDIUM,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,11.0,103.549,27.633,31.297,44.619,HARD,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,11.0,108.722,27.727,31.204,49.791,MEDIUM,11.0,1.0,1,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,11.0,103.575,27.649,31.394,44.532,SOFT,11.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,11.0,101.281,26.844,30.546,43.891,MEDIUM,2.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,11.0,101.42,26.861,30.684,43.875,HARD,3.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,11.0,101.276,27.03,30.426,43.82,HARD,2.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,11.0,101.472,26.867,30.508,44.097,HARD,2.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,11.0,101.593,27.019,30.593,43.981,MEDIUM,3.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,11.0,101.409,26.848,30.842,43.719,MEDIUM,2.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,11.0,102.937,27.044,31.735,44.158,MEDIUM,2.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,11.0,101.833,27.344,30.56,43.929,HARD,3.0,2.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,12.0,101.318,27.121,30.558,43.639,MEDIUM,12.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,12.0,102.266,27.442,30.963,43.861,MEDIUM,12.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,12.0,102.007,27.266,30.857,43.884,MEDIUM,12.0,1.0,0,18.9,30.2,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,12.0,101.939,27.165,30.859,43.915,MEDIUM,12.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,12.0,102.975,27.564,31.194,44.217,MEDIUM,12.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,12.0,102.603,27.289,31.14,44.174,MEDIUM,12.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,12.0,103.115,27.576999999999998,31.201,44.337,MEDIUM,12.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,12.0,103.665,27.69,31.478,44.497,HARD,12.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,12.0,120.05,45.68,30.787,43.583,HARD,1.0,2.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,12.0,118.003,44.862,29.863,43.278,MEDIUM,1.0,2.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,12.0,102.009,27.174,30.902,43.933,MEDIUM,3.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,12.0,109.069,27.64,31.416,50.013,SOFT,12.0,1.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,12.0,101.821,26.987,31.092,43.742,HARD,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,12.0,101.994,27.306,30.865,43.823,HARD,3.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,12.0,101.793,27.224,30.561,44.008,HARD,3.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,12.0,102.304,27.316,30.82,44.168,MEDIUM,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,12.0,101.904,26.938,30.884,44.082,MEDIUM,3.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,12.0,102.151,27.062,31.044,44.045,MEDIUM,3.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,12.0,101.928,27.403,30.574,43.951,HARD,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,12.0,137.655,63.258,30.614,43.783,HARD,1.0,2.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,13.0,106.526,27.05,30.576,48.9,MEDIUM,13.0,1.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,13.0,101.805,27.251,30.822,43.732,MEDIUM,13.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,13.0,106.866,27.325,30.895,48.646,MEDIUM,13.0,1.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,13.0,102.079,27.348,30.754,43.977,MEDIUM,13.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,13.0,102.871,27.614,31.126,44.131,MEDIUM,13.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,13.0,102.4,27.455,31.031,43.914,MEDIUM,13.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,13.0,103.016,27.628,31.199,44.189,MEDIUM,13.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,13.0,102.256,26.72,31.576999999999998,43.959,HARD,2.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,13.0,100.785,26.911,30.22,43.654,MEDIUM,2.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,13.0,104.59,27.71,31.398,45.482,HARD,13.0,1.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,13.0,101.472,27.017,30.645,43.81,MEDIUM,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,13.0,102.061,27.103,31.037,43.921,HARD,5.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,13.0,102.144,27.393,30.725,44.026,HARD,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,13.0,102.193,27.207,30.859,44.127,HARD,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,13.0,101.927,27.321,30.655,43.951,MEDIUM,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,13.0,103.531,27.814,31.534,44.183,MEDIUM,5.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,13.0,102.608,27.474,31.239,43.895,MEDIUM,4.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,13.0,102.212,27.372,30.808,44.032,HARD,5.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,13.0,120.228,46.327,30.261,43.64,MEDIUM,1.0,2.0,1,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,13.0,101.071,27.043,30.265,43.763,HARD,2.0,2.0,0,18.8,30.5,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,14.0,101.656,27.225,30.698,43.733,MEDIUM,14.0,1.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,14.0,101.812,27.246,30.685,43.881,MEDIUM,14.0,1.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,14.0,119.074,45.631,30.099,43.344,HARD,1.0,2.0,1,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,14.0,103.139,27.647,31.03,44.462,MEDIUM,14.0,1.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,14.0,103.087,27.657,31.162,44.268,MEDIUM,14.0,1.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,14.0,118.255,45.143,29.986,43.126,HARD,1.0,2.0,1,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,14.0,100.944,26.921,30.309,43.714,HARD,3.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,14.0,101.754,27.036,30.895,43.823,MEDIUM,3.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,14.0,107.802,27.652,31.137,49.013,MEDIUM,14.0,1.0,1,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,14.0,103.959,27.722,31.549,44.688,HARD,14.0,1.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,14.0,101.825,27.231,30.723,43.871,MEDIUM,5.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,14.0,102.123,27.017,31.096,44.01,HARD,6.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,14.0,102.359,27.546,30.783,44.03,HARD,5.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,14.0,102.112,27.255,30.815,44.042,HARD,5.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,14.0,101.72,27.232,30.537,43.951,MEDIUM,5.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,14.0,102.51,27.415,30.854,44.241,MEDIUM,6.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,14.0,103.274,27.494,31.455,44.325,MEDIUM,5.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,14.0,102.626,27.602,30.848,44.176,HARD,6.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,14.0,101.0,26.901,30.37,43.729,MEDIUM,2.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,14.0,101.893,27.333,30.439,44.121,HARD,3.0,2.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,15.0,102.04,27.341,30.778,43.921,MEDIUM,15.0,1.0,0,18.9,30.3,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,15.0,101.864,27.212,30.784,43.868,MEDIUM,15.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,15.0,99.591,26.64,29.773,43.178,HARD,2.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,15.0,102.645,27.433,30.992,44.22,MEDIUM,15.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,15.0,102.792,27.496,31.088,44.208,MEDIUM,15.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,15.0,100.038,26.701999999999998,30.175,43.161,HARD,2.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,15.0,100.983,26.81,30.316,43.857,HARD,4.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,15.0,101.308,27.202,30.459,43.647,MEDIUM,4.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,15.0,101.47,26.966,30.661,43.843,MEDIUM,6.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,15.0,104.466,27.668,32.043,44.755,HARD,15.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,15.0,102.408,27.139,31.177,44.092,HARD,7.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,15.0,102.391,27.389,30.819,44.183,HARD,6.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,15.0,102.357,27.368,30.759,44.23,HARD,6.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,15.0,102.314,27.361,30.746,44.207,MEDIUM,6.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,15.0,102.294,27.269,30.764,44.261,MEDIUM,7.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,15.0,102.762,27.388,31.102,44.272,MEDIUM,6.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,15.0,102.994,27.53,30.741,44.723,HARD,7.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,15.0,120.257,45.802,30.413,44.042,MEDIUM,1.0,2.0,1,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,15.0,101.741,27.173,30.505,44.063,MEDIUM,3.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,15.0,101.679,27.204,30.382,44.093,HARD,4.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,16.0,101.795,27.205,30.78,43.81,MEDIUM,16.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,16.0,99.985,26.616,30.137,43.232,HARD,3.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,16.0,102.729,27.237,31.529,43.963,MEDIUM,16.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,16.0,102.693,27.384,31.091,44.218,MEDIUM,16.0,1.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,16.0,100.556,26.763,30.254,43.539,HARD,3.0,2.0,0,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,16.0,107.643,27.548000000000002,30.966,49.129,MEDIUM,16.0,1.0,1,18.8,30.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,16.0,101.274,26.819,30.502,43.953,HARD,5.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,16.0,101.4,27.034,30.479,43.887,MEDIUM,5.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,16.0,101.816,27.068,30.698,44.05,MEDIUM,7.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,16.0,103.648,27.578,31.324,44.746,HARD,16.0,1.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,16.0,102.5,27.221,31.06,44.219,HARD,8.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,16.0,102.215,27.116,30.773,44.326,HARD,7.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,16.0,102.443,27.243,30.738,44.462,HARD,7.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,16.0,102.531,27.293,30.77,44.468,MEDIUM,7.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,16.0,102.528,27.228,30.803,44.497,MEDIUM,8.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,16.0,102.611,27.301,31.112,44.198,MEDIUM,7.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,16.0,100.994,26.682,30.497,43.815,MEDIUM,2.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,16.0,103.24,27.931,30.956,44.353,HARD,8.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,16.0,102.441,27.198,30.859,44.384,MEDIUM,4.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,16.0,102.107,27.248,30.667,44.192,HARD,5.0,2.0,0,18.8,29.8,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,17.0,101.7,27.132,30.724,43.844,MEDIUM,17.0,1.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,17.0,99.519,26.503,29.874,43.142,HARD,4.0,2.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,17.0,101.979,27.306,30.845,43.828,MEDIUM,17.0,1.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,17.0,102.103,26.834,31.213,44.056,HARD,4.0,2.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,17.0,107.863,27.355,31.014,49.494,MEDIUM,17.0,1.0,1,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,17.0,101.251,26.859,30.484,43.908,HARD,6.0,2.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,17.0,101.376,27.016,30.516,43.844,MEDIUM,6.0,2.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,17.0,101.721,27.139,30.61,43.972,MEDIUM,8.0,2.0,0,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,17.0,119.282,45.362,30.578,43.342,MEDIUM,2.0,2.0,1,18.6,29.8,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,17.0,101.955,26.986,30.88,44.089,HARD,9.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,17.0,102.606,27.347,30.971,44.288,HARD,8.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,17.0,102.55,27.267,30.705,44.578,HARD,8.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,17.0,102.223,27.338,30.584,44.301,MEDIUM,8.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,17.0,110.262,28.315,31.644,50.303,HARD,17.0,1.0,1,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,17.0,102.441,27.284,30.951999999999998,44.205,MEDIUM,9.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,17.0,101.077,26.947,30.664,43.466,MEDIUM,3.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,17.0,103.118,27.312,31.042,44.764,MEDIUM,8.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,17.0,103.189,27.646,30.817,44.726,HARD,9.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,17.0,102.275,27.182,30.848,44.245,MEDIUM,5.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,17.0,101.956,27.303,30.519,44.134,HARD,6.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,18.0,101.994,27.352,30.833,43.809,MEDIUM,18.0,1.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,18.0,100.07,26.781,30.075,43.214,HARD,5.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,18.0,102.114,27.442,30.799,43.873,MEDIUM,18.0,1.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,18.0,100.199,26.92,30.085,43.194,HARD,5.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,18.0,101.229,26.948,30.472,43.809,HARD,7.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,18.0,101.491,27.005,30.517,43.969,MEDIUM,7.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,18.0,99.739,26.748,30.172,42.819,MEDIUM,3.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,18.0,102.436,27.2,30.649,44.587,MEDIUM,9.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,18.0,118.852,45.627,30.049,43.176,HARD,1.0,2.0,1,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,18.0,103.019,27.155,31.138,44.726,HARD,10.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,18.0,102.768,27.472,30.886,44.41,HARD,9.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,18.0,102.486,27.338,30.703,44.445,HARD,9.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,18.0,102.564,27.397,30.752,44.415,MEDIUM,9.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,18.0,102.628,27.376,30.911,44.341,MEDIUM,10.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,18.0,101.542,27.188,30.487,43.867,MEDIUM,4.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,18.0,103.004,27.376,31.239,44.389,MEDIUM,9.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,18.0,102.887,27.54,30.831,44.516,HARD,10.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,18.0,102.301,27.271,30.902,44.128,MEDIUM,6.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,18.0,101.812,27.118,30.516,44.178,HARD,7.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,18.0,120.904,46.451,30.449,44.004,HARD,1.0,2.0,1,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,19.0,100.139,26.72,30.245,43.174,HARD,6.0,2.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,19.0,102.658,27.345,30.766,44.547,MEDIUM,19.0,1.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,19.0,101.982,27.275,30.764,43.943,MEDIUM,19.0,1.0,0,18.6,29.9,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,19.0,100.313,26.929,30.099,43.285,HARD,6.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,19.0,101.459,26.93,30.507,44.022,HARD,8.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,19.0,101.416,26.995,30.419,44.002,MEDIUM,8.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,19.0,100.632,26.874,30.344,43.414,MEDIUM,4.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,19.0,102.334,27.278,30.872,44.184,MEDIUM,10.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,19.0,99.764,26.609,29.898,43.257,HARD,2.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,19.0,102.465,27.069,31.157,44.239,HARD,11.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,BOT,Kick Sauber,19.0,102.252,27.245,30.664,44.343,HARD,10.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,19.0,102.544,27.397,30.7,44.447,HARD,10.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,19.0,102.854,27.385,30.912,44.557,MEDIUM,10.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,19.0,101.955,27.157,31.044,43.754,MEDIUM,5.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,19.0,103.224,27.279,30.95,44.995,MEDIUM,11.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,19.0,103.187,27.446,31.211,44.53,MEDIUM,10.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,19.0,102.827,27.525,30.89,44.412,HARD,11.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,19.0,102.59,27.32,31.02,44.25,MEDIUM,7.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,19.0,102.136,27.302,30.451,44.383,HARD,8.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,19.0,101.106,26.677,30.429,44.0,HARD,2.0,2.0,0,18.5,29.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,20.0,100.081,26.759,29.937,43.385,HARD,7.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,NOR,McLaren,20.0,102.167,27.181,30.908,44.078,MEDIUM,20.0,1.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,LEC,Ferrari,20.0,102.041,27.337,30.746,43.958,MEDIUM,20.0,1.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,20.0,100.522,26.801,30.119,43.602,HARD,7.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,20.0,101.64,26.937,30.635,44.068,HARD,9.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,RUS,Mercedes,20.0,102.067,27.247,30.687,44.133,MEDIUM,9.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,PIA,McLaren,20.0,100.478,26.907,30.285,43.286,MEDIUM,5.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,STR,Aston Martin,20.0,102.095,27.339,30.576,44.18,MEDIUM,11.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,SAI,Ferrari,20.0,100.661,26.873,30.157,43.631,HARD,3.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,20.0,102.187,27.23,30.89,44.067,HARD,12.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,OCO,Alpine,20.0,102.599,27.33,30.683,44.586,HARD,11.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,HAM,Mercedes,20.0,103.115,27.444,30.921,44.75,MEDIUM,11.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,RIC,RB,20.0,101.817,27.248,30.495,44.074,MEDIUM,6.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,TSU,RB,20.0,103.174,27.555,31.071,44.548,MEDIUM,12.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,ALB,Williams,20.0,103.186,27.408,31.078,44.7,MEDIUM,11.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,20.0,103.17,27.588,30.866,44.716,HARD,12.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,SAR,Williams,20.0,103.203,27.348,31.376,44.479,MEDIUM,8.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,GAS,Alpine,20.0,102.229,27.252,30.52,44.457,HARD,9.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,20.0,101.312,26.807,30.41,44.095,HARD,3.0,2.0,0,18.6,29.9,False,1,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,21.0,100.49,26.737,30.083,43.67,HARD,8.0,2.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,NOR,McLaren,21.0,103.566,27.457,31.108,45.001,MEDIUM,21.0,1.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,PER,Red Bull Racing,21.0,107.126,26.877,30.246,50.003,HARD,8.0,2.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,LEC,Ferrari,21.0,111.969,27.352,30.901,53.716,MEDIUM,21.0,1.0,1,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,ALO,Aston Martin,21.0,110.904,27.034,30.498,53.372,HARD,10.0,2.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,RUS,Mercedes,21.0,112.13,26.99,30.734,54.406,MEDIUM,10.0,2.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,PIA,McLaren,21.0,112.541,26.85,30.496,55.195,MEDIUM,6.0,2.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,SAI,Ferrari,21.0,115.808,26.983,31.136,57.689,HARD,4.0,2.0,0,18.7,29.6,False,0,0,1,0
+Chinese Grand Prix,STR,Aston Martin,21.0,118.981,27.168,30.839,60.974,MEDIUM,12.0,2.0,1,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,HUL,Haas F1 Team,21.0,117.611,27.135,31.03,59.446,HARD,13.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,OCO,Alpine,21.0,117.545,27.289,31.427,58.829,HARD,12.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,RIC,RB,21.0,119.371,26.953,34.798,57.62,MEDIUM,7.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,TSU,RB,21.0,119.83,27.455,35.901,56.474,MEDIUM,13.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,HAM,Mercedes,21.0,122.779,27.428,32.924,62.427,MEDIUM,12.0,2.0,1,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,ALB,Williams,21.0,120.728,27.295,37.086,56.347,MEDIUM,12.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,ZHO,Kick Sauber,21.0,121.981,27.673000000000002,36.381,57.927,HARD,13.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,SAR,Williams,21.0,122.122,27.544,37.511,57.067,MEDIUM,9.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,GAS,Alpine,21.0,123.25,27.165,37.882,58.203,HARD,10.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,MAG,Haas F1 Team,21.0,123.843,26.911,38.907,58.025,HARD,4.0,2.0,0,18.6,29.6,False,0,0,1,0
+Chinese Grand Prix,VER,Red Bull Racing,22.0,134.296,35.865,40.703,57.728,HARD,9.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,NOR,McLaren,22.0,138.646,37.234,39.695,61.717,MEDIUM,22.0,1.0,1,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,PER,Red Bull Racing,22.0,133.674,34.584,43.092,55.998,HARD,9.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,ALO,Aston Martin,22.0,133.864,35.242,40.899,57.723,HARD,11.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,RUS,Mercedes,22.0,133.433,34.98,41.851,56.602,MEDIUM,11.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,PIA,McLaren,22.0,135.352,35.501,41.433,58.418,MEDIUM,7.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,SAI,Ferrari,22.0,134.775,38.22,38.751,57.804,HARD,5.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,22.0,132.713,34.306,41.832,56.575,HARD,14.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,OCO,Alpine,22.0,135.159,36.276,41.587,57.296,HARD,13.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,RIC,RB,22.0,134.125,35.429,40.777,57.919,MEDIUM,8.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,TSU,RB,22.0,133.79,35.893,40.501,57.396,MEDIUM,14.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,ALB,Williams,22.0,133.878,35.314,41.832,56.732,MEDIUM,13.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,22.0,133.883,35.522,40.106,58.255,HARD,14.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,SAR,Williams,22.0,133.694,35.584,40.056,58.054,MEDIUM,10.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,HAM,Mercedes,22.0,149.397,52.943,41.99,54.464,HARD,1.0,3.0,1,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,GAS,Alpine,22.0,134.094,37.197,41.731,55.166,HARD,11.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,22.0,135.385,36.99,41.788,56.607,HARD,5.0,2.0,0,18.6,29.5,False,0,1,0,0
+Chinese Grand Prix,VER,Red Bull Racing,23.0,137.938,35.57,39.478,62.89,HARD,10.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,23.0,137.492,36.656,40.424,60.412,HARD,10.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,23.0,148.677,50.866,40.397,57.414,HARD,1.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,23.0,132.911,37.046,39.533,56.332,HARD,2.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,23.0,137.153,36.465,39.226,61.462,HARD,12.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,23.0,132.376,34.557,41.506,56.313,MEDIUM,8.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,23.0,138.074,35.529,40.902,61.643,MEDIUM,12.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,23.0,133.108,37.28,37.16,58.668,HARD,6.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,23.0,137.671,35.274,40.667,61.73,HARD,15.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,23.0,132.827,35.679,39.4,57.748,MEDIUM,9.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,23.0,137.613,35.058,40.399,62.156,HARD,14.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,23.0,132.612,36.028,39.677,56.907,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,23.0,137.702,35.887,39.92,61.895,MEDIUM,15.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,23.0,136.59,35.697,39.673,61.22,MEDIUM,14.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,23.0,133.935,36.404,39.65,57.881,MEDIUM,11.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,23.0,137.614,36.093,39.389,62.132,HARD,15.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,23.0,133.536,36.231,39.784,57.521,HARD,2.0,3.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,23.0,132.117,35.145,38.966,58.006,HARD,6.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,23.0,138.481,36.277,39.366,62.838,HARD,12.0,2.0,1,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,24.0,146.575,35.701,45.966,64.908,HARD,2.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,24.0,136.842,35.007,38.685,63.15,HARD,3.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,24.0,137.575,35.195,41.459,60.921,MEDIUM,9.0,2.0,1,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,24.0,133.409,37.683,38.503,57.223,HARD,7.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,24.0,148.542,52.151,39.582,56.809,SOFT,1.0,3.0,1,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,24.0,148.872,52.768,40.554,55.55,HARD,1.0,3.0,1,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,24.0,132.652,36.646,40.163,55.843,MEDIUM,10.0,2.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,24.0,132.862,35.434,40.146,57.282,HARD,3.0,3.0,0,18.6,29.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,24.0,135.351,33.706,40.173,61.472,MEDIUM,12.0,2.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,24.0,148.655,54.763,38.369,55.523,HARD,1.0,3.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,24.0,133.117,38.804,37.536,56.777,HARD,3.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,24.0,132.967,38.752,36.718,57.497,HARD,7.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,24.0,149.433,54.44,35.772,59.221,HARD,1.0,3.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,24.0,149.799,54.658,38.275,56.866,HARD,1.0,3.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,24.0,149.898,52.564,41.574,55.76,HARD,1.0,3.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,25.0,145.05,38.16,46.49,60.4,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,25.0,145.105,37.817,46.096,61.192,HARD,3.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,25.0,145.209,36.693,46.826,61.69,HARD,4.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,25.0,144.356,35.618,47.349,61.389,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,25.0,136.459,27.708,47.613,61.138,HARD,8.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,25.0,135.201,32.074,40.507,62.62,SOFT,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,25.0,131.356,30.327,40.429,60.6,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,25.0,145.072,47.353,38.244,59.475,HARD,1.0,3.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,25.0,128.183,30.561,39.02,58.602,MEDIUM,11.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,25.0,127.034,28.736,39.134,59.164,HARD,4.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,25.0,119.529,29.042,33.364,57.123,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,25.0,116.221,26.849,31.651,57.721,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,25.0,114.977,27.786,33.306,53.885,HARD,4.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,25.0,114.289,29.044,32.724,52.521,HARD,8.0,2.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,TSU,RB,25.0,114.27,28.391,33.352,52.527,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,25.0,111.954,29.244,32.549,50.161,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,25.0,126.753,46.785,32.526,47.442,HARD,1.0,3.0,1,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,25.0,109.955,29.479,32.018,48.458,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,25.0,109.465,29.146,33.221,47.098,HARD,2.0,3.0,0,18.6,29.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,26.0,147.733,34.743,43.102,69.888,HARD,3.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,OCO,Alpine,26.0,147.921,34.696,42.648,70.577,HARD,3.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,HAM,Mercedes,26.0,147.219,35.762,41.631,69.826,HARD,5.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,26.0,146.068,35.224,42.068,68.776,HARD,9.0,2.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,TSU,RB,26.0,143.71,34.749,41.78,67.181,HARD,3.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,ALB,Williams,26.0,143.336,35.41,41.182,66.744,HARD,3.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,SAR,Williams,26.0,141.458,34.399,40.996,66.063,HARD,2.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,26.0,138.497,32.788,41.237,64.472,HARD,3.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,GAS,Alpine,26.0,132.45,29.516,39.105,63.829,HARD,3.0,3.0,0,18.7,29.6,False,1,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,27.0,107.123,26.034,29.474,51.615,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,NOR,McLaren,27.0,108.631,26.449,29.753,52.429,HARD,5.0,2.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,LEC,Ferrari,27.0,108.724,26.655,29.957,52.112,HARD,6.0,2.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,PER,Red Bull Racing,27.0,109.072,26.812,30.047,52.213,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,ALO,Aston Martin,27.0,110.392,26.633,30.354,53.405,SOFT,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,SAI,Ferrari,27.0,112.235,26.898,30.31,55.027,HARD,10.0,2.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,RUS,Mercedes,27.0,113.377,26.882,30.016,56.479,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,PIA,McLaren,27.0,114.121,26.938,30.317,56.866,HARD,3.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,27.0,114.261,26.714,30.602,56.945,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,RIC,RB,27.0,114.803,27.471,30.614,56.718,MEDIUM,13.0,2.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,HAM,Mercedes,27.0,115.435,27.175,30.71,57.55,HARD,6.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,OCO,Alpine,27.0,116.712,27.499,31.212,58.001,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,ALB,Williams,27.0,116.85,27.27,31.751,57.829,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,SAR,Williams,27.0,117.209,27.359,32.012,57.838,HARD,3.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,27.0,118.405,27.551,31.801,59.053,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,GAS,Alpine,27.0,118.826,27.235,32.258,59.333,HARD,4.0,3.0,0,18.6,29.2,False,0,1,0,0
+Chinese Grand Prix,NOR,McLaren,28.0,149.965,34.087,51.22,64.658,HARD,6.0,2.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,28.0,149.234,33.27,50.802,65.162,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,28.0,149.005,33.551,50.843,64.611,HARD,4.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,28.0,146.589,30.94,50.989,64.66,MEDIUM,14.0,2.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,28.0,149.564,32.847,52.321,64.396,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,28.0,147.598,32.116,51.255,64.227,HARD,7.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,28.0,147.622,32.276,51.266,64.08,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,28.0,146.979,32.489,50.65,63.84,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,28.0,146.89,32.154,51.448,63.288,HARD,4.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,28.0,147.061,32.404,51.246,63.411,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,28.0,146.862,32.193,51.095,63.574,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,28.0,137.066,49.816,31.747,55.503,MEDIUM,1.0,3.0,1,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,28.0,138.015,35.176,39.9,62.939,MEDIUM,2.0,4.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,29.0,146.57,39.616,44.166,62.788,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,29.0,147.449,40.381,45.283,61.785,HARD,7.0,2.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,29.0,146.334,39.65,45.685,60.999,HARD,8.0,2.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,29.0,145.947,39.211,45.775,60.961,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,29.0,145.818,40.074,45.245,60.499,SOFT,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,29.0,145.926,39.665,45.528,60.733,HARD,12.0,2.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,29.0,145.225,39.351,46.214,59.66,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,29.0,145.655,39.593,46.31,59.752,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,29.0,145.366,39.912,46.527,58.927,MEDIUM,15.0,2.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,29.0,145.148,39.276,46.727,59.145,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,29.0,144.889,39.299,46.869,58.721,HARD,8.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,29.0,144.917,39.62,46.679,58.618,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,29.0,144.784,39.902,46.594,58.288,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,29.0,144.794,39.862,46.42,58.512,HARD,5.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,29.0,146.076,39.705,45.966,60.405,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,29.0,146.365,40.034,45.883,60.448,HARD,6.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,29.0,117.805,27.375,31.469,58.961,MEDIUM,2.0,3.0,0,18.6,29.2,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,29.0,104.547,26.825,29.769,47.953,MEDIUM,3.0,4.0,0,18.5,29.2,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,30.0,140.118,36.62,44.106,59.392,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,30.0,139.874,35.481,44.201,60.192,HARD,8.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,30.0,140.784,35.682,43.965,61.137,HARD,9.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,30.0,141.644,35.589,44.431,61.624,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,30.0,142.1,35.989,44.648,61.463,SOFT,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,30.0,141.876,35.663,44.594,61.619,HARD,13.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,30.0,141.655,36.089,44.314,61.252,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,30.0,141.071,36.007,44.063,61.001,HARD,6.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,30.0,141.054,36.799,44.41,59.845,MEDIUM,16.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,30.0,141.361,37.023,44.415,59.923,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,30.0,141.1,37.311,44.312,59.477,HARD,9.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,30.0,141.322,37.308,44.977,59.037,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,30.0,141.349,37.338,44.891,59.12,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,30.0,141.607,38.125,44.298,59.184,HARD,6.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,30.0,141.354,35.867,44.78,60.707,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,30.0,140.888,35.686,45.132,60.07,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,30.0,141.596,35.996,44.947,60.653,MEDIUM,3.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,30.0,103.268,27.18,30.761,45.327,MEDIUM,4.0,4.0,0,18.4,28.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,31.0,148.77,35.883,44.116,68.771,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,31.0,148.01,34.9,44.186,68.924,HARD,9.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,31.0,146.766,34.005,44.877,67.884,HARD,10.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,31.0,145.856,33.147,44.73,67.979,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,31.0,144.857,33.323,44.745,66.789,SOFT,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,31.0,144.652,33.053,44.499,67.1,HARD,14.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,31.0,144.253,33.249,44.397,66.607,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,31.0,144.001,33.807,44.376,65.818,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,31.0,143.797,35.265,44.231,64.301,MEDIUM,17.0,2.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,31.0,143.141,35.19,43.945,64.006,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,31.0,142.834,36.51,44.378,61.946,HARD,10.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,31.0,142.345,35.999,44.441,61.905,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,31.0,142.128,36.052,44.173,61.903,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,31.0,141.503,36.242,44.082,61.179,HARD,7.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,31.0,139.42,34.471,44.324,60.625,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,31.0,139.27,35.216,44.757,59.297,HARD,8.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,31.0,137.804,34.647,44.809,58.348,MEDIUM,4.0,3.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,31.0,124.24,27.177,39.107,57.956,MEDIUM,5.0,4.0,0,18.5,29.1,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,32.0,98.604,26.06,29.829,42.715,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,32.0,98.957,26.404,29.748,42.805,HARD,10.0,2.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,32.0,99.525,26.515,29.931,43.079,HARD,11.0,2.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,32.0,99.731,26.494,29.951999999999998,43.285,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,32.0,100.19,26.552,30.149,43.489,SOFT,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,32.0,100.401,26.813,30.054,43.534,HARD,15.0,2.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,32.0,100.69,26.911,30.215,43.564,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,32.0,101.017,26.91,30.478,43.629,HARD,8.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,32.0,100.815,26.767,30.449,43.599,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,32.0,101.118,27.031,30.408,43.679,HARD,11.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,32.0,101.902,26.904,30.937,44.061,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,32.0,104.075,27.245,31.834,44.996,MEDIUM,18.0,2.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,32.0,102.221,27.078,30.724,44.419,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,32.0,102.185,27.148,30.66,44.377,HARD,8.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,32.0,102.002,27.006,30.604,44.392,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,32.0,101.886,26.989,30.76,44.137,HARD,9.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,32.0,101.74,26.956,30.822,43.962,MEDIUM,5.0,3.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,32.0,101.485,26.753,30.615,44.117,MEDIUM,6.0,4.0,0,18.5,28.8,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,33.0,98.406,26.22,29.365,42.821,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,33.0,98.751,26.281,29.536,42.934,HARD,11.0,2.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,33.0,99.384,26.529,29.829,43.026,HARD,12.0,2.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,33.0,99.388,26.362,29.915,43.111,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,33.0,99.48,26.546,29.893,43.041,SOFT,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,33.0,100.048,26.579,30.014,43.455,HARD,16.0,2.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,33.0,100.476,26.712,30.099,43.665,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,33.0,100.725,26.96,30.251,43.514,HARD,9.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,33.0,100.879,26.718,30.635,43.526,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,33.0,100.857,26.758,30.465,43.634,HARD,12.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,33.0,100.937,26.841,30.139,43.957,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,33.0,101.269,27.015,30.277,43.977,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,33.0,102.482,27.223,31.129,44.13,HARD,9.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,33.0,102.047,27.021,30.957,44.069,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,33.0,102.746,27.367,31.265,44.114,HARD,10.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,33.0,102.473,26.986,31.42,44.067,MEDIUM,6.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,33.0,102.201,27.202,31.065,43.934,MEDIUM,7.0,4.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,RIC,RB,33.0,115.415,27.826,31.104,56.485,MEDIUM,19.0,2.0,1,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,34.0,98.426,26.212,29.467,42.747,HARD,11.0,3.0,0,18.3,28.8,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,34.0,99.022,26.441,29.671,42.91,HARD,12.0,2.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,34.0,99.561,26.526,29.914,43.121,HARD,13.0,2.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,34.0,99.512,26.285,30.083,43.144,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,34.0,99.452,26.422,29.964,43.066,SOFT,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,34.0,100.416,26.856,30.101,43.459,HARD,17.0,2.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,34.0,100.467,26.774,30.103,43.59,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,34.0,100.748,26.939,30.238,43.571,HARD,10.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,34.0,100.864,26.75,30.542,43.572,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,34.0,100.835,26.615,30.525,43.695,HARD,13.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,34.0,100.972,26.909,30.284,43.779,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,34.0,100.79,26.852,30.411,43.527,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,34.0,101.233,26.959,30.474,43.8,HARD,10.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,34.0,101.522,26.869,30.671,43.982,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,34.0,101.72,27.131,30.748,43.841,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,34.0,102.969,26.884,31.447,44.638,MEDIUM,8.0,4.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,34.0,103.518,27.045,31.548000000000002,44.925,MEDIUM,7.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,35.0,98.765,26.531,29.475,42.759,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,35.0,99.094,26.534,29.764,42.796,HARD,13.0,2.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,35.0,99.707,26.68,29.951,43.076,HARD,14.0,2.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,35.0,99.698,26.499,30.179,43.02,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,35.0,99.817,26.507,30.203,43.107,SOFT,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,35.0,100.311,26.839,30.115,43.357,HARD,18.0,2.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,35.0,100.493,26.993,30.065,43.435,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,35.0,100.397,26.844,30.159,43.394,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,35.0,101.035,26.861,30.484,43.69,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,35.0,100.908,26.707,30.558,43.643,HARD,14.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,35.0,101.009,26.806,30.34,43.863,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,35.0,101.335,26.914,30.611,43.81,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,35.0,101.096,26.992,30.265,43.839,HARD,11.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,35.0,101.078,26.903,30.4,43.775,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,35.0,101.366,27.059,30.561,43.746,HARD,12.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,35.0,102.616,27.264,31.172,44.18,MEDIUM,8.0,3.0,0,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,35.0,105.678,27.105,30.394,48.179,MEDIUM,9.0,4.0,1,18.3,28.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,36.0,98.825,26.274,29.67,42.881,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,36.0,99.166,26.484,29.733,42.949,HARD,14.0,2.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,36.0,99.775,26.525,30.025,43.225,HARD,15.0,2.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,36.0,99.68,26.338,30.29,43.052,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,36.0,100.638,26.637,30.312,43.689,SOFT,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,36.0,100.615,26.863,30.199,43.553,HARD,19.0,2.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,36.0,100.496,26.798000000000002,30.249,43.449,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,36.0,101.5,27.069,30.456,43.975,HARD,12.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,36.0,101.223,26.823,30.53,43.87,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,36.0,101.289,26.845,30.726,43.718,HARD,15.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,36.0,101.194,27.012,30.386,43.796,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,36.0,101.38,26.941,30.561,43.878,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,36.0,101.518,27.089,30.463,43.966,HARD,12.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,36.0,101.311,26.719,30.619,43.973,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,36.0,101.283,26.713,30.655,43.915,HARD,13.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,36.0,101.298,27.032,30.486,43.78,MEDIUM,9.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,36.0,130.576,57.589,29.668,43.319,HARD,6.0,5.0,1,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,37.0,98.801,26.374,29.635,42.792,HARD,14.0,3.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,37.0,99.3,26.467,29.93,42.903,HARD,15.0,2.0,0,18.4,28.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,37.0,100.04,26.585,30.103,43.352,HARD,16.0,2.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,37.0,100.005,26.445,30.243,43.317,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,37.0,100.4,26.77,30.271,43.359,SOFT,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,37.0,100.726,26.883,30.341,43.502,HARD,20.0,2.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,37.0,100.687,26.898,30.229,43.56,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,37.0,101.45,27.084,30.586,43.78,HARD,13.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,37.0,101.127,26.802,30.615,43.71,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,37.0,101.215,26.794,30.79,43.631,HARD,16.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,37.0,101.361,27.147,30.394,43.82,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,37.0,101.261,26.977,30.515,43.769,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,37.0,101.071,26.683,30.446,43.942,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,37.0,102.43,27.063,31.427,43.94,HARD,13.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,37.0,101.738,26.919,30.947,43.872,HARD,14.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,37.0,101.42,26.956,30.633,43.831,MEDIUM,10.0,3.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,37.0,99.444,26.455,29.661,43.328,HARD,7.0,5.0,0,18.4,28.8,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,38.0,98.855,26.332,29.569,42.954,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,38.0,99.28,26.523,29.856,42.901,HARD,16.0,2.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,38.0,100.058,26.762,30.046,43.25,HARD,17.0,2.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,38.0,100.068,26.507,30.385,43.176,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,38.0,100.119,26.763,30.127,43.229,SOFT,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,38.0,100.603,26.92,30.27,43.413,HARD,21.0,2.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,38.0,100.451,26.874,30.036,43.541,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,38.0,100.946,26.85,30.517,43.579,HARD,14.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,38.0,100.998,26.742,30.516,43.74,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,38.0,100.974,26.745,30.682,43.547,HARD,17.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,38.0,101.131,27.017,30.303,43.811,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,38.0,101.088,26.938,30.473,43.677,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,38.0,101.311,26.89,30.766,43.655,HARD,15.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,38.0,102.347,26.947,30.638,44.762,HARD,14.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,38.0,101.36,26.932,30.575,43.853,MEDIUM,11.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,38.0,106.348,26.86,30.38,49.108,HARD,15.0,3.0,1,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,38.0,99.449,26.429,29.774,43.246,HARD,8.0,5.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,39.0,98.742,26.312,29.65,42.78,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,39.0,99.501,26.579,29.951999999999998,42.97,HARD,17.0,2.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,39.0,99.409,26.318,30.089,43.002,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,39.0,100.789,26.666,30.922,43.201,HARD,18.0,2.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,39.0,100.447,26.81,30.192,43.445,SOFT,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,39.0,100.497,26.878,30.134,43.485,HARD,22.0,2.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,39.0,100.112,26.699,29.964,43.449,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,39.0,101.496,27.005,30.593,43.898,HARD,15.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,39.0,101.268,26.909,30.656,43.703,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,39.0,101.113,26.948,30.643,43.522,HARD,18.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,39.0,101.313,27.103,30.393,43.817,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,39.0,101.341,27.081,30.52,43.74,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,39.0,101.749,27.327,30.455,43.967,HARD,16.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,39.0,102.346,27.547,30.873,43.926,HARD,15.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,39.0,101.28,27.03,30.525,43.725,MEDIUM,12.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,39.0,118.239,45.416,29.829,42.994,MEDIUM,1.0,4.0,1,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,39.0,99.639,26.526,29.821,43.292,HARD,9.0,5.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,40.0,98.956,26.475,29.69,42.791,HARD,17.0,3.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,40.0,99.854,26.66,30.088,43.106,HARD,18.0,2.0,0,18.4,28.5,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,40.0,99.687,26.606,29.917,43.164,HARD,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,40.0,99.731,26.506,30.181,43.044,HARD,19.0,2.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,40.0,100.693,26.836,30.395,43.462,SOFT,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,40.0,100.875,26.942,30.247,43.686,HARD,23.0,2.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,40.0,100.78,26.764,30.319,43.697,HARD,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,40.0,101.119,27.102,30.291,43.726,HARD,16.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,40.0,101.593,26.96,30.722,43.911,HARD,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,40.0,101.5,26.915,30.751,43.834,HARD,19.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,40.0,101.592,27.062,30.528,44.002,HARD,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,40.0,101.672,27.103,30.62,43.949,HARD,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,40.0,102.428,27.325,31.068,44.035,HARD,16.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,40.0,101.754,27.248,30.665,43.841,MEDIUM,13.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,40.0,106.271,27.157,30.47,48.644,HARD,17.0,3.0,1,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,40.0,99.198,26.381,29.724,43.093,MEDIUM,2.0,4.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,40.0,99.905,26.628,29.862,43.415,HARD,10.0,5.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,41.0,99.067,26.48,29.614,42.973,HARD,18.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,41.0,99.721,26.62,29.898,43.203,HARD,19.0,2.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,41.0,99.599,26.6,29.953,43.046,HARD,18.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,41.0,99.625,26.415,30.217,42.993,HARD,20.0,2.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,41.0,100.819,26.929,30.338,43.552,SOFT,18.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,41.0,100.299,26.722,30.121,43.456,HARD,24.0,2.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,41.0,101.024,26.851,30.398,43.775,HARD,18.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,41.0,101.621,27.078,30.568,43.975,HARD,17.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,41.0,100.882,26.958,30.425,43.499,HARD,20.0,3.0,0,18.4,28.3,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,41.0,102.174,26.931,31.363,43.88,HARD,18.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,41.0,101.653,27.133,30.517,44.003,HARD,18.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,41.0,101.755,27.126,30.686,43.943,HARD,18.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,41.0,101.943,27.158,30.585,44.2,HARD,17.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,41.0,101.84,26.974,30.872,43.994,MEDIUM,14.0,3.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,41.0,99.758,26.464,29.968,43.326,MEDIUM,3.0,4.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,41.0,118.828,46.142,29.643,43.043,SOFT,1.0,4.0,1,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,41.0,100.145,26.689,29.901,43.555,HARD,11.0,5.0,0,18.4,28.4,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,42.0,99.227,26.533,29.71,42.984,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,42.0,100.701,26.593,29.912,44.196,HARD,20.0,2.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,42.0,99.521,26.403,29.976,43.142,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,42.0,99.906,26.532,30.169,43.205,HARD,21.0,2.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,42.0,100.794,26.912,30.407,43.475,SOFT,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,42.0,100.756,26.846,30.216,43.694,HARD,25.0,2.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,42.0,100.772,26.79,30.347,43.635,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,42.0,101.01,26.998,30.225,43.787,HARD,18.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,42.0,101.068,27.094,30.261,43.713,HARD,21.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,42.0,101.672,27.018,30.896,43.758,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,42.0,101.515,26.965,30.541,44.009,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,42.0,101.558,27.029,30.617,43.912,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,42.0,101.894,27.105,30.627,44.162,HARD,18.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,42.0,101.513,26.817,30.762,43.934,MEDIUM,15.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,42.0,100.024,26.735,29.824,43.465,MEDIUM,4.0,4.0,0,18.4,28.2,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,42.0,98.633,26.215,29.445,42.973,SOFT,2.0,4.0,0,18.4,28.2,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,42.0,99.953,26.73,29.815,43.408,HARD,12.0,5.0,0,18.4,28.2,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,43.0,99.224,26.429,29.694,43.101,HARD,20.0,3.0,0,18.4,28.2,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,43.0,99.932,26.832,29.971,43.129,HARD,21.0,2.0,0,18.4,28.2,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,43.0,99.607,26.529,29.899,43.179,HARD,20.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,43.0,99.908,26.691,29.998,43.219,HARD,22.0,2.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,43.0,100.345,26.766,29.986,43.593,HARD,26.0,2.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,43.0,100.681,26.757,30.125,43.799,HARD,20.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,43.0,105.953,26.941,30.254,48.758,SOFT,20.0,3.0,1,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,43.0,100.876,26.88,30.268,43.728,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,43.0,101.222,27.038,30.454,43.73,HARD,22.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,43.0,101.373,26.997,30.578,43.798,HARD,20.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,43.0,101.535,27.081,30.398,44.056,HARD,20.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,43.0,101.423,27.087,30.483,43.853,HARD,20.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,43.0,101.245,26.925,30.446,43.874,MEDIUM,16.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,43.0,103.096,27.347,31.474,44.275,HARD,19.0,3.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,43.0,100.029,26.675,29.951,43.403,MEDIUM,5.0,4.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,43.0,99.32,26.501,29.723,43.096,SOFT,3.0,4.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,43.0,100.351,26.86,29.975,43.516,HARD,13.0,5.0,0,18.4,28.1,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,44.0,99.305,26.502,29.811,42.992,HARD,21.0,3.0,0,18.4,27.9,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,44.0,99.435,26.601,29.897,42.937,HARD,22.0,2.0,0,18.4,27.9,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,44.0,99.722,26.487,30.023,43.212,HARD,21.0,3.0,0,18.4,27.9,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,44.0,99.841,26.662,30.01,43.169,HARD,23.0,2.0,0,18.4,27.9,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,44.0,100.109,26.644,30.037,43.428,HARD,27.0,2.0,0,18.4,27.9,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,44.0,100.38,26.791,29.985,43.604,HARD,21.0,3.0,0,18.4,27.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,44.0,101.004,26.999,30.274,43.731,HARD,20.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,44.0,100.915,26.942,30.321,43.652,HARD,23.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,44.0,101.346,26.967,30.597,43.782,HARD,21.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,44.0,101.24,27.029,30.325,43.886,HARD,21.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,44.0,101.504,27.135,30.532,43.837,HARD,21.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,44.0,117.277,45.357,29.422,42.498,MEDIUM,1.0,4.0,1,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,44.0,101.324,27.049,30.465,43.81,MEDIUM,17.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,44.0,102.394,27.409,30.906,44.079,HARD,20.0,3.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,44.0,99.906,26.647,29.95,43.309,MEDIUM,6.0,4.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,44.0,99.682,26.646,29.896,43.14,SOFT,4.0,4.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,44.0,100.358,26.68,30.244,43.434,HARD,14.0,5.0,0,18.4,27.8,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,45.0,99.216,26.507,29.629,43.08,HARD,22.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,45.0,99.437,26.598,29.868,42.971,HARD,23.0,2.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,45.0,99.849,26.591,30.005,43.253,HARD,22.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,45.0,100.025,26.729,30.136,43.16,HARD,24.0,2.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,45.0,100.22,26.74,30.041,43.439,HARD,28.0,2.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,45.0,100.619,26.971,30.124,43.524,HARD,22.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,45.0,101.301,27.105,30.429,43.767,HARD,21.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,45.0,101.098,26.985,30.492,43.621,HARD,24.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,45.0,101.234,26.897,30.609,43.728,HARD,22.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,45.0,101.423,27.049,30.418,43.956,HARD,22.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,45.0,97.81,26.106,29.306,42.398,MEDIUM,2.0,4.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,45.0,101.66,27.005,30.493,44.162,HARD,22.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,45.0,101.077,27.024,30.428,43.625,MEDIUM,18.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,45.0,101.914,27.239,30.772,43.903,HARD,21.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,45.0,100.065,26.604,30.016,43.445,MEDIUM,7.0,4.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,45.0,99.553,26.604,29.852,43.097,SOFT,5.0,4.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,45.0,100.291,26.755,29.97,43.566,HARD,15.0,5.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,46.0,99.433,26.517,29.767,43.149,HARD,23.0,3.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,46.0,99.718,26.651,29.993,43.074,HARD,24.0,2.0,0,18.3,27.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,46.0,99.966,26.686,30.091,43.189,HARD,23.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,46.0,100.224,26.857,30.073,43.294,HARD,25.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,46.0,100.227,26.838,30.002,43.387,HARD,29.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,46.0,100.38,26.794,30.12,43.466,HARD,23.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,46.0,101.294,26.957,30.596,43.741,HARD,22.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,46.0,101.341,27.014,30.474,43.853,HARD,25.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,46.0,101.518,27.055,30.62,43.843,HARD,23.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,46.0,99.559,26.37,30.123,43.066,MEDIUM,3.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,46.0,102.084,27.082,31.055,43.947,HARD,23.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,46.0,101.776,27.014,30.562,44.2,HARD,23.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,46.0,101.498,27.187,30.551,43.76,MEDIUM,19.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,46.0,102.396,27.451,30.876,44.069,HARD,22.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,46.0,100.25,26.703,29.977,43.57,MEDIUM,8.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,46.0,99.636,26.686,29.719,43.231,SOFT,6.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,46.0,100.736,26.878,30.22,43.638,HARD,16.0,5.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,47.0,99.422,26.62,29.721,43.081,HARD,24.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,47.0,100.113,26.743,30.094,43.276,HARD,25.0,2.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,47.0,99.955,26.66,30.006,43.289,HARD,24.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,47.0,100.316,26.713,30.036,43.567,HARD,26.0,2.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,47.0,100.602,26.859,30.12,43.623,HARD,30.0,2.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,47.0,100.404,26.775,30.228,43.401,HARD,24.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,47.0,101.45,26.982,30.572,43.896,HARD,23.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,47.0,101.376,27.082,30.487,43.807,HARD,26.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,47.0,99.963,26.627,30.342,42.994,MEDIUM,4.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,47.0,101.998,27.031,30.633,44.334,HARD,24.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,47.0,101.743,27.15,30.446,44.147,HARD,24.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,47.0,101.584,27.136,30.523,43.925,HARD,24.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,47.0,101.366,27.055,30.365,43.946,MEDIUM,20.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,47.0,101.914,27.21,30.559,44.145,HARD,23.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,47.0,100.397,26.674,29.913,43.81,MEDIUM,9.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,47.0,100.046,26.838,29.975,43.233,SOFT,7.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,47.0,100.654,26.949,30.092,43.613,HARD,17.0,5.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,48.0,99.325,26.496,29.709,43.12,HARD,25.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,48.0,99.646,26.612,29.888,43.146,HARD,26.0,2.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,48.0,99.961,26.647,29.974,43.34,HARD,25.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,48.0,100.158,26.759,30.021,43.378,HARD,27.0,2.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,48.0,100.471,26.88,30.031,43.56,HARD,31.0,2.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,48.0,100.394,26.879,30.089,43.426,HARD,25.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,48.0,101.437,26.986,30.462,43.989,HARD,24.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,48.0,101.315,26.972,30.348,43.995,HARD,27.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,48.0,99.837,26.62,29.807,43.41,MEDIUM,5.0,4.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,48.0,101.196,26.807,30.63,43.759,HARD,25.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,48.0,101.301,26.945,30.304,44.052,HARD,25.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,48.0,101.509,27.065,30.48,43.964,HARD,25.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,48.0,101.603,27.113,30.515,43.975,MEDIUM,21.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,48.0,101.551,26.507,31.408,43.636,MEDIUM,10.0,4.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,48.0,102.767,27.15,30.976,44.641,HARD,24.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,48.0,100.391,26.801,30.024,43.566,SOFT,8.0,4.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,48.0,100.297,26.82,29.87,43.607,HARD,18.0,5.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,49.0,99.35,26.492,29.719,43.139,HARD,26.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,49.0,99.716,26.684,29.836,43.196,HARD,27.0,2.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,49.0,99.903,26.588,29.988,43.327,HARD,26.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,49.0,100.423,26.786,30.17,43.467,HARD,28.0,2.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,49.0,100.109,26.705,30.015,43.389,HARD,32.0,2.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,49.0,100.218,26.711,30.072,43.435,HARD,26.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,49.0,99.403,26.485,29.94,42.978,MEDIUM,6.0,4.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,49.0,102.046,27.078,30.314,44.654,HARD,25.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,49.0,101.92,27.01,31.133,43.777,HARD,28.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,49.0,101.241,27.042,30.539,43.66,HARD,26.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,49.0,101.297,26.951999999999998,30.342,44.003,HARD,26.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,49.0,101.404,27.098,30.395,43.911,HARD,26.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,49.0,101.355,27.034,30.53,43.791,MEDIUM,22.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,49.0,100.305,26.766,30.071,43.468,MEDIUM,11.0,4.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,49.0,101.502,27.223,30.715,43.564,SOFT,9.0,4.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,49.0,102.743,27.378,30.77,44.595,HARD,25.0,3.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,49.0,100.569,26.939,30.123,43.507,HARD,19.0,5.0,0,18.2,28.0,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,50.0,99.445,26.51,29.92,43.015,HARD,27.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,50.0,100.177,26.911,30.028,43.238,HARD,28.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,50.0,100.052,26.645,30.112,43.295,HARD,27.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,50.0,100.337,26.803,30.307,43.227,HARD,29.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,50.0,100.352,26.727,30.171,43.454,HARD,33.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,50.0,100.466,26.714,30.205,43.547,HARD,27.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,50.0,99.174,26.46,29.793,42.921,MEDIUM,7.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,50.0,101.297,26.913,30.593,43.791,HARD,26.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,50.0,101.306,27.041,30.575,43.69,HARD,29.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,50.0,101.331,27.022,30.596,43.713,HARD,27.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,50.0,101.567,26.962,30.524,44.081,HARD,27.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,50.0,101.438,27.096,30.602,43.74,HARD,27.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,50.0,101.376,27.023,30.589,43.764,MEDIUM,23.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,50.0,100.138,26.558,30.127,43.453,MEDIUM,12.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,50.0,100.534,26.795,30.324,43.415,SOFT,10.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,50.0,102.645,27.397,30.973,44.275,HARD,26.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,50.0,100.588,26.844,30.102,43.642,HARD,20.0,5.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,51.0,99.276,26.484,29.775,43.017,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,51.0,99.949,26.621,29.966,43.362,HARD,29.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,51.0,99.906,26.57,30.025,43.311,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,51.0,100.205,26.813,30.091,43.301,HARD,30.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,51.0,100.239,26.745,30.098,43.396,HARD,34.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,51.0,100.334,26.764,30.193,43.377,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,51.0,99.487,26.457,29.983,43.047,MEDIUM,8.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,51.0,101.331,26.947,30.473,43.911,HARD,27.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,51.0,101.485,27.133,30.628,43.724,HARD,30.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,51.0,101.549,27.039,30.687,43.823,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,51.0,101.477,26.927,30.452,44.098,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,51.0,101.437,26.91,30.641,43.886,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,51.0,101.879,27.093,30.799,43.987,MEDIUM,24.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,51.0,100.497,26.744,30.177,43.576,MEDIUM,13.0,4.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,51.0,100.179,26.761,30.076,43.342,SOFT,11.0,4.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,51.0,102.32,27.225,30.837,44.258,HARD,27.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,51.0,100.717,26.863,30.222,43.632,HARD,21.0,5.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,52.0,99.694,26.581,29.964,43.149,HARD,29.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,52.0,99.944,26.698,30.061,43.185,HARD,30.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,52.0,100.123,26.576,30.17,43.377,HARD,29.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,52.0,100.453,26.834,30.289,43.33,HARD,31.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,52.0,100.413,26.766,30.2,43.447,HARD,35.0,2.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,52.0,100.731,26.75,30.218,43.763,HARD,29.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,52.0,99.396,26.333,29.858,43.205,MEDIUM,9.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,52.0,101.602,27.234,30.555,43.813,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,52.0,101.461,27.058,30.527,43.876,HARD,31.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,52.0,101.625,27.015,30.763,43.847,HARD,29.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,52.0,101.559,26.953,30.616,43.99,HARD,29.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,52.0,101.67,27.085,30.654,43.931,HARD,29.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,52.0,102.059,27.171,30.844,44.044,MEDIUM,25.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,52.0,101.052,26.826999999999998,30.393,43.832,MEDIUM,14.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,52.0,100.542,26.876,30.196,43.47,SOFT,12.0,4.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,52.0,102.55,27.375,30.95,44.225,HARD,28.0,3.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,52.0,100.988,26.919,30.163,43.906,HARD,22.0,5.0,0,18.2,27.6,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,53.0,99.654,26.533,29.985,43.136,HARD,30.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,53.0,100.208,26.643,30.219,43.346,HARD,31.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,53.0,100.196,26.729,30.113,43.354,HARD,30.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,53.0,100.366,26.81,30.117,43.439,HARD,32.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,53.0,100.561,26.819,30.219,43.523,HARD,36.0,2.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,53.0,100.67,26.934,30.149,43.587,HARD,30.0,3.0,0,18.2,27.7,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,53.0,99.557,26.571,29.849,43.137,MEDIUM,10.0,4.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,53.0,101.471,27.208,30.453,43.81,HARD,29.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,53.0,101.521,27.013,30.603,43.905,HARD,32.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,53.0,101.543,27.085,30.678,43.78,HARD,30.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,53.0,101.652,27.039,30.563,44.05,HARD,30.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,53.0,101.354,26.995,30.437,43.922,HARD,30.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,53.0,101.373,26.98,30.549,43.844,MEDIUM,15.0,4.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,53.0,101.049,27.047,30.433,43.569,SOFT,13.0,4.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,53.0,104.013,27.502,31.946,44.565,MEDIUM,26.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,53.0,102.274,27.195,30.672,44.407,HARD,29.0,3.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,53.0,101.402,26.979,30.402,44.021,HARD,23.0,5.0,0,18.2,27.9,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,54.0,99.773,26.599,29.912,43.262,HARD,31.0,3.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,54.0,100.217,26.716,30.125,43.376,HARD,32.0,2.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,54.0,100.228,26.692,30.202,43.334,HARD,31.0,3.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,54.0,100.171,26.82,30.075,43.276,HARD,33.0,2.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,54.0,100.281,26.594,30.274,43.413,HARD,37.0,2.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,54.0,100.84,26.899,30.295,43.646,HARD,31.0,3.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,54.0,100.377,26.704,30.061,43.612,MEDIUM,11.0,4.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,54.0,101.647,27.195,30.533,43.919,HARD,30.0,3.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,54.0,101.493,27.053,30.612,43.828,HARD,33.0,3.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,54.0,101.646,27.14,30.712,43.794,HARD,31.0,3.0,0,18.2,27.5,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,54.0,101.522,26.963,30.578,43.981,HARD,31.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,54.0,102.424,27.029,31.435,43.96,HARD,31.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,54.0,100.727,26.831,30.209,43.687,MEDIUM,16.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,54.0,101.258,27.125,30.459,43.674,SOFT,14.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,54.0,102.863,27.279,31.376,44.208,MEDIUM,27.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,54.0,102.402,27.381,30.698,44.323,HARD,30.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,54.0,101.571,27.031,30.479,44.061,HARD,24.0,5.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,55.0,99.805,26.714,29.867,43.224,HARD,32.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,55.0,100.686,26.901,30.149,43.636,HARD,33.0,2.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,55.0,100.593,26.768,30.179,43.646,HARD,32.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,55.0,100.882,27.018,30.42,43.444,HARD,34.0,2.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,55.0,100.711,26.895,30.215,43.601,HARD,38.0,2.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,55.0,101.429,26.942,30.684,43.803,HARD,32.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,55.0,100.056,26.627,30.198,43.231,MEDIUM,12.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,55.0,101.45,27.133,30.322,43.995,HARD,31.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,55.0,101.604,27.124,30.622,43.858,HARD,34.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,55.0,101.705,27.092,30.715,43.898,HARD,32.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,55.0,101.574,26.94,30.464,44.17,HARD,32.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,55.0,101.998,27.094,30.763,44.141,HARD,32.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,55.0,100.737,26.799,30.2,43.738,MEDIUM,17.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,55.0,100.785,26.951,30.36,43.474,SOFT,15.0,4.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,55.0,102.864,27.328,31.119,44.417,MEDIUM,28.0,3.0,0,18.2,27.4,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,55.0,101.143,26.788,30.766,43.589,HARD,25.0,5.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,55.0,102.913,27.293,30.757,44.863,HARD,31.0,3.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,VER,Red Bull Racing,56.0,100.253,26.661,29.992,43.6,HARD,33.0,3.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,NOR,McLaren,56.0,100.284,26.745,30.258,43.281,HARD,34.0,2.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,PER,Red Bull Racing,56.0,100.65,26.891,30.202,43.557,HARD,33.0,3.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,LEC,Ferrari,56.0,100.568,26.873,30.305,43.39,HARD,35.0,2.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,SAI,Ferrari,56.0,100.41,26.876,30.153,43.381,HARD,39.0,2.0,0,18.2,27.3,False,0,0,0,0
+Chinese Grand Prix,RUS,Mercedes,56.0,100.793,26.795,30.331,43.667,HARD,33.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,ALO,Aston Martin,56.0,100.249,26.832,30.149,43.268,MEDIUM,13.0,4.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,PIA,McLaren,56.0,101.61,27.176,30.288,44.146,HARD,32.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,HAM,Mercedes,56.0,102.084,27.114,30.62,44.35,HARD,35.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,HUL,Haas F1 Team,56.0,101.904,27.164,30.807,43.933,HARD,33.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,OCO,Alpine,56.0,101.651,27.09,30.552,44.009,HARD,33.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,ALB,Williams,56.0,101.524,26.98,30.539,44.005,HARD,33.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,GAS,Alpine,56.0,100.819,26.803,30.336,43.68,MEDIUM,18.0,4.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,ZHO,Kick Sauber,56.0,101.192,26.947,30.45,43.795,SOFT,16.0,4.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,MAG,Haas F1 Team,56.0,102.87,27.454,31.186,44.23,MEDIUM,29.0,3.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,STR,Aston Martin,56.0,101.502,27.058,30.33,44.114,HARD,26.0,5.0,0,18.1,27.3,False,0,0,0,0
+Chinese Grand Prix,SAR,Williams,56.0,103.148,27.73,30.879,44.539,HARD,32.0,3.0,0,18.1,27.3,False,0,0,0,0

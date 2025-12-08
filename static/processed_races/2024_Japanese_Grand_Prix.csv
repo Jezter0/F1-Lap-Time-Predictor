@@ -1,0 +1,877 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Japanese Grand Prix,VER,Red Bull Racing,1.0,130.735,35.23200000000001,64.045,31.458,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,1.0,132.767,35.894,65.032,31.841,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,1.0,134.751,36.75200000000001,65.666,32.333,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,1.0,137.613,37.54,67.997,32.076,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,1.0,140.526,38.01400000000001,69.943,32.569,SOFT,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,1.0,144.356,38.25999999999999,72.784,33.312,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,1.0,152.716,38.49600000000001,77.16,37.06,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,1.0,154.543,39.014,77.828,37.701,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,1.0,159.587,39.336,78.942,41.309,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,1.0,162.853,39.69000000000001,80.74,42.423,SOFT,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,1.0,164.736,39.92799999999999,81.589,43.219,SOFT,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,1.0,167.566,40.132999999999996,83.186,44.247,MEDIUM,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,1.0,170.167,40.455,84.316,45.396,SOFT,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,1.0,173.223,40.790000000000006,85.099,47.334,SOFT,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,1.0,179.595,41.14399999999999,86.629,51.822,SOFT,1.0,1.0,1,22.5,40.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,1.0,185.172,41.623,88.402,55.147,MEDIUM,1.0,1.0,1,22.5,39.9,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,1.0,188.456,42.012999999999984,89.197,57.246,SOFT,1.0,1.0,1,22.5,39.9,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,1.0,195.118,42.264999999999986,90.308,62.545,MEDIUM,1.0,1.0,1,22.5,39.9,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,3.0,140.237,76.397,44.751,19.089,HARD,2.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,3.0,148.991,85.037,44.89,19.064,SOFT,3.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,3.0,134.682,70.564,44.866,19.252,SOFT,2.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,3.0,138.362,74.063,45.103,19.196,HARD,2.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,3.0,132.996,68.747,45.117,19.132,MEDIUM,2.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,3.0,129.289,65.121,44.909,19.259,SOFT,2.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,3.0,132.603,67.556,45.219,19.828,HARD,2.0,2.0,0,22.4,38.9,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,4.0,96.472,34.772,43.042,18.658,MEDIUM,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,4.0,96.573,34.694,43.203,18.676,MEDIUM,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,4.0,96.853,35.062,43.181,18.61,MEDIUM,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,4.0,97.225,35.406,43.259,18.56,MEDIUM,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,4.0,97.453,35.51,43.299,18.644,SOFT,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,4.0,97.734,35.541,43.643,18.55,MEDIUM,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,4.0,98.268,35.805,43.656,18.807,MEDIUM,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,4.0,98.303,35.858,43.823,18.622,HARD,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,4.0,99.108,35.86,44.164,19.084,SOFT,6.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,4.0,98.976,36.014,43.918,19.044,HARD,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,4.0,99.541,36.369,44.208,18.964,HARD,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,4.0,99.462,36.346,44.258,18.858,SOFT,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,4.0,99.528,36.379,44.265,18.884,SOFT,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,4.0,99.925,36.68,44.41,18.835,HARD,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,4.0,100.103,36.735,44.554,18.814,MEDIUM,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,4.0,100.228,36.656,44.602,18.97,SOFT,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,4.0,100.374,36.724,44.611,19.039,SOFT,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,4.0,100.424,36.434,44.774,19.216,HARD,3.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,5.0,96.437,34.69,43.035,18.712,MEDIUM,5.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,5.0,96.568,34.558,43.311,18.699,MEDIUM,5.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,5.0,96.86,34.856,43.348,18.656,MEDIUM,5.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,5.0,97.322,35.099,43.533,18.69,MEDIUM,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,5.0,97.532,35.258,43.547,18.727,SOFT,5.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,5.0,97.631,35.214,43.757,18.66,MEDIUM,5.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,5.0,97.812,35.265,43.755,18.792,MEDIUM,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,5.0,98.139,35.536,43.844,18.759,HARD,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,5.0,97.737,35.486,43.61,18.641,HARD,4.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,5.0,99.508,36.475,44.129,18.904,SOFT,7.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,5.0,98.279,35.077,44.436,18.766,SOFT,5.0,2.0,0,22.5,39.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,5.0,100.081,36.454,44.473,19.154,HARD,4.0,2.0,0,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,5.0,99.552,36.195,44.172,19.185,SOFT,4.0,2.0,0,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,5.0,99.473,36.122,44.509,18.842,HARD,4.0,2.0,0,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,5.0,99.392,36.288,44.278,18.826,MEDIUM,4.0,2.0,0,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,5.0,99.597,36.238,44.522,18.837,SOFT,4.0,2.0,0,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,5.0,99.668,36.207,44.33,19.131,HARD,4.0,2.0,0,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,5.0,101.491,36.317,44.25,20.924,SOFT,5.0,2.0,1,22.5,38.8,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,6.0,96.855,34.965,43.196,18.694,MEDIUM,6.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,6.0,97.693,35.008,43.981,18.704,MEDIUM,6.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,6.0,97.9,35.298,43.753,18.849,MEDIUM,6.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,6.0,97.721,35.423,43.562,18.736,MEDIUM,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,6.0,97.861,35.4,43.705,18.756,SOFT,6.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,6.0,98.141,35.443,43.893,18.805,MEDIUM,6.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,6.0,98.021,35.45,43.788,18.783,MEDIUM,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,6.0,98.19,35.579,43.867,18.744,HARD,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,6.0,98.392,35.689,43.805,18.898,HARD,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,6.0,98.887,35.735,44.173,18.979,SOFT,8.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,6.0,98.746,35.622,44.199,18.925,SOFT,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,6.0,101.288,35.946,44.383,20.959,SOFT,6.0,2.0,1,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,6.0,100.496,36.78,44.623,19.093,HARD,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,6.0,100.257,36.667,44.516,19.074,HARD,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,6.0,100.026,36.586,44.603,18.837,MEDIUM,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,6.0,99.991,36.364,44.705,18.922,SOFT,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,6.0,99.582,36.092,44.349,19.141,HARD,5.0,2.0,0,22.4,38.8,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,6.0,117.275,55.824,42.967,18.484,HARD,1.0,3.0,1,22.3,38.7,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,7.0,96.97,34.987,43.3,18.683,MEDIUM,7.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,7.0,97.308,35.091,43.396,18.821,MEDIUM,7.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,7.0,97.742,35.209,43.702,18.831,MEDIUM,7.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,7.0,97.756,35.53,43.673,18.553,MEDIUM,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,7.0,98.203,35.735,43.71,18.758,SOFT,7.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,7.0,98.191,35.722,43.803,18.666,MEDIUM,7.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,7.0,98.187,35.725,43.707,18.755,MEDIUM,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,7.0,98.374,35.608,43.999,18.767,HARD,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,7.0,98.07,35.576,43.679,18.815,HARD,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,7.0,100.998,36.025,44.058,20.915,SOFT,9.0,2.0,1,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,7.0,98.624,35.863,43.832,18.929,SOFT,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,7.0,99.744,36.288,44.462,18.994,HARD,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,7.0,100.248,36.461,44.726,19.061,HARD,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,7.0,100.357,36.824,44.474,19.059,MEDIUM,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,7.0,100.055,36.282,44.698,19.075,HARD,6.0,2.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,7.0,102.874,36.61,44.661,21.603,SOFT,6.0,2.0,1,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,7.0,117.449,56.18,42.822,18.447,HARD,1.0,3.0,1,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,7.0,96.751,35.291,43.082,18.378,HARD,2.0,3.0,0,22.4,38.7,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,8.0,97.329,35.112,43.412,18.805,MEDIUM,8.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,8.0,97.22,35.093,43.381,18.746,MEDIUM,8.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,8.0,97.824,35.208,43.748,18.868,MEDIUM,8.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,8.0,97.736,35.544,43.61,18.582,MEDIUM,7.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,8.0,98.461,35.782,43.705,18.974,SOFT,8.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,8.0,98.222,35.648,43.759,18.815,MEDIUM,8.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,8.0,97.92,35.499,43.706,18.715,MEDIUM,7.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,8.0,98.096,35.574,43.767,18.755,HARD,7.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,8.0,98.192,35.712,43.769,18.711,HARD,7.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,8.0,98.61,35.783,43.867,18.96,SOFT,7.0,2.0,0,22.3,38.8,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,8.0,100.009,36.225,44.638,19.146,HARD,7.0,2.0,0,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,8.0,99.601,36.395,44.266,18.94,MEDIUM,7.0,2.0,0,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,8.0,101.363,37.525,44.759,19.079,HARD,7.0,2.0,0,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,8.0,99.655,36.25,44.365,19.04,HARD,7.0,2.0,0,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,8.0,96.706,34.647,43.282,18.777,HARD,2.0,3.0,0,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,8.0,118.044,55.92,43.131,18.993,HARD,1.0,3.0,1,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,8.0,97.616,35.737,43.289,18.59,HARD,3.0,3.0,0,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,8.0,118.402,56.403,43.265,18.734,HARD,1.0,3.0,1,22.2,38.9,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,9.0,97.178,35.132,43.298,18.748,MEDIUM,9.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,9.0,97.838,35.37,43.6,18.868,MEDIUM,9.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,9.0,97.963,35.354,43.68,18.929,MEDIUM,9.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,9.0,97.98,35.633,43.626,18.721,MEDIUM,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,9.0,98.884,35.887,43.921,19.076,SOFT,9.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,9.0,98.5,35.87,43.822,18.808,MEDIUM,9.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,9.0,98.213,35.682,43.768,18.763,MEDIUM,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,9.0,98.533,35.734,43.914,18.885,HARD,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,9.0,98.253,35.718,43.68,18.855,HARD,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,9.0,98.881,35.977,43.935,18.969,SOFT,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,9.0,100.294,36.268,44.745,19.281,HARD,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,9.0,100.251,36.807,44.4,19.044,MEDIUM,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,9.0,100.78,36.84,44.704,19.236,HARD,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,9.0,100.871,36.826,44.553,19.492,HARD,8.0,2.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,9.0,97.406,35.119,43.512,18.775,HARD,3.0,3.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,9.0,97.17,35.101,43.277,18.792,HARD,2.0,3.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,9.0,97.898,35.759,43.606,18.533,HARD,4.0,3.0,0,22.1,39.0,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,9.0,97.16,35.194,43.257,18.709,HARD,2.0,3.0,0,22.2,39.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,10.0,97.59,35.45,43.353,18.787,MEDIUM,10.0,2.0,0,22.2,39.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,10.0,97.926,35.593,43.554,18.779,MEDIUM,10.0,2.0,0,22.2,39.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,10.0,98.158,35.536,43.791,18.831,MEDIUM,10.0,2.0,0,22.2,39.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,10.0,98.304,35.782,43.746,18.776,MEDIUM,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,10.0,98.781,35.987,43.889,18.905,SOFT,10.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,10.0,99.011,36.082,44.023,18.906,MEDIUM,10.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,10.0,99.034,36.074,44.059,18.901,MEDIUM,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,10.0,98.703,35.851,44.07,18.782,HARD,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,10.0,98.368,35.7,43.824,18.844,HARD,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,10.0,99.052,36.006,44.041,19.005,SOFT,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,10.0,100.315,36.333,44.822,19.16,HARD,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,10.0,100.177,36.841,44.388,18.948,MEDIUM,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,10.0,101.117,36.846,44.878,19.393,HARD,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,10.0,100.916,36.7,44.669,19.547,HARD,9.0,2.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,10.0,97.451,35.294,43.417,18.74,HARD,4.0,3.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,10.0,97.496,35.203,43.432,18.861,HARD,3.0,3.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,10.0,98.34,35.956,43.786,18.598,HARD,5.0,3.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,10.0,97.5,35.186,43.455,18.859,HARD,3.0,3.0,0,22.1,38.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,11.0,97.774,35.32,43.622,18.832,MEDIUM,11.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,11.0,98.216,35.512,43.802,18.902,MEDIUM,11.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,11.0,98.273,35.648,43.93,18.695,MEDIUM,10.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,11.0,100.76,35.613,43.963,21.184,MEDIUM,11.0,2.0,1,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,11.0,98.943,35.987,43.997,18.959,SOFT,11.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,11.0,99.245,36.199,44.168,18.878,MEDIUM,11.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,11.0,99.193,36.228,44.179,18.786,MEDIUM,10.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,11.0,99.292,35.838,44.473,18.981,HARD,10.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,11.0,98.949,35.861,44.209,18.879,HARD,10.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,11.0,99.103,35.978,44.125,19.0,SOFT,10.0,2.0,0,22.0,37.8,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,11.0,100.371,36.426,44.729,19.216,HARD,10.0,2.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,11.0,99.9,36.701,44.257,18.942,MEDIUM,10.0,2.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,11.0,99.348,35.793,44.379,19.176,HARD,10.0,2.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,11.0,101.628,37.365,45.056,19.207,HARD,10.0,2.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,11.0,98.432,35.641,43.995,18.796,HARD,5.0,3.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,11.0,97.895,35.353,43.739,18.803,HARD,4.0,3.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,11.0,98.352,35.955,43.638,18.759,HARD,6.0,3.0,0,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,11.0,101.117,35.334,43.688,22.095,HARD,4.0,3.0,1,21.9,37.1,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,12.0,97.753,35.415,43.468,18.87,MEDIUM,12.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,12.0,98.156,35.539,43.77,18.847,MEDIUM,12.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,12.0,97.847,35.511,43.617,18.719,MEDIUM,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,12.0,98.744,35.83,43.982,18.932,SOFT,12.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,12.0,98.883,35.996,43.969,18.918,MEDIUM,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,12.0,101.083,35.769,44.144,21.17,MEDIUM,12.0,2.0,1,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,12.0,99.202,35.899,44.422,18.881,HARD,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,12.0,99.212,35.925,44.315,18.972,HARD,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,12.0,115.643,54.321,42.844,18.478,HARD,1.0,3.0,1,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,12.0,101.638,36.035,44.258,21.345,SOFT,11.0,2.0,1,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,12.0,100.56,36.536,44.765,19.259,HARD,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,12.0,100.26,36.607,44.569,19.084,MEDIUM,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,12.0,99.911,36.178,44.696,19.037,HARD,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,12.0,101.107,36.798,45.061,19.248,HARD,11.0,2.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,12.0,100.691,36.34,44.964,19.387,HARD,6.0,3.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,12.0,100.057,35.858,44.84,19.359,HARD,5.0,3.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,12.0,98.847,36.092,43.942,18.813,HARD,7.0,3.0,0,21.7,36.7,False,0,0,0,0
+Japanese Grand Prix,ZHO,Kick Sauber,12.0,128.193,59.412,46.811,21.97,HARD,5.0,4.0,1,21.6,36.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,13.0,97.727,35.365,43.511,18.851,MEDIUM,13.0,2.0,0,21.6,36.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,13.0,98.125,35.462,43.857,18.806,MEDIUM,13.0,2.0,0,21.6,36.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,13.0,98.333,35.776,43.833,18.724,MEDIUM,12.0,2.0,0,21.6,36.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,13.0,98.479,35.607,43.981,18.891,MEDIUM,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,13.0,100.816,35.625,43.968,21.223,SOFT,13.0,2.0,1,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,13.0,98.989,35.848,44.313,18.828,HARD,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,13.0,100.24,35.824,44.247,20.169,HARD,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,13.0,95.761,34.413,42.732,18.616,HARD,2.0,3.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,13.0,99.267,36.061,44.27,18.936,MEDIUM,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,13.0,101.341,37.253,44.865,19.223,HARD,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,13.0,118.558,56.066,43.82,18.672,HARD,1.0,3.0,1,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,13.0,100.197,36.308,44.799,19.09,HARD,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,13.0,98.282,35.372,43.985,18.925,HARD,7.0,3.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,13.0,98.98,36.358,43.714,18.908,HARD,6.0,3.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,13.0,102.475,37.619,45.216,19.64,HARD,12.0,2.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,13.0,100.302,36.471,44.415,19.416,HARD,8.0,3.0,0,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,13.0,116.221,54.666,42.891,18.664,MEDIUM,1.0,3.0,1,21.6,36.6,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,14.0,97.91,35.432,43.612,18.866,MEDIUM,14.0,2.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,14.0,98.505,35.721,43.889,18.895,MEDIUM,14.0,2.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,14.0,98.504,35.794,43.861,18.849,MEDIUM,13.0,2.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,14.0,98.595,35.883,43.792,18.92,MEDIUM,13.0,2.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,14.0,98.428,35.474,44.065,18.889,HARD,13.0,2.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,14.0,99.053,35.984,44.192,18.877,HARD,13.0,2.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,14.0,96.777,34.874,43.154,18.749,HARD,3.0,3.0,0,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,14.0,116.544,54.227,43.433,18.884,MEDIUM,1.0,3.0,1,21.6,36.2,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,14.0,97.675,35.136,43.763,18.776,HARD,2.0,3.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,14.0,100.786,36.9,44.91,18.976,MEDIUM,13.0,2.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,14.0,100.787,36.925,44.652,19.21,HARD,13.0,2.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,14.0,99.713,36.063,44.664,18.986,HARD,13.0,2.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,14.0,98.717,35.551,44.191,18.975,HARD,8.0,3.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,14.0,98.51,35.514,44.056,18.94,HARD,7.0,3.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,14.0,98.617,36.003,43.889,18.725,HARD,9.0,3.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,14.0,97.935,35.636,43.593,18.706,MEDIUM,2.0,3.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,14.0,101.773,37.405,45.186,19.182,HARD,13.0,2.0,0,21.6,36.1,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,15.0,97.854,35.465,43.565,18.824,MEDIUM,15.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,15.0,100.906,35.617,43.864,21.425,MEDIUM,15.0,2.0,1,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,15.0,100.439,35.661,43.689,21.089,MEDIUM,14.0,2.0,1,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,15.0,98.172,35.721,43.614,18.837,MEDIUM,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,15.0,98.565,35.73,43.92,18.915,HARD,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,15.0,98.915,35.941,44.095,18.879,HARD,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,15.0,96.788,34.892,43.222,18.674,HARD,4.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,15.0,97.453,35.447,43.299,18.707,MEDIUM,2.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,15.0,97.377,35.232,43.413,18.732,HARD,3.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,15.0,99.373,36.273,44.29,18.81,MEDIUM,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,15.0,99.368,35.94,44.433,18.995,HARD,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,15.0,100.961,37.115,44.645,19.201,HARD,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,15.0,100.42,36.412,44.941,19.067,HARD,9.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,15.0,99.925,35.947,44.85,19.128,HARD,8.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,15.0,98.125,35.618,43.481,19.026,MEDIUM,3.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,15.0,99.624,36.405,44.539,18.68,HARD,10.0,3.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,15.0,101.38,37.047,45.092,19.241,HARD,14.0,2.0,0,21.5,36.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,16.0,100.272,35.594,43.595,21.083,MEDIUM,16.0,2.0,1,21.5,35.2,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,16.0,97.876,35.533,43.482,18.861,MEDIUM,15.0,2.0,0,21.5,35.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,16.0,98.658,35.693,44.042,18.923000000000002,HARD,15.0,2.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,16.0,98.693,35.818,43.958,18.917,HARD,15.0,2.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,16.0,98.241,35.411,43.808,19.022,HARD,5.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,16.0,114.826,53.869,42.481,18.476,MEDIUM,1.0,3.0,1,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,16.0,116.159,54.516,43.041,18.602,MEDIUM,2.0,3.0,1,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,16.0,97.021,35.357,43.011,18.653,MEDIUM,3.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,16.0,97.058,34.97,43.432,18.656,HARD,4.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,16.0,99.814,36.699,44.257,18.858,MEDIUM,15.0,2.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,16.0,99.404,36.187,44.304,18.913,HARD,15.0,2.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,16.0,98.633,35.531,44.299,18.803,HARD,10.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,16.0,100.692,37.008,44.508,19.176,HARD,15.0,2.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,16.0,100.096,36.519,44.623,18.954,HARD,9.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,16.0,99.274,35.918,44.065,19.291,MEDIUM,4.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,16.0,99.355,36.317,44.105,18.933,HARD,11.0,3.0,0,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,16.0,103.476,36.884,44.836,21.756,HARD,15.0,2.0,1,21.3,35.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,17.0,97.856,35.435,43.554,18.867,MEDIUM,16.0,2.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,17.0,116.478,54.634,43.113,18.731,MEDIUM,1.0,3.0,1,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,17.0,99.417,36.016,44.411,18.99,HARD,16.0,2.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,17.0,97.807,35.129,43.544,19.134,HARD,6.0,3.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,17.0,97.428,34.678,43.951,18.799,MEDIUM,2.0,3.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,17.0,100.53,36.398,44.256,19.876,HARD,16.0,2.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,17.0,96.469,35.106,42.875,18.488,MEDIUM,3.0,3.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,17.0,96.999,35.356,42.956,18.687,MEDIUM,4.0,3.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,17.0,96.747,35.099,43.051,18.597,HARD,5.0,3.0,0,21.2,34.9,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,17.0,99.728,36.516,44.338,18.874,MEDIUM,16.0,2.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,17.0,99.216,36.019,44.312,18.885,HARD,16.0,2.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,17.0,98.718,35.635,44.402,18.681,HARD,11.0,3.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,17.0,97.944,35.252,43.885,18.807,HARD,10.0,3.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,17.0,98.057,35.629,43.589,18.839,MEDIUM,5.0,3.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,17.0,100.929,36.929,44.763,19.237,HARD,16.0,2.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,17.0,99.312,36.357,44.141,18.814,HARD,12.0,3.0,0,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,17.0,118.732,56.331,43.543,18.858,MEDIUM,1.0,3.0,1,21.1,34.8,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,18.0,97.76,35.551,43.501,18.708,MEDIUM,17.0,2.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,18.0,96.822,34.981,43.108,18.733,MEDIUM,2.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,18.0,96.487,34.632,43.202,18.653,HARD,7.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,18.0,97.844,35.342,43.801,18.701,MEDIUM,3.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,18.0,100.317,36.537,44.194,19.586,HARD,17.0,2.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,18.0,99.304,36.162,44.27,18.872,HARD,17.0,2.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,18.0,96.698,35.072,43.179,18.447,MEDIUM,4.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,18.0,97.031,35.309,43.073,18.649,MEDIUM,5.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,18.0,96.822,35.01,43.236,18.576,HARD,6.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,18.0,99.665,36.424,44.343,18.898,MEDIUM,17.0,2.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,18.0,98.83,35.478,44.377,18.975,HARD,12.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,18.0,100.309,36.778,44.529,19.002,HARD,17.0,2.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,18.0,99.27,35.75,44.437,19.083,HARD,11.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,18.0,98.843,35.501,44.208,19.134,MEDIUM,6.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,18.0,98.476,35.88,43.842,18.754,HARD,13.0,3.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,18.0,100.737,37.084,44.553,19.1,HARD,17.0,2.0,0,21.3,34.6,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,18.0,98.374,35.683,43.868,18.823,MEDIUM,2.0,3.0,0,21.2,34.8,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,19.0,97.523,35.393,43.47,18.66,MEDIUM,18.0,2.0,0,21.2,34.8,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,19.0,96.252,34.857,42.769,18.626,MEDIUM,3.0,3.0,0,21.2,34.8,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,19.0,96.783,34.957,43.162,18.664,HARD,8.0,3.0,0,21.2,34.8,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,19.0,96.436,34.925,42.989,18.522,MEDIUM,4.0,3.0,0,21.2,34.8,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,19.0,98.392,35.636,43.882,18.874,HARD,18.0,2.0,0,21.2,34.8,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,19.0,97.786,35.622,43.58,18.584,MEDIUM,5.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,19.0,99.352,35.728,44.662,18.962,HARD,18.0,2.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,19.0,96.821,35.098,43.127,18.596,MEDIUM,6.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,19.0,96.782,35.051,43.143,18.588,HARD,7.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,19.0,99.538,36.438,44.295,18.805,MEDIUM,18.0,2.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,19.0,99.632,36.228,44.499,18.905,HARD,13.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,19.0,99.537,36.269,44.285,18.983,HARD,18.0,2.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,19.0,99.658,36.249,44.228,19.181,HARD,12.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,19.0,99.757,36.33,44.379,19.048,MEDIUM,7.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,19.0,98.894,36.19,43.967,18.737,HARD,14.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,19.0,102.283,36.254,44.342,21.687,HARD,18.0,2.0,1,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,19.0,98.599,35.764,43.918,18.917,MEDIUM,3.0,3.0,0,21.2,34.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,20.0,97.48,35.344,43.542,18.594,MEDIUM,19.0,2.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,20.0,96.402,34.885,42.974,18.543,MEDIUM,4.0,3.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,20.0,96.847,34.961,43.235,18.651,HARD,9.0,3.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,20.0,96.206,34.808,42.946,18.452,MEDIUM,5.0,3.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,20.0,98.463,35.591,44.024,18.848,HARD,19.0,2.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,20.0,97.314,35.072,43.475,18.767,MEDIUM,6.0,3.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,20.0,98.619,35.668,44.172,18.779,HARD,19.0,2.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,20.0,97.615,35.392,43.313,18.91,MEDIUM,7.0,3.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,20.0,96.984,35.098,43.326,18.56,HARD,8.0,3.0,0,21.1,34.2,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,20.0,99.262,36.242,44.247,18.773,MEDIUM,19.0,2.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,20.0,99.113,36.034,44.306,18.773,HARD,14.0,3.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,20.0,98.968,35.84,44.315,18.813,HARD,19.0,2.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,20.0,99.1,35.735,44.445,18.92,HARD,13.0,3.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,20.0,99.248,35.822,44.46,18.966,MEDIUM,8.0,3.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,20.0,99.343,36.269,44.129,18.945,HARD,15.0,3.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,20.0,118.375,55.949,43.653,18.773,HARD,1.0,3.0,1,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,20.0,98.741,35.953,43.915,18.873,MEDIUM,4.0,3.0,0,21.1,34.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,21.0,95.617,34.242,42.833,18.542,MEDIUM,5.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,21.0,98.203,35.888,43.624,18.691,MEDIUM,20.0,2.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,21.0,96.996,34.98,43.408,18.608,HARD,10.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,21.0,96.558,34.994,43.049,18.515,MEDIUM,6.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,21.0,97.995,35.98,43.429,18.586,MEDIUM,7.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,21.0,99.492,36.048,44.456,18.988,HARD,20.0,2.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,21.0,98.642,35.841,43.997,18.804,HARD,20.0,2.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,21.0,97.565,35.334,43.406,18.825,MEDIUM,8.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,21.0,97.416,35.276,43.47,18.67,HARD,9.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,21.0,99.545,36.376,44.316,18.853,MEDIUM,20.0,2.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,21.0,99.457,36.279,44.414,18.764,HARD,15.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,21.0,99.612,36.089,44.653,18.87,HARD,20.0,2.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,21.0,99.562,35.84,44.74,18.982,HARD,14.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,21.0,99.552,35.859,44.731,18.962,MEDIUM,9.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,21.0,99.78,36.501,44.273,19.006,HARD,16.0,3.0,0,21.0,34.4,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,21.0,97.716,35.355,43.59,18.771,HARD,2.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,21.0,98.415,35.664,43.851,18.9,MEDIUM,5.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,22.0,96.384,34.914,42.902,18.568,MEDIUM,6.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,22.0,97.744,35.399,43.593,18.752,MEDIUM,21.0,2.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,22.0,97.264,34.92,43.437,18.907,MEDIUM,7.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,22.0,98.888,35.207,44.037,19.644,HARD,11.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,22.0,96.575,34.861,43.148,18.566,MEDIUM,8.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,22.0,97.721,35.144,43.502,19.075,MEDIUM,9.0,3.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,22.0,100.895,35.758,44.026,21.111,HARD,21.0,2.0,1,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,22.0,99.823,36.66,44.27,18.893,HARD,21.0,2.0,0,21.2,35.2,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,22.0,98.625,35.613,44.097,18.915,HARD,10.0,3.0,0,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,22.0,102.164,36.533,44.445,21.186,MEDIUM,21.0,2.0,1,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,22.0,102.311,36.345,44.538,21.428,HARD,16.0,3.0,1,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,22.0,101.989,35.981,44.492,21.516,HARD,21.0,2.0,1,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,22.0,99.694,36.496,44.198,19.0,HARD,17.0,3.0,0,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,22.0,101.916,35.995,44.556,21.365,HARD,15.0,3.0,1,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,22.0,102.328,36.035,44.449,21.844,MEDIUM,10.0,3.0,1,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,22.0,97.775,35.349,43.541,18.885,HARD,3.0,3.0,0,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,22.0,98.382,35.706,43.824,18.852,MEDIUM,6.0,3.0,0,21.2,35.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,23.0,96.205,34.81,42.855,18.54,MEDIUM,7.0,3.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,23.0,97.755,35.46,43.55,18.745,MEDIUM,22.0,2.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,23.0,96.656,34.723,43.265,18.668,MEDIUM,8.0,3.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,23.0,98.213,35.567,43.828,18.818,HARD,12.0,3.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,23.0,96.779,34.988,43.269,18.522,MEDIUM,9.0,3.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,23.0,97.64,35.236,43.52,18.884,MEDIUM,10.0,3.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,23.0,98.919,35.757,43.971,19.191,HARD,11.0,3.0,0,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,23.0,101.466,35.82,44.201,21.445,HARD,22.0,2.0,1,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,23.0,115.552,54.686,42.375,18.491,HARD,1.0,3.0,1,21.1,35.4,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,23.0,98.965,36.135,43.928,18.902,HARD,18.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,23.0,117.251,55.471,43.026,18.754,HARD,1.0,4.0,1,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,23.0,116.743,55.229,42.773,18.741,HARD,1.0,4.0,1,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,23.0,99.219,36.493,43.786,18.94,HARD,4.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,23.0,121.576,59.681,43.157,18.738,HARD,1.0,3.0,1,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,23.0,121.647,59.413,43.554,18.68,HARD,1.0,4.0,1,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,23.0,121.843,59.193,43.806,18.844,HARD,1.0,3.0,1,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,23.0,99.816,36.281,44.48,19.055,MEDIUM,7.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,24.0,96.532,34.895,43.008,18.629,MEDIUM,8.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,24.0,98.071,35.654,43.621,18.796,MEDIUM,23.0,2.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,24.0,96.921,34.839,43.391,18.691,MEDIUM,9.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,24.0,97.722,35.327,43.654,18.741,HARD,13.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,24.0,96.805,35.02,43.226,18.559,MEDIUM,10.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,24.0,97.435,35.253,43.395,18.787,MEDIUM,11.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,24.0,97.175,35.019,43.461,18.695,HARD,12.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,24.0,95.149,34.356,42.322,18.471,HARD,2.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,24.0,115.127,54.358,42.356,18.413,HARD,1.0,3.0,1,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,24.0,99.261,36.178,43.966,19.117,HARD,19.0,3.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,24.0,96.637,34.996,42.983,18.658,HARD,2.0,4.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,24.0,96.761,34.994,43.084,18.683,HARD,2.0,4.0,0,21.0,35.6,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,24.0,96.654,35.152,43.007,18.495,HARD,2.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,24.0,98.924,36.307,43.744,18.873,HARD,5.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,24.0,98.126,35.673,43.631,18.822,HARD,2.0,4.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,24.0,98.094,35.154,43.871,19.069,HARD,2.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,24.0,98.781,35.817,44.156,18.808,MEDIUM,8.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,25.0,96.337,34.677,43.075,18.585,MEDIUM,9.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,25.0,97.918,35.498,43.731,18.689,MEDIUM,24.0,2.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,25.0,97.76,35.304,43.717,18.739,MEDIUM,10.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,25.0,97.558,35.294,43.603,18.661,HARD,14.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,25.0,96.945,35.0,43.395,18.55,MEDIUM,11.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,25.0,97.423,35.22,43.483,18.72,MEDIUM,12.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,25.0,97.776,35.295,43.689,18.792,HARD,13.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,25.0,95.673,34.38,42.769,18.524,HARD,3.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,25.0,95.432,34.524,42.559,18.349,HARD,2.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,25.0,98.781,35.917,44.081,18.783,HARD,20.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,25.0,97.073,35.392,43.059,18.622,HARD,3.0,4.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,25.0,96.995,35.236,43.139,18.62,HARD,3.0,4.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,25.0,97.033,35.287,43.19,18.556,HARD,3.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,25.0,96.608,34.464,43.448,18.696,HARD,3.0,4.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,25.0,99.084,36.212,43.955,18.917,HARD,6.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,25.0,98.43,35.477,43.867,19.086,HARD,3.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,25.0,99.034,35.854,44.108,19.072,MEDIUM,9.0,3.0,0,21.1,36.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,26.0,96.437,34.874,42.952,18.611,MEDIUM,10.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,26.0,97.689,35.496,43.536,18.657,MEDIUM,11.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,26.0,97.137,35.136,43.448,18.553,MEDIUM,12.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,26.0,103.175,35.536,46.559,21.08,MEDIUM,25.0,2.0,1,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,26.0,100.917,35.271,44.337,21.309,HARD,15.0,3.0,1,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,26.0,97.289,35.247,43.325,18.717,MEDIUM,13.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,26.0,97.364,35.168,43.409,18.787,HARD,14.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,26.0,95.775,34.524,42.725,18.526,HARD,4.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,26.0,95.447,34.17,42.728,18.549,HARD,3.0,3.0,0,21.3,35.7,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,26.0,99.042,36.155,44.112,18.775,HARD,21.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,26.0,97.037,35.304,43.137,18.596,HARD,4.0,4.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,26.0,97.307,35.367,43.151,18.789,HARD,4.0,4.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,26.0,97.145,35.497,43.233,18.415,HARD,4.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,26.0,96.858,35.057,43.206,18.595,HARD,4.0,4.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,26.0,98.611,35.898,43.795,18.918,HARD,7.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,26.0,98.485,36.002,43.594,18.889,HARD,4.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,26.0,98.958,36.002,44.005,18.951,MEDIUM,10.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,27.0,96.654,34.936,42.975,18.743,MEDIUM,11.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,27.0,96.843,34.947,43.279,18.617,MEDIUM,12.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,27.0,97.068,35.134,43.321,18.613,MEDIUM,13.0,3.0,0,21.4,35.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,27.0,97.359,35.232,43.367,18.76,MEDIUM,14.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,27.0,97.389,35.266,43.409,18.714,HARD,15.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,27.0,115.623,54.455,42.624,18.544,HARD,1.0,3.0,1,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,27.0,97.28,35.722,43.012,18.546,HARD,5.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,27.0,116.621,55.404,42.66,18.557,HARD,1.0,4.0,1,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,27.0,96.135,34.746,42.943,18.446,HARD,4.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,27.0,99.256,36.185,44.007,19.064,HARD,22.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,27.0,97.184,35.46,43.065,18.659,HARD,5.0,4.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,27.0,97.244,35.314,43.16,18.77,HARD,5.0,4.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,27.0,97.395,35.533,43.286,18.576,HARD,5.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,27.0,96.622,34.846,43.337,18.439,HARD,5.0,4.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,27.0,96.59,34.705,43.223,18.662,HARD,5.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,27.0,98.943,36.166,43.859,18.918,HARD,8.0,3.0,0,21.4,35.7,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,27.0,98.902,35.94,43.985,18.977,MEDIUM,11.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,28.0,96.496,34.883,43.01,18.603,MEDIUM,12.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,28.0,96.733,34.875,43.263,18.595,MEDIUM,13.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,28.0,96.845,35.048,43.195,18.602,MEDIUM,14.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,28.0,97.341,35.174,43.405,18.762,MEDIUM,15.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,28.0,97.438,35.217,43.536,18.685,HARD,16.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,28.0,96.09,34.766,42.802,18.522,HARD,2.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,28.0,95.721,34.468,42.835,18.418,HARD,2.0,4.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,28.0,97.564,35.752,43.178,18.634,HARD,6.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,28.0,96.295,34.843,42.959,18.493,HARD,5.0,3.0,0,21.4,36.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,28.0,99.17,36.128,44.13,18.912,HARD,23.0,3.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,28.0,97.227,35.392,43.076,18.759,HARD,6.0,4.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,28.0,97.088,35.185,43.164,18.739,HARD,6.0,4.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,28.0,97.504,35.641,43.356,18.507,HARD,6.0,3.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,28.0,97.472,35.328,43.557,18.587,HARD,6.0,4.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,28.0,97.429,35.237,43.45,18.742,HARD,6.0,3.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,28.0,98.612,35.712,43.966,18.934,HARD,9.0,3.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,28.0,98.873,35.958,44.022,18.893,MEDIUM,12.0,3.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,29.0,96.655,35.02,43.016,18.619,MEDIUM,13.0,3.0,0,21.5,36.2,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,29.0,96.969,35.035,43.263,18.671,MEDIUM,14.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,29.0,97.176,35.255,43.195,18.726,MEDIUM,15.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,29.0,97.782,35.509,43.309,18.964,MEDIUM,16.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,29.0,97.771,35.343,43.399,19.029,HARD,17.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,29.0,96.357,34.918,42.806,18.633,HARD,3.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,29.0,96.258,34.941,42.841,18.476,HARD,3.0,4.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,29.0,96.699,35.09,42.956,18.653,HARD,7.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,29.0,96.746,34.932,43.149,18.665,HARD,6.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,29.0,99.951,36.38,44.283,19.288,HARD,24.0,3.0,0,21.4,36.4,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,29.0,97.319,35.475,43.131,18.713,HARD,7.0,4.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,29.0,97.633,35.486,43.386,18.761,HARD,7.0,4.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,29.0,97.888,35.705,43.571,18.612,HARD,7.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,29.0,97.712,35.456,43.629,18.627,HARD,7.0,4.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,29.0,97.679,35.398,43.48,18.801,HARD,7.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,29.0,98.702,35.779,43.978,18.945,HARD,10.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,29.0,99.052,36.038,44.122,18.892,MEDIUM,13.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,30.0,96.849,35.05,43.132,18.667,MEDIUM,14.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,30.0,97.097,35.201,43.289,18.607,MEDIUM,15.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,30.0,97.01,35.234,43.204,18.572,MEDIUM,16.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,30.0,97.643,35.337,43.413,18.893,MEDIUM,17.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,30.0,97.946,35.3,43.394,19.252,HARD,18.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,30.0,96.225,34.913,42.847,18.465,HARD,4.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,30.0,96.243,34.846,42.867,18.53,HARD,4.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,30.0,96.493,34.974,42.949,18.57,HARD,8.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,30.0,96.399,34.825,42.982,18.592,HARD,7.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,30.0,99.183,36.235,44.148,18.8,HARD,25.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,30.0,97.617,35.559,43.271,18.787,HARD,8.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,30.0,97.361,35.342,43.331,18.688,HARD,8.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,30.0,98.014,35.748,43.633,18.633,HARD,8.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,30.0,98.253,35.768,43.794,18.691,HARD,8.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,30.0,97.511,35.392,43.379,18.74,HARD,8.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,30.0,98.499,35.656,43.933,18.91,HARD,11.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,30.0,98.894,35.924,44.011,18.959,MEDIUM,14.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,31.0,96.761,34.998,43.147,18.616,MEDIUM,15.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,31.0,97.118,35.15,43.356,18.612,MEDIUM,16.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,31.0,96.901,35.184,43.163,18.554,MEDIUM,17.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,31.0,97.451,35.308,43.38,18.763,MEDIUM,18.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,31.0,97.845,35.356,43.595,18.894,HARD,19.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,31.0,96.201,34.794,42.878,18.529,HARD,5.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,31.0,96.225,34.969,42.814,18.442,HARD,5.0,4.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,31.0,96.776,35.019,43.11,18.647,HARD,9.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,31.0,96.586,35.01,43.081,18.495,HARD,8.0,3.0,0,21.3,36.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,31.0,99.465,36.231,44.316,18.918,HARD,26.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,31.0,97.676,35.451,43.378,18.847,HARD,9.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,31.0,97.729,35.408,43.47,18.851,HARD,9.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,31.0,98.498,35.9,43.781,18.817,HARD,9.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,31.0,98.058,35.462,43.806,18.79,HARD,9.0,4.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,31.0,97.495,35.395,43.345,18.755,HARD,9.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,31.0,98.662,35.716,43.98,18.966,HARD,12.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,31.0,99.45,36.074,44.302,19.074,MEDIUM,15.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,32.0,96.92,35.134,43.092,18.694,MEDIUM,16.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,32.0,97.106,35.061,43.365,18.68,MEDIUM,17.0,3.0,0,21.3,36.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,32.0,97.106,35.216,43.238,18.652,MEDIUM,18.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,32.0,97.635,35.348,43.38,18.907,MEDIUM,19.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,32.0,96.144,34.901,42.737,18.506,HARD,6.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,32.0,99.482,35.221,43.456,20.805,HARD,20.0,3.0,1,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,32.0,96.375,34.975,42.832,18.568,HARD,6.0,4.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,32.0,96.744,34.984,42.93,18.83,HARD,10.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,32.0,96.601,34.864,43.096,18.641,HARD,9.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,32.0,100.248,36.718,44.495,19.035,HARD,27.0,3.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,32.0,98.624,35.816,43.812,18.996,HARD,10.0,4.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,32.0,98.202,35.605,43.586,19.011,HARD,10.0,4.0,0,21.4,36.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,32.0,98.657,36.033,43.776,18.848,HARD,10.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,32.0,98.748,36.036,43.921,18.791,HARD,10.0,4.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,32.0,97.761,35.405,43.568,18.788,HARD,10.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,32.0,98.366,35.533,43.946,18.887,HARD,13.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,32.0,101.728,36.112,44.223,21.393,MEDIUM,16.0,3.0,1,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,33.0,97.048,35.182,43.181,18.685,MEDIUM,17.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,33.0,99.409,35.006,43.257,21.146,MEDIUM,18.0,3.0,1,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,33.0,97.233,35.178,43.424,18.631,MEDIUM,19.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,33.0,99.794,35.389,43.453,20.951999999999998,MEDIUM,20.0,3.0,1,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,33.0,95.878,34.376,42.93,18.572,HARD,7.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,33.0,96.34,34.957,42.903,18.48,HARD,7.0,4.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,33.0,96.383,34.868,42.9,18.615,HARD,11.0,3.0,0,21.3,36.7,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,33.0,96.444,34.902,43.011,18.531,HARD,10.0,3.0,0,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,33.0,115.493,54.288,42.571,18.634,HARD,1.0,4.0,1,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,33.0,98.692,36.191,43.56,18.941,HARD,11.0,4.0,0,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,33.0,99.609,36.585,44.11,18.914,HARD,11.0,4.0,0,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,33.0,98.58,35.912,43.84,18.828,HARD,11.0,3.0,0,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,33.0,103.896,37.314,45.146,21.436,HARD,28.0,3.0,1,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,33.0,98.722,35.807,44.043,18.872,HARD,11.0,4.0,0,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,33.0,98.166,35.552,43.742,18.872,HARD,11.0,3.0,0,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,33.0,100.764,35.559,43.754,21.451,HARD,14.0,3.0,1,21.2,36.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,34.0,99.226,35.038,43.228,20.96,MEDIUM,18.0,3.0,1,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,34.0,96.901,35.252,43.177,18.472,MEDIUM,20.0,3.0,0,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,33.0,117.833,55.446,43.566,18.821,HARD,1.0,4.0,1,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,34.0,96.32,34.925,42.872,18.523,HARD,8.0,3.0,0,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,34.0,96.262,35.07,42.802,18.39,HARD,8.0,4.0,0,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,34.0,114.946,53.934,42.674,18.338,HARD,1.0,4.0,1,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,34.0,96.704,35.021,42.991,18.692,HARD,12.0,3.0,0,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,34.0,96.707,34.966,43.168,18.573,HARD,11.0,3.0,0,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,34.0,115.043,54.167,42.439,18.437,HARD,1.0,4.0,1,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,34.0,95.255,34.409,42.365,18.481,HARD,2.0,4.0,0,21.2,36.2,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,34.0,97.793,35.51,43.459,18.824,HARD,12.0,4.0,0,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,34.0,99.55,35.382,43.429,20.739,HARD,12.0,4.0,1,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,34.0,97.93,35.636,43.667,18.627,HARD,12.0,3.0,0,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,34.0,98.003,35.614,43.707,18.682,HARD,12.0,4.0,0,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,34.0,100.392,35.473,43.909,21.01,HARD,12.0,3.0,1,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,34.0,117.385,56.176,42.775,18.434,HARD,1.0,4.0,1,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,34.0,117.831,55.964,43.297,18.57,MEDIUM,1.0,4.0,1,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,35.0,96.948,35.136,43.11,18.701999999999998,MEDIUM,21.0,3.0,0,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,35.0,115.503,54.547,42.486,18.47,HARD,1.0,4.0,1,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,34.0,98.671,35.397,43.833,19.441,HARD,2.0,4.0,0,21.0,35.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,35.0,96.056,34.74,42.872,18.444,HARD,9.0,3.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,35.0,93.945,33.433,42.191,18.321,HARD,2.0,4.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,35.0,96.614,35.221,42.865,18.528,HARD,9.0,4.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,35.0,96.47,34.85,42.992,18.628,HARD,13.0,3.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,35.0,96.514,34.839,43.13,18.545,HARD,12.0,3.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,35.0,95.771,34.693,42.634,18.444,HARD,2.0,4.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,35.0,94.802,34.135,42.289,18.378,HARD,3.0,4.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,35.0,97.626,35.486,43.317,18.823,HARD,13.0,4.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,35.0,98.046,35.67,43.646,18.73,HARD,13.0,3.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,35.0,98.007,35.4,43.863,18.744,HARD,13.0,4.0,0,21.0,35.1,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,35.0,113.728,53.224,41.947,18.557,SOFT,1.0,5.0,1,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,35.0,95.937,35.062,42.486,18.389,HARD,2.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,35.0,116.181,55.541,42.269,18.371,MEDIUM,1.0,4.0,1,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,35.0,97.126,35.156,43.358,18.612,MEDIUM,2.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,36.0,94.619,34.203,42.165,18.251,HARD,2.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,36.0,99.31,35.183,43.17,20.957,MEDIUM,22.0,3.0,1,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,35.0,97.656,35.565,43.366,18.725,HARD,3.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,36.0,94.479,33.662,42.278,18.539,HARD,3.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,36.0,96.681,35.315,42.85,18.516,HARD,10.0,3.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,36.0,95.896,34.657,42.773,18.466,HARD,10.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,36.0,96.468,34.718,43.105,18.645,HARD,14.0,3.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,36.0,96.191,34.637,43.02,18.534,HARD,13.0,3.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,36.0,95.353,34.613,42.461,18.279,HARD,3.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,36.0,95.128,34.246,42.444,18.438,HARD,4.0,4.0,0,20.9,34.9,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,36.0,97.103,35.104,43.297,18.701999999999998,HARD,14.0,4.0,0,20.9,34.6,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,36.0,98.078,35.813,43.586,18.679,HARD,14.0,3.0,0,20.9,34.6,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,36.0,98.257,35.589,43.937,18.731,HARD,14.0,4.0,0,20.9,34.6,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,36.0,95.973,34.832,42.673,18.468,SOFT,2.0,5.0,0,20.9,34.6,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,36.0,95.858,34.917,42.683,18.258,HARD,3.0,4.0,0,20.9,34.6,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,36.0,95.497,34.28,42.681,18.536,MEDIUM,2.0,4.0,0,20.9,34.6,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,36.0,96.983,35.117,43.291,18.575,MEDIUM,3.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,37.0,94.97,34.373,42.368,18.229,HARD,3.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,36.0,97.283,35.261,43.349,18.673000000000002,HARD,4.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,37.0,94.808,34.02,42.307,18.481,HARD,4.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,37.0,96.135,34.712,42.789,18.634,HARD,11.0,3.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,37.0,96.412,34.655,43.141,18.616,HARD,11.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,37.0,98.83,34.759,43.26,20.811,HARD,15.0,3.0,1,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,37.0,96.622,34.803,43.279,18.54,HARD,14.0,3.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,37.0,115.063,54.094,42.463,18.506,HARD,1.0,4.0,1,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,37.0,95.381,34.542,42.377,18.462,HARD,4.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,37.0,95.4,34.278,42.601,18.521,HARD,5.0,4.0,0,20.9,34.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,37.0,97.419,35.247,43.293,18.879,HARD,15.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,37.0,97.662,35.455,43.443,18.764,HARD,15.0,3.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,37.0,97.602,35.295,43.564,18.743,HARD,15.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,37.0,96.284,34.782,42.762,18.74,SOFT,3.0,5.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,37.0,95.933,34.946,42.648,18.339,HARD,4.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,37.0,96.103,34.776,42.808,18.519,MEDIUM,3.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,38.0,94.986,34.217,42.272,18.497,HARD,4.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,37.0,98.763,35.182,44.096,19.485,MEDIUM,4.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,38.0,95.245,34.413,42.385,18.447,HARD,5.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,37.0,98.426,36.064,43.658,18.704,HARD,5.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,38.0,96.029,34.752,42.737,18.54,HARD,12.0,3.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,38.0,95.883,34.65,42.687,18.546,HARD,12.0,4.0,0,20.8,34.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,38.0,93.995,33.588,42.107,18.3,HARD,2.0,4.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,38.0,97.458,35.605,43.258,18.595,HARD,15.0,3.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,38.0,95.487,34.657,42.371,18.459,HARD,5.0,4.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,38.0,95.267,34.347,42.482,18.438,HARD,6.0,4.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,38.0,113.925,53.528,41.902,18.495,MEDIUM,2.0,4.0,1,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,38.0,97.442,35.197,43.464,18.781,HARD,16.0,4.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,38.0,97.789,35.622,43.476,18.691,HARD,16.0,3.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,38.0,98.0,35.557,43.663,18.78,HARD,16.0,4.0,0,20.6,34.2,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,38.0,96.356,34.904,42.838,18.614,SOFT,4.0,5.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,38.0,96.13,35.264,42.552,18.314,HARD,5.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,38.0,96.149,34.663,42.897,18.589,MEDIUM,4.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,39.0,94.494,34.097,42.145,18.252,HARD,5.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,38.0,96.714,34.88,43.199,18.635,MEDIUM,5.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,39.0,94.99,34.223,42.294,18.473,HARD,6.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,38.0,96.756,34.95,43.183,18.623,HARD,6.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,39.0,95.693,34.61,42.582,18.501,HARD,13.0,3.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,39.0,95.706,34.492,42.785,18.429,HARD,13.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,39.0,94.419,34.056,42.174,18.189,HARD,3.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,39.0,99.03,34.938,43.183,20.909,HARD,16.0,3.0,1,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,39.0,95.97,34.824,42.625,18.521,HARD,6.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,39.0,96.036,34.647,42.862,18.527,HARD,7.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,39.0,94.404,34.005,42.106,18.293,MEDIUM,3.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,39.0,97.595,35.475,43.373,18.747,HARD,17.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,39.0,97.553,35.416,43.487,18.65,HARD,17.0,3.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,39.0,97.232,35.03,43.558,18.644,HARD,17.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,39.0,96.614,35.212,42.743,18.659,SOFT,5.0,5.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,39.0,95.853,35.052,42.576,18.225,HARD,6.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,39.0,96.25,34.824,42.88,18.546,MEDIUM,5.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,40.0,94.343,33.952,42.124,18.267,HARD,6.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,39.0,97.058,34.945,43.411,18.701999999999998,MEDIUM,6.0,4.0,0,20.6,34.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,40.0,94.738,34.051,42.417,18.27,HARD,7.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,40.0,96.341,34.998,42.799,18.544,HARD,14.0,3.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,40.0,96.249,34.624,42.995,18.63,HARD,14.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,39.0,100.223,36.267,43.762,20.194,HARD,7.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,40.0,94.396,33.977,42.111,18.308,HARD,4.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,40.0,95.808,34.714,42.464,18.63,HARD,7.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,40.0,95.888,34.505,42.723,18.66,HARD,8.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,40.0,94.537,33.931,42.253,18.353,MEDIUM,4.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,40.0,114.409,54.183,41.851,18.375,MEDIUM,2.0,4.0,1,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,40.0,97.441,35.316,43.385,18.74,HARD,18.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,40.0,97.542,35.427,43.508,18.607,HARD,18.0,3.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,40.0,97.858,35.403,43.638,18.817,HARD,18.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,40.0,95.844,34.592,42.607,18.645,SOFT,6.0,5.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,40.0,95.705,34.876,42.502,18.327,HARD,7.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,40.0,96.282,34.792,43.001,18.489,MEDIUM,6.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,41.0,94.273,33.997,42.069,18.207,HARD,7.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,40.0,97.58,35.037,43.406,19.137,MEDIUM,7.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,41.0,95.03,34.136,42.423,18.471,HARD,8.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,41.0,95.451,34.356,42.553,18.542,HARD,15.0,3.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,41.0,95.229,34.119,42.655,18.455,HARD,15.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,41.0,94.863,34.232,42.342,18.289,HARD,5.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,40.0,98.072,35.041,44.271,18.76,HARD,8.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,41.0,95.574,34.409,42.58,18.585,HARD,8.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,41.0,95.545,34.323,42.7,18.522,HARD,9.0,4.0,0,20.4,33.1,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,41.0,94.541,34.13,42.024,18.387,MEDIUM,5.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,41.0,93.952,33.633,42.033,18.286,MEDIUM,3.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,41.0,97.297,35.296,43.254,18.747,HARD,19.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,41.0,97.513,35.384,43.521,18.608,HARD,19.0,3.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,41.0,97.312,35.033,43.546,18.733,HARD,19.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,41.0,95.798,34.43,42.798,18.57,SOFT,7.0,5.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,41.0,95.947,34.935,42.652,18.36,HARD,8.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,42.0,94.965,33.901,42.756,18.308,HARD,8.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,42.0,95.433,34.02,43.077,18.336,HARD,9.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,41.0,99.008,36.091,44.241,18.676,MEDIUM,8.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,42.0,95.797,34.362,43.019,18.416,HARD,16.0,3.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,42.0,96.217,34.524,43.361,18.332,HARD,16.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,42.0,95.293,34.066,43.003,18.224,HARD,6.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,41.0,97.477,34.976,43.914,18.587,HARD,9.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,42.0,97.292,34.56,44.127,18.605,HARD,9.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,42.0,97.548,34.548,44.495,18.505,HARD,10.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,42.0,95.299,34.104,42.758,18.437,MEDIUM,6.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,41.0,143.782,34.81,86.327,22.645,MEDIUM,7.0,4.0,1,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,42.0,94.238,33.805,42.22,18.213,MEDIUM,4.0,4.0,0,20.3,33.3,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,42.0,97.493,35.328,43.355,18.81,HARD,20.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,42.0,97.968,35.401,43.692,18.875,HARD,20.0,3.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,42.0,98.001,35.378,43.724,18.899,HARD,20.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,42.0,96.556,34.711,43.19,18.655,SOFT,8.0,5.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,42.0,96.374,35.084,42.8,18.49,HARD,9.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,43.0,94.303,33.837,42.139,18.327,HARD,9.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,43.0,95.099,33.973,42.725,18.401,HARD,10.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,42.0,97.129,34.865,43.459,18.805,MEDIUM,9.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,43.0,95.713,34.546,42.666,18.501,HARD,17.0,3.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,43.0,95.92,34.335,42.928,18.657,HARD,17.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,43.0,94.75,33.97,42.434,18.346,HARD,7.0,4.0,0,20.3,33.1,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,42.0,97.014,34.965,43.408,18.641,HARD,10.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,43.0,96.092,34.687,42.761,18.644,HARD,10.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,43.0,95.841,34.549,42.672,18.62,HARD,11.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,43.0,95.141,34.286,42.43,18.425,MEDIUM,7.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,43.0,94.082,33.727,42.033,18.322,MEDIUM,5.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,42.0,115.171,54.541,42.14,18.49,SOFT,1.0,5.0,1,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,43.0,97.498,35.495,43.276,18.727,HARD,21.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,43.0,97.376,35.358,43.384,18.634,HARD,21.0,3.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,43.0,97.444,35.154,43.572,18.718,HARD,21.0,4.0,0,20.1,33.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,43.0,96.503,34.749,43.089,18.665,SOFT,9.0,5.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,43.0,96.151,35.013,42.698,18.44,HARD,10.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,44.0,94.455,33.813,42.303,18.339,HARD,10.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,44.0,94.701,34.015,42.339,18.347,HARD,11.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,43.0,97.478,35.112,43.498,18.868,MEDIUM,10.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,44.0,95.685,34.483,42.776,18.426,HARD,18.0,3.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,44.0,94.336,33.784,42.143,18.409,HARD,8.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,44.0,96.391,35.127,42.71,18.554,HARD,18.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,43.0,96.799,35.047,43.044,18.708,HARD,11.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,44.0,95.615,34.544,42.578,18.493,HARD,11.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,44.0,95.539,34.265,42.741,18.533,HARD,12.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,44.0,94.834,34.142,42.29,18.402,MEDIUM,8.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,44.0,94.337,33.907,42.172,18.258,MEDIUM,6.0,4.0,0,20.1,32.9,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,43.0,94.9,34.268,42.201,18.431,SOFT,2.0,5.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,44.0,97.329,35.264,43.254,18.811,HARD,22.0,4.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,44.0,97.475,35.457,43.284,18.734,HARD,22.0,3.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,44.0,97.507,35.075,43.658,18.774,HARD,22.0,4.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,44.0,96.485,34.701,43.105,18.679,SOFT,10.0,5.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,44.0,96.769,35.339,43.048,18.382,HARD,11.0,4.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,45.0,94.606,34.085,42.138,18.383,HARD,11.0,4.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,45.0,94.996,34.1,42.464,18.432,HARD,12.0,4.0,0,20.0,32.6,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,45.0,95.739,34.489,42.616,18.634,HARD,19.0,3.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,45.0,95.006,34.293,42.343,18.37,HARD,9.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,45.0,96.224,34.733,42.977,18.514,HARD,19.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,44.0,100.961,37.447,44.739,18.775,MEDIUM,11.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,44.0,97.201,35.111,43.19,18.9,HARD,12.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,45.0,95.636,34.42,42.593,18.623,HARD,12.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,45.0,95.648,34.356,42.723,18.569,HARD,13.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,45.0,94.913,34.097,42.322,18.494,MEDIUM,9.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,45.0,94.791,34.053,42.355,18.383,MEDIUM,7.0,4.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,44.0,95.087,34.258,42.339,18.49,SOFT,3.0,5.0,0,20.0,32.5,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,45.0,97.25,35.295,43.172,18.783,HARD,23.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,45.0,97.674,35.407,43.626,18.641,HARD,23.0,3.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,45.0,96.806,34.907,43.277,18.622,SOFT,11.0,5.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,45.0,98.734,36.119,43.83,18.785,HARD,23.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,45.0,96.808,35.284,42.978,18.546,HARD,12.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,46.0,94.61,34.073,42.272,18.265,HARD,12.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,46.0,94.75,33.927,42.397,18.426,HARD,13.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,46.0,93.841,33.31,42.225,18.306,HARD,10.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,46.0,96.778,35.285,42.882,18.611,HARD,20.0,3.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,46.0,95.635,34.39,42.727,18.518,HARD,20.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,45.0,96.983,34.933,43.237,18.813,MEDIUM,12.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,45.0,96.942,35.011,43.136,18.795,HARD,13.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,46.0,95.827,34.625,42.578,18.624,HARD,13.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,46.0,95.755,34.416,42.794,18.545,HARD,14.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,46.0,95.115,34.155,42.443,18.517,MEDIUM,10.0,4.0,0,19.9,32.3,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,46.0,94.798,34.144,42.357,18.297,MEDIUM,8.0,4.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,45.0,95.35,34.427,42.489,18.434,SOFT,4.0,5.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,46.0,97.046,35.179,43.154,18.713,HARD,24.0,4.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,46.0,96.35,34.609,42.99,18.751,SOFT,12.0,5.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,46.0,98.332,35.79,43.798,18.744,HARD,24.0,3.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,47.0,95.113,34.21,42.527,18.376,HARD,13.0,4.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,46.0,98.169,34.723,42.926,20.52,HARD,13.0,4.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,46.0,99.966,36.116,44.703,19.147,HARD,24.0,4.0,0,19.9,32.2,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,47.0,95.056,34.058,42.474,18.524,HARD,14.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,47.0,95.063,34.257,42.398,18.408,HARD,11.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,47.0,95.922,34.607,42.757,18.558,HARD,21.0,3.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,47.0,95.633,34.419,42.734,18.48,HARD,21.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,46.0,97.091,35.059,43.245,18.787,MEDIUM,13.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,46.0,96.997,35.067,43.222,18.708,HARD,14.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,47.0,95.862,34.693,42.641,18.528,HARD,14.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,47.0,95.891,34.506,42.802,18.583,HARD,15.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,47.0,95.317,34.285,42.544,18.488,MEDIUM,11.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,47.0,94.679,33.889,42.469,18.321,MEDIUM,9.0,4.0,0,19.8,32.2,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,46.0,95.778,34.664,42.607,18.507,SOFT,5.0,5.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,47.0,97.106,35.12,43.194,18.792,HARD,25.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,47.0,96.704,34.8,43.109,18.795,SOFT,13.0,5.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,48.0,95.75,34.496,42.871,18.383,HARD,14.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,47.0,98.707,35.559,44.4,18.748,HARD,25.0,3.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,47.0,96.827,35.2,43.204,18.423,HARD,14.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,47.0,97.9,35.235,43.816,18.849,HARD,25.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,48.0,95.383,34.198,42.525,18.66,HARD,15.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,48.0,94.962,34.153,42.399,18.41,HARD,12.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,48.0,95.502,34.429,42.6,18.473,HARD,22.0,3.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,48.0,95.677,34.492,42.695,18.49,HARD,22.0,4.0,0,19.7,32.7,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,47.0,97.381,35.056,43.458,18.867,MEDIUM,14.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,47.0,96.759,34.987,43.131,18.641,HARD,15.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,48.0,95.861,34.49,42.591,18.78,HARD,15.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,48.0,95.898,34.538,42.77,18.59,HARD,16.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,48.0,95.423,34.368,42.505,18.55,MEDIUM,12.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,48.0,94.9,33.944,42.585,18.371,MEDIUM,10.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,47.0,95.701,34.592,42.569,18.54,SOFT,6.0,5.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,48.0,97.038,35.184,43.104,18.75,HARD,26.0,4.0,0,19.8,31.9,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,49.0,94.885,34.097,42.487,18.301,HARD,15.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,48.0,98.033,34.619,43.068,20.346,SOFT,14.0,5.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,48.0,95.733,34.465,42.811,18.457,HARD,15.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,48.0,98.319,36.163,43.494,18.662,HARD,26.0,3.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,48.0,97.206,34.903,43.463,18.84,HARD,26.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,49.0,95.035,34.003,42.537,18.495,HARD,16.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,49.0,94.752,33.935,42.487,18.33,HARD,13.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,49.0,95.543,34.412,42.697,18.434,HARD,23.0,3.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,49.0,95.354,34.321,42.647,18.386,HARD,23.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,48.0,96.836,34.81,43.239,18.787,MEDIUM,15.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,48.0,96.642,34.847,43.208,18.587,HARD,16.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,49.0,95.831,34.375,42.74,18.716,HARD,16.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,49.0,96.179,34.313,42.902,18.964,HARD,17.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,49.0,96.024,34.458,42.609,18.957,MEDIUM,13.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,49.0,95.047,34.013,42.648,18.386,MEDIUM,11.0,4.0,0,19.8,31.8,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,48.0,95.837,34.679,42.754,18.404,SOFT,7.0,5.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,49.0,96.557,34.954,42.994,18.609,HARD,27.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,50.0,93.706,33.404,42.141,18.161,HARD,16.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,49.0,96.381,34.751,42.969,18.661,SOFT,15.0,5.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,49.0,96.235,34.93,42.847,18.458,HARD,16.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,49.0,97.519,35.374,43.567,18.578,HARD,27.0,3.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,49.0,96.944,34.93,43.286,18.728,HARD,27.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,50.0,95.244,34.117,42.587,18.54,HARD,17.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,50.0,94.636,33.972,42.405,18.259,HARD,14.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,50.0,95.274,34.352,42.548,18.374,HARD,24.0,3.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,50.0,95.268,34.244,42.611,18.413,HARD,24.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,49.0,96.691,34.735,43.248,18.708,MEDIUM,16.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,50.0,96.008,34.511,42.946,18.551,HARD,17.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,49.0,98.65,34.862,44.189,19.599,HARD,17.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,50.0,96.228,34.548,42.997,18.683,HARD,18.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,50.0,96.465,34.683,43.167,18.615,MEDIUM,14.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,50.0,95.43,34.17,42.831,18.429,MEDIUM,12.0,4.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,49.0,95.619,34.393,42.789,18.437,SOFT,8.0,5.0,0,19.8,32.0,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,50.0,96.388,34.779,42.921,18.688,HARD,28.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,51.0,94.768,33.964,42.405,18.399,HARD,17.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,50.0,96.165,34.462,43.069,18.634,SOFT,16.0,5.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,50.0,95.718,34.8,42.584,18.334,HARD,17.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,50.0,97.42,35.312,43.481,18.627,HARD,28.0,3.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,51.0,94.89,33.957,42.55,18.383,HARD,18.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,50.0,99.195,34.838,43.645,20.712,HARD,28.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,51.0,94.877,34.124,42.369,18.384,HARD,15.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,51.0,95.199,34.245,42.492,18.462,HARD,25.0,3.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,51.0,95.186,34.22,42.604,18.362,HARD,25.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,50.0,96.636,34.62,43.263,18.753,MEDIUM,17.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,51.0,96.069,34.329,42.862,18.878,HARD,18.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,51.0,95.429,34.133,42.635,18.661,HARD,19.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,51.0,95.429,34.26,42.55,18.619,MEDIUM,15.0,4.0,0,19.8,31.7,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,51.0,95.476,34.439,42.639,18.398,MEDIUM,13.0,4.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,50.0,100.961,37.653,44.508,18.8,HARD,18.0,4.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,50.0,95.49,34.275,42.751,18.464,SOFT,9.0,5.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,51.0,96.342,34.822,42.963,18.557,HARD,29.0,4.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,52.0,94.97,34.158,42.422,18.39,HARD,18.0,4.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,51.0,96.27,34.492,42.926,18.852,SOFT,17.0,5.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,51.0,95.853,34.661,42.672,18.52,HARD,18.0,4.0,0,19.7,31.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,52.0,94.929,34.13,42.407,18.392,HARD,19.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,51.0,98.878,36.111,44.113,18.654,HARD,29.0,3.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,51.0,97.156,34.963,43.492,18.701,HARD,29.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,52.0,95.203,33.978,42.685,18.54,HARD,16.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,52.0,95.316,34.299,42.573,18.444,HARD,26.0,3.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,52.0,95.832,34.175,43.102,18.555,HARD,26.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,51.0,96.831,34.767,43.263,18.801,MEDIUM,18.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,52.0,95.633,34.115,42.651,18.867,HARD,19.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,52.0,96.164,34.223,42.772,19.169,HARD,20.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,52.0,95.743,34.392,42.708,18.643,MEDIUM,16.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,52.0,95.235,34.1,42.675,18.46,MEDIUM,14.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,51.0,97.721,35.321,43.56,18.84,HARD,19.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,51.0,95.233,34.224,42.566,18.443,SOFT,10.0,5.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,VER,Red Bull Racing,53.0,95.263,34.299,42.417,18.547,HARD,19.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,TSU,RB,52.0,98.195,35.844,43.767,18.584,HARD,30.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,HUL,Haas F1 Team,52.0,95.325,34.325,42.593,18.407,HARD,19.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,STR,Aston Martin,52.0,99.818,35.758,43.278,20.782,SOFT,18.0,5.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,PER,Red Bull Racing,53.0,94.728,33.931,42.384,18.413,HARD,20.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,MAG,Haas F1 Team,52.0,97.822,35.526,43.648,18.648,HARD,30.0,3.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,BOT,Kick Sauber,52.0,97.727,35.035,43.644,19.048,HARD,30.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,SAI,Ferrari,53.0,95.224,34.164,42.648,18.412,HARD,17.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,LEC,Ferrari,53.0,95.044,34.141,42.505,18.398,HARD,27.0,3.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,NOR,McLaren,53.0,95.721,34.301,42.947,18.473,HARD,27.0,4.0,0,19.6,31.3,False,0,0,0,0
+Japanese Grand Prix,OCO,Alpine,52.0,96.232,34.512,42.973,18.747,MEDIUM,19.0,4.0,0,19.5,31.5,False,0,0,0,0
+Japanese Grand Prix,ALO,Aston Martin,53.0,94.726,33.924,42.332,18.47,HARD,20.0,4.0,0,19.5,31.5,False,0,0,0,0
+Japanese Grand Prix,RUS,Mercedes,53.0,94.902,33.81,42.59,18.502,MEDIUM,17.0,4.0,0,19.5,31.5,False,0,0,0,0
+Japanese Grand Prix,PIA,McLaren,53.0,96.611,34.846,43.014,18.751,HARD,21.0,4.0,0,19.5,31.5,False,0,0,0,0
+Japanese Grand Prix,HAM,Mercedes,53.0,95.773,34.41,42.789,18.574,MEDIUM,15.0,4.0,0,19.5,31.5,False,0,0,0,0
+Japanese Grand Prix,GAS,Alpine,52.0,97.505,35.149,43.604,18.752,HARD,20.0,4.0,0,19.5,31.5,False,0,0,0,0
+Japanese Grand Prix,SAR,Williams,52.0,97.715,34.322,44.842,18.551,SOFT,11.0,5.0,0,19.5,31.5,False,0,0,0,0

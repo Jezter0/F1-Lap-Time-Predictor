@@ -1,0 +1,961 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+British Grand Prix,RUS,Mercedes,1.0,95.211,32.536,37.497,25.178,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,1.0,96.034,32.847,37.703,25.484,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,1.0,96.711,33.028,37.975,25.708,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,1.0,97.347,33.36599999999999,38.34,25.641,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,1.0,98.008,33.54599999999999,38.659,25.803,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,1.0,98.699,33.973,38.756,25.97,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,1.0,99.108,34.547000000000004,38.695,25.866,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,1.0,99.663,34.894999999999996,38.818,25.95,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,1.0,100.166,35.242000000000004,38.864,26.06,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,1.0,100.474,35.43900000000001,39.024,26.011,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,TSU,RB,1.0,101.109,35.56299999999999,39.386,26.16,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,1.0,101.588,35.92699999999999,39.644,26.017,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,1.0,101.772,35.712,39.579,26.481,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,1.0,102.231,36.36,40.04,25.831,SOFT,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,RIC,RB,1.0,102.715,36.39500000000001,39.782,26.538,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,1.0,103.052,36.697,40.063,26.292,SOFT,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,1.0,103.681,37.098,40.01,26.573,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,1.0,104.29,37.276,40.38,26.634,MEDIUM,1.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,1.0,109.458,43.785999999999994,39.507,26.165,HARD,1.0,1.0,1,16.3,33.0,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,2.0,91.418,29.454,36.954,25.01,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,2.0,91.42,29.249,37.314,24.857,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,2.0,91.773,29.612,37.222,24.939,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,2.0,92.188,29.225,37.918,25.045,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,2.0,92.361,29.489,37.642,25.23,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,2.0,92.359,29.435,37.736,25.188,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,2.0,92.683,29.645,37.883,25.155,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,2.0,92.858,29.575,37.979,25.304,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,2.0,92.844,29.458,38.023,25.363,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,2.0,93.202,29.547,38.343,25.312,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,TSU,RB,2.0,93.214,29.363,38.489,25.362,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,2.0,93.158,29.62,38.091,25.447,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,2.0,93.435,29.891,38.219,25.325,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,2.0,93.563,29.847,38.17,25.546,SOFT,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,RIC,RB,2.0,93.709,29.978,38.417,25.314,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,2.0,93.846,29.749,38.711,25.386,SOFT,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,2.0,94.216,29.711,38.986,25.519,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,2.0,95.368,30.06,39.194,26.114,MEDIUM,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,2.0,92.942,29.472,37.864,25.606,HARD,2.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,3.0,91.298,29.299,36.816,25.183,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,3.0,91.716,29.287,37.133,25.296,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,3.0,92.2,29.672,37.216,25.312,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,3.0,91.991,29.279,37.536,25.176,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,3.0,91.927,29.31,37.49,25.127,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,3.0,92.102,29.321,37.663,25.118,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,3.0,92.307,29.333,37.877,25.097,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,3.0,92.369,29.447,37.703,25.219,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,3.0,92.605,29.476,37.758,25.371,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,3.0,92.951,29.481,38.035,25.435,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,TSU,RB,3.0,93.062,29.476,38.062,25.524,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,3.0,93.373,29.733,38.034,25.606,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,3.0,93.319,29.594,38.289,25.436,MEDIUM,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,3.0,93.487,29.885,38.053,25.549,SOFT,3.0,1.0,0,16.3,33.0,False,0,0,0,0
+British Grand Prix,RIC,RB,3.0,93.429,29.623,38.35,25.456,MEDIUM,3.0,1.0,0,16.3,24.1,False,0,0,0,0
+British Grand Prix,OCO,Alpine,3.0,93.479,29.591,38.313,25.575,SOFT,3.0,1.0,0,16.3,24.1,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,3.0,93.259,29.6,38.149,25.51,MEDIUM,3.0,1.0,0,16.3,24.1,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,3.0,94.447,30.096,38.414,25.937,MEDIUM,3.0,1.0,0,16.3,24.1,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,3.0,92.34,29.325,37.432,25.583,HARD,3.0,1.0,0,16.3,24.1,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,4.0,91.799,29.507,37.206,25.086,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,4.0,91.988,29.554,37.258,25.176,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,4.0,91.933,29.626,37.09,25.217,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,4.0,91.976,29.32,37.452,25.204,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,4.0,91.919,29.458,37.348,25.113,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,4.0,92.045,29.36,37.633,25.052,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,4.0,92.968,29.671,37.788,25.509,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,4.0,92.705,29.583,37.67,25.452,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,4.0,92.563,29.462,37.808,25.293,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,4.0,93.192,29.728,37.816,25.648,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,TSU,RB,4.0,93.164,29.438,38.161,25.565,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,4.0,93.059,29.543,38.062,25.454,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,4.0,93.11,29.717,38.06,25.333,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,4.0,93.221,29.724,38.02,25.477,SOFT,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,RIC,RB,4.0,93.253,29.733,38.107,25.413,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,4.0,93.316,29.764,38.098,25.454,SOFT,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,4.0,93.11,29.503,38.197,25.41,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,4.0,92.57,29.338,37.902,25.33,HARD,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,4.0,94.322,29.89,38.839,25.593,MEDIUM,4.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,5.0,91.628,29.426,37.107,25.095,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,5.0,91.677,29.469,37.231,24.977,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,5.0,91.778,29.608,37.007,25.163,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,5.0,91.716,29.363,37.239,25.114,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,5.0,91.832,29.512,37.243,25.077,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,5.0,91.939,29.331,37.591,25.017,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,5.0,92.706,29.594,37.688,25.424,MEDIUM,5.0,1.0,0,16.2,24.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,5.0,92.697,29.536,37.776,25.385,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,5.0,92.768,29.542,37.704,25.522,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,5.0,92.617,29.488,37.643,25.486,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,TSU,RB,5.0,92.607,29.369,37.878,25.36,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,ALB,Williams,5.0,92.846,29.783,37.726,25.337,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,SAR,Williams,5.0,93.139,29.869,38.177,25.093,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,5.0,93.271,29.833,37.992,25.446,SOFT,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,RIC,RB,5.0,93.263,29.691,38.171,25.401,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,OCO,Alpine,5.0,93.21,29.757,37.863,25.59,SOFT,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,5.0,92.999,29.414,38.02,25.565,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,5.0,92.111,29.469,37.473,25.169,HARD,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,5.0,93.768,29.92,38.115,25.733,MEDIUM,5.0,1.0,0,16.2,24.3,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,6.0,91.625,29.478,37.031,25.116,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,6.0,91.746,29.486,37.195,25.065,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,6.0,91.711,29.471,37.07,25.17,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,NOR,McLaren,6.0,91.896,29.368,37.443,25.085,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,PIA,McLaren,6.0,92.062,29.435,37.476,25.151,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,6.0,91.9,29.439,37.353,25.108,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,6.0,92.788,29.483,37.602,25.703,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,6.0,92.758,29.562,37.512,25.684,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,6.0,92.697,29.525,37.613,25.559,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,6.0,92.673,29.595,37.554,25.524,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,TSU,RB,6.0,92.614,29.345,37.908,25.361,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,ALB,Williams,6.0,93.014,29.879,37.717,25.418,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,SAR,Williams,6.0,92.904,29.746,37.934,25.224,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,6.0,93.788,29.781,37.972,26.035,SOFT,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,RIC,RB,6.0,93.666,29.619,38.276,25.771,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,OCO,Alpine,6.0,93.616,29.727,38.133,25.756,SOFT,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,6.0,93.544,29.7,38.24,25.604,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,6.0,92.25,29.44,37.495,25.315,HARD,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,6.0,93.46,29.755,37.957,25.748,MEDIUM,6.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,7.0,91.663,29.503,36.936,25.224,MEDIUM,7.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,7.0,91.675,29.518,37.064,25.093,MEDIUM,7.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,7.0,91.935,29.586,37.024,25.325,MEDIUM,7.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,NOR,McLaren,7.0,92.071,29.557,37.223,25.291,MEDIUM,7.0,1.0,0,16.3,25.4,False,0,0,0,0
+British Grand Prix,PIA,McLaren,7.0,91.925,29.335,37.322,25.268,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,7.0,92.702,29.762,37.509,25.431,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,7.0,92.716,29.669,37.576,25.471,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,7.0,92.662,29.662,37.652,25.348,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,7.0,92.733,29.612,37.753,25.368,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,7.0,92.712,29.605,37.605,25.502,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,TSU,RB,7.0,92.817,29.512,37.93,25.375,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,7.0,92.939,29.816,37.648,25.475,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,7.0,93.002,29.743,37.96,25.299,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,RIC,RB,7.0,92.952,29.738,37.75,25.464,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,7.0,94.51,30.318,38.563,25.629,SOFT,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,7.0,93.734,30.03,38.107,25.597,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,7.0,93.313,29.555,38.463,25.295,HARD,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,7.0,95.183,30.502,39.145,25.536,SOFT,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,7.0,93.648,29.919,37.898,25.831,MEDIUM,7.0,1.0,0,16.4,26.0,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,8.0,91.731,29.582,36.966,25.183,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,8.0,91.76,29.475,37.201,25.084,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,8.0,92.038,29.655,37.087,25.296,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,NOR,McLaren,8.0,92.018,29.566,37.16,25.292,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,PIA,McLaren,8.0,91.994,29.386,37.379,25.229,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,8.0,92.372,29.672,37.336,25.364,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,8.0,92.648,29.774,37.426,25.448,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,8.0,92.86,29.689,37.715,25.456,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,8.0,92.802,29.549,37.819,25.434,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,8.0,92.496,29.612,37.519,25.365,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,TSU,RB,8.0,92.623,29.529,37.831,25.263,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,ALB,Williams,8.0,92.798,29.718,37.603,25.477,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,SAR,Williams,8.0,92.806,29.748,37.767,25.291,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,RIC,RB,8.0,93.095,29.786,37.74,25.569,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,8.0,93.204,29.649,37.996,25.559,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,8.0,93.407,29.701999999999998,38.411,25.294,HARD,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,OCO,Alpine,8.0,93.79,29.826999999999998,38.691,25.272,SOFT,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,8.0,96.323,30.293,39.586,26.444,SOFT,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,8.0,93.561,29.899,37.968,25.694,MEDIUM,8.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,9.0,91.621,29.438,37.017,25.166,MEDIUM,9.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,9.0,91.564,29.496,36.954,25.114,MEDIUM,9.0,1.0,0,16.5,26.1,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,9.0,91.883,29.639,36.978,25.266,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,NOR,McLaren,9.0,91.976,29.558,37.179,25.239,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,PIA,McLaren,9.0,92.0,29.4,37.367,25.233,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,9.0,92.484,29.752,37.337,25.395,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,9.0,92.291,29.643,37.309,25.339,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,9.0,92.326,29.579,37.457,25.29,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,9.0,92.396,29.547,37.479,25.37,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,9.0,92.579,29.634,37.516,25.429,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,TSU,RB,9.0,92.57,29.49,37.695,25.385,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,ALB,Williams,9.0,92.933,29.786,37.646,25.501,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,SAR,Williams,9.0,93.019,29.793,37.909,25.317,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,RIC,RB,9.0,92.762,29.737,37.614,25.411,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,9.0,92.783,29.654,37.721,25.408,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,9.0,92.8,29.471,37.819,25.51,HARD,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,OCO,Alpine,9.0,93.898,30.112,37.931,25.855,SOFT,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,9.0,95.322,30.439,38.755,26.128,SOFT,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,9.0,93.645,29.917,37.913,25.815,MEDIUM,9.0,1.0,0,16.8,25.7,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,10.0,91.639,29.526,36.953,25.16,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,10.0,91.515,29.484,36.923,25.108,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,10.0,91.661,29.557,36.884,25.22,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,NOR,McLaren,10.0,91.83,29.516,37.134,25.18,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,PIA,McLaren,10.0,91.811,29.434,37.177,25.2,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,10.0,92.362,29.68,37.376,25.306,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,10.0,92.619,29.591,37.45,25.578,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,10.0,92.496,29.59,37.473,25.433,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,10.0,92.439,29.47,37.601,25.368,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,10.0,92.741,29.651,37.615,25.475,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,TSU,RB,10.0,93.438,29.971,37.815,25.652,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,ALB,Williams,10.0,93.073,29.765,37.679,25.629,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,SAR,Williams,10.0,92.956,29.806,37.841,25.309,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,RIC,RB,10.0,92.721,29.651,37.583,25.487,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,10.0,92.647,29.669,37.54,25.438,MEDIUM,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,10.0,92.709,29.426,37.691,25.592,HARD,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,OCO,Alpine,10.0,93.843,30.162,37.779,25.902,SOFT,10.0,1.0,0,16.8,25.6,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,10.0,93.787,29.85,38.666,25.271,MEDIUM,10.0,1.0,0,16.8,25.4,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,10.0,95.828,30.416,38.453,26.959,SOFT,10.0,1.0,0,16.8,25.4,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,11.0,91.586,29.408,36.989,25.189,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,11.0,91.487,29.412,37.003,25.072,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,11.0,91.81,29.524,37.06,25.226,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,NOR,McLaren,11.0,91.748,29.417,37.15,25.181,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,PIA,McLaren,11.0,91.855,29.307,37.358,25.19,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,11.0,92.123,29.493,37.367,25.263,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,11.0,92.273,29.487,37.399,25.387,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,11.0,92.348,29.594,37.375,25.379,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,11.0,92.428,29.466,37.561,25.401,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,11.0,92.548,29.557,37.617,25.374,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,TSU,RB,11.0,92.805,29.618,37.695,25.492,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,ALB,Williams,11.0,92.981,29.81,37.723,25.448,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,SAR,Williams,11.0,92.897,29.795,37.803,25.299,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,RIC,RB,11.0,92.804,29.746,37.68,25.378,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,11.0,92.671,29.617,37.63,25.424,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,11.0,92.491,29.452,37.656,25.383,HARD,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,OCO,Alpine,11.0,93.846,30.102,37.823,25.921,SOFT,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,11.0,93.561,29.856,37.941,25.764,MEDIUM,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,11.0,95.012,30.324,38.656,26.032,SOFT,11.0,1.0,0,16.7,25.3,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,12.0,91.619,29.443,36.939,25.237,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,12.0,91.563,29.429,36.937,25.197,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,12.0,91.894,29.529,37.046,25.319,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,NOR,McLaren,12.0,91.718,29.501,37.046,25.171,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,PIA,McLaren,12.0,91.663,29.332,37.234,25.097,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,12.0,92.358,29.645,37.317,25.396,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,12.0,92.362,29.552,37.359,25.451,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,12.0,92.236,29.622,37.261,25.353,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,12.0,92.401,29.544,37.62,25.237,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,12.0,92.427,29.553,37.415,25.459,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,TSU,RB,12.0,92.782,29.613,37.663,25.506,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,ALB,Williams,12.0,92.567,29.743,37.38,25.444,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,SAR,Williams,12.0,92.748,29.723,37.736,25.289,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,RIC,RB,12.0,92.797,29.722,37.662,25.413,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,12.0,92.531,29.664,37.469,25.398,MEDIUM,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,12.0,92.509,29.468,37.736,25.305,HARD,12.0,1.0,0,16.7,25.2,False,0,0,0,0
+British Grand Prix,OCO,Alpine,12.0,94.071,30.203,37.893,25.975,SOFT,12.0,1.0,0,16.7,24.9,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,12.0,93.269,29.772,37.795,25.701999999999998,MEDIUM,12.0,1.0,0,16.7,24.9,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,12.0,94.235,30.257,38.295,25.683,SOFT,12.0,1.0,1,16.7,24.9,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,13.0,91.716,29.508,37.014,25.194,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,13.0,91.881,29.817,37.067,24.997,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,13.0,91.759,29.562,37.021,25.176,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,NOR,McLaren,13.0,91.472,29.496,36.95,25.026,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,PIA,McLaren,13.0,91.896,29.392,37.143,25.361,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,13.0,92.251,29.646,37.287,25.318,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,13.0,91.989,29.643,37.343,25.003,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,13.0,93.092,29.635,37.403,26.054,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,13.0,92.468,29.514,37.563,25.391,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,13.0,92.517,29.543,37.535,25.439,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,TSU,RB,13.0,93.031,29.61,37.809,25.612,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,ALB,Williams,13.0,92.769,29.864,37.424,25.481,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,SAR,Williams,13.0,93.04,29.696,37.91,25.434,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,RIC,RB,13.0,92.88,29.622,37.779,25.479,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,13.0,92.74,29.722,37.597,25.421,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,13.0,92.772,29.556,37.832,25.384,HARD,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,OCO,Alpine,13.0,94.491,30.327,38.095,26.069,SOFT,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,13.0,93.65,29.875,37.893,25.882,MEDIUM,13.0,1.0,0,16.6,24.8,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,13.0,115.049,51.314,38.044,25.691,MEDIUM,1.0,2.0,1,16.5,24.6,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,14.0,91.478,29.486,36.957,25.035,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,14.0,91.609,29.552,37.045,25.012,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,14.0,91.7,29.517,37.027,25.156,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,NOR,McLaren,14.0,91.407,29.3,37.048,25.059,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,PIA,McLaren,14.0,91.697,29.5,37.026,25.171,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,14.0,92.106,29.553,37.357,25.196,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,14.0,92.396,29.708,37.354,25.334,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,14.0,92.641,29.48,37.862,25.299,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,14.0,92.621,29.547,37.705,25.369,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,14.0,92.383,29.586,37.348,25.449,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,TSU,RB,14.0,92.731,29.644,37.56,25.527,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,ALB,Williams,14.0,92.538,29.682,37.413,25.443,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,SAR,Williams,14.0,92.607,29.602,37.636,25.369,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,RIC,RB,14.0,92.933,29.759,37.682,25.492,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,14.0,92.506,29.441,37.546,25.519,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,14.0,92.488,29.42,37.698,25.37,HARD,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,14.0,93.156,29.676,38.254,25.226,MEDIUM,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,OCO,Alpine,14.0,95.293,30.357,38.266,26.67,SOFT,14.0,1.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,14.0,92.45,29.389,37.429,25.632,MEDIUM,2.0,2.0,0,16.5,24.6,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,15.0,91.566,29.541,36.928,25.097,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,15.0,91.563,29.52,37.024,25.019,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,NOR,McLaren,15.0,90.946,29.38,36.994,24.572,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,15.0,92.249,29.622,36.874,25.753,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,PIA,McLaren,15.0,91.514,29.511,36.888,25.115,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,15.0,91.916,29.616,37.24,25.06,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,15.0,92.755,29.798000000000002,37.529,25.428,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,15.0,92.649,29.475,37.742,25.432,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,15.0,92.672,29.6,37.684,25.388,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,15.0,92.259,29.565,37.413,25.281,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,TSU,RB,15.0,92.589,29.66,37.436,25.493,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,ALB,Williams,15.0,92.265,29.539,37.395,25.331,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,SAR,Williams,15.0,92.543,29.769,37.53,25.244,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,RIC,RB,15.0,93.171,29.731,37.702,25.738,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,15.0,92.953,29.612,37.731,25.61,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,15.0,92.702,29.51,37.735,25.457,HARD,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,15.0,93.228,29.765,37.843,25.62,MEDIUM,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,OCO,Alpine,15.0,94.884,30.406,38.341,26.137,SOFT,15.0,1.0,0,16.5,24.4,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,15.0,92.479,29.508,37.561,25.41,MEDIUM,3.0,2.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,16.0,91.626,29.53,36.794,25.302,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,16.0,91.931,29.491,36.755,25.685,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,NOR,McLaren,16.0,91.69,29.378,36.807,25.505,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,16.0,92.504,29.493,37.097,25.914,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,PIA,McLaren,16.0,92.118,29.406,36.933,25.779,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,16.0,92.455,29.68,37.234,25.541,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,16.0,92.923,29.79,37.303,25.83,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,16.0,93.091,29.529,37.695,25.867,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,16.0,93.194,29.588,37.671,25.935,MEDIUM,16.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,16.0,92.59,29.583,37.417,25.59,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,TSU,RB,16.0,93.209,29.738,37.545,25.926,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,ALB,Williams,16.0,93.178,29.57,37.652,25.956,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,SAR,Williams,16.0,93.701,29.851,37.381,26.469,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,16.0,93.486,29.62,37.55,26.316,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,RIC,RB,16.0,94.437,30.036,38.307,26.094,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,16.0,94.231,29.905,38.173,26.153,HARD,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,16.0,93.967,30.009,37.686,26.272,MEDIUM,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,OCO,Alpine,16.0,96.522,30.525,38.301,27.696,SOFT,16.0,1.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,16.0,95.202,29.675,37.297,28.23,MEDIUM,4.0,2.0,0,16.4,24.3,False,0,0,0,0
+British Grand Prix,RUS,Mercedes,17.0,94.793,29.793,37.278,27.722,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,17.0,93.721,29.743,36.945,27.033,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,NOR,McLaren,17.0,94.304,29.606,37.055,27.643,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,PIA,McLaren,17.0,93.988,29.302,37.316,27.37,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,17.0,95.359,29.826999999999998,37.281,28.251,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,17.0,94.228,29.613,37.444,27.171,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,17.0,95.28,29.679,37.906,27.695,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,17.0,95.713,29.444,38.432,27.837,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,17.0,95.447,29.611,37.972,27.864,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,17.0,95.014,29.631,37.985,27.398,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,TSU,RB,17.0,94.738,29.818,37.734,27.186,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,ALB,Williams,17.0,94.873,29.588,37.832,27.453,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,SAR,Williams,17.0,95.258,29.995,37.945,27.318,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,17.0,94.661,29.733,37.886,27.042,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,17.0,94.829,29.675,38.196,26.958,HARD,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,RIC,RB,17.0,95.885,29.662,38.406,27.817,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,17.0,95.498,29.995,38.17,27.333,MEDIUM,17.0,1.0,0,16.5,24.3,False,0,0,0,0
+British Grand Prix,OCO,Alpine,17.0,98.735,30.742,39.546,28.447,SOFT,17.0,1.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,17.0,98.106,30.887,39.097,28.122,MEDIUM,5.0,2.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,18.0,95.071,29.752,37.612,27.707,MEDIUM,18.0,1.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,18.0,96.365,30.185,37.731,28.449,MEDIUM,18.0,1.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,NOR,McLaren,18.0,94.125,29.647,37.024,27.454,MEDIUM,18.0,1.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,PIA,McLaren,18.0,94.269,29.775,37.25,27.244,MEDIUM,18.0,1.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,18.0,96.172,30.085,37.891,28.196,MEDIUM,18.0,1.0,0,16.6,23.9,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,18.0,94.31,29.965,37.529,26.816,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,18.0,95.951,30.445,38.347,27.159,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,18.0,95.789,30.294,37.877,27.618,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,18.0,95.834,30.157,38.039,27.638,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,18.0,95.88,30.038,38.583,27.259,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,TSU,RB,18.0,95.392,30.274,37.869,27.249,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,ALB,Williams,18.0,95.323,30.198,37.694,27.431,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,SAR,Williams,18.0,94.9,30.152,37.569,27.179,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,18.0,94.73,30.032,37.671,27.027,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,18.0,95.384,30.348,37.842,27.194,HARD,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,RIC,RB,18.0,96.827,30.315,38.749,27.763,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,18.0,96.075,30.607,38.352,27.116,MEDIUM,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,OCO,Alpine,18.0,98.497,31.134,39.291,28.072,SOFT,18.0,1.0,0,16.4,23.2,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,18.0,99.637,32.577,39.367,27.693,MEDIUM,6.0,2.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,19.0,103.711,34.046,40.683,28.982,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,NOR,McLaren,19.0,101.436,32.74,40.852,27.844,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,19.0,104.151,35.263,41.002,27.886,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,PIA,McLaren,19.0,100.728,32.515,40.679,27.534,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,19.0,102.485,33.582,40.925,27.978,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,19.0,100.51,33.076,40.106,27.328,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,19.0,105.868,34.904,43.084,27.88,MEDIUM,19.0,1.0,1,16.2,22.9,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,19.0,105.752,35.421,42.211,28.12,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,19.0,107.568,35.226,43.466,28.876,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,19.0,107.27,35.872,42.239,29.159,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,TSU,RB,19.0,104.585,34.098,41.565,28.922,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,ALB,Williams,19.0,104.619,34.216,41.761,28.642,MEDIUM,19.0,1.0,0,16.2,22.9,True,0,0,0,0
+British Grand Prix,SAR,Williams,19.0,104.09,34.979,40.864,28.247,MEDIUM,19.0,1.0,0,16.1,22.5,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,19.0,103.505,34.669,40.873,27.963,MEDIUM,19.0,1.0,0,16.1,22.5,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,19.0,101.868,33.889,40.806,27.173,HARD,19.0,1.0,1,16.1,22.5,True,0,0,0,0
+British Grand Prix,RIC,RB,19.0,104.922,34.743,41.888,28.291,MEDIUM,19.0,1.0,0,16.1,22.5,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,19.0,104.426,34.195,41.638,28.593,MEDIUM,19.0,1.0,0,16.1,22.5,True,0,0,0,0
+British Grand Prix,OCO,Alpine,19.0,101.731,33.657,40.353,27.721,SOFT,19.0,1.0,1,16.1,22.5,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,19.0,106.313,37.038,42.017,27.258,MEDIUM,7.0,2.0,1,16.1,22.5,True,0,0,0,0
+British Grand Prix,NOR,McLaren,20.0,97.704,32.09,39.513,26.101,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,PIA,McLaren,20.0,97.348,31.957,39.14,26.251,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,20.0,100.021,33.695,39.257,27.069,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,20.0,99.962,33.517,39.614,26.831,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,20.0,97.108,31.872,39.086,26.15,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,20.0,96.538,31.652,38.765,26.121,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,20.0,97.529,31.584,39.768,26.177,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,20.0,96.48,31.208,39.108,26.164,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,20.0,97.491,31.371,39.226,26.894,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,TSU,RB,20.0,96.875,31.315,38.986,26.574,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,ALB,Williams,20.0,96.53,31.395,38.624,26.511,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,SAR,Williams,20.0,96.116,31.2,38.791,26.125,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,20.0,95.181,30.846,38.248,26.087,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,RIC,RB,20.0,97.33,31.631,39.154,26.545,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,20.0,120.269,51.724,40.76,27.785,INTERMEDIATE,1.0,2.0,1,15.9,22.3,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,20.0,98.542,31.346,39.657,27.539,MEDIUM,20.0,1.0,0,15.9,22.3,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,20.0,119.15,51.2,40.616,27.334,INTERMEDIATE,1.0,2.0,1,15.6,22.1,True,0,0,0,0
+British Grand Prix,OCO,Alpine,20.0,121.025,51.816,41.025,28.184,INTERMEDIATE,1.0,2.0,1,15.6,22.1,True,0,0,0,0
+British Grand Prix,NOR,McLaren,21.0,91.513,29.432,37.163,24.918,MEDIUM,21.0,1.0,0,15.6,22.1,True,0,0,0,0
+British Grand Prix,PIA,McLaren,21.0,91.819,29.575,37.215,25.029,MEDIUM,21.0,1.0,0,15.6,22.1,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,21.0,92.156,29.881,37.046,25.229,MEDIUM,21.0,1.0,0,15.6,22.1,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,21.0,92.753,29.899,37.611,25.243,MEDIUM,21.0,1.0,0,15.6,22.1,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,21.0,93.488,30.031,37.975,25.482,MEDIUM,21.0,1.0,0,15.6,22.1,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,21.0,93.507,29.93,38.019,25.558,MEDIUM,21.0,1.0,0,15.6,22.1,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,20.0,125.955,55.824,42.117,28.014,INTERMEDIATE,1.0,3.0,1,15.6,22.1,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,21.0,92.649,29.638,37.668,25.343,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,21.0,92.999,29.68,37.614,25.705,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,21.0,93.291,29.652,37.847,25.792,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,TSU,RB,21.0,93.724,30.003,37.96,25.761,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,ALB,Williams,21.0,93.646,30.17,37.757,25.719,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,SAR,Williams,21.0,93.632,29.923000000000002,38.11,25.599,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,21.0,93.484,29.867,37.862,25.755,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,RIC,RB,21.0,94.722,30.185,38.393,26.144,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,21.0,95.235,30.651,38.519,26.065,MEDIUM,21.0,1.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,21.0,102.846,32.126,42.102,28.618,INTERMEDIATE,2.0,2.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,21.0,101.997,31.916,41.462,28.619,INTERMEDIATE,2.0,2.0,0,15.4,22.1,True,0,0,0,0
+British Grand Prix,OCO,Alpine,21.0,99.736,32.039,41.067,26.63,INTERMEDIATE,2.0,2.0,1,15.2,22.0,True,0,0,0,0
+British Grand Prix,NOR,McLaren,22.0,90.86,29.314,36.786,24.76,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,PIA,McLaren,22.0,91.169,29.39,36.837,24.942,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,22.0,91.095,29.387,36.821,24.887,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,22.0,91.344,29.501,36.926,24.917,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,22.0,91.904,29.61,37.027,25.267,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,22.0,92.157,29.792,37.213,25.152,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,22.0,92.233,29.458,37.19,25.585,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,21.0,104.56,32.701,42.512,29.347,INTERMEDIATE,2.0,3.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,22.0,92.673,29.437,37.493,25.743,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,22.0,92.495,29.511,37.482,25.502,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,TSU,RB,22.0,92.681,29.696,37.577,25.408,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,ALB,Williams,22.0,93.086,29.764,37.685,25.637,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,SAR,Williams,22.0,92.826,29.844,37.628,25.354,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,22.0,92.766,29.641,37.757,25.368,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,RIC,RB,22.0,93.015,29.678,37.782,25.555,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,22.0,94.03,30.193,38.037,25.8,MEDIUM,22.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,22.0,104.352,33.006,42.617,28.729,INTERMEDIATE,3.0,2.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,22.0,104.936,33.088,42.914,28.934,INTERMEDIATE,3.0,2.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,NOR,McLaren,23.0,91.176,29.451,36.841,24.884,MEDIUM,23.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,PIA,McLaren,23.0,90.976,29.242,36.868,24.866,MEDIUM,23.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,23.0,91.107,29.369,36.814,24.924,MEDIUM,23.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,23.0,91.497,29.479,36.952,25.066,MEDIUM,23.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,23.0,92.143,29.632,37.148,25.363,MEDIUM,23.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,23.0,92.297,29.615,37.333,25.349,MEDIUM,23.0,1.0,0,15.2,22.0,True,0,0,0,0
+British Grand Prix,OCO,Alpine,22.0,115.208,50.465,38.195,26.548000000000002,MEDIUM,1.0,3.0,1,15.1,21.9,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,23.0,92.612,29.586,37.319,25.707,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,23.0,92.593,29.686,37.212,25.695,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,23.0,93.062,29.745,37.46,25.857,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,TSU,RB,23.0,93.106,29.934,37.548,25.624,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,ALB,Williams,23.0,92.891,29.758,37.613,25.52,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,23.0,93.278,29.943,37.918,25.417,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,SAR,Williams,23.0,94.494,30.044,37.984,26.466,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,RIC,RB,23.0,94.224,29.69,38.201,26.333,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,22.0,110.248,35.886,44.53,29.832,INTERMEDIATE,3.0,3.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,23.0,94.076,29.814,38.272,25.99,MEDIUM,23.0,1.0,0,15.1,21.9,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,23.0,106.593,33.765,43.351,29.477,INTERMEDIATE,4.0,2.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,23.0,106.214,33.78,43.396,29.038,INTERMEDIATE,4.0,2.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,NOR,McLaren,24.0,91.629,29.489,36.747,25.393,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,PIA,McLaren,24.0,91.392,29.283,36.788,25.321,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,24.0,91.635,29.344,36.872,25.419,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,24.0,91.968,29.495,36.926,25.547,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,24.0,93.02,29.699,37.341,25.98,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,24.0,92.734,29.452,37.358,25.924,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,OCO,Alpine,23.0,95.488,30.474,38.101,26.913,MEDIUM,2.0,3.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,24.0,93.352,29.701999999999998,37.802,25.848,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,24.0,94.088,29.949,37.836,26.303,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,24.0,94.585,30.202,37.97,26.413,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,TSU,RB,24.0,94.106,29.812,38.117,26.177,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,ALB,Williams,24.0,93.96,29.631,38.141,26.188,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,24.0,93.625,29.826,37.972,25.826999999999998,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,SAR,Williams,24.0,94.037,30.05,38.221,25.766,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,RIC,RB,24.0,96.483,30.177,39.232,27.074,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,24.0,97.35,30.277,39.562,27.511,MEDIUM,24.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,23.0,110.081,34.464,45.68,29.937,INTERMEDIATE,4.0,3.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,NOR,McLaren,25.0,94.307,29.696,38.185,26.426,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,PIA,McLaren,25.0,94.271,29.795,38.187,26.289,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,25.0,94.988,29.923000000000002,38.568,26.497,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,25.0,94.781,29.787,38.367,26.627,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,24.0,111.732,34.243,47.11,30.379,INTERMEDIATE,5.0,2.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,25.0,96.063,29.999,38.958,27.106,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,25.0,95.143,29.847,38.623,26.673000000000002,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,24.0,110.729,35.068,43.926,31.735,INTERMEDIATE,5.0,2.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,OCO,Alpine,24.0,98.005,30.69,39.802,27.513,MEDIUM,3.0,3.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,25.0,95.918,29.955,38.937,27.026,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,25.0,95.687,29.912,38.985,26.79,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,25.0,95.351,29.9,38.721,26.73,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,TSU,RB,25.0,95.473,29.857,38.781,26.835,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,ALB,Williams,25.0,95.612,29.917,38.761,26.934,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,25.0,95.15,29.923000000000002,38.966,26.261,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,SAR,Williams,25.0,96.166,30.121,39.205,26.84,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,RIC,RB,25.0,98.725,30.63,40.504,27.591,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,25.0,99.761,30.996,40.455,28.31,MEDIUM,25.0,1.0,0,15.1,22.0,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,24.0,108.867,34.457,44.454,29.956,INTERMEDIATE,5.0,3.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,NOR,McLaren,26.0,101.515,30.452,42.458,28.605,MEDIUM,26.0,1.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,PIA,McLaren,26.0,100.622,30.271,41.787,28.564,MEDIUM,26.0,1.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,26.0,100.792,30.114,42.065,28.613,MEDIUM,26.0,1.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,26.0,99.949,30.082,41.323,28.544,MEDIUM,26.0,1.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,26.0,101.491,30.72,43.858,26.913,MEDIUM,26.0,1.0,1,15.1,21.5,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,26.0,102.481,30.838,44.415,27.228,MEDIUM,26.0,1.0,1,15.1,21.5,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,25.0,109.301,35.278,45.054,28.969,INTERMEDIATE,6.0,2.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,25.0,107.327,33.593,44.33,29.404,INTERMEDIATE,6.0,2.0,0,15.1,21.5,True,0,0,0,0
+British Grand Prix,OCO,Alpine,25.0,107.432,30.982,45.654,30.796,MEDIUM,4.0,3.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,26.0,101.853,30.434,44.465,26.954,MEDIUM,26.0,1.0,1,15.1,21.4,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,26.0,100.784,30.533,43.232,27.019,MEDIUM,26.0,1.0,1,15.1,21.4,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,26.0,103.618,30.688,43.186,29.744,MEDIUM,26.0,1.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,TSU,RB,26.0,103.26,30.457,43.03,29.773,MEDIUM,26.0,1.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,ALB,Williams,26.0,103.771,30.626,43.153,29.992,MEDIUM,26.0,1.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,26.0,105.466,30.824,44.649,29.993,MEDIUM,26.0,1.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,SAR,Williams,26.0,104.642,31.256,43.4,29.986,MEDIUM,26.0,1.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,RIC,RB,26.0,104.813,31.531,45.143,28.139,MEDIUM,26.0,1.0,1,15.1,21.4,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,26.0,109.533,32.03,48.117,29.386,MEDIUM,26.0,1.0,1,15.1,21.4,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,25.0,108.245,33.856,44.552,29.837,INTERMEDIATE,6.0,3.0,0,15.1,21.4,True,0,0,0,0
+British Grand Prix,NOR,McLaren,27.0,104.806,32.069,45.057,27.68,MEDIUM,27.0,1.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,27.0,105.183,31.477,45.498,28.208,MEDIUM,27.0,1.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,PIA,McLaren,27.0,109.747,31.76,45.56,32.427,MEDIUM,27.0,1.0,0,15.1,21.2,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,27.0,107.698,31.368,45.879,30.451,MEDIUM,27.0,1.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,26.0,105.655,33.033,43.323,29.299,INTERMEDIATE,7.0,2.0,0,15.1,21.2,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,26.0,105.736,32.698,43.513,29.525,INTERMEDIATE,7.0,2.0,0,15.1,21.2,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,27.0,119.169,51.084,40.561,27.524,INTERMEDIATE,1.0,2.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,27.0,121.664,52.019,41.298,28.347,INTERMEDIATE,1.0,2.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,27.0,108.513,32.455,47.512,28.546,MEDIUM,27.0,1.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,TSU,RB,27.0,108.126,32.036,47.377,28.713,MEDIUM,27.0,1.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,ALB,Williams,27.0,107.754,32.341,47.181,28.232,MEDIUM,27.0,1.0,1,15.1,21.2,True,0,0,0,0
+British Grand Prix,OCO,Alpine,26.0,118.71,36.241,52.055,30.414,MEDIUM,5.0,3.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,27.0,111.325,32.341,49.626,29.358,MEDIUM,27.0,1.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,SAR,Williams,27.0,112.246,33.083,48.61,30.553,MEDIUM,27.0,1.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,27.0,122.727,52.409,41.898,28.42,INTERMEDIATE,1.0,2.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,27.0,121.611,51.897,41.424,28.29,INTERMEDIATE,1.0,2.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,RIC,RB,27.0,122.788,51.716,42.43,28.642,INTERMEDIATE,1.0,2.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,26.0,105.113,33.799,44.098,27.216,INTERMEDIATE,7.0,3.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,27.0,125.367,53.985,42.457,28.925,INTERMEDIATE,1.0,2.0,1,15.0,21.1,True,0,0,0,0
+British Grand Prix,PIA,McLaren,28.0,112.976,36.245,47.881,28.85,MEDIUM,28.0,1.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,NOR,McLaren,28.0,120.915,52.053,40.758,28.104,INTERMEDIATE,1.0,2.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,28.0,120.866,52.668,40.319,27.879,INTERMEDIATE,1.0,2.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,27.0,105.912,33.574,45.425,26.913,INTERMEDIATE,8.0,2.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,28.0,101.176,31.767,41.184,28.225,INTERMEDIATE,2.0,2.0,0,15.0,21.0,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,28.0,124.342,55.131,40.43,28.781,INTERMEDIATE,1.0,2.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,28.0,102.641,32.526,41.298,28.817,INTERMEDIATE,2.0,2.0,0,15.0,21.0,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,27.0,112.538,34.103,45.664,32.771,INTERMEDIATE,8.0,2.0,0,15.0,21.0,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,28.0,101.897,31.639,41.887,28.371,INTERMEDIATE,2.0,2.0,0,15.0,21.0,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,28.0,102.187,31.808,41.676,28.703,INTERMEDIATE,2.0,2.0,0,15.0,21.0,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,28.0,124.427,52.917,41.822,29.688,INTERMEDIATE,1.0,2.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,TSU,RB,28.0,123.448,53.396,41.671,28.381,INTERMEDIATE,1.0,2.0,1,15.0,21.0,True,0,0,0,0
+British Grand Prix,OCO,Alpine,27.0,122.736,52.83,41.327,28.579,INTERMEDIATE,1.0,4.0,1,14.9,20.9,True,0,0,0,0
+British Grand Prix,ALB,Williams,28.0,128.459,58.472,41.494,28.493,INTERMEDIATE,1.0,2.0,1,14.9,20.9,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,28.0,125.299,54.214,42.073,29.012,INTERMEDIATE,1.0,2.0,1,14.9,20.9,True,0,0,0,0
+British Grand Prix,SAR,Williams,28.0,125.981,56.464,40.948,28.569,INTERMEDIATE,1.0,2.0,1,14.9,20.9,True,0,0,0,0
+British Grand Prix,RIC,RB,28.0,103.338,32.195,42.262,28.881,INTERMEDIATE,2.0,2.0,0,14.9,20.9,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,28.0,102.562,32.119,41.797,28.646,INTERMEDIATE,2.0,2.0,0,14.9,20.9,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,27.0,124.515,53.952,42.035,28.528,INTERMEDIATE,1.0,4.0,1,14.9,20.9,True,0,0,0,0
+British Grand Prix,NOR,McLaren,29.0,100.266,31.594,40.61,28.062,INTERMEDIATE,2.0,2.0,0,14.9,20.9,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,29.0,100.42,31.69,40.569,28.161,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,29.0,101.533,31.943,41.241,28.349,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,29.0,100.405,31.504,40.75,28.151,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,29.0,102.447,32.306,41.381,28.76,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,28.0,105.224,33.67,43.489,28.065,INTERMEDIATE,9.0,2.0,1,14.9,20.7,True,0,0,0,0
+British Grand Prix,PIA,McLaren,29.0,121.184,52.621,40.509,28.054,INTERMEDIATE,1.0,2.0,1,14.9,20.7,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,28.0,123.138,53.064,41.74,28.334,INTERMEDIATE,1.0,3.0,1,14.9,20.7,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,29.0,102.641,32.158,41.809,28.674,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,29.0,102.992,32.354,41.795,28.843,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,29.0,103.072,32.901,41.517,28.654,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,TSU,RB,29.0,103.749,33.048,42.02,28.681,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,OCO,Alpine,28.0,101.716,32.178,40.992,28.546,INTERMEDIATE,2.0,4.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,ALB,Williams,29.0,101.726,32.027,41.29,28.409,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,29.0,102.842,33.006,41.454,28.382,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,SAR,Williams,29.0,102.215,32.462,41.236,28.517,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,RIC,RB,29.0,103.377,32.484,41.934,28.959,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,29.0,103.302,32.442,42.118,28.742,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,28.0,101.866,32.137,41.252,28.477,INTERMEDIATE,2.0,4.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,NOR,McLaren,30.0,100.717,31.98,40.583,28.154,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,30.0,100.467,31.833,40.4,28.234,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,30.0,102.098,32.368,41.071,28.659,INTERMEDIATE,4.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,30.0,101.237,31.859,41.018,28.36,INTERMEDIATE,3.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,30.0,102.737,32.367,41.54,28.83,INTERMEDIATE,4.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,PIA,McLaren,30.0,100.492,31.712,40.727,28.053,INTERMEDIATE,2.0,2.0,0,14.9,20.7,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,29.0,101.602,32.252,41.348,28.002,INTERMEDIATE,2.0,3.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,30.0,102.811,32.078,41.659,29.074,INTERMEDIATE,4.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,30.0,103.066,32.288,41.59,29.188,INTERMEDIATE,4.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,29.0,124.385,56.07,40.408,27.907,INTERMEDIATE,1.0,3.0,1,14.8,20.7,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,30.0,102.577,32.527,41.847,28.203,INTERMEDIATE,3.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,TSU,RB,30.0,102.967,32.292,42.011,28.664,INTERMEDIATE,3.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,OCO,Alpine,29.0,102.362,32.379,41.099,28.884,INTERMEDIATE,3.0,4.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,ALB,Williams,30.0,103.271,32.255,41.744,29.272,INTERMEDIATE,3.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,30.0,102.133,32.197,41.233,28.703,INTERMEDIATE,3.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,SAR,Williams,30.0,102.476,32.298,41.279,28.899,INTERMEDIATE,3.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,RIC,RB,30.0,103.298,32.445,41.612,29.241,INTERMEDIATE,4.0,2.0,0,14.8,20.7,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,30.0,103.472,32.322,41.902,29.248,INTERMEDIATE,4.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,29.0,101.993,32.073,41.304,28.616,INTERMEDIATE,3.0,4.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,NOR,McLaren,31.0,101.313,31.855,40.682,28.776,INTERMEDIATE,4.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,31.0,101.538,31.9,40.828,28.81,INTERMEDIATE,4.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,31.0,102.025,32.091,41.086,28.848,INTERMEDIATE,5.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,31.0,101.902,31.95,41.21,28.742,INTERMEDIATE,4.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,31.0,103.007,32.343,41.618,29.046,INTERMEDIATE,5.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,PIA,McLaren,31.0,102.161,31.932,41.097,29.132,INTERMEDIATE,3.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,30.0,102.299,32.289,41.321,28.689,INTERMEDIATE,3.0,3.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,31.0,103.274,32.172,41.891,29.211,INTERMEDIATE,5.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,31.0,103.714,32.355,42.14,29.219,INTERMEDIATE,5.0,2.0,0,14.7,20.7,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,30.0,100.021,31.537,40.103,28.381,INTERMEDIATE,2.0,3.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,31.0,102.796,32.417,41.53,28.849,INTERMEDIATE,4.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,TSU,RB,31.0,103.355,32.201,41.91,29.244,INTERMEDIATE,4.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,OCO,Alpine,30.0,103.336,32.292,41.764,29.28,INTERMEDIATE,4.0,4.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,ALB,Williams,31.0,103.229,32.454,41.623,29.152,INTERMEDIATE,4.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,31.0,104.06,32.369,42.17,29.521,INTERMEDIATE,4.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,SAR,Williams,31.0,104.332,32.714,42.011,29.607,INTERMEDIATE,4.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,RIC,RB,31.0,103.699,32.472,42.03,29.197,INTERMEDIATE,5.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,31.0,104.51,32.583,42.474,29.453,INTERMEDIATE,5.0,2.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,30.0,103.157,32.392,41.648,29.117,INTERMEDIATE,4.0,4.0,0,14.6,20.7,True,0,0,0,0
+British Grand Prix,NOR,McLaren,32.0,102.216,32.262,41.072,28.882,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,32.0,102.475,32.107,41.398,28.97,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,32.0,102.538,32.47,41.197,28.871,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,32.0,103.085,32.488,41.387,29.21,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,32.0,103.298,32.379,41.627,29.292,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,PIA,McLaren,32.0,103.137,32.298,41.539,29.3,INTERMEDIATE,4.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,31.0,103.95,32.66,42.069,29.221,INTERMEDIATE,4.0,3.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,32.0,104.134,32.498,42.207,29.429,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,32.0,104.545,32.837,42.296,29.412,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,31.0,102.676,31.949,41.478,29.249,INTERMEDIATE,3.0,3.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,32.0,103.69,32.451,42.017,29.222,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,TSU,RB,32.0,104.456,32.762,42.205,29.489,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,OCO,Alpine,31.0,104.019,32.492,41.93,29.597,INTERMEDIATE,5.0,4.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,ALB,Williams,32.0,104.304,32.626,42.125,29.553,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,32.0,105.084,32.999,42.275,29.81,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,SAR,Williams,32.0,104.912,32.973,42.251,29.688,INTERMEDIATE,5.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,RIC,RB,32.0,104.144,32.457,41.969,29.718,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,32.0,105.199,32.618,42.633,29.948,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,31.0,104.316,32.443,42.381,29.492,INTERMEDIATE,5.0,4.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,NOR,McLaren,33.0,102.607,32.409,41.234,28.964,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,33.0,102.435,32.312,41.325,28.798000000000002,INTERMEDIATE,6.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,33.0,102.606,32.275,41.381,28.95,INTERMEDIATE,7.0,2.0,0,14.5,20.7,True,0,0,0,0
+British Grand Prix,RUS,Mercedes,33.0,106.221,32.329,41.835,32.057,INTERMEDIATE,6.0,2.0,1,14.6,21.0,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,33.0,103.201,32.248,41.779,29.174,INTERMEDIATE,7.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,PIA,McLaren,33.0,103.325,32.527,41.286,29.512,INTERMEDIATE,5.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,32.0,103.795,32.75,42.098,28.947,INTERMEDIATE,5.0,3.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,33.0,103.685,32.347,41.998,29.34,INTERMEDIATE,7.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,33.0,104.213,32.781,41.979,29.453,INTERMEDIATE,7.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,32.0,104.035,32.368,42.186,29.481,INTERMEDIATE,4.0,3.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,33.0,104.262,32.69,42.065,29.507,INTERMEDIATE,6.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,TSU,RB,33.0,104.979,32.818,42.205,29.956,INTERMEDIATE,6.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,OCO,Alpine,32.0,104.673,32.773,42.158,29.742,INTERMEDIATE,6.0,4.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,ALB,Williams,33.0,104.82,32.729,42.557,29.534,INTERMEDIATE,6.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,33.0,105.266,32.6,42.198,30.468,INTERMEDIATE,6.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,SAR,Williams,33.0,105.684,33.062,42.825,29.797,INTERMEDIATE,6.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,RIC,RB,33.0,104.855,32.877,42.38,29.598,INTERMEDIATE,7.0,2.0,0,14.6,21.0,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,33.0,105.552,32.969,43.078,29.505,INTERMEDIATE,7.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,32.0,105.029,32.927,42.695,29.407,INTERMEDIATE,6.0,4.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,NOR,McLaren,34.0,103.078,32.496,41.716,28.866,INTERMEDIATE,7.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,34.0,102.757,32.419,41.475,28.863,INTERMEDIATE,7.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,34.0,102.447,32.316,41.542,28.589,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,34.0,102.794,32.229,41.713,28.852,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,PIA,McLaren,34.0,103.954,32.562,41.561,29.831,INTERMEDIATE,6.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,33.0,103.217,32.727,41.794,28.696,INTERMEDIATE,6.0,3.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,34.0,104.263,32.706,42.634,28.923000000000002,INTERMEDIATE,8.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,34.0,104.171,32.899,42.051,29.221,INTERMEDIATE,8.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,33.0,104.641,32.991,42.371,29.279,INTERMEDIATE,5.0,3.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,34.0,104.375,32.987,42.109,29.279,INTERMEDIATE,7.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,TSU,RB,34.0,104.923,33.215,42.395,29.313,INTERMEDIATE,7.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,OCO,Alpine,33.0,105.29,33.217,42.575,29.498,INTERMEDIATE,7.0,4.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,ALB,Williams,34.0,105.216,33.108,42.763,29.345,INTERMEDIATE,7.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,34.0,106.135,33.424,42.868,29.843,INTERMEDIATE,7.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,SAR,Williams,34.0,106.095,33.583,43.202,29.31,INTERMEDIATE,7.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,RIC,RB,34.0,105.969,33.254,43.215,29.5,INTERMEDIATE,8.0,2.0,0,14.6,21.3,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,34.0,105.199,33.01,42.817,29.372,INTERMEDIATE,8.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,33.0,105.412,33.253,43.03,29.129,INTERMEDIATE,7.0,4.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,NOR,McLaren,35.0,102.935,32.639,41.786,28.51,INTERMEDIATE,8.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,35.0,102.271,32.513,41.544,28.214,INTERMEDIATE,8.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,35.0,103.029,32.556,42.058,28.415,INTERMEDIATE,9.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,35.0,103.59,32.466,42.505,28.619,INTERMEDIATE,9.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,PIA,McLaren,35.0,103.309,32.603,42.066,28.64,INTERMEDIATE,7.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,34.0,103.604,32.822,42.268,28.514,INTERMEDIATE,7.0,3.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,35.0,104.042,32.661,42.837,28.544,INTERMEDIATE,9.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,35.0,104.422,32.82,42.798,28.804,INTERMEDIATE,9.0,2.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,34.0,105.045,33.18,43.118,28.747,INTERMEDIATE,6.0,3.0,0,14.5,21.2,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,35.0,104.251,32.897,42.599,28.755,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,TSU,RB,35.0,104.782,32.984,43.231,28.567,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,OCO,Alpine,34.0,105.511,32.936,43.563,29.012,INTERMEDIATE,8.0,4.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,ALB,Williams,35.0,105.202,33.118,43.02,29.064,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,35.0,105.557,32.926,43.409,29.222,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,SAR,Williams,35.0,105.851,33.475,43.543,28.833,INTERMEDIATE,8.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,RIC,RB,35.0,105.535,33.149,43.7,28.686,INTERMEDIATE,9.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,35.0,105.476,32.821,43.982,28.673000000000002,INTERMEDIATE,9.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,NOR,McLaren,36.0,102.34,32.53,42.138,27.672,INTERMEDIATE,9.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,36.0,101.924,32.184,42.037,27.703,INTERMEDIATE,9.0,2.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,34.0,108.01,33.092,45.14,29.778,INTERMEDIATE,8.0,4.0,0,14.6,21.2,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,36.0,101.958,32.172,42.007,27.779,INTERMEDIATE,10.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,36.0,102.748,32.172,42.765,27.811,INTERMEDIATE,10.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,PIA,McLaren,36.0,102.52,32.217,42.282,28.021,INTERMEDIATE,8.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,35.0,102.415,32.363,42.147,27.905,INTERMEDIATE,8.0,3.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,36.0,103.044,32.248,42.618,28.178,INTERMEDIATE,10.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,36.0,103.0,32.334,42.363,28.303,INTERMEDIATE,10.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,35.0,103.534,32.741,42.478,28.315,INTERMEDIATE,7.0,3.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,36.0,102.513,32.485,41.834,28.194,INTERMEDIATE,9.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,TSU,RB,36.0,102.726,32.477,42.368,27.881,INTERMEDIATE,9.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,OCO,Alpine,35.0,102.995,32.526,42.351,28.118,INTERMEDIATE,9.0,4.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,ALB,Williams,36.0,103.075,32.953,42.03,28.092,INTERMEDIATE,9.0,2.0,0,14.5,21.4,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,36.0,103.611,32.486,42.725,28.4,INTERMEDIATE,9.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,SAR,Williams,36.0,103.365,32.793,42.356,28.216,INTERMEDIATE,9.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,RIC,RB,36.0,103.213,32.5,42.387,28.326,INTERMEDIATE,10.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,36.0,102.968,32.265,42.732,27.971,INTERMEDIATE,10.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,NOR,McLaren,37.0,99.786,31.936,40.846,27.004,INTERMEDIATE,10.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,37.0,99.711,31.694,41.125,26.892,INTERMEDIATE,10.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,35.0,102.569,32.458,42.08,28.031,INTERMEDIATE,9.0,4.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,37.0,98.869,31.547,40.385,26.937,INTERMEDIATE,11.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,37.0,100.432,31.728,41.435,27.269,INTERMEDIATE,11.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,PIA,McLaren,37.0,99.635,31.659,40.593,27.383,INTERMEDIATE,9.0,2.0,0,14.6,22.5,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,36.0,100.091,31.807,41.036,27.248,INTERMEDIATE,9.0,3.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,37.0,100.657,31.62,41.483,27.554,INTERMEDIATE,11.0,2.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,37.0,100.825,31.891,41.183,27.751,INTERMEDIATE,11.0,2.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,36.0,101.845,32.059,41.861,27.925,INTERMEDIATE,8.0,3.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,37.0,100.747,32.089,41.001,27.657,INTERMEDIATE,10.0,2.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,TSU,RB,37.0,101.098,32.029,41.316,27.753,INTERMEDIATE,10.0,2.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,OCO,Alpine,36.0,101.215,32.124,41.176,27.915,INTERMEDIATE,10.0,4.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,ALB,Williams,37.0,100.273,31.87,40.87,27.533,INTERMEDIATE,10.0,2.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,37.0,102.038,32.302,42.811,26.925,INTERMEDIATE,10.0,2.0,1,14.6,23.8,True,0,0,0,0
+British Grand Prix,RIC,RB,37.0,100.483,32.042,41.775,26.666,INTERMEDIATE,11.0,2.0,1,14.6,23.8,True,0,0,0,0
+British Grand Prix,SAR,Williams,37.0,102.207,32.262,41.533,28.412,INTERMEDIATE,10.0,2.0,0,14.6,23.8,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,37.0,99.987,31.826,41.525,26.636,INTERMEDIATE,11.0,2.0,1,14.6,24.2,True,0,0,0,0
+British Grand Prix,NOR,McLaren,38.0,97.999,31.328,39.844,26.826999999999998,INTERMEDIATE,11.0,2.0,0,14.6,24.2,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,38.0,97.22,31.208,40.056,25.956,INTERMEDIATE,11.0,2.0,1,14.6,24.2,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,38.0,95.963,30.903,39.254,25.806,INTERMEDIATE,12.0,2.0,1,14.6,24.2,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,36.0,102.823,32.08,42.606,28.137,INTERMEDIATE,10.0,4.0,0,14.6,24.2,True,0,0,0,0
+British Grand Prix,PIA,McLaren,38.0,97.106,31.419,39.774,25.913,INTERMEDIATE,10.0,2.0,1,14.6,24.2,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,38.0,98.37,31.076,40.107,27.187,INTERMEDIATE,12.0,2.0,0,14.6,24.2,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,37.0,98.357,31.693,40.64,26.024,INTERMEDIATE,10.0,3.0,1,14.6,24.2,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,38.0,98.854,31.437,40.207,27.21,INTERMEDIATE,12.0,2.0,0,14.6,24.2,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,38.0,99.373,31.361,40.574,27.438,INTERMEDIATE,12.0,2.0,0,14.6,24.2,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,37.0,99.697,31.763,41.061,26.873,INTERMEDIATE,9.0,3.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,38.0,98.684,31.784,40.546,26.354,INTERMEDIATE,11.0,2.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,TSU,RB,38.0,98.67,32.084,40.851,25.735,INTERMEDIATE,11.0,2.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,ALB,Williams,38.0,97.843,31.757,40.227,25.859,INTERMEDIATE,11.0,2.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,OCO,Alpine,37.0,102.235,32.044,40.766,29.425,INTERMEDIATE,11.0,4.0,0,14.6,24.6,False,0,0,0,0
+British Grand Prix,SAR,Williams,38.0,98.811,31.876,40.438,26.497,INTERMEDIATE,11.0,2.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,NOR,McLaren,39.0,96.746,31.241,39.866,25.639,INTERMEDIATE,12.0,2.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,38.0,123.931,55.995,40.862,27.074,SOFT,1.0,3.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,RIC,RB,38.0,123.328,55.795,40.479,27.054,SOFT,1.0,3.0,1,14.6,24.6,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,37.0,101.608,32.279,42.421,26.908,INTERMEDIATE,11.0,4.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,39.0,96.802,31.069,39.956,25.777,INTERMEDIATE,13.0,2.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,39.0,117.389,53.812,38.414,25.163,SOFT,2.0,3.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,38.0,126.628,56.285,42.594,27.749,SOFT,1.0,3.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,39.0,118.311,53.747,38.012,26.552,HARD,1.0,3.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,PIA,McLaren,39.0,114.658,52.129,37.224,25.305,MEDIUM,1.0,3.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,39.0,97.245,31.423,40.045,25.777,INTERMEDIATE,13.0,2.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,39.0,97.759,31.395,40.343,26.021,INTERMEDIATE,13.0,2.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,38.0,117.811,53.271,38.515,26.025,SOFT,1.0,4.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,OCO,Alpine,38.0,99.44,31.903,40.487,27.05,INTERMEDIATE,12.0,4.0,1,14.8,24.6,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,38.0,120.171,53.729,39.568,26.874,MEDIUM,1.0,4.0,1,15.1,24.4,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,39.0,119.234,53.337,39.697,26.2,MEDIUM,1.0,3.0,1,15.1,24.4,False,0,0,0,0
+British Grand Prix,TSU,RB,39.0,118.637,52.591,39.383,26.663,SOFT,1.0,3.0,1,15.1,24.4,False,0,0,0,0
+British Grand Prix,ALB,Williams,39.0,117.678,53.115,38.585,25.978,MEDIUM,1.0,3.0,1,15.1,24.4,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,39.0,93.212,29.463,38.002,25.747,SOFT,2.0,3.0,0,15.1,24.4,False,0,0,0,0
+British Grand Prix,SAR,Williams,39.0,116.256,52.81,38.033,25.413,SOFT,1.0,3.0,1,15.1,24.4,False,0,0,0,0
+British Grand Prix,RIC,RB,39.0,93.138,29.476,37.962,25.7,SOFT,2.0,3.0,0,15.1,24.4,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,40.0,90.318,28.689,36.767,24.862,SOFT,3.0,3.0,0,15.1,24.4,False,0,0,0,0
+British Grand Prix,NOR,McLaren,40.0,114.84,52.596,37.147,25.097,SOFT,3.0,3.0,1,15.1,24.4,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,40.0,90.056,28.866,36.203,24.987,HARD,2.0,3.0,0,15.1,24.4,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,39.0,97.114,31.692,39.101,26.321,SOFT,2.0,3.0,0,15.1,24.4,False,0,0,0,0
+British Grand Prix,PIA,McLaren,40.0,89.913,28.982,36.255,24.676,MEDIUM,2.0,3.0,0,15.1,24.4,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,40.0,116.753,52.978,37.934,25.841,HARD,1.0,3.0,1,15.2,24.2,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,38.0,126.729,59.418,40.462,26.849,SOFT,2.0,5.0,1,15.2,24.2,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,39.0,91.481,29.086,37.097,25.298,SOFT,2.0,4.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,40.0,115.659,52.654,37.571,25.434,SOFT,4.0,3.0,1,15.2,24.2,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,40.0,116.032,51.953,38.0,26.079,MEDIUM,1.0,3.0,1,15.2,24.2,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,39.0,92.722,29.483,37.323,25.916,MEDIUM,2.0,4.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,40.0,91.146,29.107,36.952,25.087,MEDIUM,2.0,3.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,TSU,RB,40.0,92.318,29.474,37.574,25.27,SOFT,2.0,3.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,ALB,Williams,40.0,90.889,29.039,36.956,24.894,MEDIUM,2.0,3.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,40.0,92.071,29.092,37.607,25.372,SOFT,3.0,3.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,SAR,Williams,40.0,91.353,28.877,36.922,25.554,SOFT,2.0,3.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,OCO,Alpine,39.0,120.13,53.132,39.227,27.771,MEDIUM,1.0,5.0,1,15.2,24.2,False,0,0,0,0
+British Grand Prix,RIC,RB,40.0,92.428,29.333,37.421,25.674,SOFT,3.0,3.0,0,15.2,24.2,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,41.0,90.118,28.96,36.367,24.791,SOFT,4.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,NOR,McLaren,41.0,89.733,28.786,36.307,24.64,SOFT,4.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,41.0,89.604,28.789,35.955,24.86,HARD,3.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,40.0,92.973,29.421,38.016,25.536,SOFT,3.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,PIA,McLaren,41.0,89.574,28.853,35.989,24.732,MEDIUM,3.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,41.0,90.475,28.813,36.465,25.197,HARD,2.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,39.0,92.696,29.452,37.479,25.765,SOFT,3.0,5.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,40.0,90.878,29.065,36.635,25.178,SOFT,3.0,4.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,41.0,91.097,28.991,37.093,25.013,SOFT,5.0,3.0,0,15.3,24.2,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,41.0,90.098,28.788,36.362,24.948,MEDIUM,2.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,41.0,90.594,28.694,36.912,24.988,MEDIUM,3.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,40.0,93.219,29.809,38.154,25.256,MEDIUM,3.0,4.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,TSU,RB,41.0,90.812,28.932,36.687,25.193,SOFT,3.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,ALB,Williams,41.0,90.715,28.644,36.947,25.124,MEDIUM,3.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,41.0,90.61,28.982,36.768,24.86,SOFT,4.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,SAR,Williams,41.0,90.875,28.848,36.901,25.126,SOFT,3.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,RIC,RB,41.0,91.289,29.171,36.935,25.183,SOFT,4.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,OCO,Alpine,40.0,92.838,30.216,37.467,25.155,MEDIUM,2.0,5.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,42.0,89.617,28.922,36.207,24.488,SOFT,5.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,NOR,McLaren,42.0,90.006,28.934,36.462,24.61,SOFT,5.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,42.0,89.472,28.913,35.869,24.69,HARD,4.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,PIA,McLaren,42.0,89.581,28.933,36.002,24.646,MEDIUM,4.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,41.0,93.344,30.515,37.516,25.313,SOFT,4.0,3.0,0,15.3,24.7,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,42.0,89.872,28.807,36.195,24.87,HARD,3.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,41.0,90.035,29.019,36.276,24.74,SOFT,4.0,4.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,40.0,93.17,30.316,37.298,25.556,SOFT,4.0,5.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,42.0,90.701,29.077,36.74,24.884,SOFT,6.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,42.0,90.161,28.734,36.438,24.989,MEDIUM,3.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,42.0,90.167,28.958,36.368,24.841,MEDIUM,4.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,41.0,90.689,28.979,36.811,24.899,MEDIUM,4.0,4.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,TSU,RB,42.0,90.319,28.893,36.462,24.964,SOFT,4.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,42.0,90.458,28.921,36.742,24.795,MEDIUM,4.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,42.0,90.093,28.933,36.538,24.622,SOFT,5.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,42.0,89.972,28.81,36.469,24.693,SOFT,4.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,RIC,RB,42.0,90.765,29.208,36.632,24.925,SOFT,5.0,3.0,0,15.2,25.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,41.0,91.114,29.139,36.859,25.116,MEDIUM,3.0,5.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,43.0,89.793,28.884,36.195,24.714,SOFT,6.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,NOR,McLaren,43.0,89.262,28.826,35.997,24.439,SOFT,6.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,43.0,89.105,28.984,35.655,24.466,HARD,5.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,PIA,McLaren,43.0,89.286,29.072,35.759,24.455,MEDIUM,5.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,42.0,92.348,29.377,37.591,25.38,SOFT,5.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,43.0,89.872,28.887,36.289,24.696,HARD,4.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,42.0,89.832,28.93,36.325,24.576999999999998,SOFT,5.0,4.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,41.0,91.151,29.163,36.746,25.242,SOFT,5.0,5.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,43.0,89.836,28.896,36.274,24.666,SOFT,7.0,3.0,0,15.3,24.9,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,43.0,90.196,28.864,36.431,24.901,MEDIUM,4.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,43.0,90.098,29.019,36.291,24.788,MEDIUM,5.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,42.0,90.542,29.011,36.465,25.066,MEDIUM,5.0,4.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,TSU,RB,43.0,90.229,28.971,36.404,24.854,SOFT,5.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,ALB,Williams,43.0,90.126,28.831,36.486,24.809,MEDIUM,5.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,43.0,90.454,29.036,36.552,24.866,SOFT,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,SAR,Williams,43.0,90.162,29.054,36.445,24.663,SOFT,5.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,RIC,RB,43.0,91.198,29.188,36.801,25.209,SOFT,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,OCO,Alpine,42.0,91.187,29.223,36.785,25.179,MEDIUM,4.0,5.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,HAM,Mercedes,44.0,89.697,29.087,36.164,24.446,SOFT,7.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,NOR,McLaren,44.0,89.752,29.102,36.086,24.564,SOFT,7.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,44.0,89.372,28.97,35.867,24.535,HARD,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,PIA,McLaren,44.0,89.221,29.001,35.816,24.404,MEDIUM,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,43.0,91.732,29.24,37.244,25.248,SOFT,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,SAI,Ferrari,44.0,89.739,28.895,36.304,24.54,HARD,5.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,LEC,Ferrari,43.0,89.748,28.997,36.106,24.645,SOFT,6.0,4.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,42.0,91.121,29.293,36.625,25.203,SOFT,6.0,5.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,44.0,90.392,29.116,36.564,24.712,SOFT,8.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,STR,Aston Martin,44.0,90.03,28.951,36.361,24.718,MEDIUM,5.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,ALO,Aston Martin,44.0,89.93,28.979,36.26,24.691,MEDIUM,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,43.0,90.229,29.012,36.421,24.796,MEDIUM,6.0,4.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,TSU,RB,44.0,90.882,29.11,36.404,25.368,SOFT,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,ALB,Williams,44.0,90.74,28.967,36.502,25.271,MEDIUM,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,SAR,Williams,44.0,90.003,29.318,36.546,24.139,SOFT,6.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,44.0,91.342,29.228,36.595,25.519,SOFT,7.0,3.0,0,15.4,24.5,True,0,0,0,0
+British Grand Prix,RIC,RB,44.0,91.08,29.273,36.824,24.983,SOFT,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,43.0,91.084,29.302,36.643,25.139,MEDIUM,5.0,5.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,45.0,89.438,29.064,36.042,24.332,SOFT,8.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,45.0,89.635,29.062,35.883,24.69,SOFT,8.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,45.0,89.137,29.056,35.591,24.49,HARD,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,45.0,89.222,29.038,35.754,24.43,MEDIUM,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,44.0,91.277,29.256,37.002,25.019,SOFT,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,45.0,89.589,29.004,36.031,24.554,HARD,6.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,44.0,89.933,29.086,36.174,24.673000000000002,SOFT,7.0,4.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,43.0,91.014,29.221,36.708,25.085,SOFT,7.0,5.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,45.0,90.048,28.987,36.319,24.742,SOFT,9.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,45.0,90.025,29.054,36.221,24.75,MEDIUM,6.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,45.0,89.871,28.986,36.206,24.679,MEDIUM,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,44.0,90.518,29.093,36.448,24.977,MEDIUM,7.0,4.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,ALB,Williams,45.0,90.406,29.201,36.6,24.605,MEDIUM,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,TSU,RB,45.0,91.438,29.287,36.443,25.708,SOFT,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,SAR,Williams,45.0,90.613,29.234,36.454,24.925,SOFT,7.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,45.0,91.722,29.874,36.652,25.196,SOFT,8.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,RIC,RB,45.0,90.955,29.229,36.719,25.007,SOFT,8.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,OCO,Alpine,44.0,90.928,29.356,36.535,25.037,MEDIUM,6.0,5.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,46.0,89.641,29.154,36.156,24.331,SOFT,9.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,NOR,McLaren,46.0,89.96,29.406,36.099,24.455,SOFT,9.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,46.0,89.543,29.141,35.901,24.501,HARD,8.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,PIA,McLaren,46.0,89.233,29.12,35.817,24.296,MEDIUM,8.0,3.0,0,15.5,25.0,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,46.0,89.588,29.071,36.117,24.4,HARD,7.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,45.0,93.159,30.514,37.729,24.916,SOFT,8.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,45.0,89.911,29.015,36.21,24.686,SOFT,8.0,4.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,44.0,91.378,29.293,36.883,25.202,SOFT,8.0,5.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,46.0,90.185,29.112,36.394,24.679,SOFT,10.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,46.0,89.897,28.964,36.312,24.621,MEDIUM,7.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,46.0,89.753,29.004,36.126,24.623,MEDIUM,8.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,45.0,90.565,29.075,36.549,24.941,MEDIUM,8.0,4.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,ALB,Williams,46.0,90.234,29.113,36.438,24.683,MEDIUM,8.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,TSU,RB,46.0,91.688,29.427,37.128,25.133,SOFT,8.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,SAR,Williams,46.0,90.826,29.347,36.505,24.974,SOFT,8.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,46.0,91.131,29.338,36.532,25.261,SOFT,9.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,RIC,RB,46.0,90.849,29.18,36.72,24.949,SOFT,9.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,OCO,Alpine,45.0,90.952,29.305,36.497,25.15,MEDIUM,7.0,5.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,47.0,89.538,29.069,36.025,24.444,SOFT,10.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,NOR,McLaren,47.0,89.838,29.118,36.187,24.533,SOFT,10.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,47.0,89.411,28.989,35.905,24.517,HARD,9.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,PIA,McLaren,47.0,89.049,28.946,35.83,24.273,MEDIUM,9.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,47.0,89.553,28.946,36.166,24.441,HARD,8.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,46.0,91.396,29.357,36.959,25.08,SOFT,9.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,46.0,90.051,29.135,36.266,24.65,SOFT,9.0,4.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,45.0,91.36,29.387,36.896,25.077,SOFT,9.0,5.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,47.0,89.864,29.079,36.157,24.628,SOFT,11.0,3.0,0,15.6,24.9,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,47.0,89.925,29.006,36.294,24.625,MEDIUM,8.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,47.0,89.71,29.031,36.094,24.585,MEDIUM,9.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,46.0,90.136,28.949,36.345,24.842,MEDIUM,9.0,4.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,ALB,Williams,47.0,90.148,29.107,36.306,24.735,MEDIUM,9.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,TSU,RB,47.0,90.982,29.377,36.625,24.98,SOFT,9.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,SAR,Williams,47.0,91.25,29.434,36.797,25.019,SOFT,9.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,47.0,91.036,29.399,36.601,25.036,SOFT,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,RIC,RB,47.0,90.735,29.14,36.665,24.93,SOFT,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,OCO,Alpine,46.0,90.875,29.417,36.39,25.068,MEDIUM,8.0,5.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,48.0,89.579,29.144,36.0,24.435,SOFT,11.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,48.0,88.952,28.807,36.166,23.979,HARD,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,NOR,McLaren,48.0,90.556,29.274,36.196,25.086,SOFT,11.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,PIA,McLaren,48.0,89.124,28.937,35.851,24.336,MEDIUM,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,48.0,89.415,29.057,36.072,24.286,HARD,9.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,47.0,91.431,29.454,36.922,25.055,SOFT,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,47.0,90.289,29.193,36.412,24.684,SOFT,10.0,4.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,46.0,91.43,29.359,37.049,25.022,SOFT,10.0,5.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,48.0,90.365,29.221,36.459,24.685,SOFT,12.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,48.0,90.237,29.16,36.507,24.57,MEDIUM,9.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,48.0,90.114,29.15,36.302,24.662,MEDIUM,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,47.0,90.795,29.213,36.523,25.059,MEDIUM,10.0,4.0,1,15.7,25.2,False,0,0,0,0
+British Grand Prix,ALB,Williams,48.0,90.068,29.132,36.381,24.555,MEDIUM,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,TSU,RB,48.0,91.367,29.412,36.836,25.119,SOFT,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,SAR,Williams,48.0,91.201,29.5,36.636,25.065,SOFT,10.0,3.0,0,15.7,25.2,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,48.0,90.953,29.356,36.706,24.891,SOFT,11.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,RIC,RB,48.0,91.109,29.302,36.824,24.983,SOFT,11.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,49.0,89.667,29.218,36.038,24.411,SOFT,12.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,OCO,Alpine,47.0,93.599,29.427,36.554,27.618,MEDIUM,9.0,5.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,49.0,89.56,29.166,35.949,24.445,HARD,11.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,NOR,McLaren,49.0,90.515,29.176,36.639,24.7,SOFT,12.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,PIA,McLaren,49.0,89.283,29.008,35.97,24.305,MEDIUM,11.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,49.0,89.439,28.943,36.097,24.399,HARD,10.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,48.0,92.006,29.424,37.383,25.199,SOFT,11.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,48.0,90.204,29.05,36.463,24.691,SOFT,11.0,4.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,47.0,91.283,29.365,36.915,25.003,SOFT,11.0,5.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,49.0,90.371,29.229,36.425,24.717,SOFT,13.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,49.0,89.969,29.01,36.366,24.593,MEDIUM,10.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,49.0,90.7,29.108,36.687,24.905,MEDIUM,11.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,ALB,Williams,49.0,89.96,29.038,36.352,24.57,MEDIUM,11.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,TSU,RB,49.0,91.08,29.279,36.825,24.976,SOFT,11.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,SAR,Williams,49.0,91.175,29.557,36.638,24.98,SOFT,11.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,49.0,90.803,29.248,36.645,24.91,SOFT,12.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,50.0,89.682,29.222,35.946,24.514,SOFT,13.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,RIC,RB,49.0,92.926,29.324,36.947,26.655,SOFT,12.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,50.0,89.286,29.084,35.787,24.415,HARD,12.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,NOR,McLaren,50.0,90.544,29.399,36.445,24.7,SOFT,13.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,OCO,Alpine,48.0,95.931,32.23,38.774,24.927,MEDIUM,10.0,5.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,48.0,125.507,54.703,42.628,28.176,SOFT,1.0,5.0,1,15.8,25.4,False,0,0,0,0
+British Grand Prix,PIA,McLaren,50.0,89.958,28.958,36.072,24.928,MEDIUM,12.0,3.0,0,15.8,25.4,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,50.0,89.434,28.907,35.875,24.652,HARD,11.0,3.0,1,15.9,25.5,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,49.0,91.688,29.414,37.064,25.21,SOFT,12.0,3.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,49.0,90.929,29.311,36.65,24.968,SOFT,12.0,4.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,48.0,91.556,29.466,37.132,24.958,SOFT,12.0,5.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,50.0,90.47,29.333,36.312,24.825,SOFT,14.0,3.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,50.0,90.03,29.075,36.363,24.592,MEDIUM,11.0,3.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,50.0,90.727,29.212,36.699,24.816,MEDIUM,12.0,3.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,ALB,Williams,50.0,89.828,29.05,36.201,24.576999999999998,MEDIUM,12.0,3.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,TSU,RB,50.0,91.407,29.301,36.927,25.179,SOFT,12.0,3.0,0,15.9,25.5,False,0,0,0,0
+British Grand Prix,SAR,Williams,50.0,91.249,29.498,36.691,25.06,SOFT,12.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,50.0,91.143,29.487,36.683,24.973,SOFT,13.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,51.0,89.743,29.128,36.03,24.585,SOFT,14.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,51.0,89.443,29.097,35.888,24.458,HARD,13.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,RIC,RB,50.0,94.15,29.532,39.195,25.423,SOFT,13.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,NOR,McLaren,51.0,90.769,29.324,36.576,24.869,SOFT,14.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,OCO,Alpine,49.0,91.06,29.398,36.557,25.105,MEDIUM,11.0,5.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,PIA,McLaren,51.0,88.748,28.871,35.704,24.173,MEDIUM,13.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,49.0,97.36,31.79,39.027,26.543,SOFT,2.0,5.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,50.0,90.488,29.114,36.846,24.528,SOFT,13.0,4.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,50.0,92.32,29.422,37.053,25.845,SOFT,13.0,3.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,51.0,112.546,49.714,37.481,25.351,SOFT,4.0,4.0,1,15.9,25.3,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,49.0,92.504,29.613,37.473,25.418,SOFT,13.0,5.0,0,15.9,25.3,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,51.0,90.696,29.416,36.426,24.854,SOFT,15.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,51.0,90.026,29.052,36.37,24.604,MEDIUM,12.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,51.0,90.592,29.12,36.591,24.881,MEDIUM,13.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,ALB,Williams,51.0,89.916,29.163,36.248,24.505,MEDIUM,13.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,TSU,RB,51.0,91.529,29.524,36.928,25.077,SOFT,13.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,SAR,Williams,51.0,91.662,29.836,36.802,25.024,SOFT,13.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,51.0,91.469,29.456,36.777,25.236,SOFT,14.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,HAM,Mercedes,52.0,90.146,29.302,36.135,24.709,SOFT,15.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,VER,Red Bull Racing,52.0,89.089,29.149,35.714,24.226,HARD,14.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,NOR,McLaren,52.0,90.913,29.626,36.65,24.637,SOFT,15.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,RIC,RB,51.0,94.814,29.907,39.398,25.509,SOFT,14.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,OCO,Alpine,50.0,91.608,29.511,36.681,25.416,MEDIUM,12.0,5.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,PIA,McLaren,52.0,89.928,29.094,35.999,24.835,MEDIUM,14.0,3.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,PER,Red Bull Racing,50.0,89.707,29.204,35.978,24.525,SOFT,3.0,5.0,0,15.8,25.2,False,0,0,0,0
+British Grand Prix,LEC,Ferrari,51.0,91.674,29.653,36.704,25.317,SOFT,14.0,4.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,BOT,Kick Sauber,51.0,92.217,29.389,37.433,25.395,SOFT,14.0,3.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,SAI,Ferrari,52.0,88.293,28.55,35.619,24.124,SOFT,5.0,4.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,ZHO,Kick Sauber,50.0,91.749,29.598,37.13,25.021,SOFT,14.0,5.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,HUL,Haas F1 Team,52.0,90.847,29.432,36.372,25.043,SOFT,16.0,3.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,STR,Aston Martin,52.0,90.053,29.025,36.298,24.73,MEDIUM,13.0,3.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,ALO,Aston Martin,52.0,91.43,29.311,37.163,24.956,MEDIUM,14.0,3.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,ALB,Williams,52.0,89.718,29.121,36.186,24.411,MEDIUM,14.0,3.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,TSU,RB,52.0,92.09,29.552,36.953,25.585,SOFT,14.0,3.0,0,15.8,24.9,False,0,0,0,0
+British Grand Prix,SAR,Williams,52.0,92.088,29.78,37.11,25.198,SOFT,14.0,3.0,0,15.8,24.8,False,0,0,0,0
+British Grand Prix,MAG,Haas F1 Team,52.0,91.982,29.826999999999998,37.048,25.107,SOFT,15.0,3.0,0,15.8,24.8,False,0,0,0,0

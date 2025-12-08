@@ -1,0 +1,1211 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Monaco Grand Prix,TSU,RB,2.0,148.277,25.893,41.12,81.264,HARD,2.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,2.0,142.255,26.143,40.862,75.25,HARD,1.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,2.0,139.618,26.415,41.05,72.153,MEDIUM,1.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,2.0,134.844,27.146,39.531,68.167,MEDIUM,2.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,2.0,130.108,27.153,42.359,60.596,HARD,2.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,2.0,124.571,27.874,40.625,56.072,MEDIUM,2.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,2.0,121.235,26.633,39.728,54.874,HARD,2.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,2.0,116.358,25.896,38.937,51.525,MEDIUM,1.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,2.0,112.131,28.552,39.859,43.72,HARD,1.0,2.0,1,21.6,48.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,3.0,84.624,24.007,38.235,22.382,HARD,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,3.0,84.953,23.96,38.571,22.422,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,3.0,85.012,24.363,38.522,22.127,HARD,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,3.0,85.283,24.612,38.686,21.985,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,3.0,85.319,24.518,38.667,22.134,MEDIUM,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,3.0,85.744,24.715,38.86,22.169,MEDIUM,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,3.0,87.058,24.951,39.492,22.615,MEDIUM,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,3.0,87.563,25.178,39.894,22.491,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,3.0,87.834,25.399,39.935,22.5,HARD,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,3.0,88.269,25.566,40.15,22.553,MEDIUM,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,3.0,88.303,25.677,40.557,22.069,MEDIUM,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,3.0,89.188,26.223,40.567,22.398,MEDIUM,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,3.0,89.656,26.535,40.832,22.289,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,3.0,89.743,26.404,41.019,22.32,MEDIUM,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,3.0,90.077,26.856,40.929,22.292,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,3.0,90.396,26.896,41.393,22.107,HARD,2.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,4.0,82.625,21.892,38.779,21.954,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,4.0,82.314,21.687,38.788,21.839,HARD,4.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,4.0,82.358,21.84,38.618,21.9,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,4.0,82.782,21.812,38.792,22.178,HARD,4.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,4.0,82.868,21.853,38.884,22.131,MEDIUM,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,4.0,83.275,21.947,38.888,22.44,MEDIUM,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,4.0,83.376,21.826999999999998,38.943,22.606,MEDIUM,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,4.0,83.327,21.941,39.033,22.353,HARD,4.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,4.0,83.286,21.826,39.21,22.25,HARD,3.0,2.0,0,21.6,49.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,4.0,83.269,21.656,39.123,22.49,MEDIUM,3.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,4.0,83.354,22.061,39.219,22.074,MEDIUM,4.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,4.0,83.736,21.802,39.405,22.529,MEDIUM,4.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,4.0,83.524,21.754,39.371,22.399,HARD,4.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,4.0,83.386,21.552,39.408,22.426,MEDIUM,3.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,4.0,83.682,21.741,39.183,22.758,HARD,4.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,4.0,83.698,21.765,39.055,22.878,HARD,3.0,2.0,0,21.7,48.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,5.0,81.795,21.314,38.513,21.968,HARD,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,5.0,82.019,21.435,38.378,22.206,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,5.0,81.978,21.567,38.328,22.083,HARD,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,5.0,82.147,21.499,38.347,22.301,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,5.0,83.045,22.046,38.571,22.428,MEDIUM,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,5.0,83.4,22.318,38.953,22.129,MEDIUM,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,5.0,83.64,22.289,38.824,22.527,MEDIUM,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,5.0,83.493,22.196,38.966,22.331,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,5.0,83.369,22.133,39.122,22.114,HARD,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,5.0,83.428,21.918,39.228,22.282,MEDIUM,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,5.0,83.731,22.635,39.111,21.985,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,5.0,83.575,22.017,39.329,22.229,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,5.0,83.744,22.171,39.212,22.361,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,5.0,83.636,22.024,39.36,22.252,MEDIUM,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,5.0,83.674,21.831,39.228,22.615,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,5.0,83.494,21.829,39.045,22.62,HARD,4.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,6.0,81.145,21.568,38.168,21.409,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,6.0,81.354,21.409,38.129,21.816,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,6.0,81.163,21.397,38.217,21.549,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,6.0,81.804,21.361,38.233,22.21,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,6.0,83.012,21.79,39.146,22.076,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,6.0,83.787,21.761,39.71,22.316,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,6.0,83.369,21.938,38.711,22.72,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,6.0,83.224,21.974,38.856,22.394,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,6.0,83.416,22.168,39.171,22.077,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,6.0,83.106,22.068,38.953,22.085,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,6.0,82.977,22.27,38.549,22.158,MEDIUM,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,6.0,82.711,21.899,38.932,21.88,MEDIUM,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,6.0,82.748,21.911,38.8,22.037,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,6.0,82.868,22.058,38.681,22.129,MEDIUM,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,6.0,82.739,21.755,38.678,22.306,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,6.0,82.649,21.728,38.731,22.19,HARD,5.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,7.0,80.98,21.37,38.056,21.554,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,7.0,80.808,21.207,37.68,21.921,HARD,7.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,7.0,81.466,21.283,38.239,21.944,HARD,6.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,7.0,80.828,21.045,37.917,21.866,HARD,7.0,2.0,0,21.6,48.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,7.0,81.415,21.818,38.119,21.478,MEDIUM,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,7.0,81.283,21.383,38.2,21.7,MEDIUM,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,7.0,81.463,21.905,37.709,21.849,MEDIUM,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,7.0,81.826,22.013,38.129,21.684,HARD,7.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,7.0,81.913,21.895,38.406,21.612,HARD,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,7.0,82.233,21.836,38.367,22.03,MEDIUM,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,7.0,82.634,22.108,38.619,21.907,MEDIUM,7.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,7.0,82.866,22.196,38.682,21.988,MEDIUM,7.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,7.0,82.747,22.074,38.612,22.061,HARD,7.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,7.0,82.832,22.041,38.592,22.199,MEDIUM,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,7.0,82.899,21.942,38.54,22.417,HARD,7.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,7.0,82.934,22.206,38.439,22.289,HARD,6.0,2.0,0,21.8,48.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,8.0,81.03,21.25,38.171,21.609,HARD,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,8.0,81.058,21.425,37.957,21.676,HARD,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,8.0,80.272,21.208,37.732,21.332,HARD,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,8.0,80.82,21.342,37.851,21.627,HARD,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,8.0,81.612,21.689,38.104,21.819,MEDIUM,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,8.0,81.657,21.194,38.504,21.959,MEDIUM,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,8.0,81.612,21.571,38.073,21.968,MEDIUM,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,8.0,81.651,21.607,38.301,21.743,HARD,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,8.0,81.536,21.711,38.18,21.645,HARD,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,8.0,81.6,21.496,38.116,21.988,MEDIUM,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,8.0,81.653,21.713,38.133,21.807,MEDIUM,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,8.0,82.284,21.774,38.297,22.213,MEDIUM,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,8.0,82.433,21.868,38.303,22.262,HARD,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,8.0,82.249,21.812,38.218,22.219,MEDIUM,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,8.0,82.221,21.582,38.156,22.483,HARD,8.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,8.0,82.182,21.642,38.286,22.254,HARD,7.0,2.0,0,21.9,47.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,9.0,80.114,21.092,37.612,21.41,HARD,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,9.0,79.906,21.181,37.382,21.343,HARD,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,9.0,80.525,21.329,37.64,21.556,HARD,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,9.0,80.397,20.935,37.902,21.56,HARD,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,9.0,81.433,21.68,38.177,21.576,MEDIUM,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,9.0,81.74,21.492,38.489,21.759,MEDIUM,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,9.0,81.851,21.875,37.949,22.027,MEDIUM,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,9.0,81.896,21.733,38.258,21.905,HARD,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,9.0,82.004,21.83,38.449,21.725,HARD,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,9.0,82.071,21.526,38.64,21.905,MEDIUM,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,9.0,82.09,21.688,38.358,22.044,MEDIUM,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,9.0,81.65,21.431,38.194,22.025,MEDIUM,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,9.0,81.528,21.451,38.022,22.055,HARD,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,9.0,81.715,21.618,37.945,22.152,MEDIUM,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,9.0,81.679,21.538,37.874,22.267,HARD,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,9.0,81.81,21.629,37.916,22.265,HARD,8.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,10.0,80.775,21.036,37.886,21.853,HARD,9.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,10.0,80.89,21.262,37.97,21.658,HARD,10.0,2.0,0,22.0,47.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,10.0,81.259,21.237,38.068,21.954,HARD,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,10.0,80.972,21.081,37.96,21.931,HARD,10.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,10.0,81.531,21.973,37.733,21.825,MEDIUM,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,10.0,81.244,21.172,38.177,21.895,MEDIUM,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,10.0,81.437,21.623,37.776,22.038,MEDIUM,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,10.0,81.591,21.633,38.094,21.864,HARD,10.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,10.0,81.562,21.79,38.274,21.498,HARD,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,10.0,81.394,21.479,38.141,21.774,MEDIUM,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,10.0,81.725,21.646,38.242,21.837,MEDIUM,10.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,10.0,81.864,21.673000000000002,38.362,21.829,MEDIUM,10.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,10.0,81.976,21.74,38.36,21.876,HARD,10.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,10.0,81.947,21.679,38.267,22.001,MEDIUM,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,10.0,81.944,21.541,38.354,22.049,HARD,10.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,10.0,81.944,21.518,38.27,22.156,HARD,9.0,2.0,0,22.1,47.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,11.0,81.046,21.279,38.236,21.531,HARD,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,11.0,80.898,21.439,37.991,21.468,HARD,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,11.0,80.246,21.233,37.563,21.45,HARD,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,11.0,80.87,21.308,37.856,21.706,HARD,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,11.0,81.452,21.765,38.04,21.647,MEDIUM,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,11.0,81.492,21.223,38.28,21.989,MEDIUM,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,11.0,81.325,21.667,37.807,21.851,MEDIUM,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,11.0,81.289,21.487,38.23,21.572,HARD,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,11.0,81.514,21.533,38.313,21.668,HARD,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,11.0,81.298,21.482,37.922,21.894,MEDIUM,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,11.0,81.517,21.36,38.334,21.823,MEDIUM,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,11.0,81.418,21.68,38.074,21.664,MEDIUM,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,11.0,81.53,21.7,37.977,21.853,HARD,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,11.0,81.547,21.731,37.814,22.002,MEDIUM,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,11.0,81.492,21.574,37.832,22.086,HARD,11.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,11.0,81.563,21.747,37.966,21.85,HARD,10.0,2.0,0,22.2,47.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,12.0,80.252,20.949,37.73,21.573,HARD,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,12.0,80.135,21.21,37.442,21.483,HARD,12.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,12.0,79.974,20.951,37.651,21.372,HARD,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,12.0,79.933,20.747,37.678,21.508,HARD,12.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,12.0,80.316,21.458,37.547,21.311,MEDIUM,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,12.0,80.659,21.27,37.879,21.51,MEDIUM,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,12.0,81.164,21.592,37.746,21.826,MEDIUM,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,12.0,81.089,21.543,37.878,21.668,HARD,12.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,12.0,80.821,21.144,38.254,21.423,HARD,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,12.0,81.289,21.12,38.544,21.625,MEDIUM,11.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,12.0,81.471,21.177,38.425,21.869,MEDIUM,12.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,12.0,81.366,21.601,38.025,21.74,MEDIUM,12.0,2.0,0,22.3,47.3,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,12.0,81.277,21.519,37.996,21.762,HARD,12.0,2.0,0,22.1,47.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,12.0,81.328,21.655,37.769,21.904,MEDIUM,11.0,2.0,0,22.1,47.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,12.0,81.404,21.621,37.875,21.908,HARD,12.0,2.0,0,22.1,47.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,12.0,81.193,21.595,37.756,21.842,HARD,11.0,2.0,0,22.1,47.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,13.0,79.017,20.818,36.898,21.301,HARD,12.0,2.0,0,22.1,47.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,13.0,78.745,20.677,36.996,21.072,HARD,13.0,2.0,0,22.1,47.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,13.0,80.017,21.101,37.648,21.268,HARD,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,13.0,79.82,20.879,37.484,21.457,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,13.0,80.525,21.414,37.77,21.341,MEDIUM,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,13.0,79.904,20.858,37.533,21.513,MEDIUM,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,13.0,80.171,21.429,37.188,21.554,MEDIUM,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,13.0,80.682,21.367,37.807,21.508,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,13.0,81.42,21.388,38.0,22.032,HARD,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,13.0,81.53,21.219,38.276,22.035,MEDIUM,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,13.0,81.314,21.223,38.017,22.074,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,13.0,81.428,21.616,37.967,21.845,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,13.0,81.416,21.45,38.193,21.773,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,13.0,81.54,21.584,37.888,22.068,MEDIUM,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,13.0,81.499,21.43,37.879,22.19,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,13.0,81.529,21.767,37.831,21.931,HARD,12.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,14.0,79.913,20.847,38.003,21.063,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,14.0,80.014,21.241,37.715,21.058,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,14.0,79.48,20.8,36.99,21.69,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,14.0,79.385,20.774,37.244,21.367,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,14.0,80.272,21.224,37.519,21.529,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,14.0,79.723,20.849,37.408,21.466,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,14.0,80.126,21.116,37.471,21.539,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,14.0,81.249,21.513,38.1,21.636,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,14.0,80.591,21.387,37.838,21.366,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,14.0,79.92,21.087,37.364,21.469,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,14.0,80.427,20.801,37.389,22.237,MEDIUM,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,14.0,81.392,21.713,37.752,21.927,MEDIUM,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,14.0,81.391,21.668,37.995,21.728,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,14.0,81.221,21.574,37.928,21.719,MEDIUM,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,14.0,81.219,21.48,37.897,21.842,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,14.0,81.264,21.602,37.891,21.771,HARD,13.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,15.0,79.838,20.763,37.77,21.305,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,15.0,80.264,20.828,38.137,21.299,HARD,15.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,15.0,79.543,21.023,37.364,21.156,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,15.0,79.775,20.813,37.537,21.425,HARD,15.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,15.0,80.202,21.203,37.551,21.448,MEDIUM,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,15.0,80.37,20.949,37.792,21.629,MEDIUM,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,15.0,79.971,21.169,37.268,21.534,MEDIUM,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,15.0,80.099,20.937,37.501,21.661,HARD,15.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,15.0,80.591,21.041,37.916,21.634,HARD,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,15.0,81.066,20.915,38.313,21.838,MEDIUM,14.0,2.0,0,22.0,47.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,15.0,80.781,21.07,37.758,21.953,MEDIUM,15.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,15.0,81.061,21.355,37.933,21.773,MEDIUM,15.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,15.0,81.177,21.389,38.171,21.617,HARD,15.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,15.0,81.34,21.472,38.159,21.709,HARD,15.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,15.0,81.447,21.425,38.247,21.775,HARD,14.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,15.0,97.899,21.517,38.162,38.22,MEDIUM,14.0,2.0,1,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,16.0,80.156,21.139,37.516,21.501,HARD,15.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,16.0,79.829,20.949,37.351,21.529,HARD,16.0,2.0,0,22.0,46.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,16.0,80.579,20.922,37.676,21.981,HARD,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,16.0,79.637,20.805,37.435,21.397,HARD,16.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,16.0,79.913,21.301,37.484,21.128,MEDIUM,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,16.0,80.287,21.059,37.755,21.473,MEDIUM,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,16.0,80.384,21.278,37.545,21.561,MEDIUM,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,16.0,80.847,21.35,38.002,21.495,HARD,16.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,16.0,80.793,21.381,38.071,21.341,HARD,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,16.0,81.054,21.548000000000002,37.876,21.63,MEDIUM,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,16.0,81.189,21.576,37.784,21.829,MEDIUM,16.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,16.0,81.318,21.107,38.215,21.996,MEDIUM,16.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,16.0,81.125,21.332,38.13,21.663,HARD,16.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,16.0,80.646,20.927,37.89,21.829,HARD,16.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,16.0,80.481,21.128,37.569,21.784,HARD,15.0,2.0,0,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,16.0,80.012,23.131,36.402,20.479,HARD,2.0,3.0,1,21.8,46.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,17.0,80.279,20.925,37.498,21.856,HARD,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,17.0,80.028,20.967,37.697,21.364,HARD,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,17.0,80.076,21.006,37.77,21.3,HARD,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,17.0,80.337,20.956,37.623,21.758,HARD,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,17.0,80.15,21.408,37.437,21.305,MEDIUM,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,17.0,79.898,20.951999999999998,37.61,21.336,MEDIUM,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,17.0,79.738,20.869,37.534,21.335,MEDIUM,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,17.0,80.335,21.282,37.659,21.394,HARD,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,17.0,81.137,21.234,38.326,21.576999999999998,HARD,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,17.0,81.961,21.682,38.296,21.983,MEDIUM,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,17.0,81.97,21.68,38.423,21.867,MEDIUM,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,17.0,80.799,21.278,37.763,21.758,MEDIUM,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,17.0,80.862,21.334,37.899,21.629,HARD,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,17.0,81.016,21.263,37.825,21.928,HARD,17.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,17.0,80.979,21.477,37.6,21.902,HARD,16.0,2.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,17.0,76.561,20.39,35.884,20.287,HARD,3.0,3.0,0,21.6,46.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,18.0,79.58,20.612,37.578,21.39,HARD,17.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,18.0,79.832,21.157,37.357,21.318,HARD,18.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,18.0,79.177,20.684,37.263,21.23,HARD,17.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,18.0,79.398,20.673000000000002,37.371,21.354,HARD,18.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,18.0,79.438,21.248,36.992,21.198,MEDIUM,17.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,18.0,79.58,21.012,37.408,21.16,MEDIUM,17.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,18.0,80.037,21.24,37.431,21.366,MEDIUM,17.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,18.0,80.612,21.336,37.629,21.647,HARD,18.0,2.0,0,21.7,47.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,18.0,80.042,21.154,37.654,21.234,HARD,17.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,18.0,80.797,21.255,38.034,21.508,MEDIUM,17.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,18.0,80.698,21.328,37.86,21.51,MEDIUM,18.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,18.0,81.075,21.516,37.919,21.64,MEDIUM,18.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,18.0,81.108,21.486,38.035,21.587,HARD,18.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,18.0,81.031,21.234,37.936,21.861,HARD,18.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,18.0,80.911,21.373,37.878,21.66,HARD,17.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,18.0,76.567,20.228,35.938,20.401,HARD,4.0,3.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,19.0,78.842,20.806,36.89,21.146,HARD,18.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,19.0,79.179,20.809,37.085,21.285,HARD,19.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,19.0,79.445,20.957,37.056,21.432,HARD,18.0,2.0,0,21.8,46.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,19.0,79.28,21.015,37.162,21.103,HARD,19.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,19.0,80.157,21.402,37.398,21.357,MEDIUM,18.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,19.0,80.171,21.034,37.869,21.268,MEDIUM,18.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,19.0,79.874,21.105,37.383,21.386,MEDIUM,18.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,19.0,80.77,21.296,37.813,21.661,HARD,19.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,19.0,80.245,21.25,37.787,21.208,HARD,18.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,19.0,79.904,20.839,37.422,21.643,MEDIUM,18.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,19.0,80.353,21.281,37.134,21.938,MEDIUM,19.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,19.0,80.605,21.373,37.682,21.55,MEDIUM,19.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,19.0,81.31,21.437,38.184,21.689,HARD,19.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,19.0,81.221,21.335,38.02,21.866,HARD,19.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,19.0,81.42,21.576999999999998,37.827,22.016,HARD,18.0,2.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,19.0,77.829,20.158,36.855,20.816,HARD,5.0,3.0,0,21.9,46.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,20.0,78.724,20.573,37.018,21.133,HARD,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,20.0,79.055,20.712,37.118,21.225,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,20.0,79.403,20.741,37.525,21.137,HARD,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,20.0,79.043,20.623,37.094,21.326,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,20.0,80.053,21.161,37.471,21.421,MEDIUM,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,20.0,79.886,20.908,37.402,21.576,MEDIUM,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,20.0,80.504,21.334,37.659,21.511,MEDIUM,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,20.0,79.991,21.29,37.392,21.309,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,20.0,80.36,21.177,37.505,21.678,HARD,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,20.0,80.255,21.069,37.547,21.639,MEDIUM,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,20.0,79.398,20.88,37.147,21.371,MEDIUM,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,20.0,81.11,21.232,37.966,21.912,MEDIUM,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,20.0,80.942,21.16,38.339,21.443,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,20.0,80.853,21.147,38.153,21.553,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,20.0,80.904,21.275,37.894,21.735,HARD,19.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,20.0,79.124,20.653,37.12,21.351,HARD,6.0,3.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,21.0,78.472,20.609,36.874,20.989,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,21.0,78.601,20.387,36.969,21.245,HARD,21.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,21.0,78.917,20.528,36.94,21.449,HARD,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,21.0,78.983,20.637,37.096,21.25,HARD,21.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,21.0,79.788,21.174,37.427,21.187,MEDIUM,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,21.0,80.255,21.039,37.731,21.485,MEDIUM,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,21.0,79.76,21.219,37.123,21.418,MEDIUM,20.0,2.0,0,21.9,45.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,21.0,80.557,21.256,37.782,21.519,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,21.0,80.937,21.465,38.094,21.378,HARD,20.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,21.0,79.876,21.238,37.27,21.368,MEDIUM,20.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,21.0,79.016,20.854,37.059,21.103,MEDIUM,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,21.0,80.317,20.942,37.709,21.666,MEDIUM,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,21.0,80.817,21.205,37.822,21.79,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,21.0,80.849,21.285,37.812,21.752,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,21.0,80.669,21.235,37.764,21.67,HARD,20.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,21.0,80.462,20.932,37.656,21.874,HARD,7.0,3.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,22.0,78.62,20.591,37.004,21.025,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,22.0,78.585,20.647,36.89,21.048,HARD,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,22.0,78.889,20.713,37.007,21.169,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,22.0,78.981,20.655,37.155,21.171,HARD,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,22.0,79.691,21.336,37.159,21.196,MEDIUM,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,22.0,79.813,21.017,37.631,21.165,MEDIUM,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,22.0,80.59,21.728,37.543,21.319,MEDIUM,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,22.0,80.875,21.371,37.821,21.683,HARD,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,22.0,80.542,21.096,38.036,21.41,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,22.0,80.554,20.982,37.763,21.809,MEDIUM,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,22.0,81.307,21.677,37.718,21.912,MEDIUM,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,22.0,81.037,21.098,38.045,21.894,MEDIUM,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,22.0,80.849,21.09,38.262,21.497,HARD,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,22.0,80.897,21.237,38.089,21.571,HARD,22.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,22.0,81.083,21.441,37.938,21.704,HARD,21.0,2.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,22.0,81.022,21.302,38.132,21.588,HARD,8.0,3.0,0,21.8,45.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,23.0,78.458,20.638,36.755,21.065,HARD,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,23.0,78.658,20.334,37.06,21.264,HARD,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,23.0,78.993,20.638,37.196,21.159,HARD,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,23.0,79.194,20.562,37.375,21.257,HARD,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,23.0,79.397,21.109,37.08,21.208,MEDIUM,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,23.0,78.979,20.825,36.884,21.27,MEDIUM,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,23.0,79.089,21.281,36.887,20.921,MEDIUM,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,23.0,80.45,21.248,37.823,21.379,HARD,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,23.0,80.143,21.17,37.722,21.251,HARD,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,23.0,81.306,21.45,37.844,22.012,MEDIUM,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,23.0,81.188,21.372,38.086,21.73,MEDIUM,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,23.0,80.246,21.273,37.462,21.511,MEDIUM,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,23.0,80.662,21.236,37.948,21.478,HARD,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,23.0,80.593,21.24,37.907,21.446,HARD,23.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,23.0,80.792,21.275,37.842,21.675,HARD,22.0,2.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,23.0,80.75,21.34,37.86,21.55,HARD,9.0,3.0,0,21.7,46.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,24.0,78.725,20.436,37.261,21.028,HARD,23.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,24.0,78.636,20.402,36.969,21.265,HARD,24.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,24.0,78.568,20.629,36.995,20.944,HARD,23.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,24.0,78.699,20.67,37.148,20.881,HARD,24.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,24.0,79.484,21.193,37.075,21.216,MEDIUM,23.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,24.0,79.364,20.83,37.287,21.247,MEDIUM,23.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,24.0,78.785,20.85,36.635,21.3,MEDIUM,23.0,2.0,0,21.8,46.3,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,24.0,80.386,21.078,37.672,21.636,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,24.0,80.517,21.307,37.772,21.438,HARD,23.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,24.0,80.949,20.925,38.004,22.02,MEDIUM,23.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,24.0,81.621,21.615,38.073,21.933,MEDIUM,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,24.0,81.413,20.99,38.131,22.292,MEDIUM,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,24.0,80.348,20.907,37.885,21.556,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,24.0,80.395,21.011,37.72,21.664,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,24.0,80.347,21.064,37.587,21.696,HARD,23.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,24.0,80.564,21.134,37.742,21.688,HARD,10.0,3.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,25.0,78.973,20.408,37.435,21.13,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,25.0,78.784,20.563,37.104,21.117,HARD,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,25.0,78.537,20.608,37.018,20.911,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,25.0,78.64,20.52,37.044,21.076,HARD,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,25.0,78.651,20.91,36.745,20.996,MEDIUM,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,25.0,79.38,20.826999999999998,37.328,21.225,MEDIUM,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,25.0,79.342,21.045,36.894,21.403,MEDIUM,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,25.0,80.329,21.288,37.466,21.575,HARD,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,25.0,80.323,21.153,37.773,21.397,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,25.0,80.372,21.103,37.62,21.649,MEDIUM,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,25.0,80.506,21.01,37.97,21.526,MEDIUM,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,25.0,81.091,21.312,38.033,21.746,MEDIUM,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,25.0,81.029,21.168,37.992,21.869,HARD,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,25.0,80.903,21.186,37.918,21.799,HARD,25.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,25.0,80.763,21.13,37.799,21.834,HARD,24.0,2.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,25.0,80.783,21.287,37.715,21.781,HARD,11.0,3.0,0,21.7,45.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,26.0,78.445,20.305,37.048,21.092,HARD,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,26.0,78.44,20.567,37.026,20.847,HARD,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,26.0,78.088,20.525,36.807,20.756,HARD,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,26.0,78.396,20.574,36.881,20.941,HARD,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,26.0,79.006,21.449,36.653,20.904,MEDIUM,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,26.0,78.818,20.646,37.241,20.931,MEDIUM,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,26.0,79.862,21.531,37.064,21.267,MEDIUM,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,26.0,80.448,21.082,37.707,21.659,HARD,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,26.0,80.463,21.302,37.698,21.463,HARD,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,26.0,80.593,21.449,37.447,21.697,MEDIUM,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,26.0,80.589,21.064,37.845,21.68,MEDIUM,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,26.0,80.858,21.459,37.846,21.553,MEDIUM,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,26.0,80.691,21.346,37.729,21.616,HARD,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,26.0,80.929,21.388,37.795,21.746,HARD,26.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,26.0,80.869,21.433,37.643,21.793,HARD,25.0,2.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,26.0,80.851,21.321,38.06,21.47,HARD,12.0,3.0,0,21.8,46.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,27.0,78.351,20.507,36.769,21.075,HARD,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,27.0,78.523,20.578,36.875,21.07,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,27.0,79.49,20.585,37.474,21.431,HARD,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,27.0,78.72,20.559,37.023,21.138,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,27.0,78.927,21.081,36.831,21.015,MEDIUM,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,27.0,78.797,20.592,37.213,20.992,MEDIUM,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,27.0,78.549,20.906,36.554,21.089,MEDIUM,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,27.0,80.286,21.129,37.549,21.608,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,27.0,80.509,21.314,37.738,21.457,HARD,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,27.0,80.521,21.045,37.661,21.815,MEDIUM,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,27.0,80.307,20.676,37.768,21.863,MEDIUM,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,27.0,81.303,21.592,37.89,21.821,MEDIUM,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,27.0,81.365,21.579,37.917,21.869,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,27.0,81.231,21.389,37.969,21.873,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,27.0,81.293,21.425,37.959,21.909,HARD,26.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,27.0,81.37,21.378,38.235,21.757,HARD,13.0,3.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,28.0,78.71,20.535,37.208,20.967,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,28.0,78.791,20.568,37.127,21.096,HARD,28.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,28.0,79.281,20.863,37.361,21.057,HARD,27.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,28.0,79.238,20.84,37.076,21.322,HARD,28.0,2.0,0,21.9,46.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,28.0,78.679,21.106,36.676,20.897,MEDIUM,27.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,28.0,78.682,21.0,36.851,20.831,MEDIUM,27.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,28.0,78.587,21.112,36.631,20.844,MEDIUM,27.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,28.0,80.184,21.183,37.528,21.473,HARD,28.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,28.0,79.51,21.281,37.151,21.078,HARD,27.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,28.0,80.229,21.024,37.602,21.603,MEDIUM,27.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,28.0,80.131,21.068,37.569,21.494,MEDIUM,28.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,28.0,81.544,21.722,37.884,21.938,MEDIUM,28.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,28.0,81.566,21.734,38.034,21.798000000000002,HARD,28.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,28.0,81.604,21.725,38.047,21.832,HARD,28.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,28.0,81.516,21.616,38.121,21.779,HARD,27.0,2.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,28.0,81.765,21.32,38.759,21.686,HARD,14.0,3.0,0,22.0,45.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,29.0,79.053,20.429,37.312,21.312,HARD,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,29.0,79.01,20.396,37.42,21.194,HARD,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,29.0,78.697,20.751,37.079,20.867,HARD,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,29.0,78.766,20.681,37.135,20.95,HARD,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,29.0,78.624,21.067,36.636,20.921,MEDIUM,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,29.0,78.795,20.96,36.819,21.016,MEDIUM,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,29.0,78.94,21.157,36.794,20.989,MEDIUM,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,29.0,79.837,21.149,37.32,21.368,HARD,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,29.0,80.271,21.124,37.342,21.805,HARD,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,29.0,79.376,20.968,37.002,21.406,MEDIUM,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,29.0,79.464,20.986,37.085,21.393,MEDIUM,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,29.0,81.205,21.626,38.024,21.555,MEDIUM,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,29.0,81.265,21.618,37.943,21.704,HARD,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,29.0,81.334,21.525,37.905,21.904,HARD,29.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,29.0,81.338,21.519,37.991,21.828,HARD,28.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,29.0,80.857,21.182,38.157,21.518,HARD,15.0,3.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,30.0,79.935,21.091,37.38,21.464,HARD,29.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,30.0,79.396,20.878,37.438,21.08,HARD,30.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,30.0,77.326,20.109,36.543,20.674,HARD,29.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,30.0,78.403,20.443,36.93,21.03,HARD,30.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,30.0,78.811,21.195,36.618,20.998,MEDIUM,29.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,30.0,78.574,20.983,36.66,20.931,MEDIUM,29.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,30.0,78.371,20.782,36.586,21.003,MEDIUM,29.0,2.0,0,22.0,46.4,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,30.0,80.495,21.124,37.673,21.698,HARD,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,30.0,81.439,21.906,38.215,21.318,HARD,29.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,30.0,81.764,21.791,38.013,21.96,MEDIUM,29.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,30.0,81.422,21.242,37.987,22.193,MEDIUM,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,30.0,81.034,21.707,37.404,21.923000000000002,MEDIUM,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,30.0,80.9,21.548000000000002,37.756,21.596,HARD,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,30.0,80.84,21.438,37.701,21.701,HARD,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,30.0,81.044,21.481,37.892,21.671,HARD,29.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,30.0,81.47,21.597,38.18,21.693,HARD,16.0,3.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,31.0,78.393,20.706,36.687,21.0,HARD,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,31.0,78.449,20.602,36.817,21.03,HARD,31.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,31.0,79.784,20.766,37.403,21.615,HARD,30.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,31.0,78.78,20.564,36.989,21.227,HARD,31.0,2.0,0,22.1,45.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,31.0,79.101,21.076,36.695,21.33,MEDIUM,30.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,31.0,78.564,20.941,36.674,20.949,MEDIUM,30.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,31.0,78.471,21.051,36.534,20.886,MEDIUM,30.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,31.0,80.19,21.26,37.446,21.484,HARD,31.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,31.0,80.941,21.376,37.952,21.613,HARD,30.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,31.0,81.427,21.441,38.049,21.937,MEDIUM,30.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,31.0,82.535,22.064,38.602,21.869,MEDIUM,31.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,31.0,80.642,21.442,37.792,21.408,MEDIUM,31.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,31.0,80.703,21.417,37.636,21.65,HARD,31.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,31.0,80.775,21.304,37.708,21.763,HARD,31.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,31.0,80.806,21.3,37.787,21.719,HARD,30.0,2.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,31.0,80.752,21.297,37.99,21.465,HARD,17.0,3.0,0,22.0,45.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,32.0,79.125,20.483,37.216,21.426,HARD,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,32.0,78.969,20.636,37.017,21.316,HARD,32.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,32.0,80.136,20.736,37.729,21.671,HARD,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,32.0,79.538,20.794,37.452,21.292,HARD,32.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,32.0,79.122,20.993,37.092,21.037,MEDIUM,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,32.0,78.983,21.108,36.848,21.027,MEDIUM,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,32.0,78.618,20.974,36.599,21.045,MEDIUM,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,32.0,81.023,21.281,37.967,21.775,HARD,32.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,32.0,80.148,21.103,37.794,21.251,HARD,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,32.0,81.121,21.371,38.018,21.732,MEDIUM,31.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,32.0,81.252,21.475,37.876,21.901,MEDIUM,32.0,2.0,0,21.9,45.6,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,32.0,81.01,21.681,37.433,21.896,MEDIUM,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,32.0,80.94,21.516,37.91,21.514,HARD,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,32.0,80.797,21.346,37.737,21.714,HARD,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,32.0,80.782,21.184,37.828,21.77,HARD,31.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,32.0,80.658,21.194,38.049,21.415,HARD,18.0,3.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,33.0,78.494,20.51,36.916,21.068,HARD,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,33.0,79.06,20.753,37.224,21.083,HARD,33.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,33.0,78.778,20.462,37.043,21.273,HARD,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,33.0,79.233,20.787,37.216,21.23,HARD,33.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,33.0,78.91,20.991,36.737,21.182,MEDIUM,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,33.0,79.005,21.185,36.81,21.01,MEDIUM,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,33.0,78.746,20.94,36.588,21.218,MEDIUM,32.0,2.0,0,21.9,45.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,33.0,80.749,21.333,37.827,21.589,HARD,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,33.0,79.491,21.117,37.286,21.088,HARD,32.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,33.0,80.965,21.201,37.839,21.925,MEDIUM,32.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,33.0,80.536,21.06,37.742,21.734,MEDIUM,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,33.0,80.35,21.174,37.679,21.497,MEDIUM,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,33.0,80.395,21.207,37.445,21.743,HARD,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,33.0,80.53,21.295,37.569,21.666,HARD,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,33.0,80.677,21.2,37.618,21.859,HARD,32.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,33.0,80.525,21.168,37.732,21.625,HARD,19.0,3.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,34.0,79.319,20.412,37.589,21.318,HARD,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,34.0,78.978,20.604,37.316,21.058,HARD,34.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,34.0,79.013,20.661,37.348,21.004,HARD,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,34.0,79.243,20.654,37.46,21.129,HARD,34.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,34.0,79.379,21.252,36.937,21.19,MEDIUM,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,34.0,79.594,21.22,37.043,21.331,MEDIUM,33.0,2.0,0,22.0,45.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,34.0,78.86,21.143,36.668,21.049,MEDIUM,33.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,34.0,79.153,20.994,37.077,21.082,HARD,34.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,34.0,79.134,21.073,37.168,20.893,HARD,33.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,34.0,80.751,21.309,37.92,21.522,MEDIUM,33.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,34.0,79.789,20.814,37.648,21.327,MEDIUM,34.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,34.0,80.877,21.407,37.844,21.626,MEDIUM,34.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,34.0,80.84,21.215,37.682,21.943,HARD,34.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,34.0,80.738,21.107,37.635,21.996,HARD,34.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,34.0,80.736,21.114,37.666,21.956,HARD,33.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,34.0,80.903,21.158,37.737,22.008,HARD,20.0,3.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,35.0,78.53,20.503,36.672,21.355,HARD,34.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,35.0,78.605,20.611,36.941,21.053,HARD,35.0,2.0,0,22.0,45.1,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,35.0,78.465,20.407,36.937,21.121,HARD,34.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,35.0,78.714,20.645,37.042,21.027,HARD,35.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,35.0,80.448,21.603,37.625,21.22,MEDIUM,34.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,35.0,80.207,21.369,37.357,21.481,MEDIUM,34.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,35.0,79.518,21.181,36.979,21.358,MEDIUM,34.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,35.0,78.973,20.721,37.12,21.132,HARD,35.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,35.0,78.816,20.981,36.918,20.917,HARD,34.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,35.0,79.361,20.907,37.118,21.336,MEDIUM,34.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,35.0,79.497,20.895,37.055,21.547,MEDIUM,35.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,35.0,80.432,21.123,37.814,21.495,MEDIUM,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,35.0,80.54,21.105,37.755,21.68,HARD,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,35.0,80.584,21.221,37.6,21.763,HARD,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,35.0,80.372,21.313,37.346,21.713,HARD,34.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,35.0,80.254,21.49,37.533,21.231,HARD,21.0,3.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,36.0,78.689,20.697,36.919,21.073,HARD,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,36.0,78.882,20.535,37.128,21.219,HARD,36.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,36.0,79.275,20.65,37.435,21.19,HARD,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,36.0,78.582,20.515,36.884,21.183,HARD,36.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,36.0,79.728,21.254,37.243,21.231,MEDIUM,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,36.0,79.634,21.105,37.154,21.375,MEDIUM,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,36.0,80.648,21.922,37.249,21.477,MEDIUM,35.0,2.0,0,21.8,44.4,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,36.0,79.472,20.987,37.275,21.21,HARD,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,36.0,81.628,21.372,38.669,21.587,HARD,35.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,36.0,79.576,21.082,37.1,21.394,MEDIUM,35.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,36.0,79.297,20.785,37.112,21.4,MEDIUM,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,36.0,81.128,21.543,38.239,21.346,MEDIUM,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,36.0,81.126,21.513,38.035,21.578,HARD,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,36.0,81.134,21.506,37.834,21.794,HARD,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,36.0,80.986,21.386,37.814,21.786,HARD,35.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,36.0,81.196,21.252,38.201,21.743,HARD,22.0,3.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,37.0,78.925,21.082,36.57,21.273,HARD,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,37.0,78.612,20.579,36.889,21.144,HARD,37.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,37.0,77.577,20.308,36.536,20.733,HARD,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,37.0,77.958,20.529,36.582,20.847,HARD,37.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,37.0,78.757,21.135,36.783,20.839,MEDIUM,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,37.0,79.429,21.231,36.992,21.206,MEDIUM,36.0,2.0,0,21.7,44.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,37.0,78.605,21.01,36.681,20.914,MEDIUM,36.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,37.0,80.071,20.937,37.456,21.678,HARD,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,37.0,80.775,21.591,37.967,21.217,HARD,36.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,37.0,79.975,20.888,37.374,21.713,MEDIUM,36.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,37.0,79.638,20.936,37.247,21.455,MEDIUM,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,37.0,81.512,21.648,38.268,21.596,MEDIUM,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,37.0,81.358,21.582,38.074,21.701999999999998,HARD,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,37.0,81.404,21.501,38.001,21.902,HARD,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,37.0,81.449,21.447,38.116,21.886,HARD,36.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,37.0,81.386,21.278,38.735,21.373,HARD,23.0,3.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,38.0,78.528,20.612,36.704,21.212,HARD,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,38.0,78.731,20.572,37.176,20.983,HARD,38.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,38.0,78.412,20.426,36.946,21.04,HARD,37.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,38.0,77.994,20.448,36.698,20.848,HARD,38.0,2.0,0,21.8,44.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,38.0,78.446,21.051,36.54,20.855,MEDIUM,37.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,38.0,78.844,20.966,36.93,20.948,MEDIUM,37.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,38.0,80.514,21.508,37.283,21.723,MEDIUM,37.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,38.0,80.117,21.072,37.534,21.511,HARD,38.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,38.0,80.314,21.152,37.677,21.485,HARD,37.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,38.0,79.428,21.02,36.956,21.452,MEDIUM,37.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,38.0,79.706,21.191,37.187,21.328,MEDIUM,38.0,2.0,0,21.8,44.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,38.0,81.082,21.437,38.207,21.438,MEDIUM,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,38.0,81.099,21.613,37.83,21.656,HARD,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,38.0,81.131,21.462,37.841,21.828,HARD,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,38.0,81.09,21.375,37.829,21.886,HARD,37.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,38.0,80.948,21.29,38.072,21.586,HARD,24.0,3.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,39.0,78.181,20.815,36.297,21.069,HARD,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,39.0,78.362,20.4,36.952,21.01,HARD,39.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,39.0,78.31,20.442,36.841,21.027,HARD,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,39.0,78.303,20.503,36.943,20.857,HARD,39.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,39.0,78.45,21.063,36.681,20.706,MEDIUM,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,39.0,78.326,20.844,36.647,20.835,MEDIUM,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,39.0,78.943,20.953,36.947,21.043,MEDIUM,38.0,2.0,0,21.8,44.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,39.0,79.855,20.936,37.401,21.518,HARD,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,39.0,80.389,21.367,37.774,21.248,HARD,38.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,39.0,80.32,21.342,37.369,21.609,MEDIUM,38.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,39.0,79.867,21.184,37.236,21.447,MEDIUM,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,39.0,81.265,21.464,38.197,21.604,MEDIUM,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,39.0,81.255,21.466,38.163,21.626,HARD,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,39.0,81.273,21.384,38.043,21.846,HARD,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,39.0,81.233,21.442,37.886,21.905,HARD,38.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,40.0,78.733,20.538,37.054,21.141,HARD,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,39.0,83.172,21.351,38.707,23.114,HARD,25.0,3.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,40.0,78.951,20.474,37.163,21.314,HARD,40.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,40.0,78.653,20.481,37.154,21.018,HARD,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,40.0,78.824,20.624,37.212,20.988,HARD,40.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,40.0,78.139,21.011,36.308,20.82,MEDIUM,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,40.0,78.409,20.696,36.874,20.839,MEDIUM,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,40.0,78.673,20.94,36.732,21.001,MEDIUM,39.0,2.0,0,21.9,44.4,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,40.0,79.745,20.967,37.353,21.425,HARD,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,40.0,79.812,20.846,37.656,21.31,HARD,39.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,40.0,80.384,21.321,37.464,21.599,MEDIUM,39.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,40.0,80.45,21.374,37.532,21.544,MEDIUM,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,40.0,80.755,21.321,38.087,21.347,MEDIUM,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,40.0,80.87,21.292,38.038,21.54,HARD,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,41.0,78.694,20.486,36.988,21.22,HARD,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,40.0,81.78,21.227,37.878,22.675,HARD,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,41.0,78.846,20.64,36.985,21.221,HARD,41.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,41.0,78.714,20.53,36.995,21.189,HARD,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,41.0,78.519,20.62,36.852,21.047,HARD,41.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,40.0,84.969,21.459,39.432,24.078,HARD,39.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,40.0,83.591,25.699,36.982,20.91,HARD,26.0,3.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,41.0,78.308,20.912,36.558,20.838,MEDIUM,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,41.0,78.083,20.776,36.567,20.74,MEDIUM,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,41.0,78.946,21.003,36.721,21.222,MEDIUM,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,41.0,80.772,20.821,38.018,21.933,HARD,41.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,41.0,79.329,20.972,37.375,20.982,HARD,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,41.0,80.2,21.198,37.359,21.643,MEDIUM,40.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,41.0,80.2,21.21,37.513,21.477,MEDIUM,41.0,2.0,0,22.0,44.4,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,42.0,79.277,20.683,37.359,21.235,HARD,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,41.0,83.446,21.479,39.423,22.544,MEDIUM,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,42.0,79.795,20.515,37.657,21.623,HARD,42.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,42.0,79.171,20.582,37.26,21.329,HARD,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,42.0,79.436,20.641,37.424,21.371,HARD,42.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,41.0,85.218,22.294,38.546,24.378,HARD,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,41.0,84.378,21.524,40.94,21.914,HARD,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,41.0,81.127,21.806,37.565,21.756,HARD,40.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,41.0,80.23,20.84,37.609,21.781,HARD,27.0,3.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,42.0,78.204,20.877,36.481,20.846,MEDIUM,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,42.0,78.074,20.728,36.721,20.625,MEDIUM,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,42.0,77.542,20.703,36.11,20.729,MEDIUM,41.0,2.0,0,21.9,44.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,42.0,80.32,21.13,37.58,21.61,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,42.0,80.084,21.403,37.569,21.112,HARD,41.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,42.0,79.977,21.083,37.313,21.581,MEDIUM,41.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,43.0,77.865,20.293,36.71,20.862,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,43.0,78.198,20.58,36.779,20.839,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,42.0,97.062,21.187,37.289,38.586,MEDIUM,42.0,2.0,1,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,43.0,79.594,21.039,37.633,20.922,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,43.0,79.796,21.634,37.118,21.044,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,42.0,83.332,23.949,38.112,21.271,MEDIUM,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,42.0,81.527,21.932,38.194,21.401,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,42.0,81.87,21.73,38.385,21.755,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,42.0,81.957,21.693,38.58,21.684,HARD,41.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,42.0,82.109,21.522,38.992,21.595,HARD,28.0,3.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,43.0,78.684,20.878,36.662,21.144,MEDIUM,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,43.0,78.358,20.913,36.517,20.928,MEDIUM,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,43.0,77.867,20.754,36.418,20.695,MEDIUM,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,43.0,80.135,21.002,37.553,21.58,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,43.0,79.496,21.022,37.395,21.079,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,43.0,81.048,21.159,37.964,21.925,MEDIUM,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,44.0,78.276,20.687,36.752,20.837,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,44.0,78.277,20.56,36.952,20.765,HARD,44.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,44.0,78.762,20.543,37.239,20.98,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,44.0,78.906,20.681,37.207,21.018,HARD,44.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,43.0,82.775,24.327,37.385,21.063,HARD,3.0,3.0,1,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,43.0,80.286,20.975,37.871,21.44,MEDIUM,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,43.0,81.053,21.041,38.257,21.755,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,43.0,80.552,21.033,37.794,21.725,HARD,43.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,43.0,80.578,21.195,37.699,21.684,HARD,42.0,2.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,43.0,80.912,21.295,37.891,21.726,HARD,29.0,3.0,0,21.9,44.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,44.0,78.177,20.798000000000002,36.462,20.917,MEDIUM,43.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,44.0,78.405,20.976,36.685,20.744,MEDIUM,43.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,44.0,78.225,20.803,36.511,20.911,MEDIUM,43.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,44.0,80.394,20.771,37.723,21.9,HARD,44.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,44.0,79.683,21.013,37.472,21.198,HARD,43.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,44.0,80.621,21.328,37.58,21.713,MEDIUM,43.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,45.0,78.541,20.582,36.789,21.17,HARD,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,45.0,78.082,20.433,36.655,20.994,HARD,45.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,45.0,77.885,20.411,36.622,20.852,HARD,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,45.0,77.897,20.452,36.759,20.686,HARD,45.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,44.0,78.551,20.552,37.005,20.994,HARD,4.0,3.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,44.0,78.852,20.449,37.16,21.243,MEDIUM,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,44.0,78.003,20.37,36.746,20.887,HARD,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,44.0,79.511,20.889,37.323,21.299,HARD,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,44.0,79.61,21.049,37.22,21.341,HARD,43.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,44.0,79.772,20.988,37.634,21.15,HARD,30.0,3.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,45.0,78.449,20.914,36.74,20.795,MEDIUM,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,45.0,78.313,20.742,36.682,20.889,MEDIUM,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,45.0,78.156,20.583,36.597,20.976,MEDIUM,44.0,2.0,0,22.0,44.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,45.0,80.144,20.924,37.506,21.714,HARD,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,45.0,81.748,21.867,37.986,21.895,HARD,44.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,45.0,79.382,20.902,37.198,21.282,MEDIUM,44.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,46.0,78.567,20.6,37.066,20.901,HARD,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,46.0,78.623,20.42,37.147,21.056,HARD,46.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,46.0,78.731,20.497,37.133,21.101,HARD,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,46.0,78.215,20.386,36.887,20.942,HARD,46.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,45.0,78.806,20.484,37.023,21.299,HARD,5.0,3.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,45.0,79.956,20.812,37.559,21.585,MEDIUM,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,45.0,81.761,21.241,38.59,21.93,HARD,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,45.0,80.72,20.922,38.046,21.752,HARD,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,45.0,80.686,20.876,38.074,21.736,HARD,44.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,45.0,80.043,20.596,37.595,21.852,HARD,31.0,3.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,46.0,78.387,20.904,36.537,20.946,MEDIUM,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,46.0,78.203,20.832,36.559,20.812,MEDIUM,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,46.0,78.104,20.745,36.466,20.893,MEDIUM,45.0,2.0,0,21.9,44.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,46.0,80.294,20.841,37.681,21.772,HARD,46.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,46.0,80.594,21.38,37.939,21.275,HARD,45.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,46.0,79.97,21.139,37.499,21.332,MEDIUM,45.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,47.0,79.185,20.506,37.404,21.275,HARD,46.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,47.0,78.399,20.48,36.871,21.048,HARD,47.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,47.0,78.141,20.298,36.975,20.868,HARD,46.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,47.0,78.141,20.326,36.968,20.847,HARD,47.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,46.0,78.296,20.529,36.671,21.096,HARD,6.0,3.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,46.0,78.928,20.659,37.129,21.14,MEDIUM,46.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,46.0,77.172,20.128,36.366,20.678,HARD,46.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,46.0,80.124,20.964,37.598,21.562,HARD,46.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,46.0,80.146,21.067,37.671,21.408,HARD,45.0,2.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,46.0,80.417,21.056,38.04,21.321,HARD,32.0,3.0,0,22.0,44.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,47.0,78.314,20.768,36.519,21.027,MEDIUM,46.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,47.0,78.537,20.799,36.688,21.05,MEDIUM,46.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,47.0,78.331,20.748,36.783,20.8,MEDIUM,46.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,47.0,80.426,20.968,37.592,21.866,HARD,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,47.0,80.462,21.142,37.705,21.615,HARD,46.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,47.0,79.435,20.865,37.294,21.276,MEDIUM,46.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,48.0,77.941,20.379,36.484,21.078,HARD,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,48.0,78.395,20.406,37.005,20.984,HARD,48.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,48.0,77.894,20.338,36.722,20.834,HARD,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,48.0,77.975,20.359,36.876,20.74,HARD,48.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,47.0,78.062,20.222,36.815,21.025,HARD,7.0,3.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,47.0,79.109,20.636,37.285,21.188,MEDIUM,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,47.0,81.071,21.023,37.949,22.099,HARD,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,47.0,79.888,20.969,37.668,21.251,HARD,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,47.0,80.075,21.026,37.569,21.48,HARD,46.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,48.0,78.702,20.917,36.851,20.934,MEDIUM,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,48.0,78.337,20.716,36.661,20.96,MEDIUM,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,47.0,82.969,21.815,40.364,20.79,HARD,33.0,3.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,48.0,77.831,20.802,36.424,20.605,MEDIUM,47.0,2.0,0,22.0,43.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,48.0,80.543,20.994,37.876,21.673000000000002,HARD,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,48.0,79.321,20.659,37.436,21.226,HARD,47.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,48.0,79.865,20.925,37.454,21.486,MEDIUM,47.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,49.0,78.506,20.674,36.889,20.943,HARD,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,49.0,78.136,20.416,36.774,20.946,HARD,49.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,49.0,78.259,20.341,36.857,21.061,HARD,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,49.0,78.177,20.308,36.873,20.996,HARD,49.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,48.0,80.315,20.454,37.439,22.422,MEDIUM,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,48.0,78.282,20.173,36.242,21.867,HARD,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,48.0,80.97,20.941,37.593,22.436,HARD,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,49.0,78.985,20.975,36.845,21.165,MEDIUM,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,49.0,78.477,20.77,36.778,20.929,MEDIUM,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,48.0,82.481,20.79,39.009,22.682,HARD,47.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,49.0,77.398,20.468,36.146,20.784,MEDIUM,48.0,2.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,48.0,80.562,20.614,36.907,23.041,HARD,34.0,3.0,0,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,48.0,109.132,20.243,40.645,48.244,HARD,8.0,3.0,1,22.0,43.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,49.0,80.109,20.826,37.5,21.783,HARD,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,49.0,79.378,20.802,37.344,21.232,HARD,48.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,49.0,80.534,20.805,37.858,21.871,MEDIUM,48.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,50.0,78.185,20.293,36.878,21.014,HARD,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,50.0,78.35,20.434,36.767,21.149,HARD,50.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,50.0,78.545,20.355,37.013,21.177,HARD,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,50.0,78.218,20.358,36.795,21.065,HARD,50.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,49.0,79.837,21.329,37.218,21.29,MEDIUM,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,49.0,79.837,21.326,37.163,21.348,HARD,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,50.0,78.447,21.009,36.565,20.873,MEDIUM,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,50.0,78.88,21.141,36.859,20.88,MEDIUM,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,50.0,78.461,20.737,36.831,20.893,MEDIUM,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,49.0,83.966,23.115,39.299,21.552,HARD,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,49.0,82.134,22.503,38.311,21.32,HARD,48.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,49.0,80.818,21.0,38.43,21.388,HARD,35.0,3.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,49.0,79.089,22.278,35.985,20.826,SOFT,1.0,4.0,1,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,50.0,79.553,21.074,37.375,21.104,HARD,50.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,50.0,79.268,20.949,37.161,21.158,HARD,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,51.0,77.79,20.269,36.519,21.002,HARD,50.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,50.0,81.023,21.029,37.509,22.485,MEDIUM,49.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,51.0,77.909,20.289,36.853,20.767,HARD,51.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,51.0,77.528,20.188,36.291,21.049,HARD,50.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,51.0,77.772,20.602,36.511,20.659,HARD,51.0,2.0,0,21.9,43.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,50.0,79.334,21.01,37.161,21.163,MEDIUM,50.0,2.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,50.0,79.796,21.024,37.197,21.575,HARD,50.0,2.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,51.0,78.049,20.754,36.461,20.834,MEDIUM,50.0,2.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,51.0,78.142,20.787,36.565,20.79,MEDIUM,50.0,2.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,50.0,80.292,21.048,37.75,21.494,HARD,50.0,2.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,50.0,80.239,21.11,37.782,21.347,HARD,36.0,3.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,50.0,80.946,21.094,37.718,22.134,HARD,49.0,2.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,50.0,77.788,20.305,36.497,20.986,SOFT,2.0,4.0,0,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,51.0,95.209,21.037,36.5,37.672,MEDIUM,50.0,2.0,1,21.8,43.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,51.0,78.64,20.706,36.933,21.001,HARD,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,51.0,78.863,20.82,36.923,21.12,HARD,50.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,52.0,78.311,20.381,36.839,21.091,HARD,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,52.0,78.214,20.475,36.918,20.821,HARD,52.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,52.0,78.094,20.201,37.137,20.756,HARD,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,52.0,78.223,20.309,36.901,21.013,HARD,52.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,51.0,84.473,21.93,40.611,21.932,MEDIUM,50.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,51.0,80.636,20.839,37.908,21.889,MEDIUM,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,52.0,78.602,20.742,36.669,21.191,MEDIUM,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,51.0,82.683,20.96,38.146,23.576999999999998,HARD,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,51.0,77.205,20.383,36.319,20.503,HARD,37.0,3.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,51.0,81.817,21.035,39.022,21.76,HARD,51.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,51.0,80.962,20.966,38.513,21.483,HARD,50.0,2.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,51.0,76.982,20.155,36.191,20.636,SOFT,3.0,4.0,0,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,52.0,93.905,19.873,36.323,37.709,MEDIUM,51.0,2.0,1,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,52.0,79.702,23.286,36.357,20.059,HARD,2.0,3.0,1,21.8,43.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,52.0,80.114,20.817,37.528,21.769,HARD,52.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,52.0,81.554,21.83,38.223,21.501,HARD,51.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,53.0,77.748,20.319,36.629,20.8,HARD,52.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,53.0,77.609,20.197,36.647,20.765,HARD,53.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,53.0,77.759,20.157,36.691,20.911,HARD,52.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,53.0,77.57,20.228,36.625,20.717,HARD,53.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,52.0,79.743,21.148,37.157,21.438,MEDIUM,51.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,53.0,80.891,21.524,38.227,21.14,MEDIUM,52.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,52.0,83.377,21.575,40.3,21.502,MEDIUM,52.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,52.0,80.696,20.643,38.536,21.517,HARD,52.0,2.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,52.0,77.202,20.149,36.375,20.678,HARD,38.0,3.0,0,21.9,43.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,52.0,80.78,21.105,38.055,21.62,HARD,52.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,52.0,80.97,21.347,38.108,21.515,HARD,51.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,52.0,77.35,20.008,36.517,20.825,SOFT,4.0,4.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,53.0,78.724,22.321,36.244,20.159,HARD,2.0,3.0,1,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,53.0,76.458,20.151,35.889,20.418,HARD,3.0,3.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,53.0,79.854,20.913,37.43,21.511,HARD,53.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,54.0,77.357,20.182,36.412,20.763,HARD,53.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,53.0,80.7,21.025,37.229,22.446,HARD,52.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,54.0,77.362,20.138,36.581,20.643,HARD,54.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,54.0,77.742,20.413,36.564,20.765,HARD,53.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,54.0,77.838,20.436,36.848,20.554,HARD,54.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,53.0,79.917,20.986,37.411,21.52,MEDIUM,52.0,2.0,0,21.9,43.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,54.0,78.201,20.753,36.599,20.849,MEDIUM,53.0,2.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,53.0,79.992,20.927,37.618,21.447,MEDIUM,53.0,2.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,53.0,80.079,21.237,37.601,21.241,HARD,53.0,2.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,53.0,78.456,20.365,36.897,21.194,HARD,39.0,3.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,54.0,75.815,19.57,36.049,20.196,HARD,3.0,3.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,53.0,81.318,20.956,37.797,22.565,HARD,53.0,2.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,53.0,81.375,21.048,38.84,21.487,HARD,52.0,2.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,54.0,76.388,20.026,35.636,20.726,HARD,4.0,3.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,53.0,81.547,20.14,38.505,22.902,SOFT,5.0,4.0,0,21.9,42.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,55.0,77.444,20.377,36.322,20.745,HARD,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,55.0,77.445,20.28,36.42,20.745,HARD,55.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,55.0,78.661,20.576,36.805,21.28,HARD,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,55.0,78.382,20.468,36.569,21.345,HARD,55.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,54.0,85.77,21.185,41.211,23.374,HARD,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,54.0,83.647,23.983,38.443,21.221,HARD,53.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,54.0,79.091,20.968,36.845,21.278,MEDIUM,53.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,55.0,77.305,20.747,36.05,20.508,MEDIUM,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,54.0,79.191,20.821,37.085,21.285,MEDIUM,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,54.0,79.176,20.964,37.136,21.076,HARD,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,54.0,79.403,21.01,37.292,21.101,HARD,40.0,3.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,55.0,75.398,19.799,35.59,20.009,HARD,4.0,3.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,55.0,76.492,20.727,35.648,20.117,HARD,5.0,3.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,54.0,82.289,21.983,38.675,21.631,HARD,54.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,54.0,82.153,22.0,38.781,21.372,HARD,53.0,2.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,54.0,80.571,20.602,38.634,21.335,SOFT,6.0,4.0,0,21.7,42.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,56.0,77.266,20.173,36.255,20.838,HARD,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,56.0,77.456,20.141,36.593,20.722,HARD,56.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,56.0,78.119,20.216,36.735,21.168,HARD,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,56.0,78.155,20.564,36.639,20.951999999999998,HARD,56.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,55.0,79.781,21.418,37.189,21.174,HARD,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,55.0,79.085,20.976,37.269,20.84,HARD,54.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,55.0,79.407,20.714,37.252,21.441,MEDIUM,54.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,56.0,77.071,20.49,36.009,20.572,MEDIUM,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,55.0,79.411,20.897,37.211,21.303,MEDIUM,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,55.0,79.457,21.059,37.324,21.074,HARD,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,56.0,75.466,19.655,35.529,20.282,HARD,5.0,3.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,55.0,80.375,20.934,37.504,21.937,HARD,41.0,3.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,56.0,74.423,19.485,35.057,19.881,HARD,6.0,3.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,55.0,80.342,21.022,37.718,21.602,HARD,55.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,55.0,79.963,21.262,37.584,21.117,SOFT,7.0,4.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,55.0,81.399,21.11,38.647,21.642,HARD,54.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,57.0,77.64,20.132,36.818,20.69,HARD,56.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,57.0,77.3,20.171,36.449,20.68,HARD,57.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,57.0,77.599,20.374,36.747,20.478,HARD,56.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,57.0,77.815,20.436,36.71,20.669,HARD,57.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,56.0,78.502,20.645,36.898,20.959,HARD,56.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,56.0,78.796,20.794,36.963,21.039,HARD,55.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,56.0,79.704,20.991,37.282,21.431,MEDIUM,55.0,2.0,0,21.6,42.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,57.0,76.91,20.542,35.88,20.488,MEDIUM,56.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,57.0,76.181,20.012,36.173,19.996,HARD,6.0,3.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,56.0,80.739,20.958,38.563,21.218,MEDIUM,56.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,57.0,77.857,20.896,36.389,20.572,HARD,7.0,3.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,56.0,82.007,21.726,37.908,22.373,HARD,56.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,56.0,81.657,20.934,39.91,20.813,HARD,42.0,3.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,56.0,77.279,20.547,35.89,20.842,SOFT,8.0,4.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,56.0,81.474,21.793,38.053,21.628,HARD,56.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,56.0,80.315,21.051,37.87,21.394,HARD,55.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,58.0,77.028,20.246,36.138,20.644,HARD,57.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,58.0,77.344,20.138,36.58,20.626,HARD,58.0,2.0,0,21.7,42.4,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,58.0,77.501,20.149,36.716,20.636,HARD,57.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,58.0,77.395,20.149,36.565,20.681,HARD,58.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,57.0,78.499,20.624,36.856,21.019,HARD,57.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,57.0,78.271,20.807,36.602,20.862,HARD,56.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,57.0,79.448,20.953,37.124,21.371,MEDIUM,56.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,58.0,77.142,20.435,36.079,20.628,MEDIUM,57.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,58.0,74.569,19.343,35.377,19.849,HARD,7.0,3.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,58.0,76.855,20.302,36.102,20.451,HARD,8.0,3.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,57.0,80.6,20.709,38.543,21.348,MEDIUM,57.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,57.0,79.672,21.529,37.023,21.12,HARD,57.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,57.0,78.994,20.852,37.066,21.076,HARD,43.0,3.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,57.0,76.914,20.106,35.937,20.871,SOFT,9.0,4.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,57.0,81.119,21.3,38.386,21.433,HARD,56.0,2.0,0,21.8,42.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,57.0,97.746,21.14,38.317,38.289,HARD,57.0,2.0,1,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,59.0,77.034,20.42,36.197,20.417,HARD,58.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,59.0,77.042,20.007,36.462,20.573,HARD,59.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,59.0,77.134,19.939,36.533,20.662,HARD,58.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,59.0,77.122,20.101,36.446,20.575,HARD,59.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,58.0,78.737,20.615,36.951,21.171,HARD,58.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,58.0,78.69,20.834,36.768,21.088,HARD,57.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,58.0,79.097,20.943,36.982,21.172,MEDIUM,57.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,59.0,76.842,20.416,35.875,20.551,MEDIUM,58.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,59.0,74.748,19.543,35.369,19.836,HARD,8.0,3.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,59.0,74.204,19.662,34.842,19.7,HARD,9.0,3.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,58.0,79.229,20.768,37.325,21.136,MEDIUM,58.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,58.0,79.119,20.707,37.181,21.231,HARD,58.0,2.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,58.0,79.28,20.765,37.415,21.1,HARD,44.0,3.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,58.0,77.156,20.193,36.244,20.719,SOFT,10.0,4.0,0,21.6,41.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,58.0,78.795,20.885,36.909,21.001,HARD,57.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,58.0,79.809,23.376,36.212,20.221,MEDIUM,1.0,3.0,1,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,60.0,76.414,19.989,36.033,20.392,HARD,59.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,60.0,76.617,19.928,36.142,20.547,HARD,60.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,60.0,75.159,19.647,35.514,19.998,HARD,59.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,60.0,76.695,20.115,36.273,20.307,HARD,60.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,59.0,78.035,20.382,36.572,21.081,HARD,59.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,59.0,78.201,20.67,36.641,20.89,HARD,58.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,60.0,76.604,20.034,36.124,20.446,MEDIUM,59.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,60.0,75.238,19.399,35.421,20.418,HARD,9.0,3.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,59.0,81.378,20.82,38.54,22.018,MEDIUM,58.0,2.0,0,21.5,42.3,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,60.0,75.848,20.036,35.591,20.221,HARD,10.0,3.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,59.0,79.219,20.848,37.175,21.196,MEDIUM,59.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,59.0,78.936,20.851,37.117,20.968,HARD,59.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,59.0,78.999,20.786,37.292,20.921,HARD,45.0,3.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,59.0,76.71,19.891,35.991,20.828,SOFT,11.0,4.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,59.0,77.936,20.562,36.428,20.946,HARD,58.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,59.0,75.594,19.801,35.692,20.101,MEDIUM,2.0,3.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,61.0,76.863,20.047,36.432,20.384,HARD,60.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,61.0,76.771,19.986,36.265,20.52,HARD,61.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,61.0,79.046,21.31,37.09,20.646,HARD,60.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,61.0,77.614,20.212,36.655,20.747,HARD,61.0,2.0,0,21.6,42.3,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,60.0,79.659,21.295,37.031,21.333,HARD,60.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,60.0,79.533,21.272,37.01,21.251,HARD,59.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,61.0,76.697,20.384,35.786,20.527,MEDIUM,60.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,61.0,75.121,19.45,35.599,20.072,HARD,10.0,3.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,60.0,80.237,21.558,37.268,21.411,MEDIUM,59.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,61.0,75.274,19.975,35.321,19.978,HARD,11.0,3.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,60.0,79.166,20.95,37.12,21.096,MEDIUM,60.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,60.0,79.23,21.09,37.077,21.063,HARD,60.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,60.0,79.069,20.849,37.273,20.947,HARD,46.0,3.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,60.0,77.326,20.162,36.547,20.617,SOFT,12.0,4.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,60.0,78.545,20.685,36.745,21.115,HARD,59.0,2.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,60.0,75.58,19.777,35.627,20.176,MEDIUM,3.0,3.0,0,21.6,42.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,62.0,77.454,20.116,36.443,20.895,HARD,61.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,62.0,77.095,19.949,36.525,20.621,HARD,62.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,62.0,74.726,19.553,35.324,19.849,HARD,61.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,62.0,76.026,20.07,35.877,20.079,HARD,62.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,61.0,80.298,21.322,37.502,21.474,HARD,61.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,61.0,80.222,21.459,37.387,21.376,HARD,60.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,62.0,76.787,20.251,36.072,20.464,MEDIUM,61.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,62.0,76.561,20.077,36.108,20.376,HARD,11.0,3.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,62.0,75.414,19.845,35.58,19.989,HARD,12.0,3.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,61.0,80.407,20.826999999999998,38.074,21.506,MEDIUM,60.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,61.0,78.752,20.746,36.978,21.028,MEDIUM,61.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,61.0,78.771,20.756,37.022,20.993,HARD,61.0,2.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,61.0,78.623,20.646,37.139,20.838,HARD,47.0,3.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,61.0,78.298,20.494,36.945,20.859,SOFT,13.0,4.0,0,21.8,42.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,61.0,78.707,20.763,36.697,21.247,HARD,60.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,61.0,75.558,19.89,35.556,20.112,MEDIUM,4.0,3.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,63.0,76.971,20.095,36.187,20.689,HARD,62.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,63.0,76.921,19.929,36.296,20.696,HARD,63.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,63.0,78.207,21.06,36.742,20.405,HARD,62.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,63.0,76.876,19.861,36.42,20.595,HARD,63.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,62.0,79.375,20.875,37.089,21.411,HARD,62.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,62.0,79.506,21.112,36.897,21.497,HARD,61.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,63.0,76.581,20.073,35.838,20.67,MEDIUM,62.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,63.0,76.547,20.125,35.973,20.449,HARD,12.0,3.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,63.0,74.165,19.548000000000002,34.854,19.763,HARD,13.0,3.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,62.0,78.469,20.628,36.697,21.144,MEDIUM,61.0,2.0,0,22.0,42.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,62.0,78.816,20.78,37.033,21.003,MEDIUM,62.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,62.0,78.977,20.906,37.002,21.069,HARD,62.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,62.0,78.964,20.844,37.164,20.956,HARD,48.0,3.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,62.0,79.07,20.936,37.065,21.069,SOFT,14.0,4.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,62.0,78.817,20.796,36.763,21.258,HARD,61.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,62.0,75.525,19.733,35.631,20.161,MEDIUM,5.0,3.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,64.0,76.56,19.996,35.953,20.611,HARD,63.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,64.0,76.909,19.96,36.311,20.638,HARD,64.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,64.0,74.813,19.53,35.266,20.017,HARD,63.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,64.0,75.742,19.893,35.837,20.012,HARD,64.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,64.0,76.133,20.219,35.53,20.384,MEDIUM,63.0,2.0,0,21.9,41.2,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,64.0,76.619,20.262,36.106,20.251,HARD,13.0,3.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,64.0,76.164,20.07,35.964,20.13,HARD,14.0,3.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,63.0,83.218,22.87,38.824,21.524,HARD,63.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,63.0,83.085,23.087,38.494,21.504,HARD,62.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,63.0,79.155,21.048,36.832,21.275,MEDIUM,62.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,63.0,78.556,20.52,37.03,21.006,MEDIUM,63.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,63.0,78.805,20.639,36.954,21.212,HARD,63.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,63.0,79.024,20.788,36.997,21.239,HARD,49.0,3.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,63.0,79.1,20.758,36.95,21.392,SOFT,15.0,4.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,63.0,78.789,20.657,36.919,21.213,HARD,62.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,63.0,75.688,19.671,35.794,20.223,MEDIUM,6.0,3.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,65.0,76.607,20.094,35.912,20.601,HARD,64.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,65.0,76.391,19.859,36.103,20.429,HARD,65.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,65.0,78.137,21.154,36.474,20.509,HARD,64.0,2.0,0,21.9,42.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,65.0,77.143,20.02,36.521,20.602,HARD,65.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,65.0,75.651,19.764,35.606,20.281,MEDIUM,64.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,65.0,75.468,19.616,35.717,20.135,HARD,14.0,3.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,65.0,75.19,19.749,35.463,19.978,HARD,15.0,3.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,64.0,77.631,20.273,36.546,20.812,HARD,64.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,64.0,77.911,20.612,36.632,20.667,HARD,63.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,64.0,78.868,20.752,36.818,21.298,MEDIUM,63.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,64.0,78.736,20.603,37.073,21.06,MEDIUM,64.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,64.0,78.637,20.598,37.056,20.983,HARD,64.0,2.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,64.0,78.531,20.483,36.993,21.055,HARD,50.0,3.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,64.0,78.425,20.463,36.961,21.001,SOFT,16.0,4.0,0,21.9,41.7,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,64.0,79.295,20.765,37.309,21.221,HARD,63.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,64.0,76.895,19.927,35.952,21.016,MEDIUM,7.0,3.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,66.0,76.489,20.092,36.05,20.347,HARD,65.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,66.0,76.64,19.873,36.203,20.564,HARD,66.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,66.0,75.409,19.569,35.402,20.438,HARD,65.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,66.0,76.214,19.996,36.01,20.208,HARD,66.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,66.0,75.848,19.709,35.781,20.358,MEDIUM,65.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,66.0,76.121,19.696,35.898,20.527,HARD,15.0,3.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,66.0,75.342,19.79,35.241,20.311,HARD,16.0,3.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,65.0,77.019,20.151,36.176,20.692,HARD,65.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,65.0,77.261,20.443,36.207,20.611,HARD,64.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,65.0,79.22,20.772,37.149,21.299,MEDIUM,64.0,2.0,0,22.0,41.7,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,65.0,78.633,20.501,37.104,21.028,MEDIUM,65.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,65.0,78.73,20.594,36.983,21.153,HARD,65.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,65.0,78.642,20.564,37.167,20.911,HARD,51.0,3.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,65.0,78.732,20.644,37.021,21.067,SOFT,17.0,4.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,65.0,79.719,20.799,37.532,21.388,HARD,64.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,65.0,79.869,20.922,37.545,21.402,MEDIUM,8.0,3.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,67.0,75.941,19.908,35.718,20.315,HARD,66.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,67.0,76.596,19.839,36.084,20.673000000000002,HARD,67.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,67.0,76.847,20.114,36.085,20.648,HARD,66.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,67.0,76.115,19.815,35.946,20.354,HARD,67.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,67.0,76.157,20.043,35.724,20.39,MEDIUM,66.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,67.0,76.276,19.919,35.947,20.41,HARD,16.0,3.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,67.0,76.117,20.133,35.744,20.24,HARD,17.0,3.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,66.0,78.197,20.092,36.571,21.534,HARD,66.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,66.0,78.003,20.553,36.639,20.811,HARD,65.0,2.0,0,22.0,41.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,66.0,78.726,20.602,36.831,21.293,MEDIUM,65.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,66.0,78.637,20.477,37.185,20.975,MEDIUM,66.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,66.0,78.248,20.435,36.938,20.875,HARD,66.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,66.0,78.383,20.511,36.989,20.883,HARD,52.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,66.0,78.748,20.611,37.007,21.13,SOFT,18.0,4.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,66.0,79.749,20.941,37.572,21.236,HARD,65.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,68.0,76.082,19.824,35.719,20.539,HARD,67.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,66.0,80.799,20.93,37.695,22.174,MEDIUM,9.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,68.0,76.601,19.939,36.158,20.504,HARD,68.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,68.0,75.595,19.608,35.735,20.252,HARD,67.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,68.0,76.172,19.939,35.981,20.252,HARD,68.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,68.0,75.931,19.945,35.671,20.315,MEDIUM,67.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,68.0,75.954,19.716,35.912,20.326,HARD,17.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,68.0,75.836,19.97,35.592,20.274,HARD,18.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,67.0,78.148,20.481,36.615,21.052,HARD,67.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,67.0,77.874,20.674,36.417,20.783,HARD,66.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,67.0,78.624,20.646,36.723,21.255,MEDIUM,66.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,67.0,78.126,20.43,36.803,20.893,MEDIUM,67.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,67.0,78.219,20.633,36.902,20.684,HARD,67.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,67.0,78.467,20.673000000000002,37.024,20.77,HARD,53.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,67.0,78.636,20.703,36.929,21.004,SOFT,19.0,4.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,69.0,76.373,20.074,35.848,20.451,HARD,68.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,67.0,80.357,21.547,37.546,21.264,HARD,66.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,69.0,77.371,19.897,36.658,20.816,HARD,69.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,67.0,80.347,20.519,37.497,22.331,MEDIUM,10.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,69.0,76.218,19.774,35.973,20.471,HARD,68.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,69.0,76.314,19.811,36.121,20.382,HARD,69.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,69.0,75.869,19.91,35.697,20.262,MEDIUM,68.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,69.0,75.463,19.676,35.698,20.089,HARD,18.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,69.0,75.648,19.914,35.491,20.243,HARD,19.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,68.0,78.209,20.457,36.685,21.067,HARD,68.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,68.0,78.385,20.686,36.629,21.07,HARD,67.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,68.0,78.545,20.684,36.715,21.146,MEDIUM,67.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,68.0,77.939,20.313,36.659,20.967,MEDIUM,68.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,68.0,78.116,20.473,36.811,20.832,HARD,68.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,68.0,78.052,20.418,36.904,20.73,HARD,54.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,68.0,78.057,20.359,36.667,21.031,SOFT,20.0,4.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,70.0,75.767,19.928,35.516,20.323,HARD,69.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,70.0,77.27,20.237,36.385,20.648,HARD,70.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,70.0,77.117,20.617,36.116,20.384,HARD,69.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,70.0,77.213,20.769,36.312,20.132,HARD,70.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,68.0,80.004,22.775,36.827,20.402,MEDIUM,11.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,68.0,85.217,23.989,39.102,22.126,HARD,67.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,70.0,75.251,19.673000000000002,35.416,20.162,MEDIUM,69.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,70.0,75.449,19.665,35.669,20.115,HARD,19.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,70.0,75.638,19.925,35.469,20.244,HARD,20.0,3.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,69.0,80.032,21.076,37.805,21.151,HARD,69.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,69.0,79.921,21.155,37.55,21.216,HARD,68.0,2.0,0,21.8,41.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,69.0,78.363,20.583,36.63,21.15,MEDIUM,68.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,69.0,78.713,20.291,36.863,21.559,MEDIUM,69.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,69.0,78.386,20.405,36.982,20.999,HARD,69.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,69.0,78.088,20.388,36.787,20.913,HARD,55.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,69.0,78.275,20.38,36.796,21.099,SOFT,21.0,4.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,71.0,75.162,19.719,35.501,19.942,HARD,70.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,71.0,77.184,20.201,36.419,20.564,HARD,71.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,71.0,77.214,20.273,36.514,20.427,HARD,70.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,71.0,76.609,19.882,36.249,20.478,HARD,71.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,69.0,76.077,19.786,35.869,20.422,MEDIUM,12.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,69.0,80.484,21.261,37.817,21.406,HARD,68.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,71.0,75.827,19.69,35.736,20.401,MEDIUM,70.0,2.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,71.0,75.659,19.597,35.787,20.275,HARD,20.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,71.0,75.643,19.857,35.584,20.202,HARD,21.0,3.0,0,21.7,41.1,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,70.0,79.347,20.939,37.082,21.326,HARD,70.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,70.0,79.37,21.093,37.058,21.219,HARD,69.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,70.0,77.799,20.552,36.322,20.925,MEDIUM,69.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,70.0,78.473,20.526,37.059,20.888,MEDIUM,70.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,70.0,78.706,20.715,36.965,21.026,HARD,70.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,70.0,78.778,20.81,37.145,20.823,HARD,56.0,3.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,70.0,78.557,20.529,37.064,20.964,SOFT,22.0,4.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,72.0,75.547,19.716,35.511,20.32,HARD,71.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,72.0,76.652,19.997,36.187,20.468,HARD,72.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,72.0,76.785,20.165,36.227,20.393,HARD,71.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,72.0,76.801,20.136,36.204,20.461,HARD,72.0,2.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,70.0,76.866,20.177,36.262,20.427,MEDIUM,13.0,3.0,0,21.6,41.0,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,72.0,75.839,19.735,35.841,20.263,MEDIUM,71.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,72.0,75.733,19.687,35.888,20.158,HARD,21.0,3.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,72.0,75.468,19.801,35.562,20.105,HARD,22.0,3.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,70.0,100.898,21.033,40.932,38.933,HARD,69.0,2.0,1,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,71.0,78.258,21.008,36.627,20.623,HARD,71.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,71.0,78.957,21.071,37.128,20.758,HARD,70.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,71.0,78.14,20.691,36.423,21.026,MEDIUM,70.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,71.0,78.133,20.279,36.942,20.912,MEDIUM,71.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,71.0,78.108,20.438,36.822,20.848,HARD,71.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,71.0,78.104,20.559,36.926,20.619,HARD,57.0,3.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,71.0,78.464,20.412,36.958,21.094,SOFT,23.0,4.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,73.0,76.219,19.958,35.883,20.378,HARD,72.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,73.0,76.281,19.884,36.018,20.379,HARD,73.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,73.0,76.417,19.958,36.034,20.425,HARD,72.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,73.0,76.285,19.895,35.987,20.403,HARD,73.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,71.0,76.326,19.937,35.991,20.398,MEDIUM,14.0,3.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,73.0,75.228,19.584,35.408,20.236,MEDIUM,72.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,73.0,75.436,19.704,35.7,20.032,HARD,22.0,3.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,73.0,75.134,19.609,35.432,20.093,HARD,23.0,3.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,72.0,77.079,20.332,36.338,20.409,HARD,72.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,72.0,78.165,20.554,36.906,20.705,HARD,71.0,2.0,0,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,71.0,85.295,23.767,39.983,21.545,SOFT,1.0,3.0,1,21.6,40.5,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,72.0,78.382,20.616,36.713,21.053,MEDIUM,71.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,72.0,78.081,20.306,36.945,20.83,MEDIUM,72.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,72.0,78.068,20.507,36.906,20.655,HARD,72.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,72.0,78.347,20.615,36.905,20.826999999999998,HARD,58.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,72.0,78.332,20.367,37.025,20.94,SOFT,24.0,4.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,74.0,76.105,19.924,35.853,20.328,HARD,73.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,74.0,76.356,19.798000000000002,36.132,20.426,HARD,74.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,74.0,76.063,19.809,35.971,20.283,HARD,73.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,74.0,76.429,19.859,36.285,20.285,HARD,74.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,72.0,76.402,19.872,36.122,20.408,MEDIUM,15.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,74.0,75.376,19.7,35.512,20.164,MEDIUM,73.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,74.0,75.38,19.602,35.636,20.142,HARD,23.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,74.0,75.324,19.761,35.473,20.09,HARD,24.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,73.0,75.955,19.812,35.754,20.389,HARD,73.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,73.0,78.432,20.689,36.976,20.767,HARD,72.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,72.0,80.585,20.37,36.805,23.41,SOFT,2.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,73.0,77.992,20.63,36.392,20.97,MEDIUM,72.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,73.0,78.504,20.282,37.265,20.957,MEDIUM,73.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,73.0,78.512,20.501,36.922,21.089,HARD,73.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,75.0,76.387,19.84,36.038,20.509,HARD,74.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,73.0,80.068,20.643,38.66,20.765,HARD,59.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,73.0,80.709,20.332,39.233,21.144,SOFT,25.0,4.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,75.0,76.644,19.912,36.316,20.416,HARD,75.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,75.0,76.905,20.098,36.302,20.505,HARD,74.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,75.0,76.517,19.886,36.194,20.437,HARD,75.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,73.0,76.37,19.871,36.033,20.466,MEDIUM,16.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,75.0,75.525,19.694,35.518,20.313,MEDIUM,74.0,2.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,75.0,75.396,19.556,35.638,20.202,HARD,24.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,75.0,75.324,19.645,35.508,20.171,HARD,25.0,3.0,0,21.7,40.8,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,74.0,75.462,19.778,35.445,20.239,HARD,74.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,74.0,78.014,20.638,36.686,20.69,HARD,73.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,73.0,75.233,19.94,35.135,20.158,SOFT,3.0,3.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,74.0,76.689,20.111,35.963,20.615,MEDIUM,73.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,76.0,76.808,20.175,36.346,20.287,HARD,75.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,74.0,80.336,20.465,38.628,21.243,MEDIUM,74.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,74.0,80.358,21.82,37.37,21.168,HARD,74.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,74.0,78.318,20.309,36.981,21.028,HARD,60.0,3.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,74.0,78.23,20.371,36.747,21.112,SOFT,26.0,4.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,76.0,76.59,19.798000000000002,36.224,20.568,HARD,76.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,76.0,76.328,19.844,36.063,20.421,HARD,75.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,76.0,76.671,19.986,36.421,20.264,HARD,76.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,74.0,76.863,20.047,36.521,20.295,MEDIUM,17.0,3.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,76.0,75.753,19.783,35.639,20.331,MEDIUM,75.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,76.0,75.641,19.673000000000002,35.759,20.209,HARD,25.0,3.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,76.0,75.245,19.676,35.493,20.076,HARD,26.0,3.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,75.0,74.992,19.571,35.257,20.164,HARD,75.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,75.0,77.85,20.713,36.423,20.714,HARD,74.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,74.0,80.473,21.051,37.048,22.374,SOFT,4.0,3.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,75.0,78.12,20.546,36.425,21.149,MEDIUM,74.0,2.0,0,21.7,40.6,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,77.0,76.933,20.067,36.196,20.67,HARD,76.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,75.0,78.663,20.459,37.336,20.868,MEDIUM,75.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,75.0,78.645,20.617,37.121,20.907,HARD,75.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,75.0,78.779,20.906,37.135,20.738,HARD,61.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,75.0,78.511,20.386,37.011,21.114,SOFT,27.0,4.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,77.0,76.734,19.982,36.267,20.485,HARD,77.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,77.0,76.701,20.059,36.361,20.281,HARD,76.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,77.0,76.512,19.842,36.153,20.517,HARD,77.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,75.0,76.324,19.872,35.946,20.506,MEDIUM,18.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,77.0,75.532,19.62,35.607,20.305,MEDIUM,76.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,77.0,75.543,19.644,35.818,20.081,HARD,26.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,77.0,75.697,19.854,35.59,20.253,HARD,27.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,76.0,75.205,19.626,35.387,20.192,HARD,76.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,76.0,77.279,20.521,36.214,20.544,HARD,75.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,75.0,74.718,19.751,34.99,19.977,SOFT,5.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,76.0,77.516,20.297,36.111,21.108,MEDIUM,75.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,LEC,Ferrari,78.0,78.636,20.278,36.319,22.039,HARD,77.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,ALO,Aston Martin,76.0,79.053,20.583,37.332,21.138,MEDIUM,76.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,RIC,RB,76.0,78.93,20.56,37.196,21.174,HARD,76.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,BOT,Kick Sauber,76.0,78.774,20.593,37.242,20.939,HARD,62.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,STR,Aston Martin,76.0,78.623,20.405,37.002,21.216,SOFT,28.0,4.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,PIA,McLaren,78.0,77.126,19.954,36.457,20.715,HARD,78.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,SAI,Ferrari,78.0,77.072,20.086,36.43,20.556,HARD,77.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,NOR,McLaren,78.0,77.296,20.08,36.74,20.476,HARD,78.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,SAR,Williams,76.0,77.197,20.107,36.716,20.374,MEDIUM,19.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,RUS,Mercedes,78.0,76.303,19.846,35.851,20.606,MEDIUM,77.0,2.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,VER,Red Bull Racing,78.0,76.248,19.697,36.263,20.288,HARD,27.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,HAM,Mercedes,78.0,76.355,19.818,35.947,20.59,HARD,28.0,3.0,0,21.8,40.9,False,0,0,0,0
+Monaco Grand Prix,TSU,RB,77.0,74.72,19.503,35.233,19.984,HARD,77.0,2.0,0,21.8,40.2,False,0,0,0,0
+Monaco Grand Prix,ALB,Williams,77.0,77.06,20.364,36.196,20.5,HARD,76.0,2.0,0,21.8,40.2,False,0,0,0,0
+Monaco Grand Prix,ZHO,Kick Sauber,76.0,77.173,20.46,35.927,20.786,SOFT,6.0,3.0,0,21.8,40.2,False,0,0,0,0
+Monaco Grand Prix,GAS,Alpine,77.0,75.625,19.978,35.327,20.32,MEDIUM,76.0,2.0,0,21.8,40.2,False,0,0,0,0

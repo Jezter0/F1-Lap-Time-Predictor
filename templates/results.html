@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+
+{% block title %}Prediction Results{% endblock %}
+
+{% block head %}
+<script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+{% endblock %}
+
+{% block content %}
+
+<h1 class="text-center mb-4 fw-bold">🏁 Prediction Results</h1>
+
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="meta-box">
+            <h4>Race Info</h4>
+            <p><strong>Race:</strong> {{ race_info["race"] }}</p>
+            <p><strong>Driver:</strong> {{ driver }}</p>
+            <p><strong>Team:</strong> {{ race_info["Team"] }}</p>
+            <p><strong>Year:</strong> 2025</p>
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        <div class="card p-3">
+            <div id="chart"></div>
+        </div>
+    </div>
+</div>
+
+<a href="/" class="btn btn-light">⬅ Back</a>
+
+{% endblock %}
+
+{% block scripts %}
+<!-- <script>
+    const graphData = JSON.parse(`{{ graphJSON | safe }}`);
+    Plotly.newPlot("chart", graphData.data, graphData.layout);
+</script> -->
+<script id="plotly-data" type="application/json">
+    {{ graphJSON | safe }}
+</script>
+
+<script>
+    const graphData = JSON.parse(
+        document.getElementById("plotly-data").textContent
+    );
+
+    Plotly.newPlot("chart", graphData.data, graphData.layout);
+</script>
+{% endblock %}

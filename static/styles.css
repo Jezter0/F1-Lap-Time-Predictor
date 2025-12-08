@@ -1,0 +1,100 @@
+/* ---- Global ---- */
+body {
+    background: #0d0d0d;
+    color: white;
+    font-family: "Inter", Arial, sans-serif;
+    padding-top: 70px;
+}
+
+h1, h4, label {
+    color: #f5f5f5;
+}
+
+/* ---- Navbar ---- */
+.navbar {
+    background: #111;
+    border-bottom: 1px solid #333;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+/* ---- Cards ---- */
+.card, .meta-box {
+    background: #1a1a1a !important;
+    border-radius: 16px;
+    border: 1px solid #333;
+    padding: 20px;
+    transition: 0.2s ease;
+}
+
+.card:hover, .meta-box:hover {
+    transform: translateY(-2px);
+    border-color: #444;
+}
+
+/* ---- Meta box ---- */
+.meta-box {
+    padding: 18px;
+}
+
+/* ---- Buttons ---- */
+.btn-danger {
+    background-color: #d90429;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 14px;
+    font-weight: 600;
+    transition: 0.2s ease;
+}
+
+.btn-danger:hover {
+    background-color: #ef233c;
+    transform: scale(1.02);
+}
+
+/* ---- Selects ---- */
+select, input {
+    background: #111;
+    color: white;
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+select:focus, input:focus {
+    border-color: #d90429;
+    outline: none;
+    box-shadow: 0 0 6px rgba(217, 4, 41, 0.6);
+}
+
+/* ---- Driver Box ---- */
+.driver-card {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background: #141414;
+    border-radius: 14px;
+    padding: 16px;
+    border-left: 5px solid #d90429;
+}
+
+.driver-card img {
+    width: 100px;
+    border-radius: 10px;
+}
+
+/* ---- Footer ---- */
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    color: #888;
+}
+
+/* ---- Chart ---- */
+#chart {
+    min-height: 400px;
+}

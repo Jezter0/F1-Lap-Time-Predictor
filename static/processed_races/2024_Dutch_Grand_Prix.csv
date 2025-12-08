@@ -1,0 +1,1427 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Dutch Grand Prix,VER,Red Bull Racing,1.0,79.915,30.077000000000005,26.881,22.957,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,1.0,80.878,30.674000000000003,27.269,22.935,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,1.0,81.729,31.457,27.321,22.951,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,1.0,82.638,31.818000000000005,27.537,23.283,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,1.0,83.322,32.009,28.03,23.283,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,1.0,83.931,32.26,28.326,23.345,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,1.0,84.654,32.653999999999996,28.337,23.663,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,1.0,84.726,32.935,28.36,23.431,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,1.0,85.474,33.363,28.354,23.757,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,1.0,85.703,33.136,28.966,23.601,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,1.0,86.432,33.510000000000005,28.857,24.065,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,1.0,86.878,33.68899999999999,28.736,24.453,SOFT,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,1.0,87.28,33.918000000000006,29.032,24.33,SOFT,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,1.0,87.361,34.14200000000001,28.903,24.316,SOFT,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,1.0,87.95,34.447,29.124,24.379,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,1.0,88.161,34.62400000000001,29.243,24.294,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,1.0,88.535,34.85499999999999,29.206,24.474,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,1.0,89.09,35.23700000000001,29.327,24.526,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,1.0,89.615,35.479,29.713,24.423,MEDIUM,1.0,1.0,0,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,1.0,90.772,40.084,27.238,23.45,HARD,1.0,1.0,1,18.7,28.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,2.0,76.106,26.012,27.179,22.915,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,2.0,76.134,26.061,27.155,22.918,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,2.0,76.389,26.349,27.159,22.881,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,2.0,76.24,26.087,27.427,22.726,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,2.0,76.695,26.633,27.274,22.788,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,2.0,76.479,26.523,27.259,22.697,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,2.0,76.896,26.403,27.576999999999998,22.916,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,2.0,77.392,26.87,27.629,22.893,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,2.0,77.277,26.775,27.618,22.884,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,2.0,77.513,26.897,27.777,22.839,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,2.0,77.461,26.645,27.826,22.99,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,2.0,77.761,26.674,27.686,23.401,SOFT,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,2.0,78.781,26.864,27.818,24.099,SOFT,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,2.0,78.403,27.078,27.906,23.419,SOFT,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,2.0,79.111,26.924,28.095,24.092,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,2.0,79.229,27.212,27.713,24.304,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,2.0,79.114,26.973,28.328,23.813,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,2.0,79.031,27.032,28.073,23.926,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,2.0,77.487,26.639,27.562,23.286,HARD,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,2.0,79.338,27.216,28.797,23.325,MEDIUM,2.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,3.0,76.131,25.699,27.456,22.976,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,3.0,76.496,25.995,27.72,22.781,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,3.0,76.532,26.294,27.511,22.727,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,3.0,76.264,25.953,27.591,22.72,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,3.0,76.475,26.151,27.508,22.816,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,3.0,76.421,26.396,27.269,22.756,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,3.0,76.914,26.369,27.465,23.08,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,3.0,76.865,26.364,27.558,22.943,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,3.0,76.875,26.665,27.483,22.727,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,3.0,77.178,26.628,27.682,22.868,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,3.0,77.247,26.512,27.857,22.878,MEDIUM,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,3.0,76.489,26.188,27.642,22.659,SOFT,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,3.0,77.209,26.687,27.581,22.941,SOFT,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,3.0,78.388,27.3,27.77,23.318,SOFT,3.0,1.0,0,18.6,28.5,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,3.0,77.667,26.822,27.802,23.043,MEDIUM,3.0,1.0,0,18.6,29.7,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,3.0,77.768,26.889,27.759,23.12,MEDIUM,3.0,1.0,0,18.6,29.7,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,3.0,78.072,26.76,28.196,23.116,MEDIUM,3.0,1.0,0,18.6,29.7,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,3.0,78.339,27.073,28.044,23.222,MEDIUM,3.0,1.0,0,18.6,29.7,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,3.0,78.203,27.011,28.103,23.089,MEDIUM,3.0,1.0,0,18.6,29.7,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,3.0,83.466,33.209,27.256,23.001,HARD,3.0,1.0,0,18.6,29.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,4.0,76.432,26.079,27.478,22.875,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,4.0,76.304,25.836,27.683,22.785,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,4.0,76.633,26.248,27.674,22.711,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,4.0,76.678,26.116,27.902,22.66,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,4.0,76.131,25.829,27.541,22.761,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,4.0,76.566,26.242,27.612,22.712,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,4.0,76.934,26.265,27.608,23.061,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,4.0,76.661,26.199,27.738,22.724,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,4.0,76.823,26.432,27.624,22.767,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,4.0,76.778,26.242,27.794,22.742,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,4.0,77.04,26.247,27.961,22.832,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,4.0,76.974,26.345,27.627,23.002,SOFT,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,4.0,76.957,26.277,27.698,22.982,SOFT,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,4.0,77.218,26.517,27.791,22.91,SOFT,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,4.0,77.402,26.674,27.839,22.889,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,4.0,77.671,26.776,27.71,23.185,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,4.0,77.747,26.763,28.171,22.813,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,4.0,77.936,26.563,28.182,23.191,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,4.0,78.108,26.986,28.091,23.031,MEDIUM,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,4.0,76.363,26.245,27.217,22.901,HARD,4.0,1.0,0,18.9,30.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,5.0,76.181,25.817,27.501,22.863,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,5.0,76.271,25.816,27.72,22.735,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,5.0,76.562,26.115,27.651,22.796,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,5.0,76.76,26.236,27.871,22.653,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,5.0,76.806,26.325,27.78,22.701,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,5.0,76.747,26.162,27.893,22.692,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,5.0,76.735,26.227,27.472,23.036,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,5.0,77.135,26.409,27.825,22.901,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,5.0,76.962,26.212,27.821,22.929,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,5.0,76.936,26.132,28.016,22.788,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,5.0,76.757,26.187,27.893,22.677,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,5.0,76.854,26.169,27.943,22.742,SOFT,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,5.0,76.551,26.142,27.532,22.877,SOFT,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,5.0,77.343,26.484,27.901,22.958,SOFT,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,5.0,77.115,26.504,27.685,22.926,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,5.0,77.327,26.468,27.898,22.961,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,5.0,77.438,26.573,28.109,22.756,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,5.0,77.487,26.458,28.069,22.96,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,5.0,78.166,26.612,28.27,23.284,MEDIUM,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,5.0,76.869,26.353,27.549,22.967,HARD,5.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,6.0,76.155,25.837,27.512,22.806,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,6.0,76.225,25.711,27.752,22.762,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,6.0,76.448,26.019,27.651,22.778,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,6.0,76.528,25.932,27.885,22.711,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,6.0,76.565,26.096,27.71,22.759,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,6.0,76.386,26.122,27.789,22.475,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,6.0,76.551,26.171,27.425,22.955,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,6.0,76.7,26.13,27.613,22.957,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,6.0,76.576,26.274,27.665,22.637,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,6.0,76.887,26.159,27.895,22.833,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,6.0,76.731,26.188,27.834,22.709,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,6.0,76.594,26.218,27.543,22.833,SOFT,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,6.0,77.22,26.365,27.807,23.048,SOFT,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,6.0,76.882,26.402,27.581,22.899,SOFT,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,6.0,77.076,26.492,27.589,22.995,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,6.0,77.467,26.276,27.91,23.281,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,6.0,76.959,26.293,27.974,22.692,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,6.0,77.66,26.312,28.166,23.182,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,6.0,77.981,26.662,28.059,23.26,MEDIUM,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,6.0,76.918,26.184,27.799,22.935,HARD,6.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,7.0,76.281,25.799,27.605,22.877,MEDIUM,7.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,7.0,76.395,25.871,27.748,22.776,MEDIUM,7.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,7.0,76.596,26.082,27.748,22.766,MEDIUM,7.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,7.0,76.954,25.886,28.081,22.987,MEDIUM,7.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,7.0,76.637,26.061,27.786,22.79,MEDIUM,7.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,7.0,76.862,26.343,27.925,22.594,MEDIUM,7.0,1.0,0,19.0,30.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,7.0,76.913,26.143,27.627,23.143,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,7.0,77.167,26.23,27.929,23.008,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,7.0,76.848,26.475,27.828,22.545,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,7.0,77.353,26.153,28.109,23.091,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,7.0,77.039,26.288,27.915,22.836,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,7.0,77.063,26.378,27.743,22.942,SOFT,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,7.0,77.267,26.259,27.892,23.116,SOFT,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,7.0,77.439,26.401,28.107,22.931,SOFT,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,7.0,77.447,26.508,27.839,23.1,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,7.0,77.104,26.354,27.742,23.008,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,7.0,77.558,26.781,27.882,22.895,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,7.0,77.898,26.522,27.977,23.399,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,7.0,78.332,26.813,28.141,23.378,MEDIUM,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,7.0,78.058,26.584,28.261,23.213,HARD,7.0,1.0,0,19.3,30.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,8.0,76.347,25.73,27.846,22.771,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,8.0,76.169,25.599,27.831,22.739,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,8.0,76.62,25.886,27.915,22.819,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,8.0,76.659,25.877,27.944,22.838,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,8.0,76.541,26.181,27.733,22.627,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,8.0,77.107,26.131,27.987,22.989,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,8.0,77.081,26.126,27.883,23.072,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,8.0,76.204,25.939,27.625,22.64,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,8.0,77.995,26.912,28.043,23.04,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,8.0,76.923,26.206,27.862,22.855,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,8.0,77.416,26.438,28.075,22.903,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,8.0,77.471,26.464,27.998,23.009,SOFT,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,8.0,77.081,26.228,27.802,23.051,SOFT,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,8.0,77.204,26.236,27.91,23.058,SOFT,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,8.0,77.37,26.5,27.79,23.08,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,8.0,77.699,26.391,28.006,23.302,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,8.0,77.266,26.338,28.07,22.858,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,8.0,77.589,26.563,28.015,23.011,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,8.0,77.147,26.359,27.774,23.014,HARD,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,8.0,78.564,27.362,27.882,23.32,MEDIUM,8.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,9.0,76.252,25.689,27.595,22.968,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,9.0,76.477,25.735,27.79,22.951999999999998,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,9.0,76.62,25.897,27.905,22.818,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,9.0,76.817,25.903,28.098,22.816,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,9.0,76.73,26.193,27.868,22.669,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,9.0,76.898,26.045,27.898,22.955,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,9.0,76.909,26.218,27.804,22.887,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,9.0,76.836,26.313,27.929,22.594,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,9.0,77.448,26.211,28.111,23.126,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,9.0,77.454,26.363,28.071,23.02,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,9.0,77.373,26.3,28.204,22.869,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,9.0,77.148,26.306,28.06,22.782,SOFT,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,9.0,77.527,26.308,28.077,23.142,SOFT,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,9.0,77.746,26.504,28.139,23.103,SOFT,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,9.0,77.494,26.462,28.014,23.018,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,9.0,77.284,26.246,27.828,23.21,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,9.0,77.898,26.547,28.325,23.026,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,9.0,77.929,26.516,28.201,23.212,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,9.0,77.494,26.213,28.08,23.201,HARD,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,9.0,78.029,26.616,28.182,23.231,MEDIUM,9.0,1.0,0,19.3,31.2,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,10.0,76.455,25.816,27.76,22.879,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,10.0,76.292,25.695,27.846,22.751,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,10.0,76.725,26.012,27.934,22.779,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,10.0,76.512,25.85,27.774,22.888,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,10.0,76.614,26.343,27.755,22.516,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,10.0,76.708,26.098,27.761,22.849,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,10.0,76.965,26.084,27.915,22.966,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,10.0,76.836,26.297,27.92,22.619,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,10.0,77.528,26.24,28.165,23.123,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,10.0,77.334,26.335,28.045,22.954,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,10.0,76.906,25.974,28.004,22.928,SOFT,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,10.0,77.994,26.713,28.402,22.879,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,10.0,77.372,26.282,28.019,23.071,SOFT,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,10.0,77.577,26.405,28.116,23.056,SOFT,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,10.0,77.645,26.533,28.001,23.111,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,10.0,77.752,26.422,28.102,23.228,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,10.0,77.291,26.218,28.182,22.891,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,10.0,77.843,26.441,28.191,23.211,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,10.0,77.554,26.238,28.217,23.099,HARD,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,10.0,78.154,26.794,28.117,23.243,MEDIUM,10.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,11.0,76.36,25.781,27.715,22.864,MEDIUM,11.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,11.0,76.303,25.733,27.862,22.708,MEDIUM,11.0,1.0,0,19.3,31.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,11.0,76.366,25.97,27.711,22.685,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,11.0,76.52,25.809,27.817,22.894,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,11.0,76.513,26.145,27.771,22.597,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,11.0,76.403,26.038,27.531,22.834,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,11.0,77.855,26.925,27.959,22.971,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,11.0,79.464,27.732,28.339,23.393,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,11.0,77.672,26.303,28.207,23.162,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,11.0,77.737,26.422,28.358,22.957,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,11.0,77.617,26.294,28.466,22.857,SOFT,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,11.0,77.714,26.501,28.305,22.908,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,11.0,77.321,26.282,27.915,23.124,SOFT,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,11.0,77.539,26.368,28.183,22.988,SOFT,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,11.0,77.608,26.527,27.98,23.101,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,11.0,77.384,26.338,27.889,23.157,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,11.0,77.427,26.358,28.14,22.929,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,11.0,77.424,26.289,28.076,23.059,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,11.0,77.316,26.107,28.055,23.154,HARD,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,11.0,77.854,26.663,28.088,23.103,MEDIUM,11.0,1.0,0,19.2,31.4,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,12.0,76.538,25.852,27.803,22.883,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,12.0,76.2,25.704,27.781,22.715,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,12.0,76.383,25.742,27.893,22.748,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,12.0,76.463,25.823,27.926,22.714,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,12.0,76.512,25.981,27.868,22.663,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,12.0,76.387,25.859,27.777,22.751,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,12.0,76.58,26.027,27.792,22.761,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,12.0,77.375,26.242,27.971,23.162,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,12.0,77.509,26.286,28.093,23.13,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,12.0,77.677,26.536,28.163,22.978,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,12.0,77.85,26.642,28.256,22.951999999999998,SOFT,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,12.0,77.627,26.218,28.445,22.964,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,12.0,77.627,26.503,28.215,22.909,SOFT,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,12.0,77.841,26.415,28.201,23.225,SOFT,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,12.0,77.614,26.426,28.2,22.988,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,12.0,77.678,26.329,28.161,23.188,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,12.0,77.6,26.389,28.146,23.065,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,12.0,80.841,26.409,28.337,26.095,MEDIUM,12.0,1.0,1,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,12.0,77.659,26.335,28.059,23.265,HARD,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,12.0,78.114,26.648,28.085,23.381,MEDIUM,12.0,1.0,0,19.1,31.4,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,13.0,76.338,25.894,27.548000000000002,22.896,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,13.0,76.242,25.881,27.675,22.686,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,13.0,76.646,25.907,27.844,22.895,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,13.0,76.514,25.793,27.938,22.783,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,13.0,76.631,26.149,27.795,22.687,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,13.0,76.599,25.998,27.77,22.831,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,13.0,76.524,26.04,27.619,22.865,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,13.0,76.961,26.19,27.8,22.971,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,13.0,77.112,25.99,27.973,23.149,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,13.0,77.837,26.364,28.129,23.344,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,13.0,77.382,26.207,28.284,22.891,SOFT,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,13.0,77.704,26.358,28.387,22.959,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,13.0,77.809,26.541,28.133,23.135,SOFT,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,13.0,78.003,26.57,28.335,23.098,SOFT,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,13.0,78.112,26.759,28.231,23.122,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,13.0,77.926,26.522,28.189,23.215,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,13.0,77.448,26.245,28.132,23.071,MEDIUM,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,13.0,76.902,26.273,27.811,22.818,HARD,13.0,1.0,0,19.1,31.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,13.0,77.83,26.499,28.073,23.258,MEDIUM,13.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,13.0,95.384,45.491,26.912,22.981,HARD,1.0,2.0,1,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,14.0,76.466,25.876,27.701,22.889,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,14.0,76.47,25.717,27.99,22.763,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,14.0,76.312,25.881,27.643,22.788,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,14.0,76.471,25.686,27.951,22.834,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,14.0,76.358,25.954,27.776,22.628,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,14.0,76.708,25.912,27.826999999999998,22.969,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,14.0,76.651,25.987,27.818,22.846,MEDIUM,14.0,1.0,0,19.1,30.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,14.0,76.929,26.008,27.84,23.081,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,14.0,77.27,25.942,28.124,23.204,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,14.0,76.619,25.901,27.805,22.913,SOFT,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,14.0,78.37,26.855,28.172,23.343,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,14.0,81.339,26.288,28.509,26.542,MEDIUM,14.0,1.0,1,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,14.0,81.182,26.306,28.286,26.59,SOFT,14.0,1.0,1,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,14.0,78.092,26.48,28.336,23.276,SOFT,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,14.0,77.699,26.509,28.059,23.131,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,14.0,77.735,26.39,28.136,23.209,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,14.0,77.542,26.26,28.141,23.141,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,14.0,77.22,26.23,28.015,22.975,HARD,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,14.0,78.456,26.64,28.222,23.594,MEDIUM,14.0,1.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,14.0,76.267,26.058,27.268,22.941,HARD,2.0,2.0,0,19.1,30.2,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,15.0,76.222,25.738,27.593,22.891,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,15.0,76.227,25.761,27.727,22.739,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,15.0,76.336,25.865,27.679,22.792,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,15.0,76.382,25.66,27.821,22.901,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,15.0,76.37,25.913,27.797,22.66,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,15.0,76.581,25.86,27.814,22.907,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,15.0,76.347,25.816,27.815,22.716,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,15.0,77.12,26.029,27.973,23.118,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,15.0,77.287,26.027,28.085,23.175,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,15.0,76.686,25.905,27.962,22.819,SOFT,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,15.0,77.533,26.284,28.049,23.2,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,15.0,77.444,26.458,27.849,23.137,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,15.0,78.856,26.762,28.764,23.33,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,15.0,77.534,26.279,28.153,23.102,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,15.0,77.559,26.279,28.228,23.052,HARD,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,15.0,82.849,27.54,28.585,26.724,SOFT,15.0,1.0,1,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,15.0,77.953,26.58,28.093,23.28,MEDIUM,15.0,1.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,15.0,95.205,45.187,27.209,22.809,HARD,1.0,2.0,1,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,15.0,95.861,45.696,27.299,22.866,MEDIUM,1.0,2.0,1,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,15.0,75.52,25.764,27.197,22.559,HARD,3.0,2.0,0,19.0,30.2,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,16.0,76.235,25.737,27.62,22.878,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,16.0,75.689,25.6,27.593,22.496,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,16.0,76.257,25.871,27.638,22.748,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,16.0,76.384,25.693,27.785,22.906,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,16.0,76.491,26.0,27.888,22.603,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,16.0,76.572,25.879,27.89,22.803,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,16.0,76.476,25.924,27.847,22.705,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,16.0,76.975,25.97,27.901,23.104,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,16.0,76.692,25.814,27.79,23.088,SOFT,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,16.0,78.446,26.984,28.29,23.172,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,16.0,77.847,26.339,28.131,23.377,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,16.0,77.17,26.262,27.746,23.162,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,16.0,77.666,26.153,28.072,23.441,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,16.0,77.84,26.186,28.326,23.328,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,16.0,77.588,26.204,28.226,23.158,HARD,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,16.0,78.234,26.667,28.117,23.45,MEDIUM,16.0,1.0,0,19.0,30.4,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,16.0,75.932,25.964,27.244,22.724,HARD,2.0,2.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,16.0,75.552,25.788,26.992,22.772,MEDIUM,2.0,2.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,16.0,76.007,25.733,27.38,22.894,HARD,4.0,2.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,16.0,95.848,45.636,27.183,23.029,HARD,1.0,2.0,1,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,17.0,76.304,25.897,27.494,22.913,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,17.0,76.085,26.095,27.634,22.356,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,17.0,76.265,25.761,27.703,22.801,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,17.0,76.348,25.763,27.838,22.747,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,17.0,76.369,25.941,27.846,22.582,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,17.0,76.467,25.806,27.838,22.823,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,17.0,76.38,25.9,27.741,22.739,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,17.0,77.261,26.066,28.072,23.123,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,17.0,76.851,25.937,27.985,22.929,SOFT,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,17.0,77.508,26.01,28.239,23.259,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,17.0,77.47,26.223,28.059,23.188,MEDIUM,17.0,1.0,0,19.0,30.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,17.0,77.489,26.363,28.027,23.099,MEDIUM,17.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,17.0,77.836,26.37,28.2,23.266,MEDIUM,17.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,17.0,77.967,26.447,28.231,23.289,HARD,17.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,17.0,79.184,27.437,28.458,23.289,MEDIUM,17.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,17.0,78.194,26.541,28.29,23.363,MEDIUM,17.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,17.0,76.203,25.843,27.607,22.753,HARD,3.0,2.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,17.0,75.73,25.858,27.258,22.614,MEDIUM,3.0,2.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,17.0,76.622,26.017,27.614,22.991,HARD,5.0,2.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,17.0,76.073,25.921,27.252,22.9,HARD,2.0,2.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,18.0,76.066,25.695,27.64,22.731,MEDIUM,18.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,18.0,76.901,26.447,27.844,22.61,MEDIUM,18.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,18.0,76.582,25.892,27.885,22.805,MEDIUM,18.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,18.0,76.493,25.722,27.817,22.954,MEDIUM,18.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,18.0,76.417,25.993,27.765,22.659,MEDIUM,18.0,1.0,0,19.0,30.7,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,18.0,76.731,25.745,28.08,22.906,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,18.0,76.174,25.757,27.696,22.721,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,18.0,77.076,26.04,27.884,23.152,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,18.0,76.621,25.691,27.996,22.934,SOFT,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,18.0,77.478,26.118,28.201,23.159,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,18.0,77.28,26.155,27.989,23.136,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,18.0,77.301,26.274,27.955,23.072,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,18.0,77.648,26.248,28.176,23.224,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,18.0,77.549,26.246,28.129,23.174,HARD,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,18.0,78.011,26.48,28.451,23.08,MEDIUM,18.0,1.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,18.0,76.066,25.801,27.435,22.83,HARD,4.0,2.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,18.0,76.262,25.987,27.413,22.862,MEDIUM,4.0,2.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,18.0,76.601,26.044,27.7,22.857,HARD,6.0,2.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,18.0,81.758,26.52,28.275,26.963,MEDIUM,18.0,1.0,1,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,18.0,76.399,26.117,27.411,22.871,HARD,3.0,2.0,0,19.0,31.2,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,19.0,75.899,25.522,27.699,22.678,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,19.0,75.946,25.594,27.764,22.588,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,19.0,76.572,25.709,28.011,22.852,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,19.0,76.515,25.546,28.063,22.906,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,19.0,76.518,25.847,28.018,22.653,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,19.0,76.623,25.728,28.062,22.833,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,19.0,76.647,25.848,27.96,22.839,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,19.0,77.034,25.991,27.985,23.058,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,19.0,76.743,25.727,28.125,22.891,SOFT,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,19.0,77.336,25.999,28.272,23.065,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,19.0,77.608,26.314,28.112,23.182,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,19.0,77.117,26.155,27.897,23.065,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,19.0,77.705,26.266,28.124,23.315,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,19.0,77.358,26.098,28.14,23.12,HARD,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,19.0,78.035,26.424,28.44,23.171,MEDIUM,19.0,1.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,19.0,75.867,25.639,27.51,22.718,HARD,5.0,2.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,19.0,76.291,25.906,27.483,22.902,MEDIUM,5.0,2.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,19.0,77.533,26.204,27.98,23.349,HARD,7.0,2.0,0,19.2,31.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,19.0,76.582,26.088,27.606,22.888,HARD,4.0,2.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,19.0,97.604,46.888,27.421,23.295,HARD,1.0,2.0,1,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,20.0,76.043,25.647,27.795,22.601,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,20.0,76.625,25.865,27.89,22.87,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,20.0,76.631,25.9,27.822,22.909,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,20.0,76.331,25.661,27.859,22.811,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,20.0,76.391,25.974,27.877,22.54,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,20.0,76.529,25.865,27.853,22.811,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,20.0,76.645,25.968,27.912,22.765,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,20.0,77.135,25.973,28.099,23.063,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,20.0,76.686,25.826,28.156,22.704,SOFT,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,20.0,76.815,25.876,27.884,23.055,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,20.0,77.379,26.087,28.004,23.288,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,20.0,77.318,26.204,27.976,23.138,MEDIUM,20.0,1.0,0,19.2,31.5,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,20.0,77.518,26.232,28.024,23.262,MEDIUM,20.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,20.0,77.272,26.114,28.061,23.097,HARD,20.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,20.0,78.02,26.297,28.408,23.315,MEDIUM,20.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,20.0,75.953,25.749,27.426,22.778,HARD,6.0,2.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,20.0,76.336,25.985,27.485,22.866,MEDIUM,6.0,2.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,20.0,78.639,27.336,28.229,23.074,HARD,8.0,2.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,20.0,76.898,26.103,27.689,23.106,HARD,5.0,2.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,20.0,76.808,26.334,27.425,23.049,HARD,2.0,2.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,21.0,75.729,25.557,27.582,22.59,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,21.0,76.416,25.767,27.772,22.877,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,21.0,76.641,25.737,28.042,22.862,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,21.0,76.534,25.7,28.026,22.808,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,21.0,76.283,25.855,27.901,22.527,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,21.0,76.529,25.851,27.854,22.824,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,21.0,76.283,25.841,27.745,22.697,MEDIUM,21.0,1.0,0,19.1,31.7,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,21.0,77.265,25.941,28.099,23.225,MEDIUM,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,21.0,77.126,26.011,28.441,22.674,SOFT,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,21.0,76.963,25.956,27.899,23.108,MEDIUM,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,21.0,77.153,26.088,28.027,23.038,MEDIUM,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,21.0,77.619,26.23,28.01,23.379,MEDIUM,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,21.0,77.593,26.36,27.906,23.327,MEDIUM,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,21.0,76.648,26.072,27.752,22.824,HARD,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,21.0,77.713,26.276,28.392,23.045,MEDIUM,21.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,21.0,76.281,25.983,27.498,22.8,HARD,7.0,2.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,21.0,76.407,26.007,27.571,22.829,MEDIUM,7.0,2.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,21.0,76.401,25.887,27.568,22.946,HARD,9.0,2.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,21.0,76.847,26.121,27.612,23.114,HARD,6.0,2.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,21.0,76.715,26.218,27.52,22.977,HARD,3.0,2.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,22.0,75.796,25.536,27.55,22.71,MEDIUM,22.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,22.0,76.411,25.814,27.668,22.929,MEDIUM,22.0,1.0,0,19.3,31.6,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,22.0,76.733,25.761,28.06,22.912,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,22.0,76.847,25.831,28.111,22.905,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,22.0,76.75,26.109,28.077,22.564,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,22.0,76.684,25.887,27.904,22.893,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,22.0,76.56,25.933,27.882,22.745,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,22.0,77.24,26.063,28.183,22.994,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,22.0,77.871,26.232,28.616,23.023,SOFT,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,22.0,77.138,25.885,28.161,23.092,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,22.0,77.351,26.059,28.13,23.162,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,22.0,77.163,26.178,27.925,23.06,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,22.0,77.458,26.237,28.145,23.076,HARD,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,22.0,78.405,26.929,28.381,23.095,MEDIUM,22.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,22.0,77.053,26.252,27.826999999999998,22.974,HARD,8.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,22.0,77.323,26.099,27.888,23.336,MEDIUM,8.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,22.0,83.235,27.28,28.75,27.205,MEDIUM,22.0,1.0,1,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,22.0,76.184,25.808,27.528,22.848,HARD,10.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,22.0,76.694,26.181,27.601,22.912,HARD,7.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,22.0,76.726,26.278,27.387,23.061,HARD,4.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,23.0,75.784,25.513,27.66,22.611,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,23.0,76.586,25.974,27.791,22.821,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,23.0,76.755,25.846,28.038,22.871,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,23.0,76.723,25.859,28.122,22.742,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,23.0,76.728,26.049,28.254,22.425,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,23.0,77.003,25.961,28.107,22.935,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,23.0,76.667,26.019,27.781,22.867,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,23.0,77.09,25.961,28.031,23.098,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,23.0,80.674,26.232,28.28,26.162,SOFT,23.0,1.0,1,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,23.0,77.83,26.151,28.468,23.211,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,23.0,77.302,26.079,28.081,23.142,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,23.0,77.412,26.201,28.093,23.118,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,23.0,76.944,25.972,28.035,22.937,HARD,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,23.0,77.875,26.401,28.259,23.215,MEDIUM,23.0,1.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,23.0,76.658,26.045,27.835,22.778,HARD,9.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,23.0,76.889,26.171,27.813,22.905,MEDIUM,9.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,23.0,76.176,25.807,27.486,22.883,HARD,11.0,2.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,23.0,76.681,26.155,27.575,22.951,HARD,8.0,2.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,23.0,96.337,46.541,27.254,22.542,HARD,1.0,2.0,1,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,23.0,77.295,26.68,27.67,22.945,HARD,5.0,2.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,24.0,75.692,25.568,27.551,22.573,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,24.0,76.33,25.816,27.606,22.908,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,24.0,76.961,25.964,28.054,22.943,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,24.0,76.798,25.982,28.045,22.771,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,24.0,79.947,26.31,28.123,25.514,MEDIUM,24.0,1.0,1,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,24.0,77.07,25.931,28.053,23.086,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,24.0,76.734,25.92,27.987,22.826999999999998,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,24.0,76.916,26.031,27.88,23.005,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,24.0,77.006,25.911,27.977,23.118,MEDIUM,24.0,1.0,0,19.4,31.5,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,24.0,77.479,26.102,28.114,23.263,MEDIUM,24.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,24.0,77.229,26.093,28.035,23.101,MEDIUM,24.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,24.0,76.991,26.027,28.016,22.948,HARD,24.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,24.0,77.498,26.217,28.104,23.177,MEDIUM,24.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,24.0,76.652,25.984,27.872,22.796,HARD,10.0,2.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,24.0,76.774,26.171,27.581,23.022,MEDIUM,10.0,2.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,24.0,94.272,44.93,26.654,22.688,HARD,1.0,2.0,1,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,24.0,76.317,25.804,27.643,22.87,HARD,12.0,2.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,24.0,76.594,26.096,27.571,22.927,HARD,9.0,2.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,24.0,75.714,25.915,27.052,22.747,HARD,2.0,2.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,24.0,76.443,26.11,27.398,22.935,HARD,6.0,2.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,25.0,75.709,25.53,27.516,22.663,MEDIUM,25.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,25.0,76.652,25.914,27.781,22.957,MEDIUM,25.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,25.0,76.408,25.701999999999998,27.91,22.796,MEDIUM,25.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,25.0,79.178,25.758,27.734,25.686,MEDIUM,25.0,1.0,1,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,25.0,76.432,25.797,27.727,22.908,MEDIUM,25.0,1.0,0,19.4,31.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,25.0,76.49,25.899,27.789,22.802,MEDIUM,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,25.0,77.052,25.972,27.996,23.084,MEDIUM,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,25.0,93.239,44.46,26.104,22.675,HARD,1.0,2.0,1,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,25.0,77.156,25.845,28.004,23.307,MEDIUM,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,25.0,77.582,26.094,28.372,23.116,MEDIUM,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,25.0,77.248,26.072,27.996,23.18,MEDIUM,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,25.0,76.749,25.867,27.901,22.981,HARD,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,25.0,76.387,25.866,27.661,22.86,HARD,11.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,25.0,77.417,26.106,28.085,23.226,MEDIUM,25.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,25.0,75.725,25.83,27.249,22.646,HARD,2.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,25.0,77.878,26.649,28.091,23.138,MEDIUM,11.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,25.0,76.49,25.896,27.776,22.818,HARD,13.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,25.0,76.892,26.152,27.68,23.06,HARD,10.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,25.0,75.856,25.935,27.28,22.641,HARD,3.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,25.0,76.777,26.283,27.451,23.043,HARD,7.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,26.0,75.873,25.544,27.623,22.706,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,26.0,76.517,25.848,27.791,22.878,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,26.0,76.062,25.604,27.67,22.788,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,26.0,76.505,25.713,27.771,23.021,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,26.0,76.32,25.821,27.79,22.709,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,26.0,76.972,25.917,28.087,22.968,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,26.0,75.756,25.958,27.183,22.615,HARD,2.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,26.0,95.811,46.183,27.054,22.574,HARD,1.0,2.0,1,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,26.0,78.012,26.377,28.525,23.11,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,26.0,77.628,26.12,28.324,23.184,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,26.0,77.182,26.119,27.972,23.091,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,26.0,76.882,26.019,27.983,22.88,HARD,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,26.0,76.734,26.069,27.89,22.775,HARD,12.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,26.0,78.166,26.713,28.263,23.19,MEDIUM,26.0,1.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,26.0,76.433,25.791,27.713,22.929,HARD,3.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,26.0,76.816,26.116,27.623,23.077,MEDIUM,12.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,26.0,76.357,25.877,27.744,22.736,HARD,14.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,26.0,76.799,26.072,27.704,23.023,HARD,11.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,26.0,75.539,25.746,27.114,22.679,HARD,4.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,26.0,76.4,26.132,27.279,22.989,HARD,8.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,27.0,75.744,25.533,27.558,22.653,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,27.0,79.89,25.843,27.69,26.357,MEDIUM,27.0,1.0,1,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,27.0,75.937,25.586,27.711,22.64,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,27.0,76.361,25.742,27.808,22.811,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,27.0,76.594,25.945,27.895,22.754,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,27.0,76.757,25.964,27.861,22.932,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,27.0,75.023,25.657,26.989,22.377,HARD,3.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,27.0,74.532,25.487,26.631,22.414,HARD,2.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,27.0,77.174,25.889,28.263,23.022,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,27.0,77.414,26.146,28.179,23.089,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,27.0,77.109,26.116,27.994,22.999,MEDIUM,27.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,27.0,76.738,25.766,28.155,22.817,HARD,27.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,27.0,76.173,25.855,27.615,22.703,HARD,13.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,27.0,75.75,25.771,27.359,22.62,HARD,4.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,27.0,78.099,26.541,28.296,23.262,MEDIUM,27.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,27.0,77.173,26.117,27.856,23.2,MEDIUM,13.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,27.0,76.516,25.904,27.746,22.866,HARD,15.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,27.0,76.813,26.178,27.706,22.929,HARD,12.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,27.0,75.886,25.937,27.163,22.786,HARD,5.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,27.0,78.19,26.935,28.424,22.831,HARD,9.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,28.0,79.241,25.572,27.572,26.097,MEDIUM,28.0,1.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,28.0,75.932,25.581,27.716,22.635,MEDIUM,28.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,28.0,76.57,25.718,27.93,22.922,MEDIUM,28.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,28.0,76.386,25.781,27.912,22.693,MEDIUM,28.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,28.0,94.574,45.202,26.706,22.666,HARD,1.0,2.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,28.0,75.852,25.646,27.339,22.867,HARD,4.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,28.0,77.516,25.935,28.416,23.165,MEDIUM,28.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,28.0,75.748,25.914,27.156,22.678,HARD,3.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,28.0,77.217,25.814,28.354,23.049,MEDIUM,28.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,28.0,78.003,26.179,28.573,23.251,MEDIUM,28.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,28.0,77.9,26.185,28.394,23.321,MEDIUM,28.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,28.0,77.082,25.931,28.227,22.924,HARD,28.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,28.0,76.849,25.893,28.148,22.808,HARD,14.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,28.0,75.958,25.837,27.57,22.551,HARD,5.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,28.0,77.821,26.317,28.186,23.318,MEDIUM,28.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,28.0,77.353,26.241,27.987,23.125,MEDIUM,14.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,28.0,76.642,25.985,27.889,22.768,HARD,16.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,28.0,77.221,26.244,27.876,23.101,HARD,13.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,28.0,75.875,25.885,27.376,22.614,HARD,6.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,28.0,76.556,25.971,27.535,23.05,HARD,10.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,29.0,76.067,25.569,27.775,22.723,MEDIUM,29.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,29.0,76.566,25.806,28.046,22.714,MEDIUM,29.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,29.0,80.183,25.531,27.896,26.756,MEDIUM,29.0,1.0,1,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,29.0,95.15,45.664,27.135,22.351,HARD,1.0,2.0,1,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,29.0,75.041,25.592,27.025,22.424,HARD,2.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,29.0,75.562,25.729,27.264,22.569,HARD,5.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,29.0,77.452,26.417,28.024,23.011,HARD,4.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,29.0,79.144,26.62,28.624,23.9,MEDIUM,29.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,29.0,77.457,25.907,28.456,23.094,MEDIUM,29.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,29.0,77.959,26.181,28.599,23.179,MEDIUM,29.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,29.0,77.536,25.951,28.533,23.052,HARD,29.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,29.0,75.457,25.504,27.355,22.598,HARD,6.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,29.0,77.546,26.566,28.146,22.834,HARD,15.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,29.0,81.621,26.317,28.681,26.623,MEDIUM,29.0,1.0,1,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,29.0,77.681,26.152,28.359,23.17,MEDIUM,29.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,29.0,76.856,26.195,27.934,22.727,MEDIUM,15.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,29.0,77.328,26.292,28.162,22.874,HARD,17.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,29.0,77.253,26.149,28.122,22.982,HARD,14.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,29.0,76.039,25.757,27.51,22.772,HARD,7.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,29.0,77.148,26.211,27.844,23.093,HARD,11.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,30.0,76.089,25.589,27.781,22.719,MEDIUM,30.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,30.0,74.571,25.3,27.055,22.216,HARD,2.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,30.0,79.673,25.773,27.861,26.039,MEDIUM,30.0,1.0,1,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,30.0,74.752,25.53,26.791,22.431,HARD,3.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,30.0,75.248,25.575,27.162,22.511,HARD,6.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,30.0,75.663,25.841,27.154,22.668,HARD,5.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,30.0,77.752,26.31,28.301,23.141,MEDIUM,30.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,30.0,77.251,25.848,28.221,23.182,MEDIUM,30.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,30.0,96.537,47.583,26.522,22.432,HARD,1.0,2.0,1,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,30.0,75.435,25.42,27.416,22.599,HARD,7.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,30.0,80.575,26.392,28.517,25.666,MEDIUM,30.0,1.0,1,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,30.0,77.662,26.484,28.331,22.847,HARD,30.0,1.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,30.0,76.739,25.942,27.94,22.857,HARD,16.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,30.0,77.414,26.441,28.077,22.896,MEDIUM,16.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,30.0,77.169,25.954,28.255,22.96,HARD,18.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,30.0,81.104,26.182,28.194,26.728,MEDIUM,30.0,1.0,1,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,30.0,77.034,26.122,27.926,22.986,HARD,15.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,30.0,95.924,45.612,27.294,23.018,HARD,1.0,2.0,1,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,30.0,76.931,25.999,28.05,22.882,HARD,8.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,30.0,76.863,26.163,27.66,23.04,HARD,12.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,31.0,76.582,25.585,28.169,22.828,MEDIUM,31.0,1.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,31.0,74.391,25.109,27.052,22.23,HARD,3.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,31.0,75.15,25.648,26.977,22.525,HARD,4.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,31.0,75.277,25.635,27.216,22.426,HARD,7.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,31.0,75.833,25.675,27.5,22.658,HARD,6.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,31.0,77.353,25.99,28.205,23.158,MEDIUM,31.0,1.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,31.0,75.296,25.427,26.855,23.014,HARD,2.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,31.0,94.918,45.006,26.937,22.975,HARD,1.0,2.0,1,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,31.0,81.976,25.995,28.452,27.529,MEDIUM,31.0,1.0,1,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,31.0,75.278,25.615,27.161,22.502,HARD,8.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,31.0,77.191,25.936,28.234,23.021,HARD,31.0,1.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,31.0,76.315,25.906,27.772,22.637,HARD,17.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,31.0,76.986,26.077,27.968,22.941,MEDIUM,17.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,31.0,76.79,26.075,27.959,22.756,HARD,19.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,31.0,77.164,26.351,27.897,22.916,HARD,16.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,31.0,95.126,45.674,26.761,22.691,HARD,1.0,2.0,1,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,31.0,76.288,26.295,27.153,22.84,HARD,2.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,31.0,76.967,26.155,27.864,22.948,HARD,9.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,31.0,95.661,45.732,27.036,22.893,HARD,1.0,2.0,1,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,31.0,77.968,26.75,28.117,23.101,HARD,13.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,32.0,76.214,25.496,28.046,22.672,MEDIUM,32.0,1.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,32.0,74.476,25.183,26.976,22.317,HARD,4.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,32.0,74.888,25.521,26.872,22.495,HARD,5.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,32.0,75.542,25.645,27.342,22.555,HARD,8.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,32.0,75.625,25.578,27.302,22.745,HARD,7.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,32.0,75.031,25.426,26.999,22.606,HARD,3.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,32.0,80.262,25.943,28.099,26.22,MEDIUM,32.0,1.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,32.0,75.843,26.127,27.042,22.674,HARD,2.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,32.0,75.262,25.501,27.276,22.485,HARD,9.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,32.0,76.548,25.924,27.913,22.711,HARD,18.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,32.0,77.873,26.468,28.353,23.052,HARD,32.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,32.0,76.801,26.179,27.792,22.83,HARD,20.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,32.0,79.729,26.065,27.602,26.062,MEDIUM,18.0,2.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,32.0,95.807,45.498,27.013,23.296,HARD,1.0,2.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,32.0,77.841,26.186,27.82,23.835,HARD,17.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,32.0,75.32,26.087,26.892,22.341,HARD,2.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,32.0,75.984,25.987,27.137,22.86,HARD,3.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,32.0,76.421,25.962,27.608,22.851,HARD,10.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,32.0,76.26,26.163,27.183,22.914,HARD,2.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,32.0,77.091,26.19,27.914,22.987,HARD,14.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,33.0,74.489,25.107,27.127,22.255,HARD,5.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,33.0,79.492,25.537,27.687,26.268,MEDIUM,33.0,1.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,33.0,74.937,25.525,26.905,22.507,HARD,6.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,33.0,75.033,25.443,27.076,22.514,HARD,9.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,33.0,75.566,25.717,27.312,22.537,HARD,8.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,33.0,74.673,25.398,26.81,22.465,HARD,4.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,33.0,75.228,25.854,26.953,22.421,HARD,3.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,33.0,75.053,25.537,27.051,22.465,HARD,10.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,33.0,76.593,25.917,27.898,22.778,HARD,19.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,33.0,77.676,26.292,28.372,23.012,HARD,33.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,33.0,76.386,25.714,27.807,22.865,HARD,21.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,33.0,97.706,47.271,27.49,22.945,HARD,1.0,2.0,1,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,33.0,75.521,25.86,26.918,22.743,HARD,2.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,33.0,75.905,25.904,27.303,22.698,HARD,3.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,33.0,78.39,26.976,28.193,23.221,HARD,18.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,33.0,76.179,26.037,27.288,22.854,HARD,4.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,33.0,76.55,25.97,27.676,22.904,HARD,11.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,33.0,76.104,25.832,27.464,22.808,HARD,3.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,33.0,96.022,45.51,27.664,22.848,HARD,1.0,3.0,1,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,33.0,77.091,26.268,27.866,22.957,HARD,15.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,34.0,74.491,25.264,26.997,22.23,HARD,6.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,34.0,75.099,25.539,27.035,22.525,HARD,7.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,34.0,75.132,25.682,27.071,22.379,HARD,10.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,34.0,75.039,25.551,27.065,22.423,HARD,9.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,34.0,94.573,44.884,27.15,22.539,HARD,1.0,2.0,1,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,34.0,74.966,25.4,27.144,22.422,HARD,5.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,34.0,74.872,25.535,27.052,22.285,HARD,4.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,34.0,75.111,25.506,27.147,22.458,HARD,11.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,34.0,76.616,25.894,27.948,22.774,HARD,20.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,34.0,77.281,25.996,28.273,23.012,HARD,34.0,1.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,34.0,76.264,25.759,27.693,22.812,HARD,22.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,34.0,75.577,25.986,27.213,22.378,HARD,2.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,34.0,74.758,25.493,26.816,22.449,HARD,3.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,34.0,75.476,25.754,27.141,22.581,HARD,4.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,34.0,77.26,26.319,27.953,22.988,HARD,19.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,34.0,75.832,25.996,27.2,22.636,HARD,5.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,34.0,76.363,25.926,27.573,22.864,HARD,12.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,34.0,76.034,25.988,27.25,22.796,HARD,4.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,34.0,75.891,25.939,27.295,22.657,HARD,2.0,3.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,34.0,77.411,26.407,27.969,23.035,HARD,16.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,35.0,74.474,25.149,27.15,22.175,HARD,7.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,35.0,74.909,25.428,27.038,22.443,HARD,8.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,35.0,74.926,25.509,26.986,22.431,HARD,11.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,35.0,74.906,25.408,27.03,22.468,HARD,10.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,35.0,74.937,25.382,27.143,22.412,HARD,2.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,35.0,75.106,25.478,27.058,22.57,HARD,6.0,2.0,0,19.5,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,35.0,74.807,25.465,27.07,22.272,HARD,5.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,35.0,74.805,25.388,27.009,22.408,HARD,12.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,35.0,76.313,25.91,27.745,22.658,HARD,21.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,35.0,76.949,25.996,28.104,22.849,HARD,35.0,1.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,35.0,76.26,25.812,27.643,22.805,HARD,23.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,35.0,75.264,25.565,27.247,22.452,HARD,3.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,35.0,75.741,25.714,27.102,22.925,HARD,4.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,35.0,75.719,25.783,27.242,22.694,HARD,5.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,35.0,76.797,26.219,27.719,22.859,HARD,20.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,35.0,76.259,26.343,27.197,22.719,HARD,6.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,35.0,76.532,26.04,27.714,22.778,HARD,13.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,35.0,75.622,25.839,27.034,22.749,HARD,5.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,35.0,75.561,25.905,27.116,22.54,HARD,3.0,3.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,35.0,77.221,26.37,27.748,23.103,HARD,17.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,36.0,74.312,25.111,27.004,22.197,HARD,8.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,36.0,75.131,25.368,27.263,22.5,HARD,9.0,2.0,0,19.4,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,36.0,75.268,25.57,27.31,22.388,HARD,12.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,36.0,75.125,25.374,27.302,22.449,HARD,11.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,36.0,74.237,25.108,26.855,22.274,HARD,3.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,36.0,74.846,25.446,27.062,22.338,HARD,7.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,36.0,74.739,25.382,27.104,22.253,HARD,6.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,36.0,75.098,25.43,27.306,22.362,HARD,13.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,36.0,76.638,26.106,27.856,22.676,HARD,22.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,36.0,77.085,25.996,28.156,22.933,HARD,36.0,1.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,36.0,76.535,25.823,27.826,22.886,HARD,24.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,36.0,76.516,26.126,27.493,22.897,HARD,4.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,36.0,76.762,26.044,27.725,22.993,HARD,5.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,36.0,75.967,25.775,27.491,22.701,HARD,6.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,36.0,75.543,25.666,27.156,22.721,HARD,7.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,36.0,77.807,26.713,28.101,22.993,HARD,21.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,36.0,76.37,25.796,27.792,22.782,HARD,14.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,36.0,75.609,25.893,27.084,22.632,HARD,6.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,36.0,75.59,25.741,27.212,22.637,HARD,4.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,37.0,74.724,25.373,27.081,22.27,HARD,9.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,36.0,78.29,26.789,28.491,23.01,HARD,18.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,37.0,75.065,25.368,27.214,22.483,HARD,10.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,37.0,76.059,25.449,27.96,22.65,HARD,13.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,37.0,75.258,25.481,27.263,22.514,HARD,12.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,37.0,74.308,25.127,26.922,22.259,HARD,4.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,37.0,75.121,25.466,27.154,22.501,HARD,8.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,37.0,74.701,25.5,26.991,22.21,HARD,7.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,37.0,74.893,25.404,27.088,22.401,HARD,14.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,37.0,76.072,25.763,27.731,22.578,HARD,23.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,37.0,77.16,26.051,28.122,22.987,HARD,37.0,1.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,37.0,76.411,25.768,27.757,22.886,HARD,25.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,37.0,76.055,26.005,27.483,22.567,HARD,5.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,37.0,76.125,25.737,27.614,22.774,HARD,6.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,37.0,75.506,25.746,27.349,22.411,HARD,7.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,37.0,75.568,25.812,27.118,22.638,HARD,8.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,37.0,77.16,26.211,27.896,23.053,HARD,22.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,37.0,76.484,25.849,27.788,22.847,HARD,15.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,37.0,75.566,25.787,27.091,22.688,HARD,7.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,37.0,75.674,25.816,27.179,22.679,HARD,5.0,3.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,38.0,74.557,25.185,27.171,22.201,HARD,10.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,37.0,77.573,26.345,27.943,23.285,HARD,19.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,38.0,75.045,25.661,26.958,22.426,HARD,11.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,38.0,74.796,25.407,26.961,22.428,HARD,14.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,38.0,75.548,25.604,27.438,22.506,HARD,13.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,38.0,74.491,25.037,27.165,22.289,HARD,5.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,38.0,75.102,25.572,27.112,22.418,HARD,9.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,38.0,74.719,25.382,27.123,22.214,HARD,8.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,38.0,74.895,25.393,27.091,22.411,HARD,15.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,38.0,76.73,25.881,27.948,22.901,HARD,24.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,38.0,77.434,26.022,28.396,23.016,HARD,38.0,1.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,38.0,76.45,25.81,27.832,22.808,HARD,26.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,38.0,75.926,25.726,27.524,22.676,HARD,6.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,38.0,76.138,25.717,27.689,22.732,HARD,7.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,38.0,76.322,25.946,27.853,22.523,HARD,8.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,38.0,76.164,25.942,27.348,22.874,HARD,9.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,38.0,77.492,26.275,28.013,23.204,HARD,23.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,38.0,76.979,25.969,28.139,22.871,HARD,16.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,38.0,75.902,25.791,27.335,22.776,HARD,8.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,38.0,76.033,25.926,27.388,22.719,HARD,6.0,3.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,39.0,74.707,25.151,27.261,22.295,HARD,11.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,38.0,77.784,26.328,27.989,23.467,HARD,20.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,39.0,75.138,25.528,27.034,22.576,HARD,12.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,39.0,75.237,25.467,27.246,22.524,HARD,15.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,39.0,75.294,25.433,27.369,22.492,HARD,14.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,39.0,74.43,25.04,27.174,22.216,HARD,6.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,39.0,74.949,25.385,27.165,22.399,HARD,10.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,39.0,74.943,25.553,27.135,22.255,HARD,9.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,39.0,75.096,25.389,27.037,22.67,HARD,16.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,39.0,76.284,25.841,27.783,22.66,HARD,25.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,39.0,80.078,26.981,28.848,24.249,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,39.0,78.161,25.943,27.949,24.269,HARD,7.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,39.0,76.357,25.684,27.63,23.043,HARD,8.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,39.0,80.604,27.009,28.963,24.632,HARD,39.0,1.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,39.0,76.245,26.095,27.573,22.576999999999998,HARD,9.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,39.0,75.986,25.94,27.135,22.911,HARD,10.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,39.0,77.256,26.414,27.826999999999998,23.015,HARD,24.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,39.0,76.983,26.08,28.184,22.719,HARD,17.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,39.0,75.78,25.698,27.374,22.708,HARD,9.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,39.0,75.998,26.016,27.265,22.717,HARD,7.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,40.0,74.639,25.223,27.22,22.196,HARD,12.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,40.0,75.095,25.533,27.005,22.557,HARD,13.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,39.0,78.968,27.087,28.709,23.172,HARD,21.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,40.0,75.379,25.664,27.375,22.34,HARD,16.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,40.0,74.613,25.061,27.323,22.229,HARD,7.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,40.0,76.372,26.138,27.513,22.721,HARD,15.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,40.0,74.792,25.43,26.964,22.398,HARD,11.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,40.0,74.117,25.22,26.874,22.023,HARD,10.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,40.0,75.002,25.373,27.069,22.56,HARD,17.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,40.0,76.321,25.885,27.692,22.744,HARD,26.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,40.0,76.394,25.742,27.575,23.077,HARD,8.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,40.0,77.452,26.277,28.059,23.116,HARD,28.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,40.0,77.345,26.588,28.022,22.735,HARD,9.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,40.0,77.511,26.64,28.192,22.679,HARD,10.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,40.0,75.923,26.047,27.223,22.653,HARD,11.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,40.0,83.97,27.709,29.4,26.861,HARD,40.0,1.0,1,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,40.0,77.148,26.306,27.764,23.078,HARD,25.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,40.0,76.907,26.266,27.999,22.642,HARD,18.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,40.0,76.027,25.876,27.447,22.704,HARD,10.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,40.0,76.108,25.881,27.444,22.783,HARD,8.0,3.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,41.0,75.01,25.386,27.204,22.42,HARD,13.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,41.0,75.016,25.483,27.044,22.489,HARD,14.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,40.0,77.774,26.516,28.077,23.181,HARD,22.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,41.0,75.091,25.443,27.163,22.485,HARD,17.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,41.0,74.536,24.993,27.23,22.313,HARD,8.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,41.0,75.537,25.559,27.358,22.62,HARD,16.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,41.0,74.879,25.291,27.119,22.469,HARD,12.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,41.0,74.768,25.421,27.138,22.209,HARD,11.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,41.0,74.767,25.155,27.214,22.398,HARD,18.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,41.0,76.462,25.836,27.733,22.893,HARD,27.0,2.0,0,19.5,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,41.0,75.858,25.814,27.391,22.653,HARD,9.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,41.0,76.67,25.856,27.701,23.113,HARD,10.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,41.0,77.33,26.515,27.976,22.839,HARD,29.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,41.0,77.001,26.234,28.036,22.731,HARD,11.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,41.0,76.164,25.954,27.306,22.904,HARD,12.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,41.0,77.507,26.27,28.066,23.171,HARD,26.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,41.0,77.121,26.201,28.007,22.913,HARD,11.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,42.0,75.205,25.533,27.348,22.324,HARD,14.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,41.0,79.422,26.325,28.553,24.544,HARD,19.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,41.0,77.992,27.08,28.039,22.873,HARD,9.0,3.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,42.0,75.095,25.488,27.017,22.59,HARD,15.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,41.0,95.156,45.193,27.156,22.807,MEDIUM,1.0,2.0,1,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,42.0,75.213,25.473,27.253,22.487,HARD,18.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,41.0,79.115,26.913,28.779,23.423,HARD,23.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,42.0,74.44,25.046,27.144,22.25,HARD,9.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,42.0,75.454,25.585,27.322,22.547,HARD,17.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,42.0,74.828,25.409,27.018,22.401,HARD,13.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,42.0,74.985,25.523,27.295,22.167,HARD,12.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,42.0,74.709,25.293,26.983,22.433,HARD,19.0,2.0,0,19.5,31.6,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,42.0,76.448,25.802,27.892,22.754,HARD,28.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,42.0,76.021,25.834,27.4,22.787,HARD,10.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,42.0,76.349,25.828,27.561,22.96,HARD,11.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,42.0,76.849,25.904,28.039,22.906,HARD,30.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,42.0,76.716,26.189,27.824,22.703,HARD,12.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,42.0,76.308,25.955,27.538,22.815,HARD,13.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,43.0,74.791,25.272,27.105,22.414,HARD,15.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,42.0,78.697,26.159,29.182,23.356,HARD,27.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,42.0,78.371,27.153,28.077,23.141,HARD,12.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,42.0,77.217,26.101,28.17,22.946,HARD,20.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,42.0,76.912,26.035,27.823,23.054,HARD,10.0,3.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,43.0,75.299,25.601,27.09,22.608,HARD,16.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,42.0,74.954,25.824,26.877,22.253,MEDIUM,2.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,43.0,75.376,25.551,27.346,22.479,HARD,19.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,43.0,74.677,25.093,27.299,22.285,HARD,10.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,42.0,78.117,26.912,28.091,23.114,HARD,24.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,43.0,75.603,25.534,27.393,22.676,HARD,18.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,43.0,74.93,25.385,27.078,22.467,HARD,14.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,43.0,74.671,25.497,27.092,22.082,HARD,13.0,2.0,0,19.4,31.6,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,43.0,74.723,25.391,26.857,22.475,HARD,20.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,43.0,75.896,25.613,27.49,22.793,HARD,29.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,43.0,75.978,25.802,27.435,22.741,HARD,11.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,43.0,75.865,25.567,27.424,22.874,HARD,12.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,43.0,76.479,25.924,27.757,22.798000000000002,HARD,13.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,43.0,77.775,26.606,28.222,22.947,HARD,31.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,43.0,76.344,26.106,27.523,22.715,HARD,14.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,44.0,74.577,25.237,27.094,22.246,HARD,16.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,43.0,76.151,25.967,27.31,22.874,HARD,13.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,43.0,77.512,26.495,28.208,22.809,HARD,21.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,43.0,77.554,26.246,28.37,22.938,HARD,11.0,3.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,43.0,80.969,26.805,27.907,26.257,HARD,28.0,2.0,1,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,44.0,75.333,25.553,27.192,22.588,HARD,17.0,2.0,0,19.3,31.7,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,43.0,75.403,25.576999999999998,27.213,22.613,MEDIUM,3.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,44.0,74.837,25.311,27.195,22.331,HARD,20.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,44.0,74.564,25.061,27.144,22.359,HARD,11.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,44.0,75.305,25.707,27.096,22.502,HARD,19.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,44.0,75.143,25.511,27.109,22.523,HARD,15.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,44.0,74.952,25.682,27.153,22.117,HARD,14.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,43.0,81.195,28.082,29.972,23.141,HARD,25.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,44.0,74.904,25.437,27.005,22.462,HARD,21.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,44.0,76.182,25.627,27.733,22.822,HARD,30.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,44.0,75.672,25.616,27.381,22.675,HARD,12.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,44.0,75.823,25.569,27.472,22.782,HARD,13.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,44.0,75.994,25.766,27.466,22.762,HARD,14.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,44.0,76.456,25.857,27.79,22.809,HARD,32.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,44.0,76.302,26.155,27.392,22.755,HARD,15.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,45.0,74.831,25.251,27.228,22.352,HARD,17.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,44.0,75.85,25.645,27.35,22.855,HARD,14.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,44.0,76.551,25.787,27.981,22.783,HARD,22.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,44.0,76.381,25.954,27.69,22.737,HARD,12.0,3.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,45.0,75.099,25.484,27.109,22.506,HARD,18.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,44.0,75.504,25.606,27.356,22.542,MEDIUM,4.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,45.0,75.11,25.3,27.355,22.455,HARD,21.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,45.0,74.574,25.113,27.197,22.264,HARD,12.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,45.0,74.91,25.305,27.165,22.44,HARD,20.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,45.0,75.138,25.518,27.096,22.524,HARD,16.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,45.0,75.143,25.947,27.045,22.151,HARD,15.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,44.0,95.854,45.473,27.363,23.018,MEDIUM,1.0,3.0,1,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,44.0,78.167,26.574,28.122,23.471,HARD,26.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,45.0,76.022,25.801,27.421,22.8,HARD,22.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,45.0,75.983,25.611,27.605,22.767,HARD,31.0,2.0,0,19.4,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,45.0,75.621,25.629,27.429,22.563,HARD,13.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,45.0,75.985,25.571,27.576999999999998,22.837,HARD,14.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,45.0,75.781,25.734,27.423,22.624,HARD,15.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,45.0,76.457,25.852,27.798000000000002,22.807,HARD,33.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,45.0,76.293,26.186,27.503,22.604,HARD,16.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,46.0,74.603,25.277,27.137,22.189,HARD,18.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,45.0,75.867,25.886,27.155,22.826,HARD,15.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,45.0,76.611,25.988,27.781,22.842,HARD,23.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,45.0,76.57,26.279,27.523,22.768,HARD,13.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,46.0,75.155,25.513,27.063,22.579,HARD,19.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,45.0,75.231,25.53,27.142,22.559,MEDIUM,5.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,46.0,74.871,25.353,27.169,22.349,HARD,22.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,46.0,74.597,25.079,27.33,22.188,HARD,13.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,46.0,74.846,25.292,27.123,22.431,HARD,21.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,46.0,75.103,25.348,27.369,22.386,HARD,17.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,46.0,75.06,25.751,27.187,22.122,HARD,16.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,45.0,75.822,25.777,27.268,22.777,MEDIUM,2.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,46.0,75.511,25.596,27.248,22.667,HARD,23.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,45.0,78.973,27.315,28.17,23.488,HARD,27.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,46.0,75.846,25.566,27.645,22.635,HARD,32.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,46.0,75.611,25.495,27.38,22.736,HARD,14.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,46.0,75.831,25.48,27.516,22.835,HARD,15.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,46.0,75.783,25.654,27.511,22.618,HARD,16.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,46.0,75.825,25.856,27.178,22.791,HARD,17.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,46.0,77.244,26.363,27.931,22.95,HARD,34.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,47.0,74.892,25.295,27.083,22.514,HARD,19.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,46.0,76.141,25.936,27.312,22.893,HARD,16.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,47.0,75.32,25.567,27.259,22.494,HARD,20.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,46.0,78.611,26.135,27.96,24.516,HARD,24.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,46.0,78.391,26.289,28.897,23.205,HARD,14.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,46.0,75.452,25.59,27.294,22.568,MEDIUM,6.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,47.0,75.296,25.504,27.477,22.315,HARD,23.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,47.0,75.257,25.447,27.617,22.193,HARD,14.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,47.0,75.064,25.344,27.25,22.47,HARD,22.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,47.0,75.105,25.329,27.337,22.439,HARD,17.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,47.0,76.486,26.218,27.598,22.67,HARD,18.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,46.0,76.152,25.951999999999998,27.372,22.828,MEDIUM,3.0,3.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,47.0,75.768,25.487,27.432,22.849,HARD,24.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,46.0,77.856,26.448,28.031,23.377,HARD,28.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,47.0,75.83,25.6,27.542,22.688,HARD,33.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,47.0,76.002,25.696,27.498,22.808,HARD,15.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,47.0,75.749,25.525,27.403,22.821,HARD,16.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,47.0,75.741,25.613,27.514,22.614,HARD,17.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,47.0,75.872,25.896,27.236,22.74,HARD,18.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,48.0,74.776,25.322,27.115,22.339,HARD,20.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,47.0,77.653,25.797,29.046,22.81,HARD,35.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,47.0,75.711,25.716,27.146,22.849,HARD,17.0,2.0,0,19.3,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,48.0,74.981,25.262,27.226,22.493,HARD,21.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,47.0,76.843,26.202,27.812,22.829,HARD,25.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,47.0,77.252,26.593,27.655,23.004,HARD,15.0,3.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,47.0,76.422,26.049,27.848,22.525,MEDIUM,7.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,48.0,75.08,25.351,27.428,22.301,HARD,24.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,48.0,75.154,25.371,27.402,22.381,HARD,15.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,48.0,75.361,25.442,27.353,22.566,HARD,23.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,48.0,75.431,25.609,27.35,22.472,HARD,18.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,48.0,75.601,25.588,27.411,22.602,HARD,19.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,47.0,78.314,26.072,28.28,23.962,MEDIUM,4.0,3.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,48.0,78.25,25.429,27.261,25.56,HARD,25.0,2.0,1,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,47.0,77.537,26.356,28.054,23.127,HARD,29.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,48.0,75.938,25.598,27.634,22.706,HARD,34.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,48.0,75.366,25.495,27.25,22.621,HARD,16.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,48.0,75.481,25.436,27.263,22.782,HARD,17.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,48.0,75.736,25.581,27.547,22.608,HARD,18.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,49.0,74.911,25.36,27.17,22.381,HARD,21.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,48.0,77.598,25.873,29.063,22.662,HARD,19.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,48.0,76.608,25.901,27.72,22.987,HARD,36.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,48.0,76.079,25.871,27.463,22.745,HARD,18.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,49.0,75.129,25.356,27.253,22.52,HARD,22.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,48.0,76.13,25.8,27.723,22.607,HARD,26.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,48.0,76.072,25.935,27.458,22.679,HARD,16.0,3.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,48.0,76.252,26.215,27.358,22.679,MEDIUM,8.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,49.0,75.287,25.411,27.518,22.358,HARD,25.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,49.0,75.414,25.623,27.499,22.292,HARD,16.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,49.0,75.096,25.327,27.292,22.477,HARD,24.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,49.0,75.023,25.385,27.187,22.451,HARD,19.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,49.0,75.492,25.486,27.472,22.534,HARD,20.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,48.0,76.144,25.749,27.43,22.965,MEDIUM,5.0,3.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,48.0,77.238,26.259,27.88,23.099,HARD,30.0,2.0,0,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,49.0,93.612,44.554,26.7,22.358,SOFT,1.0,3.0,1,19.2,32.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,49.0,76.053,25.606,27.872,22.575,HARD,35.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,49.0,75.606,25.484,27.466,22.656,HARD,17.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,49.0,75.647,25.434,27.364,22.849,HARD,18.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,49.0,75.644,25.538,27.397,22.709,HARD,19.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,50.0,74.575,25.153,27.143,22.279,HARD,22.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,49.0,75.913,25.778,27.341,22.794,HARD,20.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,49.0,76.373,25.649,27.909,22.815,HARD,37.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,49.0,76.257,25.844,27.427,22.986,HARD,19.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,50.0,75.023,25.348,27.211,22.464,HARD,23.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,49.0,76.163,25.717,27.826,22.62,HARD,27.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,49.0,76.13,26.033,27.404,22.693,HARD,17.0,3.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,50.0,75.411,25.492,27.575,22.344,HARD,26.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,50.0,75.325,25.338,27.74,22.247,HARD,17.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,49.0,78.402,26.29,29.397,22.715,MEDIUM,9.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,50.0,75.161,25.273,27.473,22.415,HARD,25.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,50.0,74.962,25.408,27.222,22.332,HARD,20.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,50.0,75.314,25.524,27.314,22.476,HARD,21.0,2.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,49.0,76.626,26.096,27.637,22.893,MEDIUM,6.0,3.0,0,19.2,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,49.0,77.065,26.094,27.959,23.012,HARD,31.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,50.0,73.883,25.301,26.398,22.184,SOFT,2.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,50.0,75.805,25.589,27.627,22.589,HARD,36.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,50.0,75.643,25.583,27.494,22.566,HARD,18.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,50.0,75.268,25.471,27.207,22.59,HARD,19.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,50.0,75.674,25.59,27.48,22.604,HARD,20.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,51.0,74.832,25.276,27.199,22.357,HARD,23.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,50.0,75.709,25.674,27.295,22.74,HARD,21.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,50.0,76.318,25.777,27.781,22.76,HARD,38.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,50.0,75.39,25.591,27.11,22.689,HARD,20.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,51.0,75.139,25.434,27.014,22.691,HARD,24.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,51.0,75.017,25.443,27.308,22.266,HARD,27.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,51.0,75.165,25.286,27.549,22.33,HARD,18.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,50.0,78.22,25.951,29.009,23.26,HARD,28.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,50.0,78.292,27.919,27.493,22.88,HARD,18.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,50.0,75.944,25.724,27.539,22.681,MEDIUM,10.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,51.0,75.263,25.332,27.474,22.457,HARD,26.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,51.0,74.972,25.343,27.224,22.405,HARD,21.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,51.0,75.12,25.328,27.301,22.491,HARD,22.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,50.0,76.348,26.072,27.397,22.879,MEDIUM,7.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,50.0,77.351,26.316,27.912,23.123,HARD,32.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,51.0,74.047,25.288,26.669,22.09,SOFT,3.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,51.0,75.705,25.482,27.686,22.537,HARD,37.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,51.0,75.483,25.622,27.268,22.593,HARD,19.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,51.0,75.014,25.357,27.141,22.516,HARD,20.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,51.0,75.255,25.478,27.283,22.494,HARD,21.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,52.0,74.687,25.2,27.18,22.307,HARD,24.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,51.0,75.309,25.654,27.095,22.56,HARD,22.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,51.0,75.903,25.595,27.641,22.667,HARD,39.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,52.0,75.232,25.438,27.138,22.656,HARD,25.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,51.0,77.756,25.824,27.287,24.645,HARD,21.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,52.0,74.646,25.169,27.119,22.358,HARD,28.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,52.0,75.116,25.384,27.314,22.418,HARD,19.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,51.0,76.258,25.839,27.752,22.667,HARD,29.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,51.0,76.183,26.011,27.546,22.626,HARD,19.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,51.0,76.33,25.947,27.843,22.54,MEDIUM,11.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,52.0,75.344,25.45,27.437,22.457,HARD,27.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,52.0,74.831,25.216,27.296,22.319,HARD,22.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,52.0,75.046,25.432,27.208,22.406,HARD,23.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,51.0,76.453,26.007,27.506,22.94,MEDIUM,8.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,52.0,74.047,25.142,26.619,22.286,SOFT,4.0,3.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,51.0,80.809,26.253,27.853,26.703,HARD,33.0,2.0,1,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,52.0,75.856,25.517,27.772,22.567,HARD,38.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,52.0,75.196,25.326,27.324,22.546,HARD,20.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,52.0,75.151,25.297,27.279,22.575,HARD,21.0,2.0,0,19.3,32.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,53.0,74.738,25.422,27.054,22.262,HARD,25.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,52.0,77.472,27.273,27.591,22.608,HARD,22.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,52.0,75.222,25.596,27.118,22.508,HARD,23.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,52.0,76.044,25.641,27.658,22.745,HARD,40.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,53.0,74.822,25.382,26.992,22.448,HARD,26.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,52.0,75.907,25.763,27.349,22.795,HARD,22.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,53.0,74.974,25.425,27.216,22.333,HARD,29.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,53.0,75.34,25.512,27.355,22.473,HARD,20.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,52.0,76.399,25.844,27.85,22.705,HARD,30.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,52.0,76.358,26.108,27.516,22.734,HARD,20.0,3.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,52.0,76.419,26.13,27.777,22.512,MEDIUM,12.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,53.0,75.441,25.465,27.401,22.575,HARD,28.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,53.0,74.848,25.23,27.289,22.329,HARD,23.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,53.0,75.266,25.459,27.282,22.525,HARD,24.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,52.0,76.43,26.001,27.503,22.926,MEDIUM,9.0,3.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,53.0,74.263,25.259,26.804,22.2,SOFT,5.0,3.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,53.0,75.733,25.604,27.573,22.556,HARD,39.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,53.0,74.987,25.315,27.176,22.496,HARD,21.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,53.0,75.048,25.356,27.121,22.571,HARD,22.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,54.0,74.468,25.207,26.998,22.263,HARD,26.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,53.0,75.44,25.595,27.304,22.541,HARD,23.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,53.0,75.633,25.768,27.328,22.537,HARD,24.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,52.0,99.404,47.826,28.863,22.715,SOFT,1.0,3.0,1,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,53.0,76.491,25.793,27.907,22.791,HARD,41.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,54.0,75.018,25.584,26.951999999999998,22.482,HARD,27.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,53.0,75.948,25.895,27.215,22.838,HARD,23.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,54.0,75.075,25.498,27.191,22.386,HARD,30.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,54.0,75.002,25.387,27.23,22.385,HARD,21.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,53.0,76.279,25.921,27.701,22.657,HARD,31.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,53.0,76.479,26.078,27.628,22.773,HARD,21.0,3.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,53.0,76.3,25.971,27.737,22.592,MEDIUM,13.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,54.0,75.149,25.425,27.304,22.42,HARD,24.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,54.0,79.082,25.64,27.674,25.768,HARD,29.0,2.0,1,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,54.0,75.169,25.442,27.204,22.523,HARD,25.0,2.0,0,19.3,32.4,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,53.0,76.357,25.922,27.599,22.836,MEDIUM,10.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,54.0,74.353,25.112,27.008,22.233,SOFT,6.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,54.0,76.179,25.547,27.719,22.913,HARD,40.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,54.0,74.855,25.286,27.119,22.45,HARD,22.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,54.0,75.039,25.29,27.159,22.59,HARD,23.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,55.0,74.599,25.275,26.987,22.337,HARD,27.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,54.0,75.47,25.506,27.222,22.742,HARD,24.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,54.0,75.374,25.583,27.171,22.62,HARD,25.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,53.0,75.913,26.056,27.158,22.699,SOFT,2.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,55.0,74.758,25.285,27.061,22.412,HARD,28.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,54.0,79.155,25.52,27.669,25.966,HARD,42.0,2.0,1,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,54.0,75.862,25.686,27.259,22.917,HARD,24.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,55.0,75.615,25.842,27.305,22.468,HARD,31.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,55.0,75.305,25.256,27.43,22.619,HARD,22.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,54.0,76.617,25.851,27.906,22.86,HARD,32.0,2.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,54.0,76.501,25.858,27.768,22.875,HARD,22.0,3.0,0,19.3,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,55.0,75.343,25.515,27.472,22.356,HARD,25.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,54.0,77.928,25.89,28.922,23.116,MEDIUM,14.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,55.0,75.45,25.467,27.329,22.654,HARD,26.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,54.0,76.066,25.985,27.208,22.873,MEDIUM,11.0,3.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,55.0,93.228,44.67,26.319,22.239,SOFT,4.0,3.0,1,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,55.0,74.444,25.314,26.858,22.272,SOFT,7.0,3.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,55.0,76.449,25.949,27.725,22.775,HARD,41.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,55.0,75.256,25.43,27.204,22.622,HARD,23.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,55.0,75.242,25.403,27.142,22.697,HARD,24.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,56.0,74.816,25.273,27.082,22.461,HARD,28.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,55.0,75.371,25.546,27.228,22.597,HARD,25.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,55.0,75.419,25.716,27.069,22.634,HARD,26.0,2.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,54.0,75.76,25.874,27.106,22.78,SOFT,3.0,3.0,0,19.3,31.9,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,56.0,75.065,25.487,26.989,22.589,HARD,29.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,55.0,75.831,25.763,27.22,22.848,HARD,25.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,56.0,75.077,25.536,27.214,22.327,HARD,32.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,56.0,75.079,25.288,27.34,22.451,HARD,23.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,56.0,75.132,25.684,27.103,22.345,HARD,26.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,55.0,77.6,25.714,28.676,23.21,HARD,33.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,55.0,77.796,26.94,28.041,22.815,HARD,23.0,3.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,55.0,76.386,25.7,27.958,22.728,MEDIUM,15.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,56.0,75.521,25.383,27.453,22.685,HARD,27.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,55.0,94.753,45.058,27.116,22.579,MEDIUM,1.0,3.0,1,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,55.0,76.304,25.897,27.508,22.899,MEDIUM,12.0,3.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,56.0,73.972,25.247,26.436,22.289,SOFT,5.0,3.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,56.0,74.48,25.164,27.062,22.254,SOFT,8.0,3.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,56.0,76.464,25.616,27.946,22.902,HARD,42.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,56.0,75.219,25.361,27.28,22.578,HARD,24.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,56.0,75.193,25.293,27.206,22.694,HARD,25.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,57.0,74.867,25.268,27.207,22.392,HARD,29.0,2.0,0,19.4,31.9,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,56.0,75.396,25.371,27.366,22.659,HARD,26.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,56.0,75.354,25.621,27.166,22.567,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,55.0,75.803,25.91,27.14,22.753,SOFT,4.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,57.0,75.013,25.368,27.1,22.545,HARD,30.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,56.0,75.952,25.798000000000002,27.295,22.859,HARD,26.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,57.0,74.974,25.286,27.279,22.409,HARD,33.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,57.0,75.088,25.228,27.417,22.443,HARD,24.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,57.0,74.652,25.183,27.114,22.355,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,56.0,76.314,25.604,28.011,22.699,HARD,34.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,56.0,76.243,25.925,27.586,22.732,HARD,24.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,57.0,75.714,25.608,27.548000000000002,22.558,HARD,28.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,56.0,77.754,26.003,28.221,23.53,MEDIUM,16.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,56.0,75.334,25.489,27.078,22.767,MEDIUM,2.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,57.0,73.927,25.168,26.545,22.214,SOFT,6.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,56.0,77.851,27.701,27.329,22.821,MEDIUM,13.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,57.0,74.35,25.419,26.729,22.202,SOFT,9.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,57.0,76.261,25.621,27.889,22.751,HARD,43.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,57.0,75.147,25.387,27.371,22.389,HARD,25.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,57.0,76.238,25.412,27.535,23.291,HARD,26.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,58.0,75.098,25.309,27.387,22.402,HARD,30.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,57.0,75.931,25.537,27.8,22.594,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,57.0,75.692,25.57,27.413,22.709,HARD,28.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,56.0,76.04,25.809,27.479,22.752,SOFT,5.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,58.0,75.355,25.392,27.398,22.565,HARD,31.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,58.0,75.48,25.544,27.497,22.439,HARD,34.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,58.0,75.072,25.111,27.563,22.398,HARD,25.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,57.0,79.487,27.902,28.41,23.175,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,58.0,74.507,25.082,27.266,22.159,HARD,28.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,57.0,76.486,25.785,28.012,22.689,HARD,35.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,58.0,76.198,25.682,27.715,22.801,HARD,29.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,57.0,77.84,26.026,28.573,23.241,HARD,25.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,57.0,75.897,25.521,27.328,23.048,MEDIUM,3.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,57.0,76.902,26.468,27.809,22.625,MEDIUM,17.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,58.0,74.129,25.131,26.773,22.225,SOFT,7.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,58.0,74.477,25.336,26.922,22.219,SOFT,10.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,57.0,78.463,27.893,27.573,22.997,MEDIUM,14.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,58.0,76.107,25.622,27.761,22.724,HARD,44.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,58.0,75.794,25.612,27.452,22.73,HARD,26.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,59.0,74.979,25.37,27.119,22.49,HARD,31.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,58.0,77.097,26.554,27.559,22.984,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,58.0,75.749,25.552,27.512,22.685,HARD,28.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,58.0,75.487,25.578,27.335,22.574,HARD,29.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,57.0,76.42,26.059,27.438,22.923000000000002,SOFT,6.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,59.0,75.132,25.431,27.239,22.462,HARD,32.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,59.0,74.89,25.294,27.227,22.369,HARD,35.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,59.0,75.052,25.272,27.369,22.411,HARD,26.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,58.0,75.936,25.81,27.38,22.746,HARD,28.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,59.0,74.488,25.296,27.089,22.103,HARD,29.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,59.0,75.287,25.438,27.373,22.476,HARD,30.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,58.0,76.04,25.6,27.18,23.26,MEDIUM,4.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,58.0,78.672,25.914,28.515,24.243,HARD,36.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,58.0,76.913,26.525,27.641,22.747,HARD,26.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,58.0,76.562,25.825,28.078,22.659,MEDIUM,18.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,59.0,74.072,25.069,26.923000000000002,22.08,SOFT,8.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,59.0,73.968,25.142,26.612,22.214,SOFT,11.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,58.0,76.069,25.875,27.474,22.72,MEDIUM,15.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,59.0,75.657,25.768,27.336,22.553,HARD,45.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,59.0,75.583,26.059,27.23,22.294,HARD,27.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,60.0,74.518,25.184,27.017,22.317,HARD,32.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,59.0,75.352,25.478,27.318,22.556,HARD,28.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,59.0,75.509,25.503,27.391,22.615,HARD,29.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,59.0,75.675,25.753,27.344,22.578,HARD,30.0,2.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,58.0,76.413,26.065,27.524,22.824,SOFT,7.0,3.0,0,19.4,32.1,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,60.0,75.0,25.349,27.108,22.543,HARD,33.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,60.0,74.915,25.285,27.3,22.33,HARD,36.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,60.0,74.991,25.182,27.407,22.402,HARD,27.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,59.0,75.786,25.64,27.204,22.942,HARD,29.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,60.0,74.865,25.243,27.303,22.319,HARD,30.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,60.0,75.197,25.416,27.312,22.469,HARD,31.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,59.0,74.787,25.348,27.121,22.318,MEDIUM,5.0,3.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,59.0,76.84,25.938,28.13,22.772,HARD,37.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,59.0,76.989,26.371,27.764,22.854,HARD,27.0,3.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,59.0,76.88,26.086,28.216,22.578,MEDIUM,19.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,60.0,74.09,25.094,26.931,22.065,SOFT,9.0,3.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,60.0,73.977,25.087,26.79,22.1,SOFT,12.0,3.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,59.0,76.225,25.991,27.522,22.712,MEDIUM,16.0,3.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,61.0,75.046,25.416,27.199,22.431,HARD,33.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,60.0,76.583,25.534,27.749,23.3,HARD,28.0,2.0,0,19.5,32.1,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,60.0,78.585,26.917,28.699,22.969,HARD,46.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,60.0,75.621,25.37,27.57,22.681,HARD,29.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,60.0,75.624,25.48,27.513,22.631,HARD,30.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,60.0,75.53,25.698,27.304,22.528,HARD,31.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,59.0,76.359,26.055,27.593,22.711,SOFT,8.0,3.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,61.0,75.394,25.474,27.372,22.548000000000002,HARD,34.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,61.0,75.003,25.327,27.345,22.331,HARD,37.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,61.0,75.012,25.187,27.377,22.448,HARD,28.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,60.0,75.629,25.661,27.253,22.715,HARD,30.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,61.0,75.244,25.405,27.407,22.432,HARD,31.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,61.0,75.063,25.346,27.313,22.404,HARD,32.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,60.0,74.603,25.373,27.053,22.177,MEDIUM,6.0,3.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,60.0,76.594,25.874,28.016,22.704,HARD,38.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,60.0,76.805,26.076,27.78,22.949,HARD,28.0,3.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,60.0,76.605,26.159,27.962,22.484,MEDIUM,20.0,2.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,61.0,74.286,25.165,26.986,22.135,SOFT,10.0,3.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,61.0,74.038,25.206,26.666,22.166,SOFT,13.0,3.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,60.0,76.639,26.122,27.541,22.976,MEDIUM,17.0,3.0,0,19.5,32.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,62.0,75.008,25.525,27.075,22.408,HARD,34.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,61.0,76.371,26.426,27.444,22.501,HARD,29.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,61.0,76.441,25.843,27.892,22.706,HARD,47.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,61.0,75.506,25.527,27.525,22.454,HARD,30.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,61.0,75.448,25.487,27.46,22.501,HARD,31.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,61.0,75.544,25.618,27.239,22.687,HARD,32.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,62.0,74.941,25.396,27.046,22.499,HARD,35.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,60.0,77.641,26.008,28.585,23.048,SOFT,9.0,3.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,62.0,74.585,25.279,27.056,22.25,HARD,38.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,62.0,74.832,25.212,27.149,22.471,HARD,29.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,62.0,75.078,25.423,27.387,22.268,HARD,32.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,61.0,77.515,25.814,28.943,22.758,HARD,31.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,62.0,75.034,25.477,27.143,22.414,HARD,33.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,61.0,75.257,25.766,27.118,22.373,MEDIUM,7.0,3.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,61.0,76.79,25.961,27.98,22.849,HARD,39.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,61.0,76.61,26.158,27.559,22.893,HARD,29.0,3.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,61.0,77.0,26.117,28.176,22.707,MEDIUM,21.0,2.0,0,19.5,32.2,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,62.0,74.717,25.319,26.947,22.451,SOFT,11.0,3.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,62.0,73.878,24.995,26.733,22.15,SOFT,14.0,3.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,61.0,76.334,25.862,27.568,22.904,MEDIUM,18.0,3.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,63.0,74.31,25.068,26.932,22.31,HARD,35.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,62.0,75.24,25.473,27.267,22.5,HARD,30.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,62.0,76.295,25.691,27.885,22.719,HARD,48.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,62.0,75.984,25.838,27.523,22.623,HARD,31.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,62.0,75.483,25.477,27.421,22.585,HARD,32.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,62.0,75.444,25.645,27.349,22.45,HARD,33.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,63.0,75.088,25.448,27.146,22.494,HARD,36.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,61.0,76.399,25.934,27.543,22.922,SOFT,10.0,3.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,63.0,75.153,25.328,27.41,22.415,HARD,39.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,63.0,74.965,25.127,27.391,22.447,HARD,30.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,63.0,74.817,25.299,27.191,22.327,HARD,33.0,2.0,0,19.6,32.0,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,62.0,75.998,25.705,27.399,22.894,HARD,32.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,63.0,75.081,25.421,27.244,22.416,HARD,34.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,62.0,74.847,25.547,27.091,22.209,MEDIUM,8.0,3.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,62.0,77.22,25.861,28.165,23.194,HARD,40.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,63.0,75.431,25.724,27.2,22.507,SOFT,12.0,3.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,62.0,77.773,26.17,28.518,23.085,HARD,30.0,3.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,63.0,74.422,25.041,27.008,22.373,SOFT,15.0,3.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,62.0,78.763,26.237,29.416,23.11,MEDIUM,22.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,62.0,76.595,26.121,27.652,22.822,MEDIUM,19.0,3.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,64.0,74.858,25.261,27.127,22.47,HARD,36.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,63.0,75.351,25.522,27.262,22.567,HARD,31.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,63.0,75.653,25.422,27.353,22.878,HARD,32.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,63.0,77.307,26.346,28.095,22.866,HARD,49.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,63.0,75.692,25.531,27.543,22.618,HARD,33.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,63.0,75.413,25.516,27.293,22.604,HARD,34.0,2.0,0,19.7,32.3,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,64.0,75.287,25.412,27.256,22.619,HARD,37.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,62.0,76.256,25.966,27.527,22.763,SOFT,11.0,3.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,64.0,74.974,25.363,27.317,22.294,HARD,40.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,64.0,74.932,25.119,27.245,22.568,HARD,31.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,64.0,74.605,25.246,27.194,22.165,HARD,34.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,63.0,75.618,25.644,27.195,22.779,HARD,33.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,64.0,74.699,25.24,27.172,22.287,HARD,35.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,63.0,75.283,25.582,27.273,22.428,MEDIUM,9.0,3.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,64.0,74.769,25.3,27.063,22.406,SOFT,13.0,3.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,64.0,74.832,25.407,27.28,22.145,SOFT,16.0,3.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,63.0,77.827,26.281,28.493,23.053,HARD,41.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,63.0,77.575,26.693,27.993,22.889,HARD,31.0,3.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,63.0,76.399,25.635,28.052,22.712,MEDIUM,23.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,63.0,76.373,25.83,27.713,22.83,MEDIUM,20.0,3.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,65.0,74.786,25.158,27.192,22.436,HARD,37.0,2.0,0,19.6,32.1,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,64.0,75.381,25.378,27.443,22.56,HARD,32.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,64.0,75.297,25.422,27.199,22.676,HARD,33.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,64.0,76.32,25.826,27.792,22.701999999999998,HARD,50.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,64.0,75.825,25.581,27.588,22.656,HARD,34.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,64.0,75.553,25.582,27.361,22.61,HARD,35.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,65.0,74.992,25.364,27.235,22.393,HARD,38.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,63.0,75.871,25.795,27.346,22.73,SOFT,12.0,3.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,65.0,74.881,25.28,27.197,22.404,HARD,41.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,65.0,75.052,25.106,27.367,22.579,HARD,32.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,65.0,74.672,25.204,27.147,22.321,HARD,35.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,64.0,75.753,25.63,27.344,22.779,HARD,34.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,65.0,74.932,25.31,27.291,22.331,HARD,36.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,64.0,74.694,25.357,27.196,22.141,MEDIUM,10.0,3.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,65.0,74.347,25.278,26.813,22.256,SOFT,14.0,3.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,65.0,74.01,25.004,26.767,22.239,SOFT,17.0,3.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,64.0,76.434,25.669,28.155,22.61,HARD,42.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,64.0,76.304,25.804,27.758,22.742,HARD,32.0,3.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,64.0,76.365,25.768,27.965,22.632,MEDIUM,24.0,2.0,0,19.6,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,64.0,76.361,25.839,27.641,22.881,MEDIUM,21.0,3.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,66.0,74.624,25.044,27.19,22.39,HARD,38.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,65.0,75.494,25.621,27.333,22.54,HARD,33.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,65.0,75.198,25.311,27.285,22.602,HARD,34.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,65.0,76.254,25.585,27.896,22.773,HARD,51.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,65.0,75.711,25.512,27.569,22.63,HARD,35.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,65.0,75.536,25.624,27.272,22.64,HARD,36.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,66.0,75.052,25.423,27.165,22.464,HARD,39.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,66.0,74.882,25.219,27.352,22.311,HARD,42.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,66.0,74.639,25.058,27.259,22.322,HARD,33.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,64.0,79.34,26.943,29.49,22.907,SOFT,13.0,3.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,66.0,74.75,25.141,27.376,22.233,HARD,36.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,65.0,75.741,25.621,27.257,22.863,HARD,35.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,66.0,74.61,25.23,27.046,22.334,HARD,37.0,2.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,65.0,75.102,25.409,27.283,22.41,MEDIUM,11.0,3.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,66.0,74.401,25.136,27.014,22.251,SOFT,15.0,3.0,0,19.5,31.7,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,66.0,74.243,24.881,27.08,22.282,SOFT,18.0,3.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,65.0,76.418,25.747,28.069,22.602,HARD,43.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,65.0,76.419,26.113,27.453,22.853,HARD,33.0,3.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,65.0,76.667,26.041,27.939,22.687,MEDIUM,25.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,65.0,76.234,26.042,27.435,22.757,MEDIUM,22.0,3.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,67.0,74.688,25.18,27.163,22.345,HARD,39.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,66.0,75.329,25.364,27.357,22.608,HARD,34.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,66.0,75.285,25.193,27.281,22.811,HARD,35.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,66.0,76.114,25.551,27.681,22.882,HARD,52.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,66.0,75.823,25.43,27.616,22.777,HARD,36.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,66.0,75.481,25.496,27.282,22.703,HARD,37.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,67.0,75.251,25.342,27.352,22.557,HARD,40.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,67.0,74.771,25.241,27.199,22.331,HARD,43.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,67.0,74.975,25.097,27.477,22.401,HARD,34.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,65.0,76.036,25.983,27.37,22.683,SOFT,14.0,3.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,67.0,75.098,25.21,27.406,22.482,HARD,37.0,2.0,0,19.4,31.7,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,66.0,75.771,25.65,27.25,22.871,HARD,36.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,67.0,74.849,25.169,27.275,22.405,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,66.0,75.095,25.381,27.229,22.485,MEDIUM,12.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,67.0,74.287,25.139,26.937,22.211,SOFT,16.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,67.0,74.406,24.871,27.285,22.25,SOFT,19.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,66.0,76.468,25.621,28.065,22.782,HARD,44.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,66.0,76.412,25.838,27.889,22.685,HARD,34.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,66.0,76.261,25.853,27.881,22.527,MEDIUM,26.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,66.0,76.479,25.824,27.714,22.941,MEDIUM,23.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,68.0,74.66,25.108,27.111,22.441,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,67.0,75.067,25.325,27.252,22.49,HARD,35.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,67.0,75.65,25.371,27.502,22.777,HARD,36.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,67.0,75.918,25.609,27.676,22.633,HARD,53.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,67.0,75.934,25.555,27.627,22.752,HARD,37.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,67.0,75.449,25.6,27.449,22.4,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,68.0,75.052,25.362,27.253,22.437,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,68.0,74.833,25.19,27.367,22.276,HARD,44.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,68.0,74.777,25.008,27.435,22.334,HARD,35.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,66.0,75.737,25.857,27.278,22.602,SOFT,15.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,68.0,75.051,25.321,27.405,22.325,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,68.0,75.132,25.233,27.53,22.369,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,67.0,77.406,25.556,28.984,22.866,HARD,37.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,67.0,74.999,25.33,27.273,22.396,MEDIUM,13.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,68.0,74.203,25.184,26.847,22.172,SOFT,17.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,68.0,74.353,25.1,26.96,22.293,SOFT,20.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,67.0,76.162,25.608,27.966,22.588,HARD,45.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,67.0,76.336,25.98,27.746,22.61,HARD,35.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,67.0,76.323,25.806,27.996,22.521,MEDIUM,27.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,67.0,76.389,25.868,27.725,22.796,MEDIUM,24.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,69.0,74.657,25.141,27.154,22.362,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,68.0,75.331,25.421,27.448,22.462,HARD,36.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,68.0,76.027,25.482,27.655,22.89,HARD,37.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,68.0,76.03,25.596,27.779,22.655,HARD,54.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,68.0,75.986,25.57,27.864,22.552,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,68.0,75.68,25.715,27.507,22.458,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,69.0,74.972,25.413,27.139,22.42,HARD,42.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,69.0,75.013,25.31,27.384,22.319,HARD,45.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,69.0,75.083,25.122,27.459,22.502,HARD,36.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,67.0,75.724,25.746,27.271,22.707,SOFT,16.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,69.0,75.13,25.399,27.356,22.375,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,69.0,74.587,25.153,27.174,22.26,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,68.0,75.41,25.45,27.337,22.623,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,68.0,75.01,25.267,27.406,22.337,MEDIUM,14.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,69.0,74.078,25.04,26.975,22.063,SOFT,18.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,69.0,74.416,24.995,27.165,22.256,SOFT,21.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,68.0,76.371,25.712,28.087,22.572,HARD,46.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,68.0,76.192,25.801,27.764,22.627,HARD,36.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,68.0,76.05,25.829,27.818,22.403,MEDIUM,28.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,68.0,76.394,26.079,27.44,22.875,MEDIUM,25.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,70.0,74.871,25.242,27.256,22.373,HARD,42.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,69.0,75.281,25.437,27.236,22.608,HARD,37.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,69.0,76.211,25.472,27.802,22.937,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,69.0,75.881,25.443,27.788,22.65,HARD,55.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,69.0,75.945,25.516,27.823,22.606,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,69.0,76.055,25.72,27.433,22.902,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,70.0,75.153,25.421,27.225,22.507,HARD,43.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,70.0,74.765,25.205,27.27,22.29,HARD,46.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,70.0,75.014,25.088,27.457,22.469,HARD,37.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,70.0,75.101,25.565,27.241,22.295,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,68.0,77.757,26.736,28.339,22.682,SOFT,17.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,70.0,74.851,25.207,27.115,22.529,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,69.0,74.877,25.188,27.168,22.521,MEDIUM,15.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,69.0,77.218,26.288,27.828,23.102,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,70.0,74.207,25.032,26.847,22.328,SOFT,19.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,70.0,75.898,26.036,27.157,22.705,SOFT,22.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,69.0,77.002,25.784,28.093,23.125,HARD,47.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,69.0,76.809,25.893,27.67,23.246,HARD,37.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,69.0,76.59,26.042,27.941,22.607,MEDIUM,29.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,71.0,75.007,25.237,27.276,22.494,HARD,43.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,69.0,77.284,25.955,28.534,22.795,MEDIUM,26.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,70.0,75.444,25.517,27.336,22.591,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,70.0,75.822,25.42,27.589,22.813,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,70.0,75.91,25.47,27.679,22.761,HARD,56.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,70.0,76.158,25.65,27.894,22.614,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,70.0,75.91,25.695,27.724,22.491,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,71.0,75.544,25.479,27.452,22.613,HARD,44.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,71.0,74.975,25.329,27.31,22.336,HARD,47.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,71.0,74.99,25.158,27.424,22.408,HARD,38.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,71.0,74.442,25.244,27.061,22.137,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,69.0,75.865,25.98,27.226,22.659,SOFT,18.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,71.0,74.924,25.263,27.165,22.496,HARD,42.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,70.0,74.836,25.337,27.107,22.392,MEDIUM,16.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,71.0,74.822,25.241,27.113,22.468,SOFT,20.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,70.0,77.351,25.708,28.441,23.202,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,71.0,74.898,25.406,26.947,22.545,SOFT,23.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,70.0,76.706,25.89,28.077,22.739,HARD,48.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,70.0,76.903,26.375,27.646,22.882,HARD,38.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,70.0,77.298,26.338,28.4,22.56,MEDIUM,30.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,NOR,McLaren,72.0,73.817,24.876,26.837,22.104,HARD,44.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,BOT,Kick Sauber,70.0,76.206,25.874,27.469,22.863,MEDIUM,27.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,GAS,Alpine,71.0,75.553,25.501,27.35,22.701999999999998,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALO,Aston Martin,71.0,74.972,25.202,27.131,22.639,HARD,40.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HUL,Haas F1 Team,71.0,76.222,25.494,27.781,22.947,HARD,57.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,STR,Aston Martin,71.0,76.12,25.736,27.789,22.595,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RIC,RB,71.0,76.216,26.005,27.616,22.595,HARD,42.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,VER,Red Bull Racing,72.0,75.889,25.661,27.512,22.716,HARD,45.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,LEC,Ferrari,72.0,74.765,25.179,27.282,22.304,HARD,48.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PIA,McLaren,72.0,75.092,25.183,27.421,22.488,HARD,39.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAI,Ferrari,72.0,74.631,25.328,27.091,22.212,HARD,42.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ZHO,Kick Sauber,70.0,75.798,25.776,27.284,22.738,SOFT,19.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,PER,Red Bull Racing,72.0,74.956,25.314,27.143,22.499,HARD,43.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,ALB,Williams,71.0,74.434,25.177,26.915,22.342,MEDIUM,17.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,RUS,Mercedes,72.0,74.459,25.158,26.965,22.336,SOFT,21.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,OCO,Alpine,71.0,75.946,25.748,27.37,22.828,HARD,41.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,HAM,Mercedes,72.0,75.688,25.463,27.166,23.059,SOFT,24.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,SAR,Williams,71.0,76.2,25.537,28.011,22.652,HARD,49.0,2.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,TSU,RB,71.0,76.39,25.955,27.633,22.802,HARD,39.0,3.0,0,19.3,31.8,False,0,0,0,0
+Dutch Grand Prix,MAG,Haas F1 Team,71.0,76.293,25.758,27.975,22.56,MEDIUM,31.0,2.0,0,19.3,31.8,False,0,0,0,0

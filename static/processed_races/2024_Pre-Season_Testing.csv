@@ -1,0 +1,1177 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Pre-Season Testing,NOR,McLaren,1.0,100.424,31.19300000000001,41.379,27.852,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,1.0,101.413,31.835999999999995,41.689,27.888,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,1.0,102.702,32.44,42.472,27.79,SOFT,3.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,1.0,103.822,33.229,42.792,27.801,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,1.0,105.268,33.685,43.494,28.089,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,1.0,105.723,33.573,43.814,28.336,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,1.0,106.384,34.2,43.728,28.456,MEDIUM,2.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,1.0,107.09,34.557,44.011,28.522,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,COL,Williams,1.0,107.696,35.022999999999996,44.068,28.605,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,1.0,108.15,35.852999999999994,43.895,28.402,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,TSU,RB,1.0,108.899,35.684,44.732,28.483,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,1.0,109.501,35.759,45.238,28.504,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,1.0,109.927,36.405,45.069,28.453,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,1.0,110.409,36.71700000000001,45.151,28.541,HARD,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,1.0,110.771,37.13399999999999,45.094,28.543,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,RIC,RB,1.0,111.319,37.17100000000001,45.681,28.467,SOFT,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,1.0,111.981,37.306999999999995,45.851,28.823,MEDIUM,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,1.0,112.609,37.47199999999999,46.308,28.829,HARD,2.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,1.0,113.361,37.745000000000005,46.497,29.119,HARD,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,1.0,113.822,37.894000000000005,46.661,29.267,HARD,1.0,1.0,0,30.8,37.3,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,2.0,98.48,29.268,41.412,27.8,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,2.0,98.79,29.027,41.805,27.958,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,2.0,98.853,29.507,41.692,27.654,SOFT,4.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,2.0,98.489,28.986,41.538,27.965,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,2.0,98.939,29.283,41.853,27.803,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,2.0,99.449,29.305,42.004,28.14,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,2.0,99.584,29.362,42.262,27.96,MEDIUM,3.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,2.0,99.775,29.43,42.264,28.081,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,COL,Williams,2.0,99.89,29.22,42.526,28.144,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,2.0,99.896,29.534,42.418,27.944,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,TSU,RB,2.0,99.994,29.558,42.595,27.841,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,2.0,100.217,29.383,42.751,28.083,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,2.0,100.405,29.52,42.89,27.995,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,2.0,100.386,29.344,42.956,28.086,HARD,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,2.0,100.75,29.598,42.998,28.154,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,RIC,RB,2.0,100.947,29.537,43.404,28.006,SOFT,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,2.0,100.948,29.496,43.253,28.199,MEDIUM,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,2.0,101.184,29.529,43.446,28.209,HARD,3.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,2.0,101.165,29.564,43.314,28.287,HARD,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,2.0,101.595,29.757,43.252,28.586,HARD,2.0,1.0,0,30.8,37.4,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,3.0,98.406,29.354,41.262,27.79,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,3.0,98.917,29.353,41.641,27.923000000000002,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,3.0,99.254,29.487,41.873,27.894,SOFT,5.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,3.0,99.712,29.453,42.39,27.869,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,3.0,99.35,29.077,42.332,27.941,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,3.0,99.222,29.059,42.159,28.004,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,3.0,99.286,29.045,42.278,27.963,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,3.0,99.14,29.157,42.136,27.847,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,COL,Williams,3.0,99.371,29.015,42.206,28.15,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,3.0,99.629,29.285,42.231,28.113,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,TSU,RB,3.0,99.42,29.286,42.354,27.78,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,3.0,99.441,28.921,42.509,28.011,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,3.0,99.512,29.023,42.682,27.807,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,3.0,99.696,29.132,42.811,27.753,HARD,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,3.0,99.762,29.259,42.539,27.964,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,RIC,RB,3.0,100.057,29.337,42.73,27.99,SOFT,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,3.0,100.394,29.57,42.724,28.1,MEDIUM,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,3.0,100.4,29.291,43.023,28.086,HARD,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,3.0,100.651,29.392,43.095,28.164,HARD,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,3.0,100.701,29.58,42.754,28.367,HARD,3.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,4.0,98.446,29.399,41.305,27.742,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,4.0,98.47,29.193,41.518,27.759,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,4.0,99.068,29.596,41.861,27.611,SOFT,6.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,4.0,99.17,29.464,42.067,27.639,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,4.0,99.356,29.343,42.235,27.778,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,4.0,99.51,29.11,42.382,28.018,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,4.0,99.395,29.012,42.63,27.753,MEDIUM,5.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,4.0,99.31,29.079,42.512,27.719,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,COL,Williams,4.0,99.29,28.87,42.438,27.982,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,4.0,99.151,28.951999999999998,42.239,27.96,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,TSU,RB,4.0,99.296,29.093,42.295,27.908,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,4.0,99.105,28.887,42.293,27.925,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,4.0,99.087,29.059,42.298,27.73,MEDIUM,4.0,1.0,0,30.9,37.4,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,4.0,99.489,29.1,42.23,28.159,HARD,4.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,4.0,99.285,29.108,42.303,27.874,MEDIUM,4.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,4.0,99.545,29.106,42.521,27.918,SOFT,4.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,4.0,99.479,29.167,42.525,27.787,MEDIUM,4.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,4.0,99.543,29.169,42.403,27.971,HARD,5.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,4.0,100.126,29.19,42.676,28.26,HARD,4.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,4.0,99.955,29.142,42.526,28.287,HARD,4.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,5.0,97.938,29.034,41.159,27.745,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,5.0,97.906,29.031,41.31,27.565,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,5.0,98.294,29.286,41.477,27.531,SOFT,7.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,5.0,98.604,29.227,41.79,27.587,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,5.0,98.667,29.101,41.853,27.713,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,5.0,98.649,28.913,41.995,27.741,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,5.0,99.036,29.098,42.08,27.858,MEDIUM,6.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,5.0,99.041,28.991,42.147,27.903,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,COL,Williams,5.0,98.954,28.708,42.297,27.949,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,5.0,99.064,28.78,42.327,27.957,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,TSU,RB,5.0,99.034,28.966,42.22,27.848,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,5.0,99.118,29.051,42.129,27.938,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,5.0,99.221,29.164,42.282,27.775,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,5.0,98.948,28.973,42.082,27.893,HARD,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,5.0,99.252,29.368,42.028,27.856,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,RIC,RB,5.0,99.585,29.549,42.161,27.875,SOFT,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,5.0,99.582,29.169,42.468,27.945,MEDIUM,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,5.0,99.613,29.072,42.52,28.021,HARD,6.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,5.0,99.848,29.571,42.248,28.029,HARD,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,5.0,99.892,29.203,42.481,28.208,HARD,5.0,1.0,0,31.1,36.6,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,6.0,97.843,29.15,41.224,27.469,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,6.0,97.997,28.951999999999998,41.383,27.662,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,6.0,98.271,29.231,41.455,27.585,SOFT,8.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,6.0,98.372,29.243,41.65,27.479,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,6.0,98.778,29.132,41.923,27.723,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,6.0,98.903,29.298,41.926,27.679,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,6.0,98.795,29.087,42.046,27.662,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,6.0,98.797,28.885,42.233,27.679,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,6.0,99.06,28.869,42.337,27.854,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,6.0,99.256,29.067,42.234,27.955,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,6.0,99.277,29.03,42.493,27.754,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,6.0,99.221,29.201,42.255,27.765,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,6.0,99.297,29.154,42.495,27.648,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,6.0,99.467,29.098,42.412,27.957,HARD,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,6.0,99.267,29.047,42.338,27.882,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,6.0,99.223,29.259,42.073,27.891,SOFT,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,6.0,99.724,29.072,42.559,28.093,MEDIUM,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,6.0,99.766,29.028,42.566,28.172,HARD,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,6.0,100.062,29.366,42.528,28.168,HARD,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,6.0,102.474,30.134,43.761,28.579,HARD,6.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,7.0,97.621,29.048,41.128,27.445,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,7.0,97.774,29.021,41.271,27.482,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,7.0,98.38,29.271,41.608,27.501,SOFT,9.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,7.0,98.365,29.168,41.685,27.512,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,7.0,98.419,29.002,41.742,27.675,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,7.0,98.736,29.152,41.916,27.668,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,7.0,98.72,28.867,42.018,27.835,MEDIUM,8.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,7.0,98.645,28.954,42.14,27.551,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,7.0,98.94,28.94,41.993,28.007,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,7.0,99.133,28.99,42.416,27.727,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,7.0,99.262,29.074,42.372,27.816,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,7.0,99.349,28.892,42.587,27.87,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,7.0,99.245,29.038,42.421,27.786,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,7.0,99.156,28.88,42.337,27.939,HARD,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,7.0,99.039,29.115,42.037,27.887,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,7.0,99.598,29.411,42.178,28.009,SOFT,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,7.0,99.621,29.369,42.424,27.828,MEDIUM,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,7.0,99.735,29.242,42.55,27.943,HARD,8.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,7.0,99.832,29.468,42.287,28.077,HARD,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,7.0,100.283,29.711,42.639,27.933,HARD,7.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,8.0,97.082,28.919,40.798,27.365,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,8.0,97.669,29.109,41.083,27.477,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,8.0,98.246,29.179,41.584,27.483,SOFT,10.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,8.0,98.26,29.102,41.735,27.423,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,8.0,97.873,28.888,41.45,27.535,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,8.0,98.821,29.233,41.858,27.73,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,8.0,98.542,28.828,42.038,27.676,MEDIUM,9.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,8.0,98.727,28.889,42.092,27.746,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,8.0,98.934,29.225,41.905,27.804,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,8.0,98.357,29.183,41.627,27.547,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,8.0,98.905,29.054,42.147,27.704,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,8.0,98.784,28.906,42.083,27.795,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,8.0,98.999,29.083,42.263,27.653,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,8.0,99.436,28.993,42.436,28.007,HARD,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,8.0,99.316,28.937,42.166,28.213,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,RIC,RB,8.0,99.615,29.435,42.308,27.872,SOFT,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,8.0,99.663,29.417,42.239,28.007,MEDIUM,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,8.0,99.738,29.283,42.516,27.939,HARD,9.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,8.0,99.487,29.361,42.05,28.076,HARD,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,8.0,100.319,29.638,42.562,28.119,HARD,8.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,9.0,96.715,28.781,40.658,27.276,MEDIUM,9.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,9.0,97.89,28.961,41.421,27.508,MEDIUM,9.0,1.0,0,31.0,36.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,9.0,98.027,29.095,41.504,27.428,SOFT,11.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,9.0,98.174,29.061,41.612,27.501,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,9.0,98.446,29.101,41.692,27.653,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,9.0,98.404,29.156,41.751,27.497,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,9.0,98.644,28.87,42.063,27.711,MEDIUM,10.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,9.0,98.691,28.87,42.117,27.704,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,COL,Williams,9.0,98.73,28.972,41.821,27.937,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,9.0,98.681,28.951,42.083,27.647,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,9.0,98.918,29.188,42.106,27.624,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,9.0,99.072,28.716,42.486,27.87,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,9.0,99.411,29.239,42.415,27.757,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,9.0,99.858,29.235,42.306,28.317,HARD,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,9.0,99.767,29.275,42.13,28.362,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,RIC,RB,9.0,99.598,29.431,42.252,27.915,SOFT,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,9.0,100.929,30.11,42.805,28.014,MEDIUM,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,9.0,100.781,29.564,43.15,28.067,HARD,10.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,9.0,99.743,29.362,42.367,28.014,HARD,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,9.0,99.859,29.583,42.322,27.954,HARD,9.0,1.0,0,31.1,37.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,10.0,96.83,28.727,40.859,27.244,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,10.0,97.739,28.882,41.405,27.452,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,10.0,98.309,29.063,41.725,27.521,SOFT,12.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,10.0,98.332,29.046,41.781,27.505,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,10.0,98.429,29.15,41.615,27.664,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,10.0,98.798,29.143,42.008,27.647,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,10.0,98.765,28.852,42.088,27.825,MEDIUM,11.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,10.0,98.582,28.704,42.145,27.733,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,10.0,98.833,28.954,41.901,27.978,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,10.0,98.934,28.963,42.183,27.788,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,10.0,98.861,29.13,41.928,27.803,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,10.0,98.947,29.242,41.9,27.805,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,10.0,99.319,29.359,42.253,27.707,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,10.0,99.263,29.245,42.117,27.901,HARD,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,10.0,99.896,29.241,42.267,28.388,MEDIUM,10.0,1.0,0,31.1,37.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,10.0,99.488,29.441,42.464,27.583,MEDIUM,10.0,1.0,0,31.1,36.9,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,10.0,99.514,29.109,42.603,27.802,HARD,11.0,1.0,0,31.1,36.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,10.0,99.36,29.298,42.128,27.934,HARD,10.0,1.0,0,31.1,36.9,False,0,0,0,0
+Pre-Season Testing,RIC,RB,10.0,107.68,29.389,42.338,35.953,SOFT,10.0,1.0,1,31.1,36.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,10.0,99.914,29.442,42.391,28.081,HARD,10.0,1.0,0,31.1,36.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,11.0,96.651,28.697,40.842,27.112,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,11.0,97.593,28.842,41.269,27.482,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,11.0,97.916,29.11,41.411,27.395,SOFT,13.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,11.0,98.179,29.158,41.617,27.404,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,11.0,98.269,29.083,41.491,27.695,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,11.0,98.688,29.184,42.005,27.499,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,11.0,98.666,28.802,42.164,27.7,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,11.0,98.913,28.98,42.207,27.726,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,11.0,98.756,28.944,41.883,27.929,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,11.0,99.067,28.934,42.18,27.953,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,11.0,98.938,29.187,41.959,27.792,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,11.0,98.694,28.858,42.092,27.744,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,11.0,99.166,29.228,42.198,27.74,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,11.0,99.735,29.238,42.359,28.138,HARD,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,11.0,99.263,29.325,42.081,27.857,MEDIUM,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,11.0,99.689,29.241,42.418,28.03,HARD,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,11.0,106.666,29.101,42.374,35.191,MEDIUM,11.0,1.0,1,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,11.0,99.654,29.344,42.285,28.025,HARD,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,11.0,100.009,29.483,42.521,28.005,HARD,11.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,11.0,120.481,51.185,41.624,27.672,MEDIUM,1.0,2.0,1,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,12.0,96.495,28.62,40.879,26.996,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,12.0,97.778,28.894,41.425,27.459,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,12.0,97.984,29.093,41.603,27.288,SOFT,14.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,12.0,98.091,29.018,41.568,27.505,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,12.0,98.151,28.845,41.706,27.6,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,12.0,98.887,29.277,42.063,27.547,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,12.0,98.874,28.947,42.125,27.802,MEDIUM,13.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,12.0,98.776,28.876,42.292,27.608,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,12.0,98.894,29.132,41.929,27.833,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,12.0,98.864,28.96,42.026,27.878,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,12.0,99.673,29.39,42.382,27.901,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,12.0,99.713,28.982,42.65,28.081,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,12.0,99.276,29.257,42.279,27.74,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,12.0,99.708,29.268,42.361,28.079,HARD,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,12.0,99.234,29.268,42.229,27.737,MEDIUM,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,12.0,99.738,29.444,42.389,27.905,HARD,13.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,12.0,99.909,29.352,42.662,27.895,HARD,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,12.0,100.044,29.357,42.442,28.245,HARD,12.0,1.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,12.0,118.026,49.705,40.831,27.49,HARD,1.0,2.0,1,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,12.0,98.589,29.103,41.775,27.711,MEDIUM,2.0,2.0,0,31.1,36.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,13.0,96.67,28.639,40.727,27.304,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,13.0,97.701,28.94,41.182,27.579,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,13.0,98.102,29.141,41.47,27.491,SOFT,15.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,13.0,98.05,29.144,41.566,27.34,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,13.0,98.215,28.881,41.633,27.701,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,13.0,98.721,29.245,41.848,27.628,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,13.0,98.719,28.877,42.078,27.764,MEDIUM,14.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,13.0,98.671,28.898,42.154,27.619,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,COL,Williams,13.0,98.94,29.237,41.805,27.898,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,13.0,99.592,29.15,42.356,28.086,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,TSU,RB,13.0,99.488,29.218,42.189,28.081,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,13.0,99.579,29.336,42.428,27.815,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,13.0,99.637,29.304,42.299,28.034,HARD,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,13.0,107.072,29.234,42.472,35.366,MEDIUM,13.0,1.0,1,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,13.0,99.315,29.39,42.084,27.841,MEDIUM,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,13.0,99.511,29.361,42.316,27.834,HARD,14.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,13.0,100.337,29.358,42.82,28.159,HARD,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,13.0,100.007,29.568,42.5,27.939,HARD,13.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,13.0,96.888,28.928,40.666,27.294,HARD,2.0,2.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,RIC,RB,13.0,98.644,29.225,41.71,27.709,MEDIUM,3.0,2.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,14.0,96.832,28.803,40.825,27.204,MEDIUM,14.0,1.0,0,31.1,36.3,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,14.0,97.707,28.994,41.292,27.421,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,14.0,98.174,29.101,41.68,27.393,SOFT,16.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,14.0,98.173,29.012,41.688,27.473,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,14.0,97.651,28.822,41.347,27.482,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,14.0,98.607,29.115,41.892,27.6,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,14.0,98.524,28.852,42.026,27.646,MEDIUM,15.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,14.0,98.707,28.761,42.304,27.642,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,COL,Williams,14.0,99.139,29.292,41.861,27.986,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,14.0,99.142,29.338,41.974,27.83,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,TSU,RB,14.0,99.585,29.377,42.313,27.895,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,14.0,99.435,29.233,42.318,27.884,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,14.0,99.568,29.247,42.364,27.957,HARD,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,14.0,99.34,29.362,42.109,27.869,MEDIUM,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,14.0,99.795,29.452,42.429,27.914,HARD,15.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,14.0,99.82,29.514,42.376,27.93,HARD,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,14.0,99.879,29.562,42.301,28.016,HARD,14.0,1.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,14.0,116.967,49.366,40.542,27.059,HARD,1.0,2.0,1,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,14.0,98.74,29.358,41.648,27.734,HARD,3.0,2.0,0,31.2,36.3,False,0,0,0,0
+Pre-Season Testing,RIC,RB,14.0,98.66,29.163,41.755,27.742,MEDIUM,4.0,2.0,0,31.2,36.4,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,15.0,96.758,28.747,40.861,27.15,MEDIUM,15.0,1.0,0,31.2,36.4,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,15.0,97.826,28.967,41.348,27.511,MEDIUM,15.0,1.0,0,31.2,36.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,15.0,98.287,29.157,41.711,27.419,SOFT,17.0,1.0,0,31.2,36.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,15.0,98.459,29.215,41.752,27.492,MEDIUM,15.0,1.0,0,31.2,36.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,15.0,98.435,29.004,41.615,27.816,MEDIUM,15.0,1.0,0,31.2,36.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,15.0,98.799,29.181,41.921,27.697,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,15.0,99.008,28.966,42.135,27.907,MEDIUM,16.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,15.0,98.515,28.669,42.226,27.62,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,15.0,98.858,29.288,41.77,27.8,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,15.0,99.102,29.277,41.938,27.887,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,15.0,99.349,29.336,42.166,27.847,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,15.0,99.276,29.307,42.206,27.763,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,15.0,99.385,29.214,42.401,27.77,HARD,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,15.0,99.491,29.46,42.232,27.799,MEDIUM,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,15.0,99.494,29.276,42.253,27.965,HARD,16.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,15.0,99.61,29.388,42.311,27.911,HARD,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,15.0,99.404,29.361,42.08,27.963,HARD,15.0,1.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,15.0,96.561,28.711,40.737,27.113,HARD,2.0,2.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,15.0,98.774,29.17,41.953,27.651,MEDIUM,5.0,2.0,0,31.1,36.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,16.0,96.624,28.723,40.93,26.971,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,ALB,Williams,15.0,133.278,35.672,54.488,43.118,HARD,4.0,2.0,1,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,16.0,97.851,29.023,41.338,27.49,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,16.0,99.044,29.462,41.887,27.695,SOFT,18.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,16.0,98.526,29.14,41.735,27.651,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,16.0,98.088,29.003,41.57,27.515,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,16.0,99.054,29.286,42.16,27.608,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,16.0,98.862,28.918,42.27,27.674,MEDIUM,17.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,16.0,98.904,28.657,42.608,27.639,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,16.0,98.865,29.189,41.814,27.862,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,16.0,99.204,29.137,42.067,28.0,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,16.0,99.195,29.24,42.161,27.794,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,16.0,99.468,29.286,42.26,27.922,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,16.0,99.274,29.261,42.225,27.788,HARD,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,16.0,99.178,29.287,42.153,27.738,MEDIUM,16.0,1.0,0,31.1,36.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,16.0,99.923,29.295,42.573,28.055,HARD,17.0,1.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,16.0,99.727,29.416,42.239,28.072,HARD,16.0,1.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,16.0,99.706,29.369,42.378,27.959,HARD,16.0,1.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,16.0,96.908,28.706,40.965,27.237,HARD,3.0,2.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,RIC,RB,16.0,98.42,29.202,41.614,27.604,MEDIUM,6.0,2.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,17.0,97.008,28.765,40.959,27.284,MEDIUM,17.0,1.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,17.0,97.987,29.011,41.423,27.553,MEDIUM,17.0,1.0,0,31.1,35.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,17.0,98.855,29.149,42.08,27.626,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,17.0,98.532,28.941,41.907,27.684,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,17.0,106.862,29.219,41.984,35.659,SOFT,19.0,1.0,1,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,17.0,98.771,29.191,42.015,27.565,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,17.0,98.811,28.966,42.264,27.581,MEDIUM,18.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,17.0,99.561,29.34,42.244,27.977,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,COL,Williams,17.0,99.21,29.167,42.079,27.964,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,17.0,99.431,29.08,42.189,28.162,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,TSU,RB,17.0,99.249,29.3,42.15,27.799,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,17.0,99.485,29.338,42.229,27.918,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,17.0,99.441,29.179,42.353,27.909,HARD,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,17.0,99.106,29.27,42.087,27.749,MEDIUM,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,17.0,99.933,29.347,42.593,27.993,HARD,18.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,17.0,100.174,29.416,42.624,28.134,HARD,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,17.0,97.479,28.904,41.424,27.151,HARD,4.0,2.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,17.0,101.626,29.405,43.948,28.273,HARD,17.0,1.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,RIC,RB,17.0,98.406,29.163,41.65,27.593,MEDIUM,7.0,2.0,0,31.0,35.7,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,18.0,97.068,28.859,41.085,27.124,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,18.0,98.068,28.965,41.611,27.492,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,18.0,98.404,29.077,41.791,27.536,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,18.0,98.188,28.981,41.599,27.608,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,18.0,98.858,29.173,42.051,27.634,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,18.0,98.718,28.945,42.205,27.568,MEDIUM,19.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,18.0,98.814,29.167,41.996,27.651,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,18.0,99.078,29.311,42.012,27.755,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,18.0,99.343,29.274,42.114,27.955,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,18.0,99.658,29.358,42.346,27.954,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,18.0,99.904,29.363,42.641,27.9,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,18.0,99.706,29.394,42.514,27.798000000000002,HARD,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,18.0,118.708,49.715,41.657,27.336,HARD,1.0,2.0,1,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,18.0,99.98,29.469,42.6,27.911,MEDIUM,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,18.0,100.015,29.37,42.624,28.021,HARD,19.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,18.0,100.059,29.529,42.527,28.003,HARD,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,18.0,98.151,28.894,41.275,27.982,HARD,5.0,2.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,18.0,100.278,29.559,42.664,28.055,HARD,18.0,1.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,18.0,98.261,29.094,41.54,27.627,MEDIUM,8.0,2.0,0,31.0,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,19.0,97.282,28.814,41.2,27.268,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,19.0,98.017,28.996,41.483,27.538,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,19.0,98.224,29.063,41.664,27.497,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,19.0,98.749,28.849,42.365,27.535,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,19.0,99.143,29.334,42.275,27.534,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,19.0,99.283,29.1,42.41,27.773,MEDIUM,20.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,19.0,98.734,29.021,41.998,27.715,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,COL,Williams,19.0,99.024,29.213,42.108,27.703,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,19.0,99.479,29.276,42.197,28.006,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,19.0,99.672,29.363,42.381,27.928,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,19.0,99.857,29.343,42.612,27.902,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,19.0,98.202,28.874,41.308,28.02,HARD,2.0,2.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,19.0,100.7,29.297,42.588,28.815,HARD,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,19.0,99.619,29.367,42.279,27.973,MEDIUM,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,19.0,99.96,29.307,42.732,27.921,HARD,20.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,19.0,98.181,28.893,41.866,27.422,HARD,6.0,2.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,19.0,101.195,29.432,43.464,28.299,HARD,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,19.0,100.18,29.592,42.53,28.058,HARD,19.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,RIC,RB,19.0,98.639,29.194,41.797,27.648,MEDIUM,9.0,2.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,20.0,96.887,28.735,41.172,26.98,MEDIUM,20.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,20.0,98.123,28.997,41.569,27.557,MEDIUM,20.0,1.0,0,30.9,36.1,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,20.0,98.336,29.053,41.765,27.518,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,20.0,98.317,28.98,41.765,27.572,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,20.0,99.438,29.368,42.352,27.718,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,20.0,99.367,28.993,42.625,27.749,MEDIUM,21.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,20.0,99.087,28.836,42.5,27.751,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,20.0,98.682,29.1,41.849,27.733,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,20.0,99.013,29.16,42.0,27.853,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,20.0,99.566,29.45,42.226,27.89,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,20.0,99.883,29.424,42.468,27.991,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,20.0,98.745,29.148,41.873,27.724,HARD,3.0,2.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,20.0,100.283,29.333,42.852,28.098,HARD,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,20.0,99.776,29.457,42.59,27.729,MEDIUM,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,20.0,99.929,29.346,42.458,28.125,HARD,21.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,20.0,98.813,29.141,41.493,28.179,HARD,7.0,2.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,20.0,100.581,29.659,42.777,28.145,HARD,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,20.0,100.404,29.487,42.877,28.04,HARD,20.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,20.0,98.892,29.345,41.839,27.708,MEDIUM,10.0,2.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,21.0,97.198,28.918,41.088,27.192,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,21.0,98.172,28.989,41.72,27.463,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,21.0,98.464,29.196,41.661,27.607,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,21.0,98.275,28.855,41.872,27.548000000000002,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,21.0,99.25,29.402,42.247,27.601,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,21.0,99.264,29.085,42.466,27.713,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,21.0,99.315,29.175,42.45,27.69,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,COL,Williams,21.0,99.327,29.443,42.17,27.714,MEDIUM,21.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,21.0,99.166,29.23,42.056,27.88,MEDIUM,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,TSU,RB,21.0,99.785,29.355,42.347,28.083,MEDIUM,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,21.0,99.941,29.515,42.523,27.903,MEDIUM,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,21.0,98.916,29.173,41.795,27.948,HARD,4.0,2.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,21.0,100.483,29.44,43.035,28.008,HARD,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,21.0,99.529,29.407,42.457,27.665,MEDIUM,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,21.0,99.138,29.06,42.268,27.81,HARD,8.0,2.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,21.0,101.423,29.43,43.962,28.031,HARD,22.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,21.0,100.465,29.617,42.732,28.116,HARD,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,21.0,99.985,29.443,42.48,28.062,HARD,21.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,RIC,RB,21.0,98.801,29.138,41.96,27.703,MEDIUM,11.0,2.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,22.0,97.115,28.812,41.272,27.031,MEDIUM,22.0,1.0,0,30.8,36.6,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,22.0,98.192,28.989,41.704,27.499,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,22.0,98.364,29.098,41.709,27.557,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,22.0,98.415,29.002,41.924,27.489,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,22.0,99.128,29.375,42.086,27.667,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,22.0,99.272,28.943,42.606,27.723,MEDIUM,23.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,22.0,99.008,29.064,42.343,27.601,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,COL,Williams,22.0,98.959,29.221,41.954,27.784,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,22.0,99.435,29.373,42.071,27.991,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,TSU,RB,22.0,99.417,29.266,42.148,28.003,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,22.0,98.194,28.957,41.8,27.437,HARD,5.0,2.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,22.0,101.176,29.453,43.704,28.019,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,22.0,100.347,29.417,42.87,28.06,HARD,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,22.0,99.831,29.383,42.533,27.915,MEDIUM,22.0,1.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,22.0,98.79,29.185,41.772,27.833,HARD,9.0,2.0,0,30.8,36.4,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,22.0,100.433,29.492,42.932,28.009,HARD,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,22.0,100.115,29.503,42.535,28.077,HARD,22.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,22.0,99.661,29.407,42.297,27.957,HARD,22.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,22.0,98.625,29.293,41.734,27.598,MEDIUM,12.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,23.0,97.212,28.855,41.138,27.219,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,23.0,98.231,29.016,41.711,27.504,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,23.0,98.417,29.113,41.733,27.571,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,23.0,98.262,28.955,41.809,27.498,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,23.0,99.465,29.422,42.244,27.799,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,23.0,99.243,29.022,42.467,27.754,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,23.0,99.688,29.36,42.525,27.803,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,23.0,99.621,29.327,42.282,28.012,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,23.0,99.432,29.375,42.101,27.956,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,23.0,99.444,29.366,42.161,27.917,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,23.0,98.396,29.198,41.743,27.455,HARD,6.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,23.0,100.263,29.519,42.718,28.026,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,23.0,100.303,29.449,42.884,27.97,HARD,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,23.0,100.239,29.698,42.582,27.959,MEDIUM,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,23.0,98.424,28.944,41.797,27.683,HARD,10.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,23.0,100.328,29.447,42.826,28.055,HARD,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,23.0,100.026,29.512,42.658,27.856,HARD,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,23.0,100.115,29.394,42.671,28.05,HARD,23.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,23.0,98.992,29.285,42.073,27.634,MEDIUM,13.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,24.0,97.527,28.974,41.386,27.167,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,24.0,98.399,29.056,41.782,27.561,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,24.0,98.518,29.083,41.88,27.555,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,24.0,98.403,28.958,42.0,27.445,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,24.0,99.268,29.339,42.193,27.736,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,24.0,99.597,29.082,42.663,27.852,MEDIUM,25.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,24.0,99.372,29.022,42.387,27.963,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,24.0,99.047,29.254,42.129,27.664,MEDIUM,24.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,24.0,99.672,29.219,42.336,28.117,MEDIUM,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,24.0,99.444,29.289,42.243,27.912,MEDIUM,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,24.0,98.352,29.218,41.652,27.482,HARD,7.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,24.0,99.971,29.405,42.653,27.913,MEDIUM,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,24.0,100.508,29.376,43.137,27.995,HARD,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,24.0,100.166,29.587,42.69,27.889,MEDIUM,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,24.0,99.011,29.155,41.832,28.024,HARD,11.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,24.0,100.183,29.408,42.777,27.998,HARD,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,24.0,100.047,29.477,42.567,28.003,HARD,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,24.0,99.916,29.44,42.547,27.929,HARD,24.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RIC,RB,24.0,99.074,29.2,42.017,27.857,MEDIUM,14.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,25.0,97.404,28.797,41.373,27.234,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,25.0,98.641,29.062,41.99,27.589,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,25.0,98.892,29.223,41.996,27.673000000000002,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,25.0,98.516,28.834,42.087,27.595,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,25.0,99.691,29.449,42.42,27.822,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,25.0,100.029,29.402,42.508,28.119,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,COL,Williams,25.0,99.886,29.329,42.554,28.003,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,25.0,99.784,29.368,42.476,27.94,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,25.0,108.707,29.129,42.961,36.617,MEDIUM,26.0,1.0,1,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,25.0,100.589,29.355,42.599,28.635,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,25.0,100.158,29.011,42.206,28.941,HARD,8.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,25.0,99.992,29.448,42.598,27.946,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,25.0,100.389,29.424,42.955,28.01,HARD,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,25.0,99.596,29.093,42.592,27.911,HARD,12.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,25.0,101.407,29.381,42.992,29.034,MEDIUM,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,25.0,100.487,29.372,42.946,28.169,HARD,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,25.0,100.219,29.54,42.506,28.173,HARD,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,25.0,100.085,29.459,42.531,28.095,HARD,25.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RIC,RB,25.0,99.495,29.334,42.163,27.998,MEDIUM,15.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,26.0,97.26,28.828,41.187,27.245,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,26.0,98.575,29.106,41.818,27.651,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,26.0,98.757,29.083,42.059,27.615,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,26.0,98.839,28.768,42.378,27.693,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,26.0,99.569,29.304,42.551,27.714,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,26.0,98.867,29.214,41.963,27.69,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,COL,Williams,26.0,99.427,29.285,42.329,27.813,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,26.0,100.035,29.555,42.376,28.104,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,26.0,99.898,29.423,42.411,28.064,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,26.0,100.171,30.049,42.374,27.748,HARD,9.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,26.0,100.689,29.491,42.912,28.286,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,26.0,99.274,28.887,42.632,27.755,HARD,13.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,26.0,102.209,29.508,44.331,28.37,HARD,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,26.0,100.906,29.6,43.127,28.179,MEDIUM,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,26.0,118.688,49.718,41.693,27.277,HARD,2.0,2.0,1,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,26.0,100.4,29.569,42.746,28.085,HARD,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,26.0,100.156,29.417,42.631,28.108,HARD,26.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RIC,RB,26.0,100.181,29.32,42.805,28.056,MEDIUM,16.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,26.0,108.829,29.567,43.114,36.148,HARD,27.0,1.0,1,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,27.0,97.603,28.941,41.425,27.237,MEDIUM,27.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,27.0,98.927,29.264,41.975,27.688,MEDIUM,27.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,27.0,98.644,28.794,42.31,27.54,MEDIUM,27.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,27.0,106.903,29.178,42.102,35.623,MEDIUM,27.0,1.0,1,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,27.0,99.773,29.483,42.401,27.889,MEDIUM,27.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,27.0,99.153,29.163,42.339,27.651,MEDIUM,27.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,27.0,99.701,29.3,42.472,27.929,MEDIUM,27.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,27.0,99.713,29.372,42.446,27.895,MEDIUM,27.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,27.0,99.999,28.995,42.629,28.375,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,27.0,101.874,29.446,42.513,29.915,MEDIUM,27.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,27.0,100.864,29.906,42.964,27.994,MEDIUM,27.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,27.0,99.193,29.286,42.048,27.859,HARD,14.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,27.0,100.97,29.349,43.238,28.383,HARD,27.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,27.0,98.49,28.819,41.75,27.921,HARD,3.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,27.0,101.737,29.566,42.923,29.248,MEDIUM,27.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,27.0,100.189,29.545,42.578,28.066,HARD,27.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,27.0,100.272,29.529,42.567,28.176,HARD,27.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,27.0,100.285,29.295,42.95,28.04,MEDIUM,17.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,28.0,97.528,28.917,41.385,27.226,MEDIUM,28.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,27.0,120.401,50.603,41.991,27.807,MEDIUM,2.0,2.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,28.0,99.265,29.236,42.261,27.768,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,28.0,97.7,28.663,41.481,27.556,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,28.0,99.795,29.071,42.984,27.74,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,28.0,101.269,29.522,42.682,29.065,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,28.0,99.813,29.448,42.426,27.939,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,28.0,117.061,48.589,41.034,27.438,HARD,1.0,2.0,1,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,28.0,98.455,29.22,41.663,27.572,HARD,11.0,2.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,28.0,100.294,29.569,42.718,28.007,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,28.0,107.385,29.337,42.244,35.804,MEDIUM,28.0,1.0,1,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,28.0,100.723,29.675,42.952,28.096,MEDIUM,28.0,1.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,28.0,99.363,29.379,41.977,28.007,HARD,15.0,2.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,28.0,98.826,28.908,42.426,27.492,HARD,4.0,2.0,0,30.8,35.9,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,28.0,101.081,29.705,43.216,28.16,MEDIUM,28.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,28.0,99.965,29.525,42.546,27.894,HARD,28.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,28.0,109.569,29.399,44.374,35.796,HARD,28.0,1.0,1,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,28.0,100.242,29.453,42.622,28.167,HARD,28.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,28.0,100.194,29.203,42.815,28.176,MEDIUM,18.0,2.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,29.0,101.878,28.963,41.543,31.372,MEDIUM,29.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,28.0,99.233,29.156,42.242,27.835,MEDIUM,3.0,2.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,29.0,107.873,29.284,42.515,36.074,MEDIUM,29.0,1.0,1,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,29.0,97.944,28.916,41.686,27.342,MEDIUM,29.0,1.0,0,30.8,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,29.0,98.371,28.9,41.785,27.686,MEDIUM,29.0,1.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,29.0,97.097,28.644,41.145,27.308,HARD,2.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,29.0,108.55,29.716,42.921,35.913,MEDIUM,29.0,1.0,1,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,29.0,98.026,29.061,41.614,27.351,HARD,12.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,COL,Williams,29.0,108.344,29.352,42.809,36.183,MEDIUM,29.0,1.0,1,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,TSU,RB,29.0,100.067,29.402,42.617,28.048,MEDIUM,29.0,1.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,29.0,98.961,29.058,42.339,27.564,HARD,16.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,29.0,98.614,28.973,42.112,27.529,HARD,5.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,29.0,100.484,29.426,42.769,28.289,MEDIUM,29.0,1.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,29.0,110.059,29.629,44.083,36.347,MEDIUM,29.0,1.0,1,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,29.0,117.269,49.009,41.103,27.157,HARD,1.0,2.0,1,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,29.0,101.094,29.714,43.248,28.132,HARD,29.0,1.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,RIC,RB,29.0,99.251,29.175,42.287,27.789,MEDIUM,19.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,29.0,102.061,29.595,44.197,28.269,HARD,29.0,1.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,30.0,107.073,29.259,41.876,35.938,MEDIUM,30.0,1.0,1,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,29.0,119.915,50.008,42.29,27.617,MEDIUM,1.0,2.0,1,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,29.0,99.389,29.255,42.294,27.84,MEDIUM,4.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,30.0,98.29,28.893,41.829,27.568,MEDIUM,30.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,30.0,118.989,49.957,41.662,27.37,HARD,1.0,2.0,1,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,30.0,99.543,29.136,41.751,28.656,MEDIUM,30.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,30.0,97.047,28.709,41.104,27.234,HARD,3.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,30.0,97.833,29.06,41.488,27.285,HARD,13.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,30.0,99.971,29.396,42.656,27.919,MEDIUM,30.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,30.0,98.207,28.987,41.65,27.57,HARD,17.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,30.0,98.562,29.152,41.815,27.595,HARD,6.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,30.0,121.641,50.176,43.727,27.738,HARD,1.0,2.0,1,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,30.0,99.589,28.694,42.511,28.384,HARD,2.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,30.0,103.135,29.789,43.81,29.536,MEDIUM,30.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,30.0,121.584,50.396,42.463,28.725,HARD,1.0,2.0,1,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,30.0,100.857,29.661,42.886,28.31,HARD,30.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,30.0,99.563,29.294,42.155,28.114,MEDIUM,20.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,30.0,100.933,29.438,43.07,28.425,HARD,30.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,30.0,120.611,50.511,42.364,27.736,HARD,1.0,2.0,1,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,30.0,98.131,28.736,41.833,27.562,MEDIUM,2.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,30.0,98.917,28.993,42.188,27.736,MEDIUM,5.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,31.0,118.408,49.556,41.249,27.603,HARD,1.0,2.0,1,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,31.0,98.149,28.907,41.833,27.409,MEDIUM,31.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,31.0,96.688,28.61,40.86,27.218,HARD,2.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,31.0,99.214,29.313,42.14,27.761,MEDIUM,31.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,31.0,97.404,28.766,41.24,27.398,HARD,4.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,31.0,98.44,29.149,41.868,27.423,HARD,14.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,31.0,100.162,29.399,42.736,28.027,MEDIUM,31.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,31.0,98.375,28.955,41.773,27.647,HARD,18.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,31.0,98.432,29.021,42.001,27.41,HARD,7.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,31.0,98.546,29.067,41.829,27.65,HARD,2.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,31.0,98.404,29.116,41.747,27.541,HARD,3.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,31.0,100.451,30.385,42.358,27.708,HARD,2.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,31.0,103.156,30.542,44.365,28.249,MEDIUM,31.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,31.0,101.16,29.396,43.332,28.432,MEDIUM,21.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,31.0,102.29,29.59,43.392,29.308,HARD,31.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,31.0,100.974,29.677,42.979,28.318,HARD,31.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,31.0,98.887,29.278,41.928,27.681,HARD,2.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,31.0,98.206,28.859,41.662,27.685,MEDIUM,3.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,31.0,98.495,29.021,41.869,27.605,MEDIUM,6.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,32.0,97.034,28.851,40.761,27.422,HARD,2.0,2.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,32.0,98.194,28.854,41.918,27.422,MEDIUM,32.0,1.0,0,30.6,35.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,32.0,96.824,28.613,40.928,27.283,HARD,3.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,32.0,98.505,29.045,41.91,27.55,MEDIUM,32.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,32.0,97.348,28.913,41.198,27.237,HARD,5.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,32.0,97.696,29.004,41.459,27.233,HARD,15.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,32.0,100.018,29.45,42.578,27.99,MEDIUM,32.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,32.0,98.598,29.136,41.887,27.575,HARD,19.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,32.0,98.603,29.195,41.941,27.467,HARD,8.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,32.0,98.385,29.091,41.819,27.475,HARD,3.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,32.0,98.407,29.019,41.859,27.529,HARD,4.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,32.0,98.081,28.922,41.476,27.683,HARD,3.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,32.0,100.685,29.771,42.914,28.0,MEDIUM,32.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,32.0,99.528,29.528,42.237,27.763,MEDIUM,22.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,32.0,101.21,29.593,43.26,28.357,HARD,32.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,32.0,100.831,29.657,42.87,28.304,HARD,32.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,32.0,98.512,29.086,41.783,27.643,HARD,3.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,32.0,98.472,28.843,42.152,27.477,MEDIUM,4.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,32.0,98.159,29.077,41.62,27.462,MEDIUM,7.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,33.0,96.684,28.703,40.783,27.198,HARD,3.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,33.0,98.288,28.894,42.004,27.39,MEDIUM,33.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,33.0,97.022,28.775,41.013,27.234,HARD,4.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,33.0,98.187,29.055,41.688,27.444,MEDIUM,33.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,33.0,97.449,28.826999999999998,41.375,27.247,HARD,6.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,33.0,97.447,28.947,41.257,27.243,HARD,16.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,33.0,99.354,28.871,42.271,28.212,HARD,20.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,33.0,98.161,29.117,41.824,27.22,HARD,9.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,33.0,107.942,29.344,42.496,36.102,MEDIUM,33.0,1.0,1,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,33.0,97.8,29.007,41.42,27.373,HARD,4.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,33.0,97.477,28.596,41.41,27.471,HARD,5.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,COL,Williams,33.0,97.739,28.927,41.303,27.509,HARD,4.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,33.0,100.261,29.536,42.832,27.893,MEDIUM,33.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,RIC,RB,33.0,99.378,29.303,42.119,27.956,MEDIUM,23.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,33.0,101.039,29.757,43.092,28.19,HARD,33.0,1.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,33.0,98.368,29.113,41.719,27.536,HARD,4.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,33.0,98.36,28.858,41.927,27.575,MEDIUM,5.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,33.0,108.688,29.529,43.093,36.066,HARD,33.0,1.0,1,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,33.0,98.162,28.955,41.706,27.501,MEDIUM,8.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,34.0,96.714,28.639,40.807,27.268,HARD,4.0,2.0,0,30.8,36.1,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,34.0,98.038,28.802,41.815,27.421,MEDIUM,34.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,34.0,96.871,28.699,40.998,27.174,HARD,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,34.0,98.494,29.001,41.863,27.63,MEDIUM,34.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,34.0,98.356,28.611,41.783,27.962,HARD,7.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,34.0,97.413,28.967,41.274,27.172,HARD,17.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,34.0,98.399,29.002,41.776,27.621,HARD,21.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,34.0,98.487,28.964,42.131,27.392,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,34.0,98.002,28.943,41.594,27.465,HARD,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,34.0,97.992,28.669,41.814,27.509,HARD,6.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,34.0,97.983,28.817,41.636,27.53,HARD,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,34.0,100.822,29.621,43.03,28.171,MEDIUM,34.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,34.0,100.561,29.079,43.174,28.308,MEDIUM,24.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,34.0,121.124,50.45,42.703,27.971,SOFT,4.0,2.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,34.0,98.441,29.033,41.828,27.58,HARD,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,34.0,97.926,28.793,41.776,27.357,MEDIUM,6.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,34.0,108.825,29.591,42.808,36.426,HARD,34.0,1.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,34.0,98.286,28.962,41.823,27.501,MEDIUM,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,35.0,96.524,28.57,40.706,27.248,HARD,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,35.0,98.322,29.036,41.983,27.303,MEDIUM,35.0,1.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,34.0,119.526,50.561,41.286,27.679,MEDIUM,1.0,2.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,35.0,97.1,28.703,41.14,27.257,HARD,6.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,35.0,99.264,28.977,42.084,28.203,MEDIUM,35.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,35.0,99.168,28.733,41.971,28.464,HARD,8.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,35.0,97.68,28.964,41.477,27.239,HARD,18.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,35.0,98.324,29.025,41.855,27.444,HARD,22.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,35.0,98.14,28.946,41.803,27.391,HARD,11.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,35.0,97.47,28.89,41.341,27.239,HARD,6.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,35.0,97.858,28.59,41.84,27.428,HARD,7.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,35.0,97.262,28.752,41.128,27.382,HARD,6.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,35.0,100.699,29.535,43.016,28.148,MEDIUM,35.0,1.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,35.0,100.666,29.282,43.216,28.168,MEDIUM,25.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,35.0,98.876,29.107,42.11,27.659,SOFT,5.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,35.0,98.279,28.872,41.863,27.544,HARD,6.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,35.0,98.293,28.593,42.309,27.391,MEDIUM,7.0,2.0,0,30.8,36.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,35.0,97.924,28.931,41.543,27.45,MEDIUM,10.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,36.0,96.216,28.596,40.535,27.085,HARD,6.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,36.0,98.147,28.965,41.783,27.399,MEDIUM,36.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,35.0,119.614,49.53,42.285,27.799,MEDIUM,1.0,2.0,1,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,35.0,99.292,28.907,42.619,27.766,MEDIUM,2.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,36.0,96.968,28.653,41.062,27.253,HARD,7.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,36.0,99.164,29.298,42.069,27.797,HARD,9.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,36.0,97.985,28.984,41.663,27.338,HARD,19.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,36.0,107.084,29.1,42.344,35.64,MEDIUM,36.0,1.0,1,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,36.0,97.95,28.972,41.461,27.517,HARD,23.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,36.0,98.211,29.06,41.851,27.3,HARD,12.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,36.0,97.827,28.851,41.583,27.393,HARD,7.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,36.0,98.556,29.066,41.716,27.774,HARD,8.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,COL,Williams,36.0,97.789,28.97,41.402,27.417,HARD,7.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,RIC,RB,36.0,100.011,29.304,42.987,27.72,MEDIUM,26.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,36.0,102.881,29.621,44.931,28.329,MEDIUM,36.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,TSU,RB,36.0,98.73,29.027,42.056,27.647,SOFT,6.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,36.0,98.598,29.078,41.784,27.736,HARD,7.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,36.0,98.536,28.584,42.23,27.722,MEDIUM,8.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,36.0,97.851,28.932,41.446,27.473,MEDIUM,11.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,37.0,96.435,28.512,40.644,27.279,HARD,7.0,2.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,37.0,98.437,29.129,41.919,27.389,MEDIUM,37.0,1.0,0,30.7,35.8,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,36.0,98.362,28.905,41.599,27.858,MEDIUM,2.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,36.0,99.076,28.886,42.518,27.672,MEDIUM,3.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,37.0,96.984,28.691,41.058,27.235,HARD,8.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,37.0,97.786,28.816,41.631,27.339,HARD,10.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,37.0,97.938,29.004,41.766,27.168,HARD,20.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,37.0,98.307,28.945,41.813,27.549,HARD,24.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,37.0,97.928,28.97,41.646,27.312,HARD,13.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,37.0,117.168,48.936,40.866,27.366,HARD,1.0,2.0,1,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,37.0,98.49,29.059,42.046,27.385,HARD,8.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,37.0,98.175,28.942,41.685,27.548000000000002,HARD,9.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,COL,Williams,37.0,99.435,30.496,41.486,27.453,HARD,8.0,2.0,0,30.8,35.7,False,0,0,0,0
+Pre-Season Testing,RIC,RB,37.0,98.639,29.213,41.942,27.484,MEDIUM,27.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,37.0,98.677,29.029,42.118,27.53,SOFT,7.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,37.0,100.839,29.211,43.509,28.119,HARD,8.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,37.0,100.825,28.825,43.382,28.618,MEDIUM,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,37.0,98.917,29.002,42.057,27.858,MEDIUM,12.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,38.0,96.71,28.596,40.814,27.3,HARD,8.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,37.0,112.264,29.909,44.753,37.602,MEDIUM,37.0,1.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,37.0,98.329,28.877,41.721,27.731,MEDIUM,3.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,37.0,98.311,29.052,41.686,27.573,MEDIUM,4.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,38.0,106.395,28.989,42.029,35.377,MEDIUM,38.0,1.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,38.0,97.071,28.767,41.074,27.23,HARD,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,38.0,97.577,28.843,41.282,27.452,HARD,11.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,38.0,97.765,28.957,41.641,27.167,HARD,21.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,38.0,97.971,28.927,41.653,27.391,HARD,25.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,38.0,98.223,28.997,41.85,27.376,HARD,14.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,38.0,96.556,28.62,40.705,27.231,HARD,2.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,38.0,97.941,29.002,41.663,27.276,HARD,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,38.0,98.133,29.008,41.713,27.412,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,38.0,97.707,28.86,41.388,27.459,HARD,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,38.0,98.286,29.1,41.803,27.383,MEDIUM,28.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,38.0,98.144,28.977,41.697,27.47,SOFT,8.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,38.0,98.905,29.163,42.113,27.629,HARD,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,38.0,98.615,28.786,42.269,27.56,MEDIUM,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,39.0,97.325,28.744,41.192,27.389,HARD,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,38.0,101.692,28.964,44.079,28.649,MEDIUM,13.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,38.0,97.976,28.898,41.619,27.459,MEDIUM,4.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,38.0,98.364,29.069,41.818,27.477,MEDIUM,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,39.0,96.957,28.621,41.115,27.221,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,38.0,121.644,51.951,42.014,27.679,SOFT,1.0,2.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,39.0,97.369,28.861,41.32,27.188,HARD,12.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,39.0,97.971,29.078,41.643,27.25,HARD,22.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,39.0,117.551,49.349,41.086,27.116,HARD,1.0,2.0,1,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,39.0,97.802,28.867,41.313,27.622,HARD,26.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,39.0,98.21,29.01,41.887,27.313,HARD,15.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,39.0,96.287,28.522,40.716,27.049,HARD,3.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,39.0,97.811,28.772,41.678,27.361,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,39.0,97.84,28.767,41.54,27.533,HARD,11.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,39.0,97.679,28.936,41.322,27.421,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,39.0,98.564,29.008,41.929,27.627,MEDIUM,29.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,39.0,97.771,28.895,41.465,27.411,SOFT,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,39.0,98.001,28.953,41.478,27.57,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,39.0,98.56,28.625,42.21,27.725,MEDIUM,11.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,40.0,97.194,28.722,41.038,27.434,HARD,10.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,39.0,98.261,28.916,41.714,27.631,MEDIUM,14.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,39.0,98.314,28.933,41.635,27.746,MEDIUM,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,39.0,98.287,28.984,41.674,27.629,MEDIUM,6.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,40.0,96.962,28.662,41.048,27.252,HARD,11.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,39.0,98.029,28.919,41.708,27.402,SOFT,2.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,40.0,97.545,28.982,41.299,27.264,HARD,13.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,40.0,96.61,28.262,41.424,26.924,HARD,2.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,40.0,99.333,28.877,43.092,27.364,HARD,23.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,40.0,97.965,28.966,41.602,27.397,HARD,27.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,40.0,97.48,28.462,42.183,26.835,HARD,4.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,40.0,99.282,29.066,42.396,27.82,HARD,16.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,40.0,97.919,28.976,41.622,27.321,HARD,11.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,40.0,97.878,28.888,41.628,27.362,HARD,12.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,40.0,97.555,28.862,41.321,27.372,HARD,11.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,40.0,98.602,29.097,41.735,27.77,MEDIUM,30.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,TSU,RB,40.0,97.734,28.886,41.489,27.359,SOFT,10.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,41.0,96.57,28.598,40.84,27.132,HARD,11.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,40.0,99.739,29.018,42.823,27.898,HARD,11.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,40.0,99.835,29.288,42.903,27.644,MEDIUM,12.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,40.0,98.508,28.913,41.808,27.787,MEDIUM,15.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,40.0,98.573,28.956,41.768,27.849,MEDIUM,6.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,40.0,98.107,28.971,41.54,27.596,MEDIUM,7.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,41.0,97.38,28.78,41.247,27.353,HARD,12.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,40.0,97.823,29.003,41.312,27.508,SOFT,3.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,41.0,97.224,28.888,41.192,27.144,HARD,14.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,41.0,96.265,28.576,40.762,26.927,HARD,3.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,41.0,98.19,29.06,41.764,27.366,HARD,24.0,2.0,0,30.8,35.2,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,41.0,98.236,28.928,41.762,27.546,HARD,28.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,41.0,96.166,28.345,40.764,27.057,HARD,5.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,41.0,98.311,28.811,42.043,27.457,HARD,17.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,41.0,97.994,28.983,41.675,27.336,HARD,12.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,41.0,97.821,28.88,41.513,27.428,HARD,13.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,COL,Williams,41.0,97.659,28.877,41.454,27.328,HARD,12.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,TSU,RB,41.0,98.271,29.065,41.729,27.477,SOFT,11.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,RIC,RB,41.0,101.769,30.689,43.225,27.855,MEDIUM,31.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,42.0,96.404,28.56,40.731,27.113,HARD,12.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,41.0,98.266,29.071,41.732,27.463,HARD,12.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,41.0,98.197,28.81,41.849,27.538,MEDIUM,13.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,41.0,99.745,29.783,42.391,27.571,MEDIUM,16.0,2.0,0,30.8,35.3,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,42.0,96.865,28.629,41.058,27.178,HARD,13.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,41.0,99.616,28.907,41.908,28.801,MEDIUM,7.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,41.0,100.019,30.484,42.022,27.513,MEDIUM,8.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,41.0,97.562,29.05,41.253,27.259,SOFT,4.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,42.0,97.316,28.814,41.316,27.186,HARD,15.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,42.0,95.888,28.445,40.724,26.719,HARD,4.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,42.0,98.115,29.07,41.665,27.38,HARD,25.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,42.0,97.266,28.574,41.285,27.407,HARD,6.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,42.0,99.534,29.002,41.989,28.543,HARD,29.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,42.0,99.186,28.966,42.918,27.302,HARD,18.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,42.0,97.911,28.978,41.701,27.232,HARD,13.0,2.0,0,30.8,35.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,42.0,97.649,28.856,41.41,27.383,HARD,14.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,42.0,97.721,28.9,41.432,27.389,HARD,13.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,42.0,97.644,28.917,41.31,27.417,SOFT,12.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,43.0,96.61,28.776,40.757,27.077,HARD,13.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,42.0,101.223,30.614,42.868,27.741,MEDIUM,32.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,42.0,98.375,28.985,41.851,27.539,HARD,13.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,42.0,98.166,28.79,41.884,27.492,MEDIUM,14.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,42.0,98.024,28.985,41.578,27.461,MEDIUM,17.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,43.0,96.582,28.636,40.814,27.132,HARD,14.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,42.0,98.721,28.648,42.27,27.803,MEDIUM,8.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,42.0,97.986,28.826,41.609,27.551,MEDIUM,9.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,42.0,97.328,28.733,41.374,27.221,SOFT,5.0,2.0,0,30.8,35.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,43.0,97.236,28.791,41.323,27.122,HARD,16.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,43.0,96.167,28.443,40.894,26.83,HARD,5.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,43.0,97.393,28.938,41.386,27.069,HARD,26.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,43.0,95.849,28.432,40.571,26.846,HARD,7.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,43.0,98.602,29.105,41.924,27.573,HARD,30.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,43.0,98.122,29.074,41.825,27.223,HARD,19.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,43.0,98.072,28.936,41.843,27.293,HARD,14.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,43.0,97.672,28.854,41.482,27.336,HARD,15.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,COL,Williams,43.0,97.793,28.926,41.581,27.286,HARD,14.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,TSU,RB,43.0,97.428,28.736,41.354,27.338,SOFT,13.0,2.0,0,30.7,35.5,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,44.0,96.275,28.522,40.586,27.167,HARD,14.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,RIC,RB,43.0,99.045,29.203,42.145,27.697,MEDIUM,33.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,43.0,98.458,29.083,41.868,27.507,HARD,14.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,43.0,98.083,28.569,41.975,27.539,MEDIUM,15.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,43.0,98.182,29.09,41.754,27.338,MEDIUM,18.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,44.0,96.414,28.587,40.752,27.075,HARD,15.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,43.0,97.96,28.892,41.509,27.559,MEDIUM,9.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,43.0,97.988,28.806,41.802,27.38,MEDIUM,10.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,43.0,97.638,29.17,41.246,27.222,SOFT,6.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,44.0,97.701,28.639,41.696,27.366,HARD,17.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,44.0,97.363,28.148,41.883,27.332,HARD,6.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,44.0,97.593,28.933,41.466,27.194,HARD,27.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,44.0,95.639,28.411,40.386,26.842,HARD,8.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,44.0,97.87,28.926,41.584,27.36,HARD,31.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,44.0,98.217,29.087,41.889,27.241,HARD,20.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,44.0,97.795,28.924,41.698,27.173,HARD,15.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,44.0,97.783,28.838,41.619,27.326,HARD,16.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,44.0,97.637,28.996,41.284,27.357,HARD,15.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,45.0,96.928,28.592,41.135,27.201,HARD,15.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,44.0,99.35,28.756,42.748,27.846,SOFT,14.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,RIC,RB,44.0,98.963,29.213,42.169,27.581,MEDIUM,34.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,44.0,98.644,28.886,42.156,27.602,HARD,15.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,44.0,98.812,28.75,42.577,27.485,MEDIUM,16.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,44.0,98.203,28.923000000000002,41.818,27.462,MEDIUM,19.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,45.0,96.618,28.645,40.993,26.98,HARD,16.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,44.0,97.6,28.904,41.371,27.325,MEDIUM,10.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,44.0,97.755,28.786,41.733,27.236,MEDIUM,11.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,44.0,97.13,28.803,41.255,27.072,SOFT,7.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,45.0,97.258,28.497,41.491,27.27,HARD,7.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,45.0,99.372,28.881,43.003,27.488,HARD,18.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,45.0,97.801,28.868,41.768,27.165,HARD,28.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,45.0,95.716,28.29,40.586,26.84,HARD,9.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,45.0,98.117,28.845,41.796,27.476,HARD,32.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,45.0,98.118,29.049,41.842,27.227,HARD,21.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,45.0,97.714,28.975,41.57,27.169,HARD,16.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,45.0,97.6,28.772,41.518,27.31,HARD,17.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,45.0,97.956,28.833,41.634,27.489,HARD,16.0,2.0,0,30.6,34.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,46.0,95.953,28.332,40.577,27.044,HARD,16.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,45.0,97.67,28.944,41.561,27.165,SOFT,15.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,45.0,100.48,28.758,44.043,27.679,HARD,16.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,45.0,100.315,28.766,43.52,28.029,MEDIUM,17.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,45.0,103.383,29.153,45.777,28.453,MEDIUM,35.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,45.0,98.817,28.89,42.169,27.758,MEDIUM,20.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,46.0,96.5,28.552,40.938,27.01,HARD,17.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,45.0,97.831,28.826,41.572,27.433,MEDIUM,11.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,45.0,97.897,28.631,41.776,27.49,MEDIUM,12.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,45.0,97.149,28.825,41.229,27.095,SOFT,8.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,46.0,96.324,28.643,40.69,26.991,HARD,8.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,46.0,98.413,29.076,41.894,27.443,HARD,19.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,46.0,97.797,28.942,41.575,27.28,HARD,29.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,46.0,95.371,28.214,40.369,26.788,HARD,10.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,46.0,98.412,28.996,41.863,27.553,HARD,33.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,46.0,97.988,28.998,41.932,27.058,HARD,22.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,46.0,97.919,28.788,41.812,27.319,HARD,17.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,46.0,97.959,28.804,41.634,27.521,HARD,18.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,COL,Williams,46.0,97.55,28.853,41.361,27.336,HARD,17.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,47.0,96.567,28.576999999999998,40.749,27.241,HARD,17.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,TSU,RB,46.0,97.22,28.783,41.299,27.138,SOFT,16.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,46.0,98.079,29.012,41.648,27.419,HARD,17.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,46.0,98.655,28.76,42.329,27.566,MEDIUM,18.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,46.0,99.289,29.03,42.707,27.552,MEDIUM,21.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,47.0,96.628,28.654,40.908,27.066,HARD,18.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,RIC,RB,46.0,110.55,29.526,44.533,36.491,MEDIUM,36.0,2.0,1,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,46.0,97.864,28.825,41.487,27.552,MEDIUM,12.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,46.0,97.524,28.664,41.673,27.187,MEDIUM,13.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,46.0,96.927,28.774,41.172,26.981,SOFT,9.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,47.0,96.33,28.629,40.776,26.925,HARD,9.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,47.0,97.636,28.976,41.481,27.179,HARD,20.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,47.0,97.922,28.946,41.753,27.223,HARD,30.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,47.0,95.758,28.407,40.515,26.836,HARD,11.0,2.0,0,30.7,35.2,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,47.0,98.015,28.9,41.632,27.483,HARD,34.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,47.0,98.119,28.914,41.862,27.343,HARD,23.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,47.0,97.743,28.856,41.668,27.219,HARD,18.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,47.0,97.754,28.744,41.717,27.293,HARD,19.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,COL,Williams,47.0,97.458,28.884,41.407,27.167,HARD,18.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,48.0,94.925,28.238,40.206,26.481,HARD,18.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,TSU,RB,47.0,97.236,28.822,41.227,27.187,SOFT,17.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,47.0,98.134,29.042,41.644,27.448,HARD,18.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,47.0,98.264,28.871,41.933,27.46,MEDIUM,19.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,47.0,98.365,29.055,41.911,27.399,MEDIUM,22.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,48.0,96.739,28.672,40.922,27.145,HARD,19.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,47.0,97.461,28.746,41.189,27.526,MEDIUM,13.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,47.0,98.235,28.858,41.804,27.573,MEDIUM,14.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,47.0,97.995,29.017,41.607,27.371,SOFT,10.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,48.0,95.745,28.604,40.478,26.663,HARD,10.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,48.0,97.596,28.901,41.42,27.275,HARD,21.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,RIC,RB,47.0,119.494,50.019,41.918,27.557,SOFT,1.0,3.0,1,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,48.0,98.294,29.064,41.867,27.363,HARD,31.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,48.0,95.792,28.443,40.49,26.859,HARD,12.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,48.0,97.85,28.847,41.581,27.422,HARD,35.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,48.0,98.01,29.021,41.691,27.298,HARD,24.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,48.0,98.022,28.664,41.905,27.453,HARD,19.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,48.0,97.981,28.664,41.756,27.561,HARD,20.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,COL,Williams,48.0,97.936,28.769,41.656,27.511,HARD,19.0,2.0,0,30.7,35.3,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,49.0,96.06,28.515,40.596,26.949,HARD,19.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,TSU,RB,48.0,97.297,28.818,41.242,27.237,SOFT,18.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,48.0,97.964,28.999,41.486,27.479,HARD,19.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,48.0,98.204,28.931,41.816,27.457,MEDIUM,20.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,48.0,97.928,28.841,41.754,27.333,MEDIUM,23.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,49.0,96.602,28.749,40.909,26.944,HARD,20.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,48.0,98.68,28.802,41.982,27.896,MEDIUM,14.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,48.0,98.5,29.022,41.75,27.728,MEDIUM,15.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,48.0,97.328,28.89,41.264,27.174,SOFT,11.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,49.0,95.881,28.448,40.697,26.736,HARD,11.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,49.0,97.408,28.852,41.361,27.195,HARD,22.0,2.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,RIC,RB,48.0,97.01,28.754,40.953,27.303,SOFT,2.0,3.0,0,30.6,35.2,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,49.0,98.331,28.971,41.954,27.406,HARD,32.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,49.0,96.252,28.397,40.686,27.169,HARD,13.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,49.0,98.019,28.896,41.746,27.377,HARD,36.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,49.0,98.24,28.919,42.039,27.282,HARD,25.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,49.0,98.147,29.016,41.917,27.214,HARD,20.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,49.0,98.074,28.722,42.027,27.325,HARD,21.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,COL,Williams,49.0,97.8,28.774,41.719,27.307,HARD,20.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,50.0,96.311,28.5,40.749,27.062,HARD,20.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,TSU,RB,49.0,96.889,28.767,41.0,27.122,SOFT,19.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,49.0,98.329,29.067,41.802,27.46,HARD,20.0,2.0,0,30.6,35.1,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,49.0,98.532,29.304,41.868,27.36,MEDIUM,24.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,50.0,97.055,28.723,41.192,27.14,HARD,21.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,49.0,99.122,29.235,42.094,27.793,MEDIUM,15.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,49.0,98.523,29.119,41.925,27.479,MEDIUM,16.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,49.0,98.0,28.936,41.64,27.424,SOFT,12.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,50.0,98.31,28.517,42.184,27.609,HARD,12.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,50.0,98.007,28.836,41.83,27.341,HARD,23.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,49.0,97.411,28.799,41.408,27.204,SOFT,3.0,3.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,50.0,97.53,28.456,41.496,27.578,HARD,14.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,50.0,100.411,29.119,43.135,28.157,HARD,33.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,50.0,98.186,28.88,41.586,27.72,HARD,37.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,50.0,98.54,28.981,42.028,27.531,HARD,26.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,50.0,98.705,29.031,42.163,27.511,HARD,21.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,50.0,98.722,28.759,42.154,27.809,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,50.0,98.692,28.974,41.836,27.882,HARD,21.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,51.0,96.603,28.507,40.946,27.15,HARD,21.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,50.0,96.797,28.645,40.965,27.187,SOFT,20.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,50.0,98.693,29.2,41.9,27.593,HARD,21.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,51.0,97.132,28.785,41.295,27.052,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,50.0,100.14,28.907,42.598,28.635,MEDIUM,25.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,50.0,98.599,28.941,41.949,27.709,MEDIUM,16.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,50.0,98.642,28.937,42.185,27.52,MEDIUM,17.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,50.0,97.971,28.813,41.772,27.386,SOFT,13.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,51.0,97.269,28.733,41.511,27.025,HARD,13.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,51.0,97.545,28.847,41.442,27.256,HARD,24.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,50.0,97.247,28.938,41.154,27.155,SOFT,4.0,3.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,51.0,96.424,28.557,40.933,26.934,HARD,15.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,51.0,98.647,29.059,42.207,27.381,HARD,34.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,51.0,98.534,28.936,41.82,27.778,HARD,38.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,51.0,97.882,28.772,41.877,27.233,HARD,27.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,51.0,98.235,28.947,41.996,27.292,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,51.0,98.057,28.798000000000002,41.955,27.304,HARD,23.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,51.0,98.94,29.17,42.113,27.657,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,52.0,96.192,28.497,40.713,26.982,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,51.0,96.767,28.678,41.067,27.022,SOFT,21.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,51.0,98.657,29.144,41.96,27.553,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,52.0,96.842,28.632,41.176,27.034,HARD,23.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,51.0,98.309,28.979,42.165,27.165,MEDIUM,26.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,50.0,134.785,55.382,48.195,31.208,SOFT,1.0,3.0,1,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,51.0,98.016,28.838,41.602,27.576,MEDIUM,17.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,51.0,98.274,28.805,42.01,27.459,MEDIUM,18.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,51.0,98.948,28.848,42.03,28.07,SOFT,14.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,52.0,96.856,28.49,41.127,27.239,HARD,14.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,52.0,97.299,28.772,41.334,27.193,HARD,25.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,51.0,96.765,28.657,40.784,27.324,SOFT,5.0,3.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,52.0,96.02,28.488,40.652,26.88,HARD,16.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,52.0,98.627,29.05,42.148,27.429,HARD,35.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,52.0,98.499,28.971,42.011,27.517,HARD,39.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,52.0,97.995,28.917,41.902,27.176,HARD,28.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,52.0,98.144,28.997,41.884,27.263,HARD,23.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,52.0,98.236,28.799,41.986,27.451,HARD,24.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,52.0,98.348,29.079,41.886,27.383,HARD,23.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,53.0,96.435,28.491,40.695,27.249,HARD,23.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,52.0,96.519,28.593,40.912,27.014,SOFT,22.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,52.0,98.338,28.948,41.84,27.55,HARD,23.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,53.0,96.843,28.64,41.069,27.134,HARD,24.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,52.0,98.03,28.769,41.819,27.442,MEDIUM,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,51.0,94.754,28.237,40.058,26.459,SOFT,2.0,3.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,52.0,98.299,28.804,41.771,27.724,MEDIUM,18.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,52.0,98.148,28.68,41.842,27.626,MEDIUM,19.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,53.0,97.406,28.883,41.362,27.161,HARD,15.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,52.0,98.652,29.852,41.712,27.088,SOFT,15.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,53.0,97.497,28.852,41.496,27.149,HARD,26.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,RIC,RB,52.0,97.348,28.818,41.311,27.219,SOFT,6.0,3.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,53.0,96.099,28.438,40.778,26.883,HARD,17.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,53.0,98.669,29.172,42.2,27.297,HARD,36.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,53.0,98.154,28.975,41.779,27.4,HARD,40.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,53.0,97.886,29.014,41.804,27.068,HARD,29.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,53.0,98.136,28.978,41.827,27.331,HARD,24.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,53.0,98.121,28.864,41.846,27.411,HARD,25.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,53.0,97.856,28.814,41.633,27.409,HARD,24.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,54.0,96.749,28.672,41.034,27.043,HARD,24.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,TSU,RB,53.0,96.393,28.558,40.85,26.985,SOFT,23.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,54.0,96.748,28.831,40.957,26.96,HARD,25.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,53.0,100.163,30.535,41.986,27.642,HARD,24.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,53.0,98.555,28.927,42.055,27.573,MEDIUM,28.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,52.0,97.425,28.681,41.399,27.345,SOFT,3.0,3.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,54.0,96.841,28.529,41.271,27.041,HARD,16.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,53.0,99.707,28.905,43.258,27.544,MEDIUM,19.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,53.0,99.736,30.102,42.234,27.4,MEDIUM,20.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,53.0,98.692,28.746,42.577,27.369,SOFT,16.0,2.0,0,30.5,35.2,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,54.0,97.38,28.698,41.495,27.187,HARD,27.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,RIC,RB,53.0,97.382,29.071,41.229,27.082,SOFT,7.0,3.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,54.0,96.454,28.476,40.947,27.031,HARD,18.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,54.0,98.352,29.2,41.862,27.29,HARD,37.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,54.0,98.04,28.822,41.758,27.46,HARD,41.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,54.0,97.741,28.846,41.705,27.19,HARD,30.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,54.0,98.051,28.773,41.969,27.309,HARD,25.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,54.0,98.018,28.726,41.819,27.473,HARD,26.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,COL,Williams,54.0,97.79,28.932,41.381,27.477,HARD,25.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,55.0,96.786,28.613,41.01,27.163,HARD,25.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,TSU,RB,54.0,97.096,28.676,41.027,27.393,SOFT,24.0,2.0,0,30.5,35.3,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,55.0,96.427,28.561,40.901,26.965,HARD,26.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,54.0,98.507,29.003,41.942,27.562,HARD,25.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,54.0,98.178,28.869,41.877,27.432,MEDIUM,29.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,53.0,98.089,28.95,41.664,27.475,SOFT,4.0,3.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,55.0,95.995,28.45,40.675,26.87,HARD,17.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,54.0,98.218,28.939,41.674,27.605,MEDIUM,20.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,54.0,98.34,29.02,41.96,27.36,MEDIUM,21.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,54.0,98.591,28.972,42.209,27.41,SOFT,17.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,55.0,97.311,28.694,41.388,27.229,HARD,28.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,55.0,96.56,28.615,41.002,26.943,HARD,19.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,RIC,RB,54.0,100.45,28.903,42.109,29.438,SOFT,8.0,3.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,55.0,98.634,29.125,42.027,27.482,HARD,38.0,2.0,0,30.6,35.5,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,55.0,98.219,28.881,41.765,27.573,HARD,42.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,55.0,97.951,28.885,41.881,27.185,HARD,31.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,55.0,98.511,28.934,42.008,27.569,HARD,26.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,55.0,98.499,28.68,42.236,27.583,HARD,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,55.0,98.057,28.891,41.697,27.469,HARD,26.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,56.0,97.197,28.723,41.176,27.298,HARD,26.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,55.0,96.9,28.733,41.04,27.127,SOFT,25.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,56.0,96.387,28.611,40.869,26.907,HARD,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,55.0,98.861,28.948,42.222,27.691,HARD,26.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,55.0,98.32,28.781,42.05,27.489,MEDIUM,30.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,54.0,98.134,28.698,41.837,27.599,SOFT,5.0,3.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,56.0,96.355,28.525,40.943,26.887,HARD,18.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,55.0,98.167,28.896,41.668,27.603,MEDIUM,21.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,55.0,98.195,28.79,41.97,27.435,MEDIUM,22.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,55.0,97.972,28.704,42.103,27.165,SOFT,18.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,56.0,97.381,28.732,41.534,27.115,HARD,29.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,56.0,96.497,28.409,41.071,27.017,HARD,20.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,RIC,RB,55.0,98.263,29.159,41.709,27.395,SOFT,9.0,3.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,56.0,99.121,29.215,42.149,27.757,HARD,39.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,56.0,98.131,28.843,41.838,27.45,HARD,43.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,56.0,97.912,28.898,41.841,27.173,HARD,32.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,56.0,98.312,28.832,42.114,27.366,HARD,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,56.0,99.127,28.782,41.903,28.442,HARD,28.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,57.0,98.849,28.836,41.398,28.615,HARD,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,56.0,101.189,29.007,41.891,30.291,HARD,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,56.0,97.176,28.704,41.263,27.209,SOFT,26.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,57.0,96.402,28.622,40.787,26.993,HARD,28.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,56.0,98.778,29.09,42.055,27.633,HARD,27.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,56.0,98.584,28.997,42.085,27.502,MEDIUM,31.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,55.0,98.526,28.653,41.945,27.928,SOFT,6.0,3.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,57.0,96.07,28.422,40.813,26.835,HARD,19.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,56.0,98.309,28.785,41.893,27.631,MEDIUM,22.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,56.0,98.163,28.668,41.963,27.532,MEDIUM,23.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,56.0,100.387,28.673000000000002,44.128,27.586,SOFT,19.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,57.0,97.575,28.655,41.642,27.278,HARD,30.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,57.0,96.802,28.518,41.149,27.135,HARD,21.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,56.0,97.061,28.757,41.001,27.303,SOFT,10.0,3.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,57.0,99.034,29.271,42.266,27.497,HARD,40.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,57.0,98.154,28.793,41.925,27.436,HARD,44.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,57.0,98.082,28.88,41.996,27.206,HARD,33.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,57.0,98.109,29.015,41.948,27.146,HARD,28.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,57.0,98.347,29.12,41.903,27.324,HARD,29.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,58.0,97.734,29.021,41.423,27.29,HARD,28.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,57.0,98.823,29.12,42.187,27.516,HARD,28.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,57.0,97.283,28.825,41.424,27.034,SOFT,27.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,58.0,96.171,28.499,40.749,26.923000000000002,HARD,29.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,57.0,98.471,29.021,41.949,27.501,HARD,28.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,57.0,98.646,28.99,42.133,27.523,MEDIUM,32.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,56.0,98.431,28.578,42.162,27.691,SOFT,7.0,3.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,58.0,96.056,28.442,40.719,26.895,HARD,20.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,57.0,97.875,28.834,41.482,27.559,MEDIUM,23.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,57.0,97.941,28.652,41.933,27.356,MEDIUM,24.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,57.0,97.416,28.8,41.476,27.14,SOFT,20.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,58.0,97.796,28.659,41.835,27.302,HARD,31.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,58.0,97.51,28.433,41.785,27.292,HARD,22.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,RIC,RB,57.0,96.357,28.686,40.799,26.872,SOFT,11.0,3.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,58.0,98.686,29.034,42.173,27.479,HARD,41.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,58.0,98.275,28.867,41.926,27.482,HARD,45.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,58.0,98.265,29.062,41.867,27.336,HARD,34.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,58.0,98.075,28.872,41.944,27.259,HARD,29.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,58.0,98.012,28.879,41.527,27.606,HARD,30.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,59.0,96.948,28.666,41.127,27.155,HARD,29.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,COL,Williams,58.0,97.844,28.817,41.697,27.33,HARD,29.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,TSU,RB,58.0,97.089,28.738,41.27,27.081,SOFT,28.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,59.0,95.967,28.352,40.694,26.921,HARD,30.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,58.0,98.714,29.007,42.064,27.643,HARD,29.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,58.0,98.516,28.898,41.993,27.625,MEDIUM,33.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,59.0,97.009,28.358,41.323,27.328,HARD,21.0,2.0,0,30.5,34.4,False,0,0,0,0
+Pre-Season Testing,MAG,Haas F1 Team,57.0,108.409,28.653,41.614,38.142,SOFT,8.0,3.0,1,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,58.0,97.758,28.694,41.621,27.443,MEDIUM,24.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,58.0,97.859,28.758,41.76,27.341,MEDIUM,25.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,58.0,97.621,28.903,41.538,27.18,SOFT,21.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,59.0,98.326,28.785,42.103,27.438,HARD,32.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,59.0,98.218,28.503,42.114,27.601,HARD,23.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,58.0,104.94,28.546,41.134,35.26,SOFT,12.0,3.0,1,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,59.0,99.006,29.173,42.132,27.701,HARD,42.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,59.0,98.558,28.938,42.08,27.54,HARD,46.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,59.0,98.101,28.872,41.923,27.306,HARD,35.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,59.0,97.915,28.825,41.886,27.204,HARD,30.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,60.0,96.631,28.564,40.969,27.098,HARD,30.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,59.0,100.652,30.722,42.118,27.812,HARD,31.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,59.0,98.485,28.951,42.071,27.463,HARD,30.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,59.0,97.287,28.814,41.279,27.194,SOFT,29.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,60.0,96.343,28.536,40.793,27.014,HARD,31.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,59.0,98.703,28.982,42.109,27.612,HARD,30.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,60.0,97.191,28.458,41.515,27.218,HARD,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,59.0,100.255,28.96,42.753,28.542,MEDIUM,34.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,59.0,97.759,28.888,41.402,27.469,MEDIUM,25.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,59.0,98.364,28.66,41.981,27.723,MEDIUM,26.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,59.0,97.746,28.872,41.656,27.218,SOFT,22.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,60.0,97.872,28.765,41.92,27.187,HARD,33.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,60.0,98.166,28.725,42.105,27.336,HARD,24.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,60.0,98.793,29.163,42.167,27.463,HARD,43.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,59.0,118.881,50.123,40.797,27.961,SOFT,4.0,4.0,1,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,60.0,98.838,29.02,42.232,27.586,HARD,47.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,60.0,98.573,29.0,42.119,27.454,HARD,36.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,61.0,96.82,28.686,41.15,26.984,HARD,31.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,60.0,100.502,29.074,43.963,27.465,HARD,31.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,60.0,98.149,28.995,41.734,27.42,HARD,32.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,COL,Williams,60.0,98.712,29.021,42.288,27.403,HARD,31.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,TSU,RB,60.0,97.901,28.875,41.666,27.36,SOFT,30.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,61.0,96.013,28.446,40.738,26.829,HARD,32.0,2.0,0,30.6,35.0,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,60.0,98.315,28.942,41.953,27.42,HARD,31.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,61.0,97.407,28.68,41.455,27.272,HARD,23.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,60.0,98.931,28.855,42.438,27.638,MEDIUM,35.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,60.0,99.83,28.855,42.461,28.514,MEDIUM,26.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,60.0,99.121,28.949,42.378,27.794,MEDIUM,27.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,60.0,98.189,28.811,41.958,27.42,SOFT,23.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,61.0,98.282,29.034,41.976,27.272,HARD,34.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,61.0,98.326,28.672,42.063,27.591,HARD,25.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,61.0,99.114,29.157,42.369,27.588,HARD,44.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,RIC,RB,60.0,94.486,28.091,39.948,26.447,SOFT,5.0,4.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,61.0,98.3,28.887,42.127,27.286,HARD,48.0,2.0,0,30.5,35.0,False,0,0,0,0
+Pre-Season Testing,NOR,McLaren,62.0,97.922,28.662,41.387,27.873,HARD,32.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ALO,Aston Martin,61.0,101.282,29.209,42.191,29.882,HARD,37.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,HUL,Haas F1 Team,61.0,98.723,28.933,42.089,27.701,HARD,32.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PER,Red Bull Racing,61.0,98.274,28.843,41.555,27.876,HARD,33.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,COL,Williams,61.0,98.075,28.899,41.739,27.437,HARD,32.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,TSU,RB,61.0,98.95,29.398,42.046,27.506,SOFT,31.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,VER,Red Bull Racing,62.0,96.931,28.636,40.974,27.321,HARD,33.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,PIA,McLaren,62.0,96.869,28.415,41.361,27.093,HARD,24.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,OCO,Alpine,61.0,101.037,29.171,43.875,27.991,HARD,32.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,STR,Aston Martin,61.0,99.845,28.951999999999998,42.762,28.131,MEDIUM,36.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,ZHO,Kick Sauber,61.0,98.975,29.119,41.843,28.013,MEDIUM,27.0,2.0,0,30.5,34.9,False,0,0,0,0
+Pre-Season Testing,BOT,Kick Sauber,61.0,98.771,28.789,42.315,27.667,MEDIUM,28.0,2.0,0,30.4,34.7,False,0,0,0,0
+Pre-Season Testing,GAS,Alpine,61.0,99.498,28.959,42.463,28.076,SOFT,24.0,2.0,0,30.4,34.7,False,0,0,0,0
+Pre-Season Testing,RUS,Mercedes,62.0,98.155,28.74,41.954,27.461,HARD,35.0,2.0,0,30.4,34.7,False,0,0,0,0
+Pre-Season Testing,LEC,Ferrari,62.0,98.726,28.489,41.919,28.318,HARD,26.0,2.0,0,30.4,34.7,False,0,0,0,0
+Pre-Season Testing,HAM,Mercedes,62.0,99.693,29.266,42.384,28.043,HARD,45.0,2.0,0,30.4,34.7,False,0,0,0,0
+Pre-Season Testing,RIC,RB,61.0,99.55,29.244,41.912,28.394,SOFT,6.0,4.0,0,30.4,34.7,False,0,0,0,0
+Pre-Season Testing,SAI,Ferrari,62.0,99.771,29.061,42.83,27.88,HARD,49.0,2.0,0,30.4,34.7,False,0,0,0,0

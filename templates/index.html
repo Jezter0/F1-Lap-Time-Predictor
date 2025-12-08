@@ -1,0 +1,97 @@
+{% extends "layout.html" %}
+
+{% block title %}F1 Lap Time Predictor{% endblock %}
+
+{% block content %}
+
+<h1 class="text-center mb-4 fw-bold">Predict Lap Times</h1>
+
+<div class="row justify-content-center mt-4">
+
+    <!-- LEFT COLUMN — FORM -->
+    <div class="col-md-5">
+
+        <div class="card p-4 shadow">
+            <form action="/predict" method="POST">
+
+                <label class="form-label">Select Race</label>
+                <select name="race" class="form-select" required>
+                    {% for r in races %}
+                        <option value="{{ r }}">{{ r }}</option>
+                    {% endfor %}
+                </select>
+
+                <label class="form-label mt-3">Select Driver</label>
+                <select name="driver" id="driver-select" class="form-select" required>
+                    {% for d in drivers %}
+                        <option value="{{ d }}">{{ d }}</option>
+                    {% endfor %}
+                </select>
+
+                <button class="btn btn-danger w-100 mt-4" type="submit">
+                    Predict Lap Times
+                </button>
+
+            </form>
+        </div>
+
+    </div>
+
+    <!-- RIGHT COLUMN — DRIVER INFO + MODEL DESCRIPTION -->
+    <div class="col-md-5">
+
+        <!-- DRIVER CARD (dynamic JS-filled content) -->
+        <div id="driver-card" class="card p-3 mb-4 shadow" style="display:none;"></div>
+
+        <!-- MODEL INFO BOX -->
+        <div class="alert alert-light border shadow-sm">
+            <h4 class="fw-bold h3">How This Model Works</h4>
+            <ul class="mb-1">
+                <li><strong>Prediction:</strong> Estimates lap time for each lap of a selected race & driver.</li>
+                <li><strong>Inputs Used:</strong> Sector times, tyre compounds, stint number, weather, driver pace history.</li>
+                <li><strong>Model Type:</strong> Deep Learning model (LSTM).</li>
+                <li><strong>Training Data:</strong> 2024 F1 race data from telemetry sources.</li>
+                <li><strong>Performance:</strong> <strong>MAE ≈ 0.4077</strong> on validation races.</li>
+                <li><strong>Limitations:</strong> Pit stops & yellow flags affect accuracy.</li>
+            </ul>
+            <small class="text-muted">
+                This tool provides predictive insights and should not be treated as exact real-world timings.
+            </small>
+        </div>
+
+    </div>
+
+</div>
+
+<!-- DRIVER INFO DISPLAY LOGIC -->
+<script>
+    const driversInfo = {{ drivers_info | tojson | safe }};
+    const driverCodeMap = {{ driver_code_map | tojson | safe }};
+
+    document.getElementById('driver-select').addEventListener('change', function () {
+        const code = this.value;                     // e.g. "VER"
+        const fullName = driverCodeMap[code];        // → "Max Verstappen"
+        const data = driversInfo[fullName];          // get correct driver info
+
+        const card = document.getElementById('driver-card');
+
+        if (!data) {
+            card.style.display = "none";
+            return;
+        }
+
+        card.style.display = "block";
+        card.style.backgroundColor = data.team_color + "22";
+
+        card.innerHTML = `
+            <div class="d-flex align-items-center">
+                <img src="${data.photo}" class="rounded-circle me-3" width="80" height="80" style="object-fit:cover">
+                <div>
+                    <h4 class="mb-0">${fullName} <small>#${data.number}</small></h4>
+                    <p class="mb-1">${data.team}</p>
+                </div>
+            </div>
+        `;
+    });
+</script>
+{% endblock %}
