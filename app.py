@@ -34,6 +34,14 @@ def index():
 def predict():
     race = request.form["race"]
     driver = request.form["driver"]
+    model_choice = request.form["model_choice"]
+
+    if model_choice == "lstm":
+        model_path = "static/model/F1_laptime_model.keras"
+    else:
+        model_path = "static/model/F1_laptime_model_bilstm.keras"
+    model = tf.keras.models.load_model(model_path, compile=False)
+
 
     df_race = load_race_data(2025, race)
     df_driver = df_race[df_race["Driver"] == driver].sort_values("LapNumber")
