@@ -1,0 +1,1157 @@
+race,Driver,Team,LapNumber,lap_time,s1,s2,s3,Compound,TyreLife,Stint,pit_flag,AirTemp,TrackTemp,Rainfall,yellow_flag,sc_flag,vsc_flag,red_flag
+Abu Dhabi Grand Prix,VER,Red Bull Racing,1.0,91.677,20.82500000000001,38.489,32.363,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,1.0,92.906,21.54700000000001,38.376,32.983,HARD,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,1.0,93.952,21.244999999999997,38.68,34.027,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,1.0,94.624,21.933,38.861,33.83,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,1.0,94.98,22.152000000000008,38.662,34.166,MEDIUM,2.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,1.0,95.453,22.510000000000005,39.053,33.89,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,1.0,95.941,22.808999999999997,39.142,33.99,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,1.0,96.661,22.982999999999997,39.231,34.447,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,1.0,97.07,23.092999999999996,39.668,34.309,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,1.0,97.567,23.337999999999994,39.515,34.714,HARD,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,1.0,98.029,23.495999999999995,39.405,35.128,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,1.0,98.391,23.861000000000004,39.226,35.304,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,1.0,99.01,23.838000000000008,39.538,35.634,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,1.0,99.335,24.065999999999995,39.82,35.449,SOFT,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,1.0,99.757,24.131000000000007,39.827,35.799,SOFT,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,1.0,100.31,24.388000000000005,40.0,35.922,HARD,2.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,1.0,100.726,24.542,39.754,36.43,HARD,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,1.0,100.987,24.798999999999992,39.975,36.213,SOFT,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,1.0,101.281,25.056000000000004,39.729,36.496,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,1.0,101.677,25.152000000000008,39.913,36.612,MEDIUM,1.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,2.0,89.117,18.085,38.383,32.649,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,2.0,89.814,18.301,38.534,32.979,HARD,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,2.0,89.893,18.3,38.239,33.354,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,2.0,90.087,18.219,38.0,33.868,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,2.0,90.396,18.165,38.183,34.048,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,2.0,90.629,18.205,38.156,34.268,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,2.0,90.656,18.311,38.082,34.263,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,2.0,90.44,18.161,38.034,34.245,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,2.0,90.504,18.317,38.134,34.053,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,2.0,90.688,18.476,38.041,34.171,HARD,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,2.0,90.799,18.586,38.073,34.14,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,2.0,91.021,18.497,38.711,33.813,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,2.0,90.853,18.501,38.405,33.947,SOFT,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,2.0,91.984,18.613,37.95,35.421,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,2.0,91.71,18.563,38.125,35.022,SOFT,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,2.0,91.582,18.561,38.208,34.813,HARD,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,2.0,91.715,18.611,38.218,34.886,HARD,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,2.0,91.813,18.732,38.223,34.858,SOFT,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,2.0,92.01,19.016,38.149,34.845,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,2.0,92.07,18.838,38.213,35.019,MEDIUM,2.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,3.0,89.555,18.197,38.495,32.863,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,3.0,89.525,18.106,38.444,32.975,HARD,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,3.0,89.86,18.056,38.536,33.268,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,3.0,89.681,18.095,38.082,33.504,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,3.0,90.059,18.215,38.157,33.687,MEDIUM,4.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,3.0,90.067,18.098,37.961,34.008,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,3.0,90.137,18.189,38.019,33.929,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,3.0,90.211,18.233,38.155,33.823,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,3.0,90.306,18.307,38.157,33.842,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,3.0,90.383,18.447,38.02,33.916,HARD,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,3.0,90.466,18.498,38.21,33.758,MEDIUM,3.0,1.0,0,26.8,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,3.0,90.467,18.265,38.264,33.938,MEDIUM,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,3.0,90.113,18.336,37.947,33.83,SOFT,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,3.0,90.119,18.309,37.805,34.005,MEDIUM,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,3.0,90.224,18.233,37.994,33.997,SOFT,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,3.0,90.319,18.515,38.069,33.735,HARD,4.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,3.0,90.492,18.513,38.017,33.962,HARD,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,3.0,90.515,18.507,37.99,34.018,SOFT,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,3.0,90.864,18.851,38.265,33.748,MEDIUM,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,3.0,91.303,18.772,38.341,34.19,MEDIUM,3.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,4.0,89.563,18.253,38.441,32.869,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,4.0,89.926,18.288,38.523,33.115,HARD,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,4.0,89.841,18.031,38.55,33.26,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,4.0,89.943,18.083,37.904,33.956,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,4.0,89.337,17.944,37.971,33.422,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,4.0,90.896,18.248,38.745,33.903,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,4.0,90.222,18.088,38.138,33.996,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,4.0,90.237,18.253,38.216,33.768,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,4.0,90.5,18.351,38.213,33.936,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,4.0,90.521,18.402,38.083,34.036,HARD,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,4.0,90.661,18.362,38.956,33.343,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,4.0,90.741,18.116,38.791,33.834,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,4.0,90.883,18.128,38.32,34.435,SOFT,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,4.0,90.829,18.17,37.886,34.773,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,4.0,90.874,18.118,37.899,34.857,SOFT,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,4.0,90.773,18.276,38.037,34.46,HARD,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,4.0,90.524,18.076,38.076,34.372,HARD,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,4.0,90.573,18.287,37.981,34.305,SOFT,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,4.0,90.669,18.441,38.458,33.77,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,4.0,90.845,18.611,38.681,33.553,MEDIUM,4.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,5.0,89.695,18.142,38.529,33.024,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,5.0,89.758,18.242,38.434,33.082,HARD,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,5.0,89.818,17.917,38.762,33.139,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,5.0,90.062,18.189,38.294,33.579,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,5.0,89.989,18.02,38.431,33.538,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,5.0,90.196,17.924,38.463,33.809,MEDIUM,6.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,5.0,90.186,18.185,38.128,33.873,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,5.0,90.261,18.304,38.132,33.825,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,5.0,90.163,18.288,38.119,33.756,MEDIUM,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,5.0,90.323,18.33,38.042,33.951,HARD,5.0,1.0,0,26.8,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,5.0,90.219,18.22,38.249,33.75,MEDIUM,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,5.0,90.19,18.01,38.404,33.776,MEDIUM,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,5.0,90.229,18.179,37.996,34.054,SOFT,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,5.0,90.224,18.3,37.974,33.95,MEDIUM,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,5.0,90.314,18.337,38.112,33.865,SOFT,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,5.0,90.458,18.478,38.201,33.779,HARD,6.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,5.0,90.707,18.406,38.297,34.004,HARD,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,5.0,90.776,18.505,38.138,34.133,SOFT,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,5.0,90.908,18.458,38.448,34.002,MEDIUM,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,5.0,90.99,18.479,38.919,33.592,MEDIUM,5.0,1.0,0,26.8,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,6.0,89.772,18.25,38.579,32.943,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,6.0,89.787,18.335,38.487,32.965,HARD,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,6.0,89.82,18.113,38.582,33.125,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,6.0,89.739,18.255,38.073,33.411,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,6.0,89.929,18.088,38.414,33.427,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,6.0,90.412,18.06,38.682,33.67,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,6.0,90.444,18.122,38.404,33.918,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,6.0,90.555,18.336,38.161,34.058,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,6.0,90.487,18.369,38.212,33.906,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,6.0,90.361,18.285,38.057,34.019,HARD,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,6.0,90.325,18.236,38.332,33.757,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,6.0,90.288,18.101,38.468,33.719,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,6.0,90.254,18.138,38.126,33.99,SOFT,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,6.0,90.274,18.213,37.943,34.118,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,6.0,90.223,18.158,37.825,34.24,SOFT,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,6.0,90.188,18.237,38.029,33.922,HARD,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,6.0,90.26,18.243,38.178,33.839,HARD,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,6.0,90.255,18.395,38.007,33.853,SOFT,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,6.0,90.891,18.501,38.804,33.586,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,6.0,91.224,18.606,38.941,33.677,MEDIUM,6.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,7.0,89.744,18.187,38.496,33.061,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,7.0,89.568,18.125,38.443,33.0,HARD,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,7.0,89.817,18.053,38.655,33.109,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,7.0,89.671,17.991,38.179,33.501,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,7.0,89.759,17.993,38.472,33.294,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,7.0,90.319,17.94,38.776,33.603,MEDIUM,8.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,7.0,90.367,18.04,38.363,33.964,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,7.0,90.289,18.075,38.19,34.024,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,7.0,90.395,18.259,38.137,33.999,MEDIUM,7.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,7.0,90.468,18.258,38.083,34.127,HARD,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,7.0,90.537,18.204,38.35,33.983,MEDIUM,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,7.0,90.546,18.197,38.335,34.014,MEDIUM,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,7.0,90.539,18.226,38.014,34.299,SOFT,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,7.0,90.379,18.353,38.015,34.011,MEDIUM,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,7.0,90.42,18.215,38.16,34.045,SOFT,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,7.0,90.392,18.281,38.231,33.88,HARD,8.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,7.0,90.308,18.231,38.146,33.931,HARD,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,7.0,91.972,18.376,37.975,35.621,SOFT,7.0,1.0,1,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,7.0,90.537,18.345,38.721,33.471,MEDIUM,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,7.0,90.61,18.437,38.666,33.507,MEDIUM,7.0,1.0,0,26.7,31.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,8.0,89.601,18.136,38.42,33.045,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,8.0,89.496,18.208,38.438,32.85,HARD,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,8.0,89.51,17.997,38.429,33.084,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,8.0,89.606,18.134,37.747,33.725,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,8.0,90.124,18.046,38.364,33.714,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,8.0,90.099,17.995,38.749,33.355,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,8.0,90.266,18.12,38.388,33.758,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,8.0,90.416,18.144,38.302,33.97,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,8.0,90.429,18.3,38.168,33.961,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,8.0,90.395,18.214,38.147,34.034,HARD,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,8.0,90.34,18.17,38.394,33.776,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,8.0,90.343,18.157,38.273,33.913,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,8.0,90.558,18.32,38.035,34.203,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,8.0,92.249,18.229,38.316,35.704,SOFT,8.0,1.0,1,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,8.0,90.439,18.333,38.183,33.923,HARD,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,8.0,90.441,18.278,38.196,33.967,HARD,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,8.0,91.974,18.247,37.994,35.733,SOFT,8.0,1.0,1,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,8.0,90.612,18.312,38.818,33.482,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,8.0,90.701,18.491,38.805,33.405,MEDIUM,8.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,8.0,108.522,38.067,38.331,32.124,HARD,1.0,2.0,1,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,9.0,89.413,18.146,38.494,32.773,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,9.0,89.571,18.052,38.576,32.943,HARD,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,9.0,89.527,17.897,38.657,32.973,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,9.0,89.654,18.189,38.265,33.2,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,9.0,90.205,18.13,38.599,33.476,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,9.0,90.011,18.05,38.779,33.182,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,9.0,90.058,18.077,38.457,33.524,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,9.0,90.078,18.099,38.215,33.764,MEDIUM,9.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,9.0,90.145,18.215,38.152,33.778,MEDIUM,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,9.0,90.184,18.204,38.167,33.813,HARD,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,9.0,90.353,18.151,38.312,33.89,MEDIUM,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,9.0,90.285,18.108,38.232,33.945,MEDIUM,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,9.0,90.047,18.249,38.248,33.55,MEDIUM,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,9.0,89.719,18.106,38.173,33.44,HARD,10.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,9.0,90.028,18.22,38.264,33.544,HARD,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,9.0,90.4,18.189,38.75,33.461,MEDIUM,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,9.0,90.551,18.346,38.811,33.394,MEDIUM,9.0,1.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,9.0,108.5,37.926,38.326,32.248,HARD,1.0,2.0,1,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,9.0,88.442,17.883,37.697,32.862,HARD,2.0,2.0,0,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,9.0,109.36,38.06,37.887,33.413,HARD,1.0,2.0,1,26.7,31.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,10.0,89.465,18.12,38.396,32.949,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,10.0,89.468,18.018,38.452,32.998,HARD,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,10.0,89.635,17.958,38.627,33.05,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,10.0,89.63,18.081,38.164,33.385,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,10.0,90.006,18.021,38.596,33.389,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,10.0,90.025,18.135,38.796,33.094,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,10.0,90.086,18.061,38.408,33.617,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,10.0,90.346,18.159,38.373,33.814,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,10.0,90.332,18.159,38.294,33.879,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,10.0,90.588,18.083,38.769,33.736,HARD,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,10.0,90.55,18.112,38.372,34.066,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,10.0,90.754,18.147,38.373,34.234,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,10.0,90.457,18.181,38.055,34.221,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,10.0,90.275,18.14,38.221,33.914,HARD,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,10.0,90.088,18.106,38.132,33.85,HARD,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,10.0,90.586,18.287,38.737,33.562,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,10.0,90.837,18.377,38.878,33.582,MEDIUM,10.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,10.0,88.517,17.852,38.209,32.456,HARD,2.0,2.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,10.0,89.003,17.987,38.204,32.812,HARD,3.0,2.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,10.0,89.374,18.04,38.238,33.096,HARD,2.0,2.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,11.0,89.538,18.143,38.496,32.899,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,11.0,89.466,18.011,38.507,32.948,HARD,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,11.0,89.821,17.95,38.68,33.191,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,11.0,89.909,18.173,38.497,33.239,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,11.0,90.044,18.029,38.644,33.371,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,11.0,89.8,18.123,38.664,33.013,MEDIUM,12.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,11.0,90.223,18.176,38.711,33.336,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,11.0,90.94,18.158,39.14,33.642,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,11.0,90.858,18.244,38.603,34.011,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,11.0,90.652,18.037,38.395,34.22,HARD,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,11.0,90.669,18.14,38.359,34.17,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,11.0,90.903,18.156,38.5,34.247,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,11.0,90.872,18.251,38.123,34.498,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,11.0,90.699,18.247,38.251,34.201,HARD,12.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,11.0,90.655,18.294,38.203,34.158,HARD,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,11.0,91.135,18.478,38.961,33.696,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,11.0,90.884,18.397,38.801,33.686,MEDIUM,11.0,1.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,11.0,89.022,17.898,38.446,32.678,HARD,3.0,2.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,11.0,89.418,17.966,38.58,32.872,HARD,4.0,2.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,11.0,89.807,18.074,38.413,33.32,HARD,3.0,2.0,0,26.7,31.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,12.0,89.543,18.12,38.567,32.856,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,12.0,89.492,18.021,38.427,33.044,HARD,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,12.0,89.682,17.967,38.585,33.13,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,12.0,90.057,18.166,38.564,33.327,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,12.0,90.095,18.003,38.6,33.492,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,12.0,89.969,18.103,38.776,33.09,MEDIUM,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,12.0,90.151,18.245,38.789,33.117,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,12.0,90.633,18.078,39.151,33.404,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,12.0,90.786,18.226,38.667,33.893,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,12.0,90.86,18.205,38.467,34.188,HARD,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,12.0,90.91,18.125,38.579,34.206,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,12.0,91.017,18.166,38.817,34.034,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,12.0,90.955,18.262,38.241,34.452,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,12.0,91.17,18.388,38.395,34.387,HARD,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,12.0,91.066,18.338,38.398,34.33,HARD,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,12.0,91.79,18.379,39.076,34.335,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,12.0,91.463,18.362,39.219,33.882,MEDIUM,12.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,12.0,89.598,17.965,38.856,32.777,HARD,4.0,2.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,12.0,89.164,17.987,38.316,32.861,HARD,5.0,2.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,12.0,89.46,17.936,38.354,33.17,HARD,4.0,2.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,13.0,89.633,18.044,38.531,33.058,MEDIUM,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,13.0,89.261,17.917,38.443,32.901,HARD,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,13.0,89.745,18.011,38.648,33.086,MEDIUM,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,13.0,89.938,18.112,38.63,33.196,MEDIUM,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,13.0,90.06,18.025,38.626,33.409,MEDIUM,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,13.0,89.968,17.979,38.828,33.161,MEDIUM,14.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,13.0,90.144,18.156,38.638,33.35,MEDIUM,13.0,1.0,0,26.7,31.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,13.0,91.064,18.302,39.185,33.577,MEDIUM,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,13.0,91.076,18.237,38.598,34.241,MEDIUM,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,13.0,90.901,18.077,38.409,34.415,HARD,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,13.0,91.045,18.117,38.813,34.115,MEDIUM,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,13.0,91.06,18.118,38.96,33.982,MEDIUM,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,13.0,91.109,18.254,38.359,34.496,MEDIUM,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,13.0,91.153,18.299,38.379,34.475,HARD,14.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,13.0,90.976,18.303,38.384,34.289,HARD,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,13.0,91.563,18.45,39.083,34.03,MEDIUM,13.0,1.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,13.0,93.54,18.54,39.177,35.823,MEDIUM,13.0,1.0,1,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,13.0,89.473,18.189,38.455,32.829,HARD,5.0,2.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,13.0,89.436,18.113,38.385,32.938,HARD,6.0,2.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,13.0,89.692,18.1,38.346,33.246,HARD,5.0,2.0,0,26.7,31.2,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,14.0,89.526,17.984,38.599,32.943,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,14.0,89.625,17.87,38.583,33.172,HARD,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,14.0,90.061,18.08,38.822,33.159,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,14.0,90.054,18.117,38.61,33.327,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,14.0,90.267,18.125,38.989,33.153,MEDIUM,15.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,14.0,92.081,18.104,38.906,35.071,MEDIUM,14.0,1.0,1,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,14.0,90.359,18.017,39.102,33.24,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,14.0,91.022,18.181,38.654,34.187,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,14.0,92.759,18.281,39.255,35.223,MEDIUM,14.0,1.0,1,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,14.0,91.13,18.156,38.471,34.503,HARD,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,14.0,91.323,18.25,39.188,33.885,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,14.0,91.059,18.254,38.35,34.455,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,14.0,90.914,18.247,38.427,34.24,HARD,15.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,14.0,92.668,18.137,38.453,36.078,MEDIUM,14.0,1.0,1,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,14.0,91.109,18.366,38.383,34.36,HARD,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,14.0,91.199,18.289,39.253,33.657,MEDIUM,14.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,14.0,89.276,18.021,38.302,32.953,HARD,6.0,2.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,14.0,89.478,18.006,38.34,33.132,HARD,7.0,2.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,14.0,89.793,17.98,38.345,33.468,HARD,6.0,2.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,14.0,111.542,39.534,38.852,33.156,HARD,1.0,2.0,1,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,15.0,89.703,17.993,38.622,33.088,MEDIUM,15.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,15.0,89.536,17.848,38.7,32.988,HARD,15.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,15.0,89.59,17.972,38.655,32.963,MEDIUM,15.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,15.0,89.998,18.177,38.581,33.24,MEDIUM,15.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,15.0,89.836,18.045,38.885,32.906,MEDIUM,16.0,1.0,0,26.6,31.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,15.0,91.832,18.149,38.695,34.988,MEDIUM,15.0,1.0,1,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,15.0,90.246,18.093,38.907,33.246,MEDIUM,15.0,1.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,15.0,90.556,18.004,38.512,34.04,HARD,15.0,1.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,15.0,91.049,18.18,39.178,33.691,MEDIUM,15.0,1.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,15.0,90.862,18.147,38.786,33.929,MEDIUM,15.0,1.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,15.0,90.931,18.104,38.669,34.158,HARD,16.0,1.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,15.0,90.93,18.19,38.419,34.321,HARD,15.0,1.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,15.0,109.453,38.526,37.93,32.997,HARD,1.0,2.0,1,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,15.0,89.574,18.103,38.005,33.466,HARD,7.0,2.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,15.0,92.799,18.311,39.089,35.399,MEDIUM,15.0,1.0,1,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,15.0,89.488,18.053,38.399,33.036,HARD,8.0,2.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,15.0,89.819,18.01,38.515,33.294,HARD,7.0,2.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,15.0,110.245,38.398,38.825,33.022,HARD,1.0,2.0,1,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,15.0,110.249,38.628,38.762,32.859,HARD,1.0,2.0,1,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,15.0,89.817,18.141,38.668,33.008,HARD,2.0,2.0,0,26.6,30.8,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,16.0,89.46,18.045,38.597,32.818,MEDIUM,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,16.0,89.681,17.974,38.729,32.978,HARD,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,16.0,91.722,17.984,38.821,34.917,MEDIUM,16.0,1.0,1,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,16.0,91.99,18.139,38.786,35.065,MEDIUM,16.0,1.0,1,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,16.0,91.928,17.936,38.897,35.095,MEDIUM,17.0,1.0,1,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,16.0,90.827,18.121,39.132,33.574,MEDIUM,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,16.0,90.938,18.159,38.922,33.857,HARD,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,16.0,91.366,18.202,39.349,33.815,MEDIUM,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,16.0,90.384,18.124,38.428,33.832,HARD,17.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,16.0,91.855,18.191,38.974,34.69,MEDIUM,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,16.0,91.12,18.34,38.437,34.343,HARD,16.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,16.0,88.648,17.839,38.094,32.715,HARD,2.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,16.0,89.461,18.063,38.473,32.925,HARD,8.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,16.0,89.202,18.093,38.296,32.813,HARD,9.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,16.0,109.682,38.621,38.623,32.438,HARD,1.0,2.0,1,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,16.0,89.907,17.982,38.485,33.44,HARD,8.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,16.0,89.839,17.896,38.76,33.183,HARD,2.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,16.0,89.263,18.078,38.394,32.791,HARD,2.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,16.0,89.571,18.082,38.649,32.84,HARD,3.0,2.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,16.0,111.394,38.753,39.136,33.505,HARD,1.0,2.0,1,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,17.0,89.578,18.012,38.682,32.884,MEDIUM,17.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,17.0,89.535,17.917,38.628,32.99,HARD,17.0,1.0,0,26.5,30.9,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,17.0,90.95,18.13,39.151,33.669,MEDIUM,17.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,17.0,90.915,18.044,38.938,33.933,HARD,17.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,17.0,91.343,18.226,39.442,33.675,MEDIUM,17.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,17.0,90.914,18.185,38.773,33.956,HARD,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,17.0,91.17,18.273,38.339,34.558,MEDIUM,17.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,17.0,91.12,18.258,38.343,34.519,HARD,17.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,17.0,110.319,37.858,38.405,34.056,HARD,1.0,2.0,1,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,17.0,110.216,38.568,38.63,33.018,HARD,1.0,2.0,1,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,17.0,90.035,17.825,38.209,34.001,HARD,3.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,17.0,89.299,17.906,38.385,33.008,HARD,9.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,17.0,89.144,17.929,38.437,32.778,HARD,10.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,17.0,111.248,39.371,38.614,33.263,HARD,2.0,2.0,1,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,17.0,90.377,17.896,38.809,33.672,HARD,2.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,17.0,90.133,18.027,38.509,33.597,HARD,9.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,17.0,90.142,18.218,38.904,33.02,HARD,3.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,17.0,89.863,18.214,38.618,33.031,HARD,3.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,17.0,89.493,18.037,38.556,32.9,HARD,4.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,17.0,89.847,18.062,38.576,33.209,HARD,2.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,18.0,89.596,18.064,38.646,32.886,MEDIUM,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,18.0,89.557,17.908,38.607,33.042,HARD,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,18.0,91.014,18.149,39.145,33.72,MEDIUM,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,18.0,90.729,18.035,38.648,34.046,HARD,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,18.0,91.426,18.15,39.399,33.877,MEDIUM,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,18.0,91.423,18.158,38.819,34.446,HARD,19.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,18.0,89.958,18.213,38.198,33.547,HARD,2.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,18.0,91.805,18.311,39.12,34.374,HARD,18.0,1.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,18.0,89.872,18.146,38.171,33.555,HARD,2.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,18.0,93.531,18.253,39.131,36.147,MEDIUM,18.0,1.0,1,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,18.0,89.857,18.18,38.354,33.323,HARD,4.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,18.0,89.7,17.973,38.431,33.296,HARD,10.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,18.0,89.601,18.048,38.499,33.054,HARD,11.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,18.0,89.993,17.992,38.51,33.491,HARD,3.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,18.0,90.116,17.973,38.156,33.987,HARD,3.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,18.0,89.987,18.099,38.432,33.456,HARD,10.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,18.0,89.869,18.107,38.685,33.077,HARD,4.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,18.0,89.533,18.093,38.374,33.066,HARD,4.0,2.0,0,26.5,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,18.0,89.487,18.142,38.512,32.833,HARD,5.0,2.0,0,26.5,30.7,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,18.0,89.823,18.096,38.638,33.089,HARD,3.0,2.0,0,26.5,30.7,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,19.0,89.614,17.981,38.709,32.924,MEDIUM,19.0,1.0,0,26.5,30.7,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,19.0,89.598,17.867,38.683,33.048,HARD,19.0,1.0,0,26.5,30.7,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,19.0,90.685,18.058,38.537,34.09,HARD,19.0,1.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,19.0,93.06,18.122,38.952,35.986,MEDIUM,19.0,1.0,1,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,19.0,89.681,18.059,38.307,33.315,HARD,3.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,19.0,91.815,18.251,39.251,34.313,MEDIUM,19.0,1.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,19.0,91.8,18.231,38.977,34.592,HARD,20.0,1.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,19.0,89.529,18.065,37.808,33.656,HARD,3.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,19.0,91.119,18.018,39.003,34.098,HARD,19.0,1.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,19.0,90.191,18.09,38.385,33.716,HARD,5.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,19.0,89.841,18.085,38.453,33.303,HARD,11.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,19.0,89.736,17.995,38.236,33.505,HARD,12.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,19.0,90.112,18.145,38.566,33.401,HARD,4.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,19.0,90.036,17.893,38.402,33.741,HARD,4.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,19.0,90.047,18.08,38.359,33.608,HARD,11.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,19.0,90.478,18.201,38.845,33.432,HARD,5.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,19.0,89.922,18.145,38.502,33.275,HARD,5.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,19.0,109.277,38.263,38.367,32.647,HARD,1.0,2.0,1,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,19.0,90.602,18.056,38.79,33.756,HARD,6.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,19.0,89.712,17.885,38.567,33.26,HARD,4.0,2.0,0,26.5,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,20.0,89.557,18.01,38.667,32.88,MEDIUM,20.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,20.0,89.892,18.025,38.808,33.059,HARD,20.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,20.0,90.093,17.923000000000002,38.733,33.437,HARD,20.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,20.0,89.528,17.976,38.651,32.901,HARD,4.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,20.0,89.256,18.169,38.096,32.991,HARD,4.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,20.0,91.884,18.069,39.431,34.384,MEDIUM,20.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,20.0,91.779,18.2,39.041,34.538,HARD,21.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,20.0,90.286,18.156,38.197,33.933,HARD,6.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,20.0,91.744,18.268,39.341,34.135,HARD,20.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,20.0,90.736,18.191,38.28,34.265,HARD,12.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,20.0,90.485,18.315,38.076,34.094,HARD,13.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,20.0,90.107,18.077,38.582,33.448,HARD,5.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,20.0,90.128,18.006,38.355,33.767,HARD,5.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,20.0,90.109,18.164,38.35,33.595,HARD,12.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,20.0,90.028,18.058,38.758,33.212,HARD,6.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,20.0,89.787,18.179,38.501,33.107,HARD,6.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,20.0,109.801,38.66,38.557,32.584,HARD,1.0,2.0,1,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,20.0,89.219,18.064,38.244,32.911,HARD,2.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,20.0,89.911,18.191,38.719,33.001,HARD,7.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,20.0,89.699,18.091,38.653,32.955,HARD,5.0,2.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,21.0,89.441,17.873,38.788,32.78,MEDIUM,21.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,21.0,89.584,17.857,38.564,33.163,HARD,21.0,1.0,0,26.4,30.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,21.0,90.314,18.023,38.906,33.385,HARD,21.0,1.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,21.0,89.133,17.918,38.459,32.756,HARD,5.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,21.0,89.055,17.996,38.316,32.743,HARD,5.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,21.0,90.065,18.168,38.395,33.502,HARD,7.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,21.0,92.002,18.24,38.708,35.054,HARD,22.0,1.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,21.0,91.807,18.115,38.31,35.382,HARD,21.0,1.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,21.0,91.793,18.216,38.291,35.286,HARD,13.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,21.0,91.706,18.416,38.316,34.974,HARD,14.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,21.0,90.031,18.093,38.451,33.487,HARD,6.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,21.0,95.813,18.191,39.209,38.413,MEDIUM,21.0,1.0,1,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,21.0,90.056,17.999,37.957,34.1,HARD,6.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,21.0,90.27,18.2,38.43,33.64,HARD,13.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,21.0,90.305,18.222,38.983,33.1,HARD,7.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,21.0,89.645,18.009,38.375,33.261,HARD,7.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,21.0,88.755,17.937,37.975,32.843,HARD,2.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,21.0,89.22,18.008,38.364,32.848,HARD,3.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,21.0,89.442,18.096,38.477,32.869,HARD,8.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,21.0,89.43,17.992,38.547,32.891,HARD,6.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,22.0,89.243,17.869,38.589,32.785,MEDIUM,22.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,22.0,89.503,17.891,38.669,32.943,HARD,22.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,22.0,90.004,17.953,38.667,33.384,HARD,22.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,22.0,88.983,17.928,38.27,32.785,HARD,6.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,22.0,88.891,17.921,38.183,32.787,HARD,6.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,22.0,89.399,17.988,38.368,33.043,HARD,8.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,22.0,90.668,18.288,39.013,33.367,HARD,23.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,22.0,90.518,18.003,38.311,34.204,HARD,22.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,22.0,90.535,18.104,38.328,34.103,HARD,14.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,22.0,90.732,18.397,38.209,34.126,HARD,15.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,22.0,90.321,18.278,38.151,33.892,HARD,7.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,22.0,90.34,18.063,38.187,34.09,HARD,7.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,22.0,90.298,18.156,38.447,33.695,HARD,14.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,22.0,89.788,18.077,38.602,33.109,HARD,8.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,22.0,89.473,17.871,37.998,33.604,HARD,8.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,22.0,88.74,17.864,37.93,32.946,HARD,3.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,22.0,89.3,17.946,38.297,33.057,HARD,4.0,2.0,0,26.4,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,22.0,89.69,17.961,38.624,33.105,HARD,9.0,2.0,0,26.4,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,22.0,89.628,18.042,38.6,32.986,HARD,7.0,2.0,0,26.4,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,22.0,117.758,45.694,39.125,32.939,HARD,1.0,2.0,1,26.4,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,23.0,91.365,17.903,38.59,34.872,MEDIUM,23.0,1.0,1,26.4,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,23.0,89.515,17.844,38.63,33.041,HARD,23.0,1.0,0,26.4,30.6,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,23.0,88.828,17.697,38.246,32.885,HARD,7.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,23.0,91.428,17.88,38.971,34.577,HARD,23.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,23.0,89.595,17.89,38.177,33.528,HARD,7.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,23.0,89.648,18.042,38.375,33.231,HARD,9.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,23.0,89.973,18.015,38.786,33.172,HARD,24.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,23.0,90.129,18.029,38.114,33.986,HARD,23.0,1.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,23.0,90.076,18.154,38.097,33.825,HARD,15.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,23.0,89.42,18.012,37.816,33.592,HARD,8.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,23.0,90.908,18.161,38.259,34.488,HARD,16.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,23.0,89.997,18.09,38.145,33.762,HARD,8.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,23.0,90.621,18.346,38.516,33.759,HARD,15.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,23.0,90.078,17.886,38.905,33.287,HARD,9.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,23.0,88.882,17.787,38.015,33.08,HARD,4.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,23.0,90.934,17.815,38.289,34.83,HARD,9.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,23.0,89.44,18.083,38.296,33.061,HARD,5.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,23.0,89.729,18.036,38.536,33.157,HARD,10.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,23.0,89.717,18.093,38.535,33.089,HARD,8.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,23.0,89.826,18.252,38.742,32.832,HARD,2.0,2.0,0,26.4,30.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,24.0,89.435,17.841,38.71,32.884,HARD,24.0,1.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,24.0,108.923,38.129,38.518,32.276,HARD,1.0,2.0,1,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,24.0,88.875,17.845,38.431,32.599,HARD,8.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,24.0,89.019,18.219,38.129,32.671,HARD,8.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,24.0,91.462,18.094,38.931,34.437,HARD,24.0,1.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,24.0,89.589,18.043,38.395,33.151,HARD,10.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,24.0,89.972,17.932,38.917,33.123,HARD,25.0,1.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,24.0,89.866,18.096,38.536,33.234,HARD,16.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,24.0,91.287,17.982,39.183,34.122,HARD,24.0,1.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,24.0,90.803,18.242,38.662,33.899,HARD,9.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,24.0,90.145,18.029,38.182,33.934,HARD,9.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,24.0,91.273,19.256,38.199,33.818,HARD,17.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,24.0,90.388,18.218,38.501,33.669,HARD,16.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,24.0,89.021,17.868,37.966,33.187,HARD,5.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,24.0,90.621,17.992,38.548,34.081,HARD,10.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,24.0,90.11,17.979,38.76,33.371,HARD,10.0,2.0,0,26.4,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,24.0,89.327,18.088,38.293,32.946,HARD,6.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,24.0,89.747,18.07,38.679,32.998,HARD,11.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,24.0,89.852,18.068,38.717,33.067,HARD,9.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,24.0,89.26,17.881,38.585,32.794,HARD,3.0,2.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,25.0,89.261,17.849,38.617,32.795,HARD,25.0,1.0,0,26.4,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,25.0,88.693,17.857,38.251,32.585,HARD,2.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,25.0,88.355,17.785,38.051,32.519,HARD,9.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,25.0,88.171,17.876,38.034,32.261,HARD,9.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,25.0,90.072,17.968,38.665,33.439,HARD,25.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,25.0,89.32,17.886,38.312,33.122,HARD,11.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,25.0,89.854,17.966,38.865,33.023,HARD,26.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,25.0,89.81,18.041,38.676,33.093,HARD,17.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,25.0,90.2,17.954,38.377,33.869,HARD,25.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,25.0,90.26,17.934,38.109,34.217,HARD,10.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,25.0,90.091,18.004,38.119,33.968,HARD,10.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,25.0,90.113,18.29,38.03,33.793,HARD,18.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,25.0,89.118,17.998,37.998,33.122,HARD,6.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,25.0,90.934,18.047,38.942,33.945,HARD,17.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,25.0,89.667,18.029,38.388,33.25,HARD,11.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,25.0,92.178,18.416,40.326,33.436,HARD,11.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,25.0,89.657,18.019,38.423,33.215,HARD,7.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,25.0,89.715,18.047,38.709,32.959,HARD,12.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,25.0,90.138,18.325,38.871,32.942,HARD,10.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,25.0,89.498,17.954,38.794,32.75,HARD,4.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,26.0,89.492,17.871,38.773,32.848,HARD,26.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,26.0,88.312,17.846,38.185,32.281,HARD,3.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,26.0,88.486,17.909,38.157,32.42,HARD,10.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,26.0,88.044,17.826999999999998,38.004,32.213,HARD,10.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,26.0,90.113,17.919,38.743,33.451,HARD,26.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,26.0,89.431,17.912,38.45,33.069,HARD,12.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,26.0,89.788,17.869,38.859,33.06,HARD,27.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,26.0,89.644,17.946,38.466,33.232,HARD,18.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,26.0,89.821,17.92,38.414,33.487,HARD,26.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,26.0,89.824,17.861,38.395,33.568,HARD,11.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,26.0,89.933,18.02,38.071,33.842,HARD,11.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,26.0,89.979,18.253,38.089,33.637,HARD,19.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,26.0,89.467,17.953,38.356,33.158,HARD,7.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,26.0,90.294,18.175,38.544,33.575,HARD,18.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,26.0,89.883,17.918,38.74,33.225,HARD,12.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,26.0,89.989,18.018,38.824,33.147,HARD,12.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,26.0,89.766,18.104,38.411,33.251,HARD,8.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,26.0,89.855,18.089,38.782,32.984,HARD,13.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,26.0,89.652,18.051,38.705,32.896,HARD,11.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,26.0,89.337,17.921,38.719,32.697,HARD,5.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,27.0,89.299,17.829,38.604,32.866,HARD,27.0,1.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,27.0,88.327,17.789,38.265,32.273,HARD,4.0,2.0,0,26.3,30.2,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,27.0,87.998,17.705,38.104,32.189,HARD,11.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,27.0,88.098,17.819,37.957,32.322,HARD,11.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,27.0,90.14,18.009,38.674,33.457,HARD,27.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,27.0,89.682,17.904,38.4,33.378,HARD,13.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,27.0,89.987,18.056,38.857,33.074,HARD,28.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,27.0,90.144,18.124,38.686,33.334,HARD,19.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,27.0,89.75,17.856,38.244,33.65,HARD,12.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,27.0,91.272,17.941,38.932,34.399,HARD,27.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,27.0,90.479,18.014,38.164,34.301,HARD,12.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,27.0,90.353,18.271,38.045,34.037,HARD,20.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,27.0,89.688,18.042,37.975,33.671,HARD,8.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,27.0,90.113,18.052,38.451,33.61,HARD,19.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,27.0,89.469,17.784,38.146,33.539,HARD,13.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,27.0,90.0,18.022,38.783,33.195,HARD,13.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,27.0,89.825,18.056,38.549,33.22,HARD,9.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,27.0,89.972,18.076,38.787,33.109,HARD,14.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,27.0,89.543,18.0,38.689,32.854,HARD,12.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,27.0,89.501,17.901,38.759,32.841,HARD,6.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,28.0,89.004,17.814,38.581,32.609,HARD,28.0,1.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,28.0,88.371,17.801,38.338,32.232,HARD,5.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,28.0,88.202,17.723,38.085,32.394,HARD,12.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,28.0,88.149,17.786,37.998,32.365,HARD,12.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,28.0,89.949,17.875,38.706,33.368,HARD,28.0,1.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,28.0,89.75,17.906,37.849,33.995,HARD,14.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,28.0,89.86,17.94,38.661,33.259,HARD,29.0,1.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,28.0,89.918,18.052,38.542,33.324,HARD,20.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,28.0,90.533,18.115,39.022,33.396,HARD,13.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,28.0,90.684,18.022,38.349,34.313,HARD,28.0,1.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,28.0,90.695,18.103,38.272,34.32,HARD,13.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,28.0,90.575,18.162,38.177,34.236,HARD,21.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,28.0,90.468,18.292,37.924,34.252,HARD,9.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,28.0,89.491,17.946,38.303,33.242,HARD,14.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,28.0,91.014,18.056,38.881,34.077,HARD,20.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,28.0,89.879,17.918,38.668,33.293,HARD,14.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,28.0,89.888,17.986,38.585,33.317,HARD,10.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,28.0,89.971,18.056,38.721,33.194,HARD,15.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,28.0,89.839,18.002,38.621,33.216,HARD,13.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,28.0,89.554,17.896,38.739,32.919,HARD,7.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,29.0,88.927,17.763,38.444,32.72,HARD,29.0,1.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,29.0,88.003,17.794,38.125,32.084,HARD,6.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,29.0,88.132,17.759,38.098,32.275,HARD,13.0,2.0,0,26.3,30.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,29.0,88.391,17.818,38.09,32.483,HARD,13.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,29.0,88.818,17.902,37.93,32.986,HARD,15.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,29.0,90.834,17.878,38.679,34.277,HARD,29.0,1.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,29.0,89.926,17.964,38.834,33.128,HARD,30.0,1.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,29.0,89.785,18.091,38.635,33.059,HARD,21.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,29.0,90.397,18.242,38.799,33.356,HARD,14.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,29.0,90.334,18.02,38.22,34.094,HARD,29.0,1.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,29.0,90.312,18.072,37.95,34.29,HARD,14.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,29.0,90.573,18.311,38.455,33.807,HARD,22.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,29.0,90.77,18.05,38.445,34.275,HARD,10.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,29.0,89.995,17.959,38.651,33.385,HARD,15.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,29.0,90.422,18.017,38.669,33.736,HARD,21.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,29.0,90.356,17.917,38.972,33.467,HARD,15.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,29.0,89.946,18.019,38.512,33.415,HARD,11.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,29.0,89.98,18.023,38.791,33.166,HARD,16.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,29.0,89.915,18.061,38.773,33.081,HARD,14.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,29.0,89.665,17.917,38.794,32.954,HARD,8.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,30.0,89.119,17.841,38.585,32.693,HARD,30.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,30.0,88.049,17.754,38.208,32.087,HARD,7.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,30.0,88.066,17.696,38.196,32.174,HARD,14.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,30.0,88.471,17.815,38.129,32.527,HARD,14.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,30.0,89.01,17.769,38.386,32.855,HARD,16.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,30.0,90.772,18.077,38.946,33.749,HARD,30.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,30.0,90.175,17.942,38.943,33.29,HARD,31.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,30.0,89.88,18.039,38.532,33.309,HARD,22.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,30.0,90.41,18.232,38.837,33.341,HARD,15.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,30.0,89.833,18.055,37.999,33.779,HARD,15.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,30.0,91.188,18.054,38.474,34.66,HARD,30.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,30.0,90.519,18.094,38.243,34.182,HARD,23.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,30.0,90.281,18.079,38.004,34.198,HARD,11.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,30.0,89.763,17.917,38.023,33.823,HARD,16.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,30.0,90.215,18.065,38.449,33.701,HARD,22.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,30.0,90.232,17.997,38.733,33.502,HARD,16.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,30.0,90.072,18.164,38.436,33.472,HARD,12.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,30.0,89.955,18.131,38.677,33.147,HARD,17.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,30.0,89.674,17.991,38.622,33.061,HARD,15.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,30.0,89.6,17.894,38.795,32.911,HARD,9.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,31.0,88.983,17.809,38.5,32.674,HARD,31.0,1.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,31.0,87.844,17.675,38.108,32.061,HARD,8.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,31.0,88.153,17.643,38.096,32.414,HARD,15.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,31.0,88.548,17.832,38.154,32.562,HARD,15.0,2.0,0,26.3,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,31.0,89.144,17.776,38.38,32.988,HARD,17.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,31.0,90.057,17.963,38.626,33.468,HARD,31.0,1.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,31.0,89.958,18.044,38.765,33.149,HARD,32.0,1.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,31.0,91.397,18.038,38.24,35.119,HARD,23.0,2.0,1,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,31.0,89.708,17.881,38.597,33.23,HARD,16.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,31.0,89.981,18.037,38.667,33.277,HARD,16.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,31.0,91.017,18.166,39.131,33.72,HARD,31.0,1.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,31.0,90.599,18.26,38.181,34.158,HARD,12.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,31.0,91.724,18.322,38.583,34.819,HARD,24.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,31.0,91.192,18.172,38.454,34.566,HARD,17.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,31.0,90.539,18.05,38.606,33.883,HARD,23.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,31.0,90.425,18.098,38.97,33.357,HARD,17.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,31.0,89.924,17.999,38.352,33.573,HARD,13.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,31.0,90.137,18.184,38.69,33.263,HARD,18.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,31.0,89.849,18.098,38.705,33.046,HARD,16.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,31.0,89.416,17.869,38.799,32.748,HARD,10.0,2.0,0,26.3,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,32.0,89.001,17.747,38.511,32.743,HARD,32.0,1.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,32.0,87.801,17.606,38.134,32.061,HARD,9.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,32.0,88.374,17.755,38.212,32.407,HARD,16.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,32.0,88.854,18.039,38.192,32.623,HARD,16.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,32.0,89.166,17.764,38.336,33.066,HARD,18.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,32.0,91.781,17.863,38.729,35.189,HARD,32.0,1.0,1,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,32.0,90.239,18.045,39.003,33.191,HARD,33.0,1.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,32.0,90.048,18.135,38.696,33.217,HARD,17.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,32.0,89.829,17.928,38.245,33.656,HARD,17.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,32.0,89.135,17.884,37.963,33.288,HARD,13.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,32.0,90.152,18.069,37.968,34.115,HARD,25.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,32.0,90.214,17.904,38.269,34.041,HARD,18.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,32.0,92.815,17.919,39.043,35.853,HARD,32.0,1.0,1,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,32.0,90.485,18.041,38.688,33.756,HARD,24.0,2.0,0,26.3,29.9,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,32.0,89.724,17.946,37.979,33.799,HARD,14.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,32.0,91.414,18.013,38.88,34.521,HARD,18.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,32.0,90.018,18.182,38.67,33.166,HARD,19.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,32.0,89.841,18.065,38.685,33.091,HARD,17.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,32.0,108.714,37.579,38.561,32.574,MEDIUM,1.0,3.0,1,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,32.0,89.158,17.72,38.678,32.76,HARD,11.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,33.0,89.002,17.662,38.664,32.676,HARD,33.0,1.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,33.0,87.909,17.659,38.1,32.15,HARD,10.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,33.0,88.081,17.716,38.041,32.324,HARD,17.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,33.0,88.664,17.899,38.124,32.641,HARD,17.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,33.0,89.698,17.837,38.77,33.091,HARD,19.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,33.0,89.972,17.974,38.914,33.084,HARD,34.0,1.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,33.0,89.982,17.932,38.751,33.299,HARD,18.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,33.0,89.954,17.97,38.299,33.685,HARD,18.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,33.0,89.818,18.188,38.529,33.101,HARD,14.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,33.0,89.43,17.919,38.345,33.166,HARD,19.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,33.0,90.907,18.024,38.853,34.03,HARD,26.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,33.0,89.965,18.062,38.457,33.446,HARD,15.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,33.0,91.616,17.983,38.644,34.989,HARD,25.0,2.0,1,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,33.0,90.562,18.071,38.925,33.566,HARD,19.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,33.0,90.339,18.289,38.831,33.219,HARD,20.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,33.0,90.053,18.068,38.887,33.098,HARD,18.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,33.0,89.051,17.724,38.482,32.845,MEDIUM,2.0,3.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,33.0,115.049,43.708,38.456,32.885,MEDIUM,1.0,2.0,1,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,33.0,89.444,17.821,38.658,32.965,HARD,12.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,33.0,110.724,39.422,38.675,32.627,MEDIUM,1.0,2.0,1,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,34.0,89.313,17.743,38.75,32.82,HARD,34.0,1.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,34.0,87.924,17.609,38.255,32.06,HARD,11.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,34.0,88.108,17.655,38.149,32.304,HARD,18.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,34.0,88.58,17.864,38.064,32.652,HARD,18.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,34.0,89.485,17.848,38.601,33.036,HARD,20.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,34.0,89.826,17.987,38.86,32.979,HARD,35.0,1.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,34.0,89.751,18.04,38.657,33.054,HARD,19.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,34.0,89.862,18.028,38.223,33.611,HARD,19.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,34.0,89.348,17.861,38.216,33.271,HARD,15.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,34.0,89.491,17.943,38.57,32.978,HARD,20.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,34.0,90.063,18.109,38.674,33.28,HARD,27.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,34.0,89.656,18.081,38.402,33.173,HARD,16.0,2.0,0,26.2,30.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,34.0,90.485,17.956,38.976,33.553,HARD,20.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,34.0,90.137,18.217,38.703,33.217,HARD,21.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,34.0,90.07,18.137,38.805,33.128,HARD,19.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,34.0,88.794,17.851,37.843,33.1,MEDIUM,3.0,3.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,34.0,88.572,17.743,38.098,32.731,MEDIUM,2.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,34.0,89.499,17.91,38.651,32.938,HARD,13.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,34.0,88.029,17.775,37.908,32.346,MEDIUM,2.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,34.0,108.877,37.621,38.292,32.964,MEDIUM,1.0,3.0,1,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,35.0,89.177,17.757,38.74,32.68,HARD,35.0,1.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,35.0,87.981,17.602,38.119,32.26,HARD,12.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,35.0,87.971,17.634,38.07,32.267,HARD,19.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,35.0,88.453,17.867,38.127,32.459,HARD,19.0,2.0,0,26.2,30.1,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,35.0,89.405,17.902,38.533,32.97,HARD,21.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,35.0,90.004,17.997,39.013,32.994,HARD,36.0,1.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,35.0,89.764,18.038,38.573,33.153,HARD,20.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,35.0,89.708,17.982,38.113,33.613,HARD,20.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,35.0,89.476,17.916,38.25,33.31,HARD,16.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,35.0,89.323,17.831,38.445,33.047,HARD,21.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,35.0,89.611,18.138,38.509,32.964,HARD,28.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,35.0,89.576,18.08,38.384,33.112,HARD,17.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,35.0,90.197,18.006,39.009,33.182,HARD,21.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,35.0,90.115,18.049,38.836,33.23,HARD,22.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,35.0,88.514,18.094,37.898,32.522,MEDIUM,4.0,3.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,35.0,90.63,18.122,38.897,33.611,HARD,20.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,35.0,88.955,17.799,38.178,32.978,MEDIUM,3.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,35.0,89.26,17.815,38.667,32.778,HARD,14.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,35.0,88.319,17.814,38.042,32.463,MEDIUM,3.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,35.0,88.588,17.715,37.954,32.919,MEDIUM,2.0,3.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,36.0,89.009,17.703,38.667,32.639,HARD,36.0,1.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,36.0,87.81,17.632,38.041,32.137,HARD,13.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,36.0,87.841,17.584,38.041,32.216,HARD,20.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,36.0,88.303,17.8,38.076,32.427,HARD,20.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,36.0,89.377,17.768,38.585,33.024,HARD,22.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,36.0,90.003,17.885,38.971,33.147,HARD,37.0,1.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,36.0,89.819,17.993,38.625,33.201,HARD,21.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,36.0,89.735,17.884,38.155,33.696,HARD,21.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,36.0,89.532,17.882,37.887,33.763,HARD,17.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,36.0,89.455,17.923000000000002,38.397,33.135,HARD,22.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,36.0,89.383,17.934,38.35,33.099,HARD,29.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,36.0,89.41,17.981,38.33,33.099,HARD,18.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,36.0,89.623,17.914,38.729,32.98,HARD,22.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,36.0,88.094,17.874,37.875,32.345,MEDIUM,5.0,3.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,36.0,90.592,17.962,39.009,33.621,HARD,23.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,36.0,90.233,18.062,38.839,33.332,HARD,21.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,36.0,89.428,17.751,38.103,33.574,MEDIUM,4.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,36.0,89.353,17.784,38.655,32.914,HARD,15.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,36.0,88.185,17.763,38.109,32.313,MEDIUM,4.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,36.0,88.439,17.722,37.873,32.844,MEDIUM,3.0,3.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,37.0,89.126,17.732,38.71,32.684,HARD,37.0,1.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,37.0,87.745,17.557,38.156,32.032,HARD,14.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,37.0,87.814,17.538,38.058,32.218,HARD,21.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,37.0,88.35,17.784,38.133,32.433,HARD,21.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,37.0,89.348,17.811,38.486,33.051,HARD,23.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,37.0,89.84,17.928,38.919,32.993,HARD,38.0,1.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,37.0,90.3,17.949,38.77,33.581,HARD,22.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,37.0,90.367,17.884,38.387,34.096,HARD,22.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,37.0,90.25,17.92,38.031,34.299,HARD,18.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,37.0,89.436,17.822,38.36,33.254,HARD,23.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,37.0,89.423,17.91,38.403,33.11,HARD,30.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,37.0,89.212,18.006,38.252,32.954,HARD,19.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,37.0,89.448,17.821,38.794,32.833,HARD,23.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,37.0,88.549,17.743,38.122,32.684,MEDIUM,6.0,3.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,37.0,89.908,17.984,38.698,33.226,HARD,24.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,37.0,89.165,17.791,38.112,33.262,MEDIUM,5.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,37.0,90.862,17.99,38.798,34.074,HARD,22.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,37.0,89.616,17.763,38.865,32.988,HARD,16.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,37.0,88.677,17.764,38.224,32.689,MEDIUM,5.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,37.0,88.411,17.651,37.941,32.819,MEDIUM,4.0,3.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,38.0,89.106,17.759,38.708,32.639,HARD,38.0,1.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,38.0,87.751,17.575,38.148,32.028,HARD,15.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,38.0,87.998,17.626,38.138,32.234,HARD,22.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,38.0,88.152,17.762,38.069,32.321,HARD,22.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,38.0,89.064,17.765,38.447,32.852,HARD,24.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,38.0,89.985,17.969,38.968,33.048,HARD,39.0,1.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,38.0,90.512,18.135,38.525,33.852,HARD,23.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,38.0,89.73,17.794,38.128,33.808,HARD,19.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,38.0,91.005,17.91,38.512,34.583,HARD,23.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,38.0,89.972,17.869,38.522,33.581,HARD,24.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,38.0,89.693,17.994,38.498,33.201,HARD,31.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,38.0,89.601,18.023,38.34,33.238,HARD,20.0,2.0,0,26.2,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,38.0,88.141,17.828,37.87,32.443,MEDIUM,7.0,3.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,38.0,90.562,17.871,38.934,33.757,HARD,24.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,38.0,90.193,18.085,38.816,33.292,HARD,25.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,38.0,89.165,17.736,38.315,33.114,MEDIUM,6.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,38.0,90.74,18.181,39.078,33.481,HARD,23.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,38.0,89.496,17.77,38.672,33.054,HARD,17.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,38.0,88.959,17.813,38.049,33.097,MEDIUM,6.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,38.0,88.569,17.746,37.905,32.918,MEDIUM,5.0,3.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,39.0,89.26,17.688,38.68,32.892,HARD,39.0,1.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,39.0,87.625,17.51,38.035,32.08,HARD,16.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,39.0,88.068,17.574,38.208,32.286,HARD,23.0,2.0,0,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,39.0,90.239,17.835,38.244,34.16,HARD,23.0,2.0,1,26.2,29.8,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,39.0,89.157,17.761,38.362,33.034,HARD,25.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,39.0,90.218,17.983,38.951,33.284,HARD,40.0,1.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,39.0,90.101,17.844,38.477,33.78,HARD,24.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,39.0,90.117,17.722,38.175,34.22,HARD,20.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,39.0,90.115,17.959,38.033,34.123,HARD,24.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,39.0,90.042,18.092,38.151,33.799,HARD,25.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,39.0,89.822,18.057,38.319,33.446,HARD,32.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,39.0,89.938,17.918,38.515,33.505,HARD,21.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,39.0,88.528,17.739,38.061,32.728,MEDIUM,8.0,3.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,39.0,90.066,18.115,38.759,33.192,HARD,25.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,39.0,88.686,17.758,37.856,33.072,MEDIUM,7.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,39.0,90.957,18.012,38.973,33.972,HARD,26.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,39.0,88.886,17.739,38.231,32.916,HARD,18.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,39.0,89.347,17.809,37.744,33.794,MEDIUM,7.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,39.0,92.596,18.123,39.274,35.199,HARD,24.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,39.0,88.87,17.796,37.902,33.172,MEDIUM,6.0,3.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,40.0,89.388,17.796,38.701,32.891,HARD,40.0,1.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,40.0,88.142,17.583,38.257,32.302,HARD,17.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,40.0,90.069,17.505,38.172,34.392,HARD,24.0,2.0,1,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,40.0,89.278,17.824,38.497,32.957,HARD,26.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,40.0,108.177,37.907,38.143,32.127,MEDIUM,4.0,3.0,1,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,40.0,90.278,17.898,39.016,33.364,HARD,41.0,1.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,40.0,89.984,17.746,38.538,33.7,HARD,25.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,40.0,90.109,17.736,38.059,34.314,HARD,21.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,40.0,90.021,17.891,38.041,34.089,HARD,25.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,40.0,90.056,17.918,38.106,34.032,HARD,26.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,40.0,89.96,18.064,38.548,33.348,HARD,33.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,40.0,89.976,18.092,38.493,33.391,HARD,22.0,2.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,40.0,89.048,17.833,37.859,33.356,MEDIUM,9.0,3.0,0,26.2,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,40.0,89.879,17.923000000000002,38.838,33.118,HARD,26.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,40.0,88.827,17.627,38.368,32.832,MEDIUM,8.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,40.0,91.907,18.088,38.701,35.118,HARD,27.0,2.0,1,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,40.0,89.814,17.85,38.945,33.019,HARD,19.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,40.0,89.261,17.744,37.991,33.526,MEDIUM,8.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,40.0,89.722,18.175,38.247,33.3,MEDIUM,7.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,40.0,93.034,18.293,39.12,35.621,HARD,25.0,2.0,1,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,41.0,87.973,17.673000000000002,38.052,32.248,HARD,18.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,41.0,92.723,17.759,38.944,36.02,HARD,41.0,1.0,1,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,41.0,108.266,37.84,38.281,32.145,HARD,1.0,3.0,1,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,41.0,89.3,17.742,38.52,33.038,HARD,27.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,41.0,88.125,17.678,37.693,32.754,MEDIUM,5.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,41.0,90.029,17.925,39.002,33.102,HARD,42.0,1.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,41.0,89.527,17.905,38.443,33.179,HARD,26.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,41.0,89.435,17.698,38.093,33.644,HARD,22.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,41.0,89.816,17.853,38.47,33.493,HARD,27.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,41.0,91.051,18.01,38.773,34.268,HARD,26.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,41.0,90.223,18.082,38.59,33.551,HARD,34.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,41.0,88.693,17.898,37.927,32.868,MEDIUM,10.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,41.0,90.502,18.076,38.724,33.702,HARD,23.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,41.0,89.381,17.736,38.777,32.868,HARD,27.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,41.0,88.857,17.67,38.21,32.977,MEDIUM,9.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,41.0,88.13,17.729,37.82,32.581,MEDIUM,9.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,41.0,90.032,17.739,38.831,33.462,HARD,20.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,41.0,88.777,17.783,38.126,32.868,MEDIUM,8.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,42.0,88.22,17.584,38.4,32.236,HARD,19.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,41.0,110.346,38.635,38.69,33.021,MEDIUM,4.0,3.0,1,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,41.0,110.241,39.369,38.412,32.46,MEDIUM,1.0,3.0,1,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,42.0,108.367,38.028,38.313,32.026,MEDIUM,1.0,2.0,1,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,42.0,88.191,17.929,38.129,32.133,HARD,2.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,42.0,87.269,17.856,37.661,31.752,MEDIUM,6.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,42.0,89.981,17.768,38.523,33.69,HARD,28.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,42.0,92.323,18.062,38.989,35.272,HARD,43.0,1.0,1,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,42.0,88.948,17.769,38.507,32.672,HARD,27.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,42.0,89.244,17.654,38.193,33.397,HARD,23.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,42.0,89.34,17.845,38.516,32.979,HARD,28.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,42.0,89.836,18.065,38.344,33.427,HARD,27.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,42.0,88.873,17.911,37.564,33.398,MEDIUM,11.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,42.0,89.679,18.079,38.41,33.19,HARD,24.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,42.0,92.159,18.152,38.187,35.82,HARD,35.0,2.0,1,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,42.0,89.515,17.884,38.648,32.983,HARD,28.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,42.0,89.016,17.693,38.417,32.906,MEDIUM,10.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,42.0,88.174,17.644,38.139,32.391,MEDIUM,10.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,42.0,89.609,17.899,38.856,32.854,HARD,21.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,42.0,88.845,17.656,37.909,33.28,MEDIUM,9.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,43.0,87.935,17.523,38.375,32.037,HARD,20.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,42.0,88.765,17.891,38.459,32.415,MEDIUM,5.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,42.0,87.71,17.697,37.973,32.04,MEDIUM,2.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,43.0,87.369,17.712,38.069,31.588,MEDIUM,2.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,43.0,87.829,17.796,37.988,32.045,HARD,3.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,43.0,86.919,17.505,37.677,31.737,MEDIUM,7.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,43.0,89.457,17.784,38.555,33.118,HARD,29.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,43.0,89.638,17.815,38.737,33.086,HARD,28.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,43.0,89.522,17.691,38.393,33.438,HARD,24.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,43.0,89.324,17.716,38.569,33.039,HARD,29.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,43.0,88.464,17.891,37.876,32.697,MEDIUM,12.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,43.0,90.299,17.981,38.818,33.5,HARD,28.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,43.0,89.485,17.908,38.367,33.21,HARD,25.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,43.0,89.625,17.88,38.804,32.941,HARD,29.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,43.0,89.443,17.648,38.026,33.769,MEDIUM,11.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,43.0,88.398,17.601,38.175,32.622,MEDIUM,11.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,43.0,88.391,17.613,38.119,32.659,MEDIUM,10.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,43.0,90.371,17.791,38.858,33.722,HARD,22.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,43.0,108.777,37.976,38.318,32.483,MEDIUM,2.0,2.0,1,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,43.0,107.296,37.537,37.978,31.781,MEDIUM,1.0,3.0,1,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,44.0,87.893,17.48,38.303,32.11,HARD,21.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,43.0,88.051,17.693,38.186,32.172,MEDIUM,6.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,43.0,88.075,17.832,38.13,32.113,MEDIUM,3.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,44.0,86.765,17.512,37.82,31.433,MEDIUM,3.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,44.0,86.834,17.462,37.775,31.597,HARD,4.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,44.0,86.847,17.54,37.649,31.658,MEDIUM,8.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,44.0,88.818,17.701,38.267,32.85,HARD,30.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,44.0,89.13,17.635,38.598,32.897,HARD,29.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,44.0,89.244,17.686,38.476,33.082,HARD,25.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,44.0,89.307,17.753,38.504,33.05,HARD,30.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,44.0,88.949,17.783,37.677,33.489,MEDIUM,13.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,44.0,89.654,17.953,38.591,33.11,HARD,29.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,44.0,89.431,18.01,38.257,33.164,HARD,26.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,44.0,88.557,17.693,37.915,32.949,MEDIUM,12.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,44.0,90.447,17.854,38.696,33.897,HARD,30.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,44.0,88.503,17.805,38.146,32.552,MEDIUM,12.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,44.0,88.507,17.658,37.963,32.886,MEDIUM,11.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,44.0,87.918,17.884,37.671,32.363,MEDIUM,3.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,44.0,90.123,17.859,38.836,33.428,HARD,23.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,44.0,87.172,17.666,37.646,31.86,MEDIUM,2.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,45.0,87.752,17.539,38.283,31.93,HARD,22.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,44.0,88.166,17.749,38.189,32.228,MEDIUM,7.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,44.0,88.449,17.788,38.332,32.329,MEDIUM,4.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,45.0,87.392,17.442,38.1,31.85,MEDIUM,4.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,45.0,86.953,17.438,37.739,31.776,HARD,5.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,45.0,86.725,17.525,37.608,31.592,MEDIUM,9.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,45.0,89.132,17.737,38.429,32.966,HARD,31.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,45.0,89.355,17.792,38.646,32.917,HARD,30.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,45.0,89.16,17.736,38.202,33.222,HARD,26.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,45.0,88.758,17.8,38.227,32.731,MEDIUM,14.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,45.0,90.196,17.772,38.767,33.657,HARD,31.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,45.0,89.363,17.85,38.477,33.036,HARD,30.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,45.0,89.336,17.958,38.279,33.099,HARD,27.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,45.0,88.892,17.665,38.353,32.874,MEDIUM,13.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,45.0,89.833,17.949,38.821,33.063,HARD,31.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,45.0,89.001,17.731,38.192,33.078,MEDIUM,13.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,45.0,88.367,17.67,37.88,32.817,MEDIUM,12.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,45.0,88.113,17.717,38.189,32.207,MEDIUM,4.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,45.0,89.762,17.874,38.786,33.102,HARD,24.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,45.0,87.574,17.703,37.951,31.92,MEDIUM,3.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,46.0,87.961,17.412,38.324,32.225,HARD,23.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,45.0,88.047,17.755,38.163,32.129,MEDIUM,8.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,45.0,88.464,17.759,38.236,32.469,MEDIUM,5.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,46.0,86.965,17.455,38.01,31.5,MEDIUM,5.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,46.0,87.074,17.319,38.11,31.645,HARD,6.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,46.0,86.856,17.478,37.611,31.767,MEDIUM,10.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,46.0,88.944,17.711,38.387,32.846,HARD,32.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,46.0,89.235,17.768,38.59,32.877,HARD,31.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,46.0,89.19,17.699,38.11,33.381,HARD,27.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,46.0,89.24,17.978,38.323,32.939,MEDIUM,15.0,3.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,46.0,89.469,17.814,38.246,33.409,HARD,32.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,46.0,89.386,17.974,38.429,32.983,HARD,31.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,46.0,89.242,17.855,38.278,33.109,HARD,28.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,46.0,88.843,17.597,38.354,32.892,MEDIUM,14.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,46.0,89.415,17.824,38.685,32.906,HARD,32.0,2.0,0,26.1,29.7,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,46.0,88.883,17.684,37.963,33.236,MEDIUM,14.0,2.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,46.0,88.517,17.74,37.988,32.789,MEDIUM,13.0,3.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,46.0,88.288,17.591,37.549,33.148,MEDIUM,5.0,2.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,46.0,87.05,17.632,37.535,31.883,MEDIUM,4.0,3.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,46.0,89.987,17.804,38.762,33.421,HARD,25.0,2.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,47.0,87.871,17.479,38.241,32.151,HARD,24.0,2.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,46.0,87.767,17.666,37.997,32.104,MEDIUM,9.0,3.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,46.0,88.307,17.88,38.255,32.172,MEDIUM,6.0,3.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,47.0,86.994,17.373,38.021,31.6,MEDIUM,6.0,2.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,47.0,86.867,17.292,37.797,31.778,HARD,7.0,3.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,47.0,86.974,17.467,37.695,31.812,MEDIUM,11.0,3.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,47.0,89.062,17.735,38.37,32.957,HARD,33.0,2.0,0,26.2,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,47.0,89.12,17.682,38.431,33.007,HARD,32.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,47.0,89.158,17.639,38.058,33.461,HARD,28.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,47.0,88.997,17.915,38.283,32.799,MEDIUM,16.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,47.0,88.981,17.805,38.044,33.132,HARD,33.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,47.0,89.114,17.894,38.341,32.879,HARD,32.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,47.0,89.373,17.898,38.332,33.143,HARD,29.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,47.0,88.703,17.571,38.242,32.89,MEDIUM,15.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,47.0,88.104,17.73,37.791,32.583,MEDIUM,15.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,47.0,89.891,17.742,38.55,33.599,HARD,33.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,47.0,87.743,17.643,37.761,32.339,MEDIUM,6.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,47.0,89.563,17.696,38.349,33.518,MEDIUM,14.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,47.0,87.541,17.669,37.95,31.922,MEDIUM,5.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,47.0,88.99,17.773,38.509,32.708,HARD,26.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,48.0,87.818,17.43,38.268,32.12,HARD,25.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,47.0,88.143,17.683,38.247,32.213,MEDIUM,10.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,47.0,88.103,17.669,38.206,32.228,MEDIUM,7.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,48.0,87.022,17.399,37.94,31.683,MEDIUM,7.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,48.0,86.818,17.341,37.75,31.727,HARD,8.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,48.0,86.845,17.499,37.658,31.688,MEDIUM,12.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,48.0,88.922,17.745,38.402,32.775,HARD,34.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,48.0,89.446,17.65,38.666,33.13,HARD,33.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,48.0,89.661,17.82,38.552,33.289,HARD,29.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,48.0,88.979,17.823,38.192,32.964,MEDIUM,17.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,48.0,89.306,17.793,38.54,32.973,HARD,34.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,48.0,89.371,18.022,38.598,32.751,HARD,33.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,48.0,89.272,17.902,38.303,33.067,HARD,30.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,48.0,88.96,17.678,38.34,32.942,MEDIUM,16.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,48.0,88.89,17.726,38.373,32.791,MEDIUM,16.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,48.0,89.57,17.901,38.669,33.0,HARD,34.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,48.0,88.427,17.582,37.954,32.891,MEDIUM,7.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,48.0,88.947,17.804,38.338,32.805,MEDIUM,15.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,48.0,87.831,17.642,38.079,32.11,MEDIUM,6.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,48.0,89.319,17.772,38.745,32.802,HARD,27.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,49.0,87.75,17.496,38.185,32.069,HARD,26.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,48.0,88.048,17.704,38.22,32.124,MEDIUM,11.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,48.0,88.022,17.686,38.184,32.152,MEDIUM,8.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,49.0,87.112,17.286,38.044,31.782,MEDIUM,8.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,49.0,86.907,17.365,37.843,31.699,HARD,9.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,49.0,86.936,17.506,37.622,31.808,MEDIUM,13.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,49.0,88.773,17.751,38.288,32.734,HARD,35.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,49.0,89.32,17.783,38.701,32.836,HARD,34.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,49.0,89.334,17.708,38.25,33.376,HARD,30.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,49.0,89.186,17.845,37.861,33.48,MEDIUM,18.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,49.0,89.241,17.699,38.422,33.12,HARD,35.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,49.0,89.459,17.924,38.584,32.951,HARD,34.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,49.0,89.168,17.838,38.249,33.081,HARD,31.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,49.0,89.15,17.634,38.407,33.109,MEDIUM,17.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,49.0,88.862,17.729,38.284,32.849,MEDIUM,17.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,49.0,87.949,17.762,37.895,32.292,MEDIUM,8.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,49.0,90.059,17.806,38.714,33.539,HARD,35.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,49.0,89.29,17.686,38.45,33.154,MEDIUM,16.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,49.0,89.021,17.651,37.853,33.517,MEDIUM,7.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,49.0,89.009,17.674,38.64,32.695,HARD,28.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,50.0,87.986,17.462,38.3,32.224,HARD,27.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,49.0,88.4,17.863,38.201,32.336,MEDIUM,12.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,49.0,88.383,17.7,38.35,32.333,MEDIUM,9.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,50.0,87.039,17.325,38.053,31.661,MEDIUM,9.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,50.0,86.968,17.402,37.836,31.73,HARD,10.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,50.0,87.213,17.554,37.827,31.832,MEDIUM,14.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,50.0,89.088,17.688,38.353,33.047,HARD,36.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,50.0,89.006,17.839,38.594,32.573,HARD,35.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,50.0,88.935,17.656,37.912,33.367,HARD,31.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,50.0,88.978,17.778,37.901,33.299,MEDIUM,19.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,50.0,88.976,17.727,38.33,32.919,HARD,36.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,50.0,89.145,17.898,38.506,32.741,HARD,35.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,50.0,89.162,17.796,38.386,32.98,HARD,32.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,50.0,89.278,17.75,38.498,33.03,MEDIUM,18.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,50.0,88.865,17.715,38.414,32.736,MEDIUM,18.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,50.0,88.065,17.591,37.735,32.739,MEDIUM,9.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,50.0,89.522,17.853,38.797,32.872,HARD,36.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,50.0,87.977,17.738,37.457,32.782,MEDIUM,8.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,50.0,89.526,17.779,38.328,33.419,MEDIUM,17.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,50.0,88.99,17.647,38.61,32.733,HARD,29.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,51.0,87.983,17.478,38.204,32.301,HARD,28.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,50.0,87.992,17.701,38.203,32.088,MEDIUM,13.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,50.0,88.494,17.761,38.362,32.371,MEDIUM,10.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,51.0,87.312,17.37,38.196,31.746,MEDIUM,10.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,51.0,87.277,17.342,37.983,31.951999999999998,HARD,11.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,51.0,87.376,17.477,37.829,32.07,MEDIUM,15.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,51.0,88.789,17.738,38.28,32.771,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,51.0,88.514,17.524,38.673,32.317,HARD,36.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,51.0,88.995,17.58,38.506,32.909,HARD,32.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,51.0,88.937,17.825,37.81,33.302,MEDIUM,20.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,51.0,89.246,17.78,38.481,32.985,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,51.0,89.253,17.987,38.507,32.759,HARD,36.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,51.0,89.052,17.757,38.024,33.271,HARD,33.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,51.0,89.286,17.74,38.408,33.138,MEDIUM,19.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,51.0,87.839,17.66,37.834,32.345,MEDIUM,10.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,51.0,89.698,17.701,38.514,33.483,MEDIUM,19.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,51.0,88.244,17.781,38.211,32.252,MEDIUM,9.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,51.0,90.082,17.814,38.65,33.618,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,51.0,89.42,17.785,38.194,33.441,MEDIUM,18.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,51.0,89.008,17.723,38.496,32.789,HARD,30.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,52.0,88.455,17.54,38.512,32.403,HARD,29.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,51.0,88.364,17.731,38.207,32.426,MEDIUM,14.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,51.0,88.531,17.775,38.385,32.371,MEDIUM,11.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,52.0,87.498,17.383,38.202,31.913,MEDIUM,11.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,52.0,86.895,17.272,37.843,31.78,HARD,12.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,52.0,87.55,17.588,37.877,32.085,MEDIUM,16.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,52.0,89.041,17.628,38.424,32.989,HARD,38.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,52.0,89.085,17.904,38.713,32.468,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,52.0,89.405,17.659,38.669,33.077,HARD,33.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,52.0,89.625,17.719,38.166,33.74,MEDIUM,21.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,52.0,89.07,17.717,38.425,32.928,HARD,38.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,52.0,89.229,17.812,38.604,32.813,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,52.0,89.09,17.754,38.072,33.264,HARD,34.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,52.0,87.626,17.706,37.622,32.298,MEDIUM,11.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,52.0,89.978,17.69,38.683,33.605,MEDIUM,20.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,52.0,88.866,17.678,38.394,32.794,MEDIUM,20.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,52.0,87.742,17.655,38.084,32.003,MEDIUM,10.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,52.0,89.375,17.891,38.615,32.869,HARD,38.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,52.0,89.393,17.797,38.017,33.579,MEDIUM,19.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,52.0,89.121,17.74,38.695,32.686,HARD,31.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,53.0,88.395,17.619,38.348,32.428,HARD,30.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,52.0,88.428,17.7,38.397,32.331,MEDIUM,15.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,52.0,88.579,17.75,38.302,32.527,MEDIUM,12.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,53.0,87.527,17.472,38.14,31.915,MEDIUM,12.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,53.0,87.08,17.322,37.901,31.857,HARD,13.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,53.0,89.005,17.694,38.156,33.155,MEDIUM,17.0,3.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,53.0,88.831,17.668,38.336,32.827,HARD,39.0,2.0,0,26.1,29.5,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,53.0,88.557,17.703,38.595,32.259,HARD,38.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,53.0,89.232,17.765,38.623,32.844,HARD,34.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,53.0,89.044,17.888,37.817,33.339,MEDIUM,22.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,53.0,89.197,17.773,38.502,32.922,HARD,39.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,53.0,89.609,17.808,38.674,33.127,HARD,38.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,53.0,89.496,17.728,37.868,33.9,HARD,35.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,53.0,88.658,17.512,37.923,33.223,MEDIUM,12.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,53.0,89.612,17.76,38.708,33.144,MEDIUM,21.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,53.0,89.395,17.721,38.802,32.872,MEDIUM,21.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,53.0,88.41,17.594,37.748,33.068,MEDIUM,11.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,53.0,88.627,17.758,38.061,32.808,MEDIUM,20.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,53.0,90.475,17.787,38.978,33.71,HARD,39.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,54.0,88.175,17.581,38.408,32.186,HARD,31.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,53.0,92.152,17.802,40.943,33.407,HARD,32.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,53.0,88.72,17.778,38.487,32.455,MEDIUM,16.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,53.0,88.723,17.776,38.507,32.44,MEDIUM,13.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,54.0,87.744,17.532,38.127,32.085,MEDIUM,13.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,54.0,87.144,17.351,37.825,31.968,HARD,14.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,54.0,88.291,17.804,38.068,32.419,MEDIUM,18.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,54.0,88.701,17.685,38.343,32.673,HARD,40.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,54.0,88.279,17.611,38.419,32.249,HARD,39.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,54.0,88.662,17.654,38.316,32.692,HARD,35.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,54.0,88.731,17.753,37.769,33.209,MEDIUM,23.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,54.0,89.276,17.729,38.612,32.935,HARD,40.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,54.0,89.723,17.854,38.701,33.168,HARD,39.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,54.0,88.951,17.737,37.859,33.355,MEDIUM,13.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,54.0,90.355,17.732,38.327,34.296,HARD,36.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,54.0,89.474,17.602,38.516,33.356,MEDIUM,22.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,54.0,88.379,17.712,37.98,32.687,MEDIUM,12.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,54.0,90.005,17.724,38.578,33.703,MEDIUM,22.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,54.0,88.752,17.581,38.382,32.789,MEDIUM,21.0,3.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,54.0,89.999,17.933,38.837,33.229,HARD,40.0,2.0,0,26.1,29.6,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,55.0,88.817,17.572,38.594,32.651,HARD,32.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,54.0,89.375,17.817,38.723,32.835,HARD,33.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,54.0,89.511,17.801,38.692,33.018,MEDIUM,17.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,54.0,88.68,17.875,38.411,32.394,MEDIUM,14.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,55.0,87.79,17.483,38.25,32.057,MEDIUM,14.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,55.0,87.975,17.362,38.145,32.468,HARD,15.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,55.0,88.195,17.913,37.964,32.318,MEDIUM,19.0,3.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,55.0,88.824,17.642,38.366,32.816,HARD,41.0,2.0,0,26.1,29.4,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,55.0,88.393,17.683,38.377,32.333,HARD,40.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,55.0,88.719,17.691,38.301,32.727,HARD,36.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,55.0,88.796,17.86,37.956,32.98,MEDIUM,24.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,55.0,89.112,17.714,38.504,32.894,HARD,41.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,55.0,88.046,17.781,37.977,32.288,MEDIUM,14.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,55.0,90.038,17.989,38.69,33.359,HARD,40.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,55.0,89.556,17.905,38.016,33.635,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,55.0,88.053,17.814,37.838,32.401,MEDIUM,13.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,55.0,90.24,17.746,38.827,33.667,MEDIUM,23.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,55.0,89.512,17.986,38.47,33.056,MEDIUM,23.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,55.0,88.785,17.596,38.29,32.899,MEDIUM,22.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,55.0,89.599,17.89,38.739,32.97,HARD,41.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,56.0,88.621,17.539,38.458,32.624,HARD,33.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,55.0,89.206,17.837,38.58,32.789,HARD,34.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,55.0,89.233,17.887,38.634,32.712,MEDIUM,18.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,55.0,88.57,17.709,38.457,32.404,MEDIUM,15.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,56.0,87.998,17.45,38.254,32.294,MEDIUM,15.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,56.0,88.226,17.42,38.271,32.535,HARD,16.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,56.0,87.464,17.581,37.718,32.165,MEDIUM,20.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,56.0,88.835,17.726,38.315,32.794,HARD,42.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,56.0,88.777,17.616,38.715,32.446,HARD,41.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,56.0,88.655,17.6,38.307,32.748,HARD,37.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,56.0,89.623,17.935,38.664,33.024,MEDIUM,25.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,56.0,89.175,17.748,38.508,32.919,HARD,42.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,56.0,87.952,17.457,38.333,32.162,MEDIUM,15.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,56.0,89.61,17.841,38.618,33.151,HARD,41.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,56.0,89.442,17.746,37.76,33.936,HARD,38.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,56.0,89.054,17.641,37.661,33.752,MEDIUM,14.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,56.0,90.003,17.791,38.73,33.482,MEDIUM,24.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,56.0,89.734,17.766,37.973,33.995,MEDIUM,24.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,56.0,89.061,17.671,38.495,32.895,MEDIUM,23.0,3.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,56.0,89.451,17.773,38.631,33.047,HARD,42.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,57.0,88.782,17.698,38.444,32.64,HARD,34.0,2.0,0,26.1,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,56.0,89.189,17.777,38.668,32.744,HARD,35.0,2.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,56.0,89.483,17.945,38.585,32.953,MEDIUM,19.0,3.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,56.0,88.94,17.865,38.471,32.604,MEDIUM,16.0,3.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,57.0,88.406,17.596,38.278,32.532,MEDIUM,16.0,2.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,57.0,88.435,17.585,38.335,32.515,HARD,17.0,3.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,57.0,88.165,17.641,38.021,32.503,MEDIUM,21.0,3.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,57.0,88.599,17.616,38.18,32.803,HARD,43.0,2.0,0,26.0,29.3,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,57.0,89.116,17.831,38.903,32.382,HARD,42.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,57.0,88.75,17.599,38.401,32.75,HARD,38.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,57.0,89.022,17.778,38.32,32.924,MEDIUM,26.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,57.0,88.98,17.691,38.534,32.755,HARD,43.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,57.0,88.109,17.511,37.976,32.622,MEDIUM,16.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,57.0,89.836,17.853,38.967,33.016,HARD,42.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,57.0,89.171,17.794,38.316,33.061,MEDIUM,15.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,57.0,90.727,17.817,38.714,34.196,HARD,39.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,57.0,89.695,17.711,38.546,33.438,MEDIUM,25.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,57.0,89.712,17.937,37.978,33.797,MEDIUM,25.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,57.0,89.103,17.77,38.165,33.168,MEDIUM,24.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,58.0,88.473,17.574,38.453,32.446,HARD,35.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,57.0,90.979,19.631,38.109,33.239,HARD,43.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,57.0,89.022,17.753,38.644,32.625,HARD,36.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,GAS,Alpine,57.0,88.908,17.795,38.321,32.792,MEDIUM,20.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,PIA,McLaren,58.0,88.074,17.645,38.275,32.154,MEDIUM,17.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,COL,Alpine,57.0,90.714,17.722,39.629,33.363,MEDIUM,17.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,NOR,McLaren,58.0,88.987,17.691,38.287,33.009,HARD,18.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,LEC,Ferrari,58.0,88.273,17.673000000000002,37.851,32.749,MEDIUM,22.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,RUS,Mercedes,58.0,88.853,17.603,38.229,33.021,HARD,44.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALO,Aston Martin,58.0,89.246,17.985,38.894,32.367,HARD,43.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,58.0,88.769,17.606,38.194,32.969,HARD,39.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HAM,Ferrari,58.0,89.511,17.934,38.534,33.043,MEDIUM,27.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,STR,Aston Martin,58.0,89.029,17.721,37.932,33.376,MEDIUM,17.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,58.0,91.291,17.616,38.576,35.099,HARD,44.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,58.0,88.107,17.766,38.078,32.263,MEDIUM,16.0,3.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,58.0,90.667,17.901,38.794,33.972,HARD,43.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,SAI,Williams,58.0,90.046,17.814,38.404,33.828,HARD,40.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,58.0,89.566,17.69,38.459,33.417,MEDIUM,26.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ANT,Mercedes,58.0,89.63,17.848,37.897,33.885,MEDIUM,26.0,2.0,0,26.0,29.0,False,0,0,0,0
+Abu Dhabi Grand Prix,ALB,Williams,58.0,89.256,17.751,38.227,33.278,MEDIUM,25.0,3.0,0,26.0,29.0,False,0,0,0,0
