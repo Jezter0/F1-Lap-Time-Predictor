@@ -10,9 +10,9 @@ import json
 from flask import Flask, render_template, request
 from f1_data_loader import load_race_data, load_2025_dropdown
 from helper import prepare_inputs_infer, get_driver_info
+from positional_encoding import PositionalEncoding
 
 # Load model + scaler
-model = tf.keras.models.load_model("static/model/F1_laptime_model.keras")
 x_scaler = joblib.load("static/model/X_scaler.pkl")
 y_scaler = joblib.load("static/model/y_scaler.pkl")
 with open("static/model/id_mappings.pkl", "rb") as f:
@@ -38,9 +38,15 @@ def predict():
 
     if model_choice == "lstm":
         model_path = "static/model/F1_laptime_model.keras"
-    else:
+    elif model_choice == "bilstm":
         model_path = "static/model/F1_laptime_model_bilstm.keras"
-    model = tf.keras.models.load_model(model_path, compile=False)
+    elif model_choice == "transformer":
+        model_path = "static/model/F1_laptime_model_transformer.keras"
+        model = tf.keras.models.load_model("static/model/F1_laptime_model_transformer.keras",
+                custom_objects={"PositionalEncoding": PositionalEncoding})
+    
+    if model_choice != "transformer":
+        model = tf.keras.models.load_model(model_path, compile=False)
 
 
     df_race = load_race_data(2025, race)
