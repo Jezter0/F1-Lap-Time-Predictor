@@ -40,6 +40,8 @@ def predict():
         model_path = "static/model/F1_laptime_model.keras"
     elif model_choice == "bilstm":
         model_path = "static/model/F1_laptime_model_bilstm.keras"
+    elif model_choice == "gru":
+        model_path = "static/model/F1_laptime_model_GRU.keras"
     elif model_choice == "transformer":
         model_path = "static/model/F1_laptime_model_transformer.keras"
         model = tf.keras.models.load_model("static/model/F1_laptime_model_transformer.keras",

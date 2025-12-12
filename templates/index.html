@@ -32,6 +32,7 @@
                 <select name="model_choice" class="form-select" required>
                     <option value="lstm">LSTM Model</option>
                     <option value="bilstm">Bi-LSTM Model</option>
+                    <option value="gru">GRU Model</option>
                     <option value="transformer">Transformer Model</option>
                 </select>
 
@@ -56,10 +57,10 @@
             <ul class="mb-1">
                 <li><strong>Prediction:</strong> Estimates lap time for each lap of a selected race & driver.</li>
                 <li><strong>Inputs Used:</strong> Sector times, tyre compounds, stint number, weather, driver pace history.</li>
-                <li><strong>Model Type:</strong> Deep Learning model (LSTM).</li>
-                <li><strong>Training Data:</strong> 2024 F1 race data from telemetry sources.</li>
-                <li><strong>Performance:</strong> <strong>MAE ≈ 0.4077</strong> on validation races.</li>
-                <li><strong>Limitations:</strong> Pit stops & yellow flags affect accuracy.</li>
+                <li><strong>Model Type:</strong> Deep Learning model</li>
+                <li><strong>Training Data:</strong> 2024 F1 race data from FastF1 API.</li>
+                <li><strong>Performance:</strong> <strong>MAE < 0.4</strong> on test races.</li>
+                <li><strong>Limitations:</strong> Pit stops, yellow & red flags removed affect accuracy.</li>
             </ul>
             <small class="text-muted">
                 This tool provides predictive insights and should not be treated as exact real-world timings.
